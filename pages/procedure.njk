@@ -1,0 +1,24 @@
+---
+layout: layout.njk
+title: Procedure
+description: Step-by-step nursing procedures with rationale.
+category: Procedure
+---
+
+<div class="category-header">
+    <div class="cat-icon">🩺</div>
+    <h1>Procedure</h1>
+    <p class="cat-desc">Step-by-step nursing procedures with scientific rationale, indications, contraindications, equipment list, and nursing considerations. Perfect for ANM, GNM, and BSc Nursing practical files and OSCE preparation.</p>
+</div>
+
+<div class="post-list">
+{% for post in collections.procedure reversed %}
+    <div class="post-card">
+        <div class="post-info">
+            <h3>{{ post.data.title }}</h3>
+            <p class="post-meta">{{ post.date | date: "%B %d, %Y" }} | {{ post.data.reference }}</p>
+        </div>
+        <a href="{{ post.url }}" class="btn">View Procedure</a>
+    </div>
+{% endfor %}
+</div>
