@@ -1,0 +1,42 @@
+---
+layout: layout.njk
+title: Nursing Care Plan
+description: Complete nursing care plans.
+category: Nursing Care Plan
+---
+
+<div class="category-header">
+    <div class="cat-icon">📋</div>
+
+    <h1>Nursing Care Plan</h1>
+
+    <p class="cat-desc">
+        Complete nursing care plans for ANM, GNM, and BSc Nursing students.
+    </p>
+</div>
+
+<div class="post-list">
+
+{% set posts = collections.nursingCarePlan | reverse %}
+
+{% for post in posts %}
+
+    <div class="post-card">
+
+        <div class="post-info">
+            <h3>{{ post.data.title }}</h3>
+
+            <p class="post-meta">
+                {{ post.date }}
+            </p>
+        </div>
+
+        <a href="{{ post.url }}" class="btn">
+            View Plan
+        </a>
+
+    </div>
+
+{% endfor %}
+
+</div>
