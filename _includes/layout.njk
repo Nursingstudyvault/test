@@ -81,7 +81,12 @@
     </div>
     
     <main class="page-container">
+    <div class="content-area">
         {{ content | safe }}
+    </div>
+    
+    {% include "related.njk" %}
+
         <div class="medical-disclaimer-bottom">
             <h4>⚕️ Medical Disclaimer</h4>
             <p>The content on <strong>Nursing Study Vault</strong> is for <strong>educational purposes only</strong>.</p>
