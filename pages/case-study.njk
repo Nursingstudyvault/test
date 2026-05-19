@@ -1,0 +1,24 @@
+---
+layout: layout.njk
+title: Case Study
+description: Detailed nursing case studies with patient history and analysis.
+category: Case Study
+---
+
+<div class="category-header">
+    <div class="cat-icon">📖</div>
+    <h1>Case Study</h1>
+    <p class="cat-desc">Detailed nursing case studies with patient history, physical examination, investigations, disease pathophysiology, nursing management, health education, and conclusion. Ready for ANM, GNM, and BSc Nursing practical files.</p>
+</div>
+
+<div class="post-list">
+{% for post in collections.caseStudy reversed %}
+    <div class="post-card">
+        <div class="post-info">
+            <h3>{{ post.data.title }}</h3>
+            <p class="post-meta">{{ post.date | date: "%B %d, %Y" }} | {{ post.data.reference }}</p>
+        </div>
+        <a href="{{ post.url }}" class="btn">View Case</a>
+    </div>
+{% endfor %}
+</div>
