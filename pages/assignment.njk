@@ -8,16 +8,28 @@ category: Assignment
 <div class="category-header">
     <div class="cat-icon">📝</div>
     <h1>Assignment</h1>
-    <p class="cat-desc">Ready-made nursing college assignment files with proper formatting, headings, subheadings, and references. Covering all major nursing subjects for ANM, GNM, and BSc Nursing students.</p>
+
+    <p class="cat-desc">
+        Ready-made nursing college assignment files with proper formatting,
+        headings, subheadings, and references. Covering all major nursing
+        subjects for ANM, GNM, and BSc Nursing students.
+    </p>
 </div>
 
 <div class="post-list">
-{% for post in collections.assignment reversed %}
+{% for post in collections.assignment | reverse %}
     <div class="post-card">
         <div class="post-info">
             <h3>{{ post.data.title }}</h3>
-            <p class="post-meta">{{ post.date | date: "%B %d, %Y" }} | {{ post.data.subject }}</p>
+
+            <p class="post-meta">
+                {{ post.date | date("MMMM dd, yyyy") }}
+                {% if post.data.subject %}
+                | {{ post.data.subject }}
+                {% endif %}
+            </p>
         </div>
+
         <a href="{{ post.url }}" class="btn">View Assignment</a>
     </div>
 {% endfor %}
