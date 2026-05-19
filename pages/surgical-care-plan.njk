@@ -1,0 +1,24 @@
+---
+layout: layout.njk
+title: Surgical Care Plan
+description: Pre-operative and post-operative surgical nursing care plans.
+category: Surgical Care Plan
+---
+
+<div class="category-header">
+    <div class="cat-icon">🏥</div>
+    <h1>Surgical Care Plan</h1>
+    <p class="cat-desc">Pre-operative and post-operative surgical nursing care plans with complete nursing interventions, rationale, and evaluation. Ready to use for ANM, GNM, and BSc Nursing practical files.</p>
+</div>
+
+<div class="post-list">
+{% for post in collections.surgicalCarePlan reversed %}
+    <div class="post-card">
+        <div class="post-info">
+            <h3>{{ post.data.title }}</h3>
+            <p class="post-meta">{{ post.date | date: "%B %d, %Y" }} | {{ post.data.reference }}</p>
+        </div>
+        <a href="{{ post.url }}" class="btn">View Plan</a>
+    </div>
+{% endfor %}
+</div>
