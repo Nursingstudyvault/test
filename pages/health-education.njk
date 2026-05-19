@@ -1,0 +1,24 @@
+---
+layout: layout.njk
+title: Health Education
+description: Patient and community health education materials.
+category: Health Education
+---
+
+<div class="category-header">
+    <div class="cat-icon">💊</div>
+    <h1>Health Education</h1>
+    <p class="cat-desc">Ready-made health education materials and patient teaching plans on disease prevention, lifestyle modification, maternal and child health, and community wellness. Designed for ANM, GNM, and BSc Nursing practical files.</p>
+</div>
+
+<div class="post-list">
+{% for post in collections.healthEducation reversed %}
+    <div class="post-card">
+        <div class="post-info">
+            <h3>{{ post.data.title }}</h3>
+            <p class="post-meta">{{ post.date | date: "%B %d, %Y" }} | {{ post.data.focus }}</p>
+        </div>
+        <a href="{{ post.url }}" class="btn">View Material</a>
+    </div>
+{% endfor %}
+</div>
