@@ -1,3 +1,4 @@
+cat > admin/config.yml <<'EOF'
 backend:
   name: git-gateway
   branch: main
@@ -9,29 +10,15 @@ site_url: https://nursingstudyvault.online
 display_url: https://nursingstudyvault.online
 
 collections:
-  - name: "posts"
-    label: "Posts"
-    folder: "posts"
-
   - name: "health-talk"
     label: "Health Talks"
     folder: "health-talk"
     create: true
     slug: "{{slug}}"
-
     fields:
-
-      - label: "Title"
-        name: "title"
-        widget: "string"
-
-      - label: "Date"
-        name: "date"
-        widget: "datetime"
-
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Date", name: "date", widget: "datetime" }
-
+      - { label: "Category", name: "category", widget: "hidden", default: "Health Talk" }
       - label: "Body"
         name: "body"
         widget: "code"
@@ -43,11 +30,10 @@ collections:
     folder: "health-education"
     create: true
     slug: "{{slug}}"
-
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Date", name: "date", widget: "datetime" }
-
+      - { label: "Category", name: "category", widget: "hidden", default: "Health Education" }
       - label: "Body"
         name: "body"
         widget: "code"
@@ -59,11 +45,10 @@ collections:
     folder: "nursing-notes"
     create: true
     slug: "{{slug}}"
-
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Date", name: "date", widget: "datetime" }
-
+      - { label: "Category", name: "category", widget: "hidden", default: "Nursing Notes" }
       - label: "Body"
         name: "body"
         widget: "code"
@@ -75,11 +60,10 @@ collections:
     folder: "procedure"
     create: true
     slug: "{{slug}}"
-
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Date", name: "date", widget: "datetime" }
-
+      - { label: "Category", name: "category", widget: "hidden", default: "Procedure" }
       - label: "Body"
         name: "body"
         widget: "code"
@@ -91,11 +75,10 @@ collections:
     folder: "assignment"
     create: true
     slug: "{{slug}}"
-
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Date", name: "date", widget: "datetime" }
-
+      - { label: "Category", name: "category", widget: "hidden", default: "Assignment" }
       - label: "Body"
         name: "body"
         widget: "code"
@@ -107,11 +90,10 @@ collections:
     folder: "case-study"
     create: true
     slug: "{{slug}}"
-
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Date", name: "date", widget: "datetime" }
-
+      - { label: "Category", name: "category", widget: "hidden", default: "Case Study" }
       - label: "Body"
         name: "body"
         widget: "code"
@@ -123,11 +105,10 @@ collections:
     folder: "family-folder"
     create: true
     slug: "{{slug}}"
-
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Date", name: "date", widget: "datetime" }
-
+      - { label: "Category", name: "category", widget: "hidden", default: "Family Folder" }
       - label: "Body"
         name: "body"
         widget: "code"
@@ -139,11 +120,10 @@ collections:
     folder: "surgical-care-plan"
     create: true
     slug: "{{slug}}"
-
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Date", name: "date", widget: "datetime" }
-
+      - { label: "Category", name: "category", widget: "hidden", default: "Surgical Care Plan" }
       - label: "Body"
         name: "body"
         widget: "code"
@@ -155,14 +135,13 @@ collections:
     folder: "nursing-care-plan"
     create: true
     slug: "{{slug}}"
-
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Date", name: "date", widget: "datetime" }
-
-
+      - { label: "Category", name: "category", widget: "hidden", default: "Nursing Care Plan" }
       - label: "Body"
         name: "body"
         widget: "code"
         default_language: "html"
         output_code_only: true
+EOF
