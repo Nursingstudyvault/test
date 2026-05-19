@@ -21,9 +21,7 @@ collections:
       - { label: "Category", name: "category", widget: "hidden", default: "Health Talk" }
       - label: "Body"
         name: "body"
-        widget: "code"
-        default_language: "html"
-        output_code_only: true
+        widget: "text"
 
   - name: "health-education"
     label: "Health Education"
@@ -36,9 +34,7 @@ collections:
       - { label: "Category", name: "category", widget: "hidden", default: "Health Education" }
       - label: "Body"
         name: "body"
-        widget: "code"
-        default_language: "html"
-        output_code_only: true
+        widget: "text"
 
   - name: "nursing-notes"
     label: "Nursing Notes"
@@ -51,9 +47,7 @@ collections:
       - { label: "Category", name: "category", widget: "hidden", default: "Nursing Notes" }
       - label: "Body"
         name: "body"
-        widget: "code"
-        default_language: "html"
-        output_code_only: true
+        widget: "text"
 
   - name: "procedure"
     label: "Procedure"
@@ -66,9 +60,7 @@ collections:
       - { label: "Category", name: "category", widget: "hidden", default: "Procedure" }
       - label: "Body"
         name: "body"
-        widget: "code"
-        default_language: "html"
-        output_code_only: true
+        widget: "text"
 
   - name: "assignment"
     label: "Assignment"
@@ -81,9 +73,7 @@ collections:
       - { label: "Category", name: "category", widget: "hidden", default: "Assignment" }
       - label: "Body"
         name: "body"
-        widget: "code"
-        default_language: "html"
-        output_code_only: true
+        widget: "text"
 
   - name: "case-study"
     label: "Case Study"
@@ -96,9 +86,7 @@ collections:
       - { label: "Category", name: "category", widget: "hidden", default: "Case Study" }
       - label: "Body"
         name: "body"
-        widget: "code"
-        default_language: "html"
-        output_code_only: true
+        widget: "text"
 
   - name: "family-folder"
     label: "Family Folder"
@@ -111,9 +99,7 @@ collections:
       - { label: "Category", name: "category", widget: "hidden", default: "Family Folder" }
       - label: "Body"
         name: "body"
-        widget: "code"
-        default_language: "html"
-        output_code_only: true
+        widget: "text"
 
   - name: "surgical-care-plan"
     label: "Surgical Care Plan"
@@ -126,9 +112,7 @@ collections:
       - { label: "Category", name: "category", widget: "hidden", default: "Surgical Care Plan" }
       - label: "Body"
         name: "body"
-        widget: "code"
-        default_language: "html"
-        output_code_only: true
+        widget: "text"
 
   - name: "nursing-care-plan"
     label: "Nursing Care Plan"
@@ -141,6 +125,4 @@ collections:
       - { label: "Category", name: "category", widget: "hidden", default: "Nursing Care Plan" }
       - label: "Body"
         name: "body"
-        widget: "code"
-        default_language: "html"
-        output_code_only: true
+        widget: "text"
