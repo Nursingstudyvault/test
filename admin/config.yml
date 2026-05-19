@@ -1,4 +1,4 @@
-cat > admin/config.yml <<'EOF'
+
 backend:
   name: git-gateway
   branch: main
@@ -143,5 +143,4 @@ collections:
         name: "body"
         widget: "code"
         default_language: "html"
-        output_code_only: true
-EOF
+        output_code_only: trueF
