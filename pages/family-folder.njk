@@ -1,24 +1,24 @@
 ---
 layout: layout.njk
-title: Nursing Notes
-description: Comprehensive nursing study notes and summaries.
-category: Nursing Notes
+title: Family Folder
+description: Community health nursing family folder formats.
+category: Family Folder
 ---
 
 <div class="category-header">
-    <div class="cat-icon">📒</div>
-    <h1>Nursing Notes</h1>
-    <p class="cat-desc">Comprehensive nursing study notes, chapter summaries, and quick revision guides covering all major nursing subjects. Perfect for exam preparation and last-minute revision for ANM, GNM, and BSc Nursing students.</p>
+    <div class="cat-icon">👨‍👩‍👧‍👦</div>
+    <h1>Family Folder</h1>
+    <p class="cat-desc">Community health nursing family folder formats, household survey templates, family assessment forms, genogram examples, and health census formats. Essential for ANM, GNM, and BSc Nursing community health practicals.</p>
 </div>
 
 <div class="post-list">
-{% for post in collections.nursingNotes reversed %}
+{% for post in collections.familyFolder reversed %}
     <div class="post-card">
         <div class="post-info">
             <h3>{{ post.data.title }}</h3>
-            <p class="post-meta">{{ post.date | date: "%B %d, %Y" }} | {{ post.data.subject }}</p>
+            <p class="post-meta">{{ post.date | date: "%B %d, %Y" }} | {{ post.data.category }}</p>
         </div>
-        <a href="{{ post.url }}" class="btn">View Notes</a>
+        <a href="{{ post.url }}" class="btn">View Format</a>
     </div>
 {% endfor %}
 </div>
