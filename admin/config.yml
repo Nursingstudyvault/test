@@ -15,7 +15,11 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Date", name: "date", widget: "datetime" }
       - { label: "Reference", name: "reference", widget: "string", required: false }
-      - { label: "Body", name: "body", widget: "markdown" }
+      - label: "Body"
+  name: "body"
+  widget: "code"
+  default_language: "html"
+  output_code_only: true
 
   - name: "surgical_care_plan"
     label: "Surgical Care Plans"
@@ -26,7 +30,11 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Date", name: "date", widget: "datetime" }
       - { label: "Reference", name: "reference", widget: "string", required: false }
-      - { label: "Body", name: "body", widget: "markdown" }
+      - label: "Body"
+  name: "body"
+  widget: "code"
+  default_language: "html"
+  output_code_only: true
 
   - name: "case_study"
     label: "Case Studies"
@@ -37,7 +45,11 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Date", name: "date", widget: "datetime" }
       - { label: "Reference", name: "reference", widget: "string", required: false }
-      - { label: "Body", name: "body", widget: "markdown" }
+      - label: "Body"
+  name: "body"
+  widget: "code"
+  default_language: "html"
+  output_code_only: true
 
   - name: "health_talk"
     label: "Health Talks"
@@ -48,7 +60,11 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Date", name: "date", widget: "datetime" }
       - { label: "Target Audience", name: "target", widget: "string", required: false }
-      - { label: "Body", name: "body", widget: "markdown" }
+      - label: "Body"
+  name: "body"
+  widget: "code"
+  default_language: "html"
+  output_code_only: true
 
   - name: "health_education"
     label: "Health Education"
@@ -59,7 +75,11 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Date", name: "date", widget: "datetime" }
       - { label: "Focus Area", name: "focus", widget: "string", required: false }
-      - { label: "Body", name: "body", widget: "markdown" }
+      - label: "Body"
+  name: "body"
+  widget: "code"
+  default_language: "html"
+  output_code_only: true
 
   - name: "procedure"
     label: "Procedures"
@@ -70,7 +90,11 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Date", name: "date", widget: "datetime" }
       - { label: "Reference", name: "reference", widget: "string", required: false }
-      - { label: "Body", name: "body", widget: "markdown" }
+      - label: "Body"
+  name: "body"
+  widget: "code"
+  default_language: "html"
+  output_code_only: true
 
   - name: "assignment"
     label: "Assignments"
@@ -81,7 +105,11 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Date", name: "date", widget: "datetime" }
       - { label: "Subject", name: "subject", widget: "string", required: false }
-      - { label: "Body", name: "body", widget: "markdown" }
+      - label: "Body"
+  name: "body"
+  widget: "code"
+  default_language: "html"
+  output_code_only: true
 
   - name: "nursing_notes"
     label: "Nursing Notes"
@@ -92,7 +120,11 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Date", name: "date", widget: "datetime" }
       - { label: "Subject", name: "subject", widget: "string", required: false }
-      - { label: "Body", name: "body", widget: "markdown" }
+      - label: "Body"
+  name: "body"
+  widget: "code"
+  default_language: "html"
+  output_code_only: true
 
   - name: "family_folder"
     label: "Family Folders"
@@ -103,4 +135,8 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Date", name: "date", widget: "datetime" }
       - { label: "Category", name: "category", widget: "string", required: false }
-      - { label: "Body", name: "body", widget: "markdown" }
+      - label: "Body"
+  name: "body"
+  widget: "code"
+  default_language: "html"
+  output_code_only: true
