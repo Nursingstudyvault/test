@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="light">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nursing Study Vault - Ready-made Nursing Practical Files</title>
+    <meta name="description" content="Nursing Study Vault provides ready-made nursing care plans, surgical care plans, case studies, health talks, procedures, assignments for ANM, GNM, BSc Nursing students. Educational purpose only.">
+    <link rel="canonical" href="https://nursingstudyvault.online/">
+    <meta name="robots" content="index, follow">
+    
+    <style>
+        :root { --bg: #f0f4f8; --surface: #ffffff; --text: #333; --text-secondary: #666; --primary: #1a73e8; --accent: #ffd700; --border: #e0e0e0; --shadow: rgba(0,0,0,0.08); --sidebar-bg: #1a237e; --footer-bg: #1a237e; --disclaimer-bg: #fff3cd; --disclaimer-border: #ffc107; --disclaimer-text: #856404; }
+        [data-theme="dark"] { --bg: #121212; --surface: #1e1e1e; --text: #e0e0e0; --text-secondary: #b0b0b0; --primary: #4da3ff; --sidebar-bg: #0d1b3e; --footer-bg: #0d1b3e; --disclaimer-bg: #332b00; --disclaimer-text: #ffd700; }
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: 'Segoe UI', system-ui, sans-serif; background: var(--bg); color: var(--text); line-height: 1.7; }
+        .medical-disclaimer-top { background: var(--disclaimer-bg); color: var(--disclaimer-text); text-align: center; padding: 10px; font-size: 0.85rem; border-bottom: 2px solid var(--disclaimer-border); }
+        .medical-disclaimer-top a { color: var(--primary); font-weight: 600; }
+        .header { background: var(--primary); color: white; padding: 15px 20px; display: flex; justify-content: space-between; align-items: center; position: sticky; top: 0; z-index: 1000; }
+        .logo { font-size: 1.5rem; font-weight: bold; } .logo span { color: var(--accent); }
+        .theme-toggle { background: rgba(255,255,255,0.15); border: none; color: white; width: 40px; height: 40px; border-radius: 50%; cursor: pointer; font-size: 1.2rem; }
+        .hamburger { display: flex; flex-direction: column; cursor: pointer; gap: 5px; }
+        .hamburger span { width: 28px; height: 3px; background: white; border-radius: 3px; }
+        .sidebar { position: fixed; top: 0; right: -300px; width: 280px; height: 100vh; background: var(--sidebar-bg); color: white; padding: 80px 25px; transition: right 0.3s; z-index: 999; overflow-y: auto; }
+        .sidebar.active { right: 0; }
+        .sidebar h3 { color: var(--accent); margin: 18px 0 10px; text-transform: uppercase; font-size: 1rem; }
+        .sidebar a { display: block; color: white; text-decoration: none; padding: 9px; }
+        .sidebar a:hover { color: var(--accent); }
+        .overlay { position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.5); z-index: 998; display: none; }
+        .overlay.active { display: block; }
+        .tagline-bar { background: #1557b0; color: white; text-align: center; padding: 10px; font-size: 0.9rem; }
+        .container { max-width: 1150px; margin: 30px auto; padding: 0 20px; }
+        .welcome { text-align: center; margin-bottom: 35px; }
+        .welcome h2 { color: var(--primary); font-size: 1.8rem; }
+        .category-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 18px; }
+        .category-card { background: var(--surface); border-radius: 14px; padding: 22px; text-align: center; box-shadow: 0 4px 15px var(--shadow); border-left: 5px solid var(--primary); text-decoration: none; color: var(--text); display: block; transition: all 0.3s ease; }
+        .category-card:hover { transform: translateY(-6px); border-left-color: var(--accent); }
+        .category-icon { font-size: 2.4rem; margin-bottom: 8px; }
+        .category-card h3 { color: var(--primary); font-size: 1.2rem; margin-bottom: 6px; }
+        .category-card p { font-size: 0.85rem; color: var(--text-secondary); }
+        .medical-disclaimer-bottom { background: var(--disclaimer-bg); color: var(--disclaimer-text); border-radius: 10px; padding: 20px; margin: 30px auto; text-align: center; max-width: 900px; }
+        .footer { background: var(--footer-bg); color: white; text-align: center; padding: 25px; margin-top: 40px; }
+        .footer a { color: var(--accent); text-decoration: none; }
+        .footer-links { margin: 12px 0; display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; }
+        @media (max-width: 768px) { .category-grid { grid-template-columns: 1fr; } }
+    </style>
+</head>
+<body>
+    <div class="overlay" id="overlay"></div>
+    <div class="medical-disclaimer-top">⚕️ <strong>Medical Disclaimer:</strong> All content is for <strong>educational purposes only</strong>. <a href="/pages/disclaimer.html" style="color:var(--primary);">Read full disclaimer</a></div>
+    <aside class="sidebar" id="sidebar">
+        <h3>Info Pages</h3>
+        <a href="/pages/about.html">About Us</a>
+        <a href="/pages/contact.html">Contact Us</a>
+        <a href="/pages/privacy-policy.html">Privacy Policy</a>
+        <a href="/pages/terms.html">Terms</a>
+        <a href="/pages/disclaimer.html">Disclaimer</a>
+        <h3>Categories</h3>
+        <a href="/pages/nursing-care-plan/">Nursing Care Plan</a>
+        <a href="/pages/surgical-care-plan/">Surgical Care Plan</a>
+        <a href="/pages/case-study/">Case Study</a>
+        <a href="/pages/health-talk/">Health Talk</a>
+        <a href="/pages/health-education/">Health Education</a>
+        <a href="/pages/procedure/">Procedure</a>
+        <a href="/pages/assignment/">Assignment</a>
+        <a href="/pages/nursing-notes/">Nursing Notes</a>
+        <a href="/pages/family-folder/">Family Folder</a>
+    </aside>
+    <header class="header">
+        <div class="logo">Nursing <span>Study</span> Vault</div>
+        <div style="display:flex;align-items:center;gap:12px;">
+            <button class="theme-toggle" id="themeToggle">🌓</button>
+            <div class="hamburger" id="hamburger"><span></span><span></span><span></span></div>
+        </div>
+    </header>
+    <div class="tagline-bar">Ready-made Nursing Practical Files for ANM | GNM | BSc Nursing Students</div>
+    <main class="container">
+        <div class="welcome"><h2>Your Complete Nursing Practical File Hub</h2><p style="color:var(--text-secondary);">Ready-to-use nursing care plans, surgical care plans, case studies, health talks, procedures, assignments & more — all verified for nursing college practicals.</p></div>
+        <div class="category-grid">
+            <a href="/pages/nursing-care-plan/" class="category-card"><div class="category-icon">📋</div><h3>Nursing Care Plan</h3><p>Complete nursing care plans with assessment, diagnosis, planning & evaluation</p></a>
+            <a href="/pages/surgical-care-plan/" class="category-card"><div class="category-icon">🏥</div><h3>Surgical Care Plan</h3><p>Pre-operative and post-operative surgical nursing care plans</p></a>
+            <a href="/pages/case-study/" class="category-card"><div class="category-icon">📖</div><h3>Case Study</h3><p>Detailed nursing case studies with patient history & analysis</p></a>
+            <a href="/pages/health-talk/" class="category-card"><div class="category-icon">🗣️</div><h3>Health Talk</h3><p>Ready-made health talk scripts and presentation outlines</p></a>
+            <a href="/pages/health-education/" class="category-card"><div class="category-icon">💊</div><h3>Health Education</h3><p>Patient and community health education materials</p></a>
+            <a href="/pages/procedure/" class="category-card"><div class="category-icon">🩺</div><h3>Procedure</h3><p>Step-by-step nursing procedures with rationale</p></a>
+            <a href="/pages/assignment/" class="category-card"><div class="category-icon">📝</div><h3>Assignment</h3><p>Nursing college assignment files ready to submit</p></a>
+            <a href="/pages/nursing-notes/" class="category-card"><div class="category-icon">📒</div><h3>Nursing Notes</h3><p>Comprehensive nursing study notes & summaries</p></a>
+            <a href="/pages/family-folder/" class="category-card"><div class="category-icon">👨‍👩‍👧‍👦</div><h3>Family Folder</h3><p>Community health nursing family folder formats</p></a>
+        </div>
+        <div class="medical-disclaimer-bottom"><h4>⚕️ Important Medical Disclaimer</h4><p>The content on <strong>Nursing Study Vault</strong> is intended for <strong>educational and informational purposes only</strong>. It is designed to assist nursing students in their academic practical file preparation. This content should not be used as a substitute for professional medical advice, diagnosis, or treatment.</p></div>
+    </main>
+    <footer class="footer">
+        <p>&copy; 2026 <a href="/">Nursing Study Vault</a>. All rights reserved.</p>
+        <div class="footer-links"><a href="/pages/about.html">About</a> | <a href="/pages/contact.html">Contact</a> | <a href="/pages/privacy-policy.html">Privacy Policy</a> | <a href="/pages/terms.html">Terms</a> | <a href="/pages/disclaimer.html">Disclaimer</a></div>
+        <p style="margin-top:8px;font-size:0.85rem;">Designed for Nursing Students | <strong>Educational Purpose Only</strong></p>
+    </footer>
+    <script>
+        var h=document.documentElement;h.setAttribute('data-theme',localStorage.getItem('theme')||'light');
+        document.getElementById('themeToggle').addEventListener('click',function(){var t=h.getAttribute('data-theme')==='light'?'dark':'light';h.setAttribute('data-theme',t);localStorage.setItem('theme',t);});
+        var mb=document.getElementById('hamburger'),sb=document.getElementById('sidebar'),ov=document.getElementById('overlay');
+        mb.addEventListener('click',function(){mb.classList.toggle('active');sb.classList.toggle('active');ov.classList.toggle('active');});
+        ov.addEventListener('click',function(){mb.classList.remove('active');sb.classList.remove('active');ov.classList.remove('active');});
+    </script>
+</body>
+</html>
