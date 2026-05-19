@@ -1,0 +1,12 @@
+{
+  "name": "nursing-study-vault",
+  "version": "1.0.0",
+  "description": "Nursing Study Vault",
+  "scripts": {
+    "build": "npx @11ty/eleventy",
+    "start": "npx @11ty/eleventy --serve"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^2.0.0"
+  }
+}
