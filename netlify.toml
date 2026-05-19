@@ -1,0 +1,13 @@
+[build]
+  command = "npx @11ty/eleventy"
+  publish = "_site"
+
+[[headers]]
+  for = "/admin/*"
+  [headers.values]
+    Cache-Control = "no-cache"
+
+[[redirects]]
+  from = "/admin"
+  to = "/admin/index.html"
+  status = 200
