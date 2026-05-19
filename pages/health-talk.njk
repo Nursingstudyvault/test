@@ -3,24 +3,106 @@ layout: layout.njk
 title: Health Talks
 ---
 
-<h1>Health Talks</h1>
+<section class="hero-card">
+  <div class="hero-icon">🗣️</div>
 
-<div class="cards">
+  <h1>Health Talks</h1>
+
+  <p>
+    Ready-made health talk topics for ANM, GNM, and BSc Nursing practical files
+    with objectives, content, AV aids, evaluation questions, and references.
+  </p>
+</section>
+
+<div class="notes-grid">
 
 {% for post in collections.all %}
 
   {% if "health-talk/" in post.inputPath %}
 
-    <div class="card">
+    <article class="note-card">
+
+      <div class="note-icon">📘</div>
+
       <h2>{{ post.data.title }}</h2>
 
-      <a href="{{ post.url }}">
-        Read More
+      <a class="read-btn" href="{{ post.url }}">
+        Read Full Health Talk →
       </a>
-    </div>
+
+    </article>
 
   {% endif %}
 
 {% endfor %}
 
 </div>
+
+<style>
+.hero-card{
+  background:#fff;
+  border-top:5px solid #1e73e8;
+  border-radius:22px;
+  padding:40px 25px;
+  text-align:center;
+  margin:20px 0 35px;
+  box-shadow:0 5px 18px rgba(0,0,0,.08);
+}
+
+.hero-icon{
+  font-size:42px;
+  margin-bottom:10px;
+}
+
+.hero-card h1{
+  color:#1e73e8;
+  font-size:42px;
+  margin-bottom:15px;
+}
+
+.hero-card p{
+  font-size:18px;
+  line-height:1.8;
+  color:#444;
+}
+
+.notes-grid{
+  display:grid;
+  grid-template-columns:repeat(auto-fit,minmax(280px,1fr));
+  gap:22px;
+  margin:25px 0;
+}
+
+.note-card{
+  background:#fff;
+  border-radius:18px;
+  padding:25px;
+  box-shadow:0 4px 15px rgba(0,0,0,.08);
+  border-left:5px solid #1e73e8;
+}
+
+.note-icon{
+  font-size:34px;
+  margin-bottom:10px;
+}
+
+.note-card h2{
+  font-size:24px;
+  margin-bottom:18px;
+  color:#222;
+}
+
+.read-btn{
+  display:inline-block;
+  background:#1e73e8;
+  color:#fff !important;
+  padding:12px 18px;
+  border-radius:10px;
+  text-decoration:none;
+  font-weight:700;
+}
+
+.read-btn:hover{
+  opacity:.9;
+}
+</style>
