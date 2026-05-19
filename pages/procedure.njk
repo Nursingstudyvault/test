@@ -12,11 +12,12 @@ category: Procedure
 </div>
 
 <div class="post-list">
-{% for post in collections.procedure reversed %}
+{% set posts = collections.procedure | reverse %}
+{% for post in posts %}
     <div class="post-card">
         <div class="post-info">
             <h3>{{ post.data.title }}</h3>
-            <p class="post-meta">{{ post.date | date: "%B %d, %Y" }} | {{ post.data.reference }}</p>
+            <p class="post-meta">{{ post.date }} | {{ post.data.reference }}</p>
         </div>
         <a href="{{ post.url }}" class="btn">View Procedure</a>
     </div>

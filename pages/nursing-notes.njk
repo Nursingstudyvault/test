@@ -12,11 +12,12 @@ category: Nursing Notes
 </div>
 
 <div class="post-list">
-{% for post in collections.nursingNotes reversed %}
+{% set posts = collections.nursingNotes | reverse %}
+{% for post in posts %}
     <div class="post-card">
         <div class="post-info">
             <h3>{{ post.data.title }}</h3>
-            <p class="post-meta">{{ post.date | date: "%B %d, %Y" }} | {{ post.data.subject }}</p>
+            <p class="post-meta">{{ post.date }} | {{ post.data.subject }}</p>
         </div>
         <a href="{{ post.url }}" class="btn">View Notes</a>
     </div>
