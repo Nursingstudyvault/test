@@ -9,7 +9,7 @@ title: Health Talks
 
 {% for post in collections.all %}
 
-  {% if post.inputPath contains "health-talk/" %}
+  {% if "health-talk/" in post.inputPath %}
 
     <div class="card">
       <h2>{{ post.data.title }}</h2>
