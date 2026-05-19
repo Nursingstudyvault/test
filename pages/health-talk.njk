@@ -1,0 +1,24 @@
+---
+layout: layout.njk
+title: Health Talk
+description: Ready-made health talk scripts and presentation outlines.
+category: Health Talk
+---
+
+<div class="category-header">
+    <div class="cat-icon">🗣️</div>
+    <h1>Health Talk</h1>
+    <p class="cat-desc">Ready-made health talk scripts and community presentation outlines on various health topics. Includes objectives, content, audio-visual aids, and evaluation. Perfect for ANM, GNM, and BSc Nursing community health practicals.</p>
+</div>
+
+<div class="post-list">
+{% for post in collections.healthTalk reversed %}
+    <div class="post-card">
+        <div class="post-info">
+            <h3>{{ post.data.title }}</h3>
+            <p class="post-meta">{{ post.date | date: "%B %d, %Y" }} | {{ post.data.target }}</p>
+        </div>
+        <a href="{{ post.url }}" class="btn">View Script</a>
+    </div>
+{% endfor %}
+</div>
