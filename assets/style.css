@@ -14,3 +14,31 @@ th {
   background-color: #f2f2f2;
   font-weight: bold;
 }
+
+.table-wrapper{
+overflow-x:auto;
+margin:20px 0;
+}
+
+table{
+width:100%;
+border-collapse:collapse;
+min-width:700px;
+background:#fff;
+}
+
+th{
+background:#1a73e8;
+color:#fff;
+padding:12px;
+border:1px solid #ddd;
+}
+
+td{
+padding:10px;
+border:1px solid #ddd;
+}
+
+tr:nth-child(even){
+background:#f5f9ff;
+}

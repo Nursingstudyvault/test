@@ -2,6 +2,28 @@
 <html lang="en" data-theme="light">
 <head>
     <meta charset="UTF-8">
+<title>
+{% if title %}
+{{ title }} | Nursing Study Vault
+{% else %}
+Nursing Study Vault
+{% endif %}
+</title>
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<meta name="description" content="{% if description %}{{ description }}{% else %}Nursing practical files, health talks, nursing notes, procedures, case studies and care plans for ANM GNM and BSc Nursing students.{% endif %}">
+
+<link rel="canonical" href="https://nursingstudyvault.online{{ page.url }}">
+
+<meta name="robots" content="index, follow">
+
+<meta property="og:title" content="{{ title }}">
+<meta property="og:description" content="{% if description %}{{ description }}{% else %}Nursing Study Vault{% endif %}">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://nursingstudyvault.online{{ page.url }}">
+<meta property="og:site_name" content="Nursing Study Vault">
+
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ title }} - Nursing Study Vault</title>
 <link rel="stylesheet" href="/assets/style.css">
