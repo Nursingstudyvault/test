@@ -7,7 +7,7 @@ description: Complete NANDA format nursing case study on Coronary Angioplasty
 keywords: coronary angioplasty case study, PTCA case study, stenting case study,
   NANDA nursing care plan, cardiac nursing case study
 subject: Medical-Surgical Nursing / Cardiology Nursing
-image: /assets/uploads/1000077995.webp
+image: ""
 permalink: /case-study/coronary-angioplasty-case-study.html
 category: Case Study
 ---
