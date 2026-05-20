@@ -1,4 +1,4 @@
-cd ~/test
+
 
 cat > admin/config.yml <<'EOF'
 backend:
