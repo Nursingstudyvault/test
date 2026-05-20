@@ -3,53 +3,69 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
     <link rel="icon" type="image/png" href="/assets/favicon.png">
-<link rel="apple-touch-icon" href="/assets/favicon.png">
+    <link rel="apple-touch-icon" href="/assets/favicon.png">
+
     <title>{% if title %}{{ title }} | Nursing Study Vault{% else %}Nursing Study Vault - Ready-made Nursing Practical Files{% endif %}</title>
-    
-    <meta name="description" content="{% if description %}{{ description }}{% else %}Nursing Study Vault provides ready-made nursing care plans, surgical care plans, case studies, health talks, procedures, assignments for ANM, GNM, BSc Nursing students.{% endif %}">
-    
+    <meta name="description" content="{% if description %}{{ description }}{% else %}Ready-made nursing practical files, care plans, case studies, health talks, procedures and assignments for ANM, GNM and BSc Nursing students.{% endif %}">
+
     <link rel="canonical" href="https://nursingstudyvault.online{{ page.url | url }}">
     <link rel="stylesheet" href="/assets/style.css">
-    
+
     <meta name="robots" content="index, follow">
-<meta name="google-site-verification" content="z7u5PuixJWx9ckg5CxUl9naUnZsTce9yob5bG6lOv9s" />
     <meta name="googlebot" content="index, follow, max-snippet:-1, max-image-preview:large">
+    <meta name="google-site-verification" content="z7u5PuixJWx9ckg5CxUl9naUnZsTce9yob5bG6lOv9s">
+
     <meta property="og:title" content="{% if title %}{{ title }}{% else %}Nursing Study Vault{% endif %}">
-    <meta property="og:description" content="{% if description %}{{ description }}{% else %}Ready-made nursing practical files for ANM, GNM, BSc Nursing students.{% endif %}">
+    <meta property="og:description" content="{% if description %}{{ description }}{% else %}Ready-made nursing practical files for nursing students.{% endif %}">
     <meta property="og:url" content="https://nursingstudyvault.online{{ page.url | url }}">
     <meta property="og:type" content="{% if page.url == '/' %}website{% else %}article{% endif %}">
     <meta property="og:site_name" content="Nursing Study Vault">
-    
+    <meta property="og:image" content="https://nursingstudyvault.online/assets/favicon.png">
+
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="{% if title %}{{ title }}{% else %}Nursing Study Vault{% endif %}">
     <meta name="twitter:description" content="{% if description %}{{ description }}{% else %}Ready-made nursing practical files for nursing students.{% endif %}">
-    
+    <meta name="twitter:image" content="https://nursingstudyvault.online/assets/favicon.png">
+
     <script type="application/ld+json">
     {
-        "@context": "https://schema.org",
-        "@type": "{% if page.url == '/' %}WebSite{% else %}Article{% endif %}",
-        "name": "{% if title %}{{ title }}{% else %}Nursing Study Vault{% endif %}",
-        "description": "{% if description %}{{ description }}{% else %}Nursing practical files for ANM, GNM, BSc Nursing students{% endif %}",
-        "url": "https://nursingstudyvault.online{{ page.url | url }}",
-        "publisher": { "@type": "Organization", "name": "Nursing Study Vault" }
+      "@context": "https://schema.org",
+      "@type": "{% if page.url == '/' %}WebSite{% else %}Article{% endif %}",
+      "name": "{% if title %}{{ title }}{% else %}Nursing Study Vault{% endif %}",
+      "description": "{% if description %}{{ description }}{% else %}Nursing practical files for ANM, GNM and BSc Nursing students{% endif %}",
+      "url": "https://nursingstudyvault.online{{ page.url | url }}",
+      "publisher": {
+        "@type": "Organization",
+        "name": "Nursing Study Vault",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://nursingstudyvault.online/assets/favicon.png"
+        }
+      }
     }
     </script>
 </head>
+
 <body>
+    <a class="skip-link" href="#main-content">Skip to content</a>
+
     <div class="overlay" id="overlay"></div>
-    
+
     <div class="medical-disclaimer-top">
-        ⚕️ <strong>Medical Disclaimer:</strong> All content is for <strong>educational purposes only</strong>. <a href="/pages/disclaimer.html">Read full disclaimer</a>
+        ⚕️ <strong>Medical Disclaimer:</strong> All content is for <strong>educational purposes only</strong>.
+        <a href="/pages/disclaimer/">Read full disclaimer</a>
     </div>
-    
+
     <aside class="sidebar" id="sidebar" aria-label="Navigation menu">
         <h3>📄 Info Pages</h3>
-        <a href="/pages/about.html">📌 About Us</a>
-        <a href="/pages/contact.html">📧 Contact Us</a>
-        <a href="/pages/privacy-policy.html">🔒 Privacy Policy</a>
-        <a href="/pages/terms.html">📜 Terms & Conditions</a>
-        <a href="/pages/disclaimer.html">⚠️ Disclaimer</a>
+        <a href="/pages/about/">📌 About Us</a>
+        <a href="/pages/contact/">📧 Contact Us</a>
+        <a href="/pages/privacy-policy/">🔒 Privacy Policy</a>
+        <a href="/pages/terms/">📜 Terms & Conditions</a>
+        <a href="/pages/disclaimer/">⚠️ Disclaimer</a>
+
         <h3>📂 Categories</h3>
         <a href="/pages/nursing-care-plan/">📋 Nursing Care Plan</a>
         <a href="/pages/surgical-care-plan/">🏥 Surgical Care Plan</a>
@@ -61,64 +77,89 @@
         <a href="/pages/nursing-notes/">📒 Nursing Notes</a>
         <a href="/pages/family-folder/">👨‍👩‍👧‍👦 Family Folder</a>
     </aside>
-    
+
     <header class="header">
         <div class="header-left">
-            <span class="medical-cross">⚕️</span>
-            <div class="logo">Nursing <span>Study</span> Vault</div>
+            <a class="brand-link" href="/" aria-label="Nursing Study Vault Home">
+                <img src="/assets/favicon.png" alt="Nursing Study Vault Logo" class="site-logo">
+                <div class="logo">Nursing <span>Study</span> Vault</div>
+            </a>
         </div>
+
         <div class="header-right">
             <button class="theme-toggle" id="themeToggle" aria-label="Toggle dark/light theme">🌓</button>
-            <div class="hamburger" id="hamburger" aria-label="Menu" role="button" tabindex="0">
+            <button class="hamburger" id="hamburger" aria-label="Open menu" type="button">
                 <span></span><span></span><span></span>
-            </div>
+            </button>
         </div>
     </header>
-    
+
     <div class="tagline-bar">Ready-made Nursing Practical Files for ANM • GNM • BSc Nursing Students</div>
-    
-    <div class="breadcrumb">
+
+    <nav class="breadcrumb" aria-label="Breadcrumb">
         <a href="/">🏠 Home</a> » {{ category | default("Page") }}
-    </div>
-    
-    <main class="page-container">
-    <div class="content-area">
-        {{ content | safe }}
-    </div>
-    
-    {% include "related.njk" %}
+    </nav>
+
+    <main class="page-container" id="main-content">
+        <div class="content-area">
+            {{ content | safe }}
+        </div>
+
+        {% include "related.njk" %}
 
         <div class="medical-disclaimer-bottom">
             <h4>⚕️ Medical Disclaimer</h4>
-            <p>The content on <strong>Nursing Study Vault</strong> is for <strong>educational purposes only</strong>.</p>
+            <p>The content on <strong>Nursing Study Vault</strong> is for <strong>educational purposes only</strong> and not a substitute for professional medical advice.</p>
         </div>
     </main>
-    
+
     <footer class="footer">
         <p>&copy; 2026 <a href="/">Nursing Study Vault</a>. All rights reserved.</p>
+
         <div class="footer-links">
-            <a href="/pages/about.html">About</a> | 
-            <a href="/pages/contact.html">Contact</a> | 
-            <a href="/pages/privacy-policy.html">Privacy Policy</a> | 
-            <a href="/pages/terms.html">Terms</a> | 
-            <a href="/pages/disclaimer.html">Disclaimer</a>
+            <a href="/pages/about/">About</a>
+            <a href="/pages/contact/">Contact</a>
+            <a href="/pages/privacy-policy/">Privacy Policy</a>
+            <a href="/pages/terms/">Terms</a>
+            <a href="/pages/disclaimer/">Disclaimer</a>
         </div>
+
         <div class="footer-bottom">
             <p>Designed for Nursing Students | ANM • GNM • BSc Nursing | <strong>Educational Purpose Only</strong></p>
+            <p class="version">Version 1.1</p>
         </div>
     </footer>
-    
+
     <script>
-        const html=document.documentElement;
-        html.setAttribute('data-theme',localStorage.getItem('theme')||'light');
-        document.getElementById('themeToggle').addEventListener('click',()=>{
-            const t=html.getAttribute('data-theme')==='light'?'dark':'light';
-            html.setAttribute('data-theme',t);localStorage.setItem('theme',t);
+        const html = document.documentElement;
+        html.setAttribute('data-theme', localStorage.getItem('theme') || 'light');
+
+        document.getElementById('themeToggle').addEventListener('click', () => {
+            const t = html.getAttribute('data-theme') === 'light' ? 'dark' : 'light';
+            html.setAttribute('data-theme', t);
+            localStorage.setItem('theme', t);
         });
-        const h=document.getElementById('hamburger'),s=document.getElementById('sidebar'),o=document.getElementById('overlay');
-        h.addEventListener('click',()=>{h.classList.toggle('active');s.classList.toggle('active');o.classList.toggle('active');});
-        o.addEventListener('click',()=>{h.classList.remove('active');s.classList.remove('active');o.classList.remove('active');});
-        document.querySelectorAll('.sidebar a').forEach(l=>{l.addEventListener('click',()=>{h.classList.remove('active');s.classList.remove('active');o.classList.remove('active');});});
+
+        const h = document.getElementById('hamburger');
+        const s = document.getElementById('sidebar');
+        const o = document.getElementById('overlay');
+
+        function closeMenu() {
+            h.classList.remove('active');
+            s.classList.remove('active');
+            o.classList.remove('active');
+            h.setAttribute('aria-label', 'Open menu');
+        }
+
+        h.addEventListener('click', () => {
+            h.classList.toggle('active');
+            s.classList.toggle('active');
+            o.classList.toggle('active');
+            h.setAttribute('aria-label', h.classList.contains('active') ? 'Close menu' : 'Open menu');
+        });
+
+        o.addEventListener('click', closeMenu);
+        document.querySelectorAll('.sidebar a').forEach(l => l.addEventListener('click', closeMenu));
     </script>
 </body>
 </html>
