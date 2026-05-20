@@ -22,12 +22,12 @@
     <meta property="og:url" content="https://nursingstudyvault.online{{ page.url | url }}">
     <meta property="og:type" content="{% if page.url == '/' %}website{% else %}article{% endif %}">
     <meta property="og:site_name" content="Nursing Study Vault">
-    <meta property="og:image" content="https://nursingstudyvault.online/assets/favicon.png">
+    <meta property="og:image" content="{% if image %}https://nursingstudyvault.online{{ image }}{% else %}https://nursingstudyvault.online/assets/favicon.png{% endif %}">
 
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="{% if title %}{{ title }}{% else %}Nursing Study Vault{% endif %}">
     <meta name="twitter:description" content="{% if description %}{{ description }}{% else %}Ready-made nursing practical files for nursing students.{% endif %}">
-    <meta name="twitter:image" content="https://nursingstudyvault.online/assets/favicon.png">
+    <meta name="twitter:image" content="{% if image %}https://nursingstudyvault.online{{ image }}{% else %}https://nursingstudyvault.online/assets/favicon.png{% endif %}">
 
     <script type="application/ld+json">
     {
