@@ -17,7 +17,7 @@ category: Surgical Care Plan
     <div class="post-card">
         <div class="post-info">
             <h3>{{ post.data.title }}</h3>
-            <p class="post-meta">{{ post.date }} | {{ post.data.reference }}</p>
+            <p class="post-meta">{{ post.date.toLocaleDateString('en-IN') }} | {{ post.data.reference }}</p>
         </div>
         <a href="{{ post.url }}" class="btn">View Plan</a>
     </div>
