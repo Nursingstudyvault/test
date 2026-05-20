@@ -6,39 +6,39 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("*.html");
   
   eleventyConfig.addCollection("nursingCarePlan", function(collection) {
-    return collection.getFilteredByGlob("content/nursing-care-plan/*.md");
+    return collection.getFilteredByGlob("nursing-care-plan/*.md");
   });
   
   eleventyConfig.addCollection("surgicalCarePlan", function(collection) {
-    return collection.getFilteredByGlob("content/surgical-care-plan/*.md");
+    return collection.getFilteredByGlob("surgical-care-plan/*.md");
   });
   
   eleventyConfig.addCollection("caseStudy", function(collection) {
-    return collection.getFilteredByGlob("content/case-study/*.md");
+    return collection.getFilteredByGlob("case-study/*.md");
   });
   
   eleventyConfig.addCollection("healthTalk", function(collection) {
-    return collection.getFilteredByGlob("content/health-talk/*.md");
+    return collection.getFilteredByGlob("health-talk/*.md");
   });
   
   eleventyConfig.addCollection("healthEducation", function(collection) {
-    return collection.getFilteredByGlob("content/health-education/*.md");
+    return collection.getFilteredByGlob("health-education/*.md");
   });
   
   eleventyConfig.addCollection("procedure", function(collection) {
-    return collection.getFilteredByGlob("content/procedure/*.md");
+    return collection.getFilteredByGlob("procedure/*.md");
   });
   
   eleventyConfig.addCollection("assignment", function(collection) {
-    return collection.getFilteredByGlob("content/assignment/*.md");
+    return collection.getFilteredByGlob("assignment/*.md");
   });
   
   eleventyConfig.addCollection("nursingNotes", function(collection) {
-    return collection.getFilteredByGlob("content/nursing-notes/*.md");
+    return collection.getFilteredByGlob("nursing-notes/*.md");
   });
   
   eleventyConfig.addCollection("familyFolder", function(collection) {
-    return collection.getFilteredByGlob("content/family-folder/*.md");
+    return collection.getFilteredByGlob("family-folder/*.md");
   });
 
   return {
