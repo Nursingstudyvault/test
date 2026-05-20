@@ -1,0 +1,555 @@
+---
+title: "hyperthyroidism nursing case study complete file "
+date: 2026-05-20T17:52:00.000+05:30
+description: Complete 19-page NANDA format nursing case study on Hyperthyroidism
+  for ANM, GNM, BSc Nursing practical files. Covers patient identification data,
+  chief complaints, clinical history, family history and family tree, physical
+  examination, vital signs record, 15 diagnostic investigations, drug chart with
+  7 medications, disease introduction with etiology and pathophysiology,
+  clinical manifestations, nursing management, health education, 6 NANDA nursing
+  diagnoses, 3 detailed nursing care plans (cardiac output, nutrition, sleep
+  pattern), discharge summary, and bibliography with 6 references.
+keywords: hyperthyroidism case study, NANDA nursing case study, thyroid disorder
+  nursing, endocrinology nursing practical file, nursing care plan
+  hyperthyroidism, hyperthyroidism nursing management, ANM GNM BSc Nursing
+  practical file, medical surgical nursing case study, graves disease nursing,
+  thyroid case study, nursing diagnosis hyperthyroidism
+subject: Medical-Surgical Nursing Practical File
+permalink: case-study/hyperthyroidism-nursing-case-study
+category: Health Talk
+---
+<article itemscope itemtype="https://schema.org/Article" style="max-width:900px;margin:0 auto;font-family:'Segoe UI',system-ui,sans-serif;line-height:1.8;color:#333;">
+
+<meta itemprop="headline" content="Hyperthyroidism - Complete NANDA Nursing Case Study (19 Pages)">
+<meta itemprop="description" content="Complete 19-page NANDA format nursing case study on Hyperthyroidism. Covers patient identification, clinical history, physical examination, investigations, medical management, nursing diagnoses, nursing care plans, discharge summary, and health education.">
+<meta itemprop="datePublished" content="2026-05-20">
+<meta itemprop="educationalUse" content="Nursing Practical File">
+<meta itemprop="audience" content="ANM, GNM, BSc Nursing Students">
+
+<!-- ========== HEADER ========== -->
+<h1 style="color:#1a73e8;text-align:center;font-size:clamp(1.5rem,4vw,2.2rem);border-bottom:3px solid #1a73e8;padding-bottom:15px;margin-bottom:10px;">
+🩺 Case Study on Hyperthyroidism
+</h1>
+
+<p style="text-align:center;color:#666;font-size:0.95rem;margin-bottom:5px;">Medical-Surgical Nursing | NANDA Nursing Care Plan Format</p>
+<p style="text-align:center;"><span style="background:#e63946;color:#fff;padding:5px 14px;border-radius:30px;font-size:0.85rem;">Endocrinology Nursing | Practical File Ready</span></p>
+
+<div style="background:#fff3cd;border:1px solid #ffc107;padding:12px 15px;border-radius:8px;margin:25px 0;font-size:0.9rem;text-align:center;">
+⚠️ <strong>Educational Purpose Only:</strong> This case study is for nursing academic practical file preparation. Not for actual patient care or clinical decision-making.
+</div>
+
+<!-- ========== STUDENT INFO ========== -->
+<h2 style="color:#1557b0;border-left:5px solid #1a73e8;padding-left:12px;margin:30px 0 15px;">📋 Student Information</h2>
+
+<div style="overflow-x:auto;-webkit-overflow-scrolling:touch;margin:15px 0;border-radius:10px;box-shadow:0 2px 10px rgba(0,0,0,0.08);">
+<table style="width:100%;border-collapse:collapse;min-width:600px;font-size:clamp(0.8rem,2vw,0.95rem);">
+<tbody>
+<tr style="background:#e8f0fe;"><td style="padding:12px 15px;border:1px solid #ddd;font-weight:600;width:35%;">Student Name</td><td style="padding:12px 15px;border:1px solid #ddd;">[Your Name]</td></tr>
+<tr><td style="padding:12px 15px;border:1px solid #ddd;font-weight:600;">Course</td><td style="padding:12px 15px;border:1px solid #ddd;">BSc Nursing / GNM / ANM</td></tr>
+<tr style="background:#e8f0fe;"><td style="padding:12px 15px;border:1px solid #ddd;font-weight:600;">Subject</td><td style="padding:12px 15px;border:1px solid #ddd;">Medical-Surgical Nursing / Endocrinology Nursing</td></tr>
+<tr><td style="padding:12px 15px;border:1px solid #ddd;font-weight:600;">Case Study Topic</td><td style="padding:12px 15px;border:1px solid #ddd;">Hyperthyroidism — Complete Nursing Case Study</td></tr>
+<tr style="background:#e8f0fe;"><td style="padding:12px 15px;border:1px solid #ddd;font-weight:600;">Format</td><td style="padding:12px 15px;border:1px solid #ddd;">NANDA-I Nursing Care Plan Format</td></tr>
+<tr><td style="padding:12px 15px;border:1px solid #ddd;font-weight:600;">Date of Submission</td><td style="padding:12px 15px;border:1px solid #ddd;">[Enter Date]</td></tr>
+<tr style="background:#e8f0fe;"><td style="padding:12px 15px;border:1px solid #ddd;font-weight:600;">Clinical Instructor</td><td style="padding:12px 15px;border:1px solid #ddd;">[Instructor Name]</td></tr>
+</tbody>
+</table>
+</div>
+
+<!-- ========== PAGE 1: PATIENT IDENTIFICATION DATA ========== -->
+<h2 style="color:#1557b0;border-left:5px solid #1a73e8;padding-left:12px;margin:30px 0 15px;">📄 Page 1 — Patient Identification Data</h2>
+
+<div style="overflow-x:auto;-webkit-overflow-scrolling:touch;margin:15px 0;border-radius:10px;box-shadow:0 2px 10px rgba(0,0,0,0.08);">
+<table style="width:100%;border-collapse:collapse;min-width:600px;font-size:clamp(0.8rem,2vw,0.95rem);">
+<tbody>
+<tr style="background:#e8f0fe;"><td style="padding:10px 15px;border:1px solid #ddd;font-weight:600;width:40%;">Name</td><td style="padding:10px 15px;border:1px solid #ddd;">Mr. Suresh Pawar</td></tr>
+<tr><td style="padding:10px 15px;border:1px solid #ddd;font-weight:600;">Age</td><td style="padding:10px 15px;border:1px solid #ddd;">45 Years</td></tr>
+<tr style="background:#e8f0fe;"><td style="padding:10px 15px;border:1px solid #ddd;font-weight:600;">Sex</td><td style="padding:10px 15px;border:1px solid #ddd;">Male</td></tr>
+<tr><td style="padding:10px 15px;border:1px solid #ddd;font-weight:600;">Address</td><td style="padding:10px 15px;border:1px solid #ddd;">Indira Nagar, Wardha</td></tr>
+<tr style="background:#e8f0fe;"><td style="padding:10px 15px;border:1px solid #ddd;font-weight:600;">Occupation</td><td style="padding:10px 15px;border:1px solid #ddd;">Shopkeeper</td></tr>
+<tr><td style="padding:10px 15px;border:1px solid #ddd;font-weight:600;">Marital Status</td><td style="padding:10px 15px;border:1px solid #ddd;">Married</td></tr>
+<tr style="background:#e8f0fe;"><td style="padding:10px 15px;border:1px solid #ddd;font-weight:600;">Religion/Category</td><td style="padding:10px 15px;border:1px solid #ddd;">Hindu</td></tr>
+<tr><td style="padding:10px 15px;border:1px solid #ddd;font-weight:600;">Annual Income</td><td style="padding:10px 15px;border:1px solid #ddd;">₹1,50,000/-</td></tr>
+<tr style="background:#e8f0fe;"><td style="padding:10px 15px;border:1px solid #ddd;font-weight:600;">Diagnosis</td><td style="padding:10px 15px;border:1px solid #ddd;">Hyperthyroidism</td></tr>
+<tr><td style="padding:10px 15px;border:1px solid #ddd;font-weight:600;">Type of Family</td><td style="padding:10px 15px;border:1px solid #ddd;">Nuclear</td></tr>
+<tr style="background:#e8f0fe;"><td style="padding:10px 15px;border:1px solid #ddd;font-weight:600;">Family Size</td><td style="padding:10px 15px;border:1px solid #ddd;">6 Members</td></tr>
+<tr><td style="padding:10px 15px;border:1px solid #ddd;font-weight:600;">Ward Name</td><td style="padding:10px 15px;border:1px solid #ddd;">General Medical Ward</td></tr>
+<tr style="background:#e8f0fe;"><td style="padding:10px 15px;border:1px solid #ddd;font-weight:600;">Bed Number</td><td style="padding:10px 15px;border:1px solid #ddd;">14</td></tr>
+<tr><td style="padding:10px 15px;border:1px solid #ddd;font-weight:600;">Doctor Incharge</td><td style="padding:10px 15px;border:1px solid #ddd;">Dr. P. M. Joshi</td></tr>
+<tr style="background:#e8f0fe;"><td style="padding:10px 15px;border:1px solid #ddd;font-weight:600;">Date of Admission</td><td style="padding:10px 15px;border:1px solid #ddd;">22/01/2025</td></tr>
+<tr><td style="padding:10px 15px;border:1px solid #ddd;font-weight:600;">Hospital Name</td><td style="padding:10px 15px;border:1px solid #ddd;">District Civil Hospital, Wardha</td></tr>
+</tbody>
+</table>
+</div>
+
+<!-- ========== PAGE 2: CHIEF COMPLAINTS & HISTORY ========== -->
+<h2 style="color:#1557b0;border-left:5px solid #1a73e8;padding-left:12px;margin:30px 0 15px;">📄 Page 2 — Chief Complaints & Clinical History</h2>
+
+<h3 style="color:#1a73e8;">CHIEF COMPLAINT</h3>
+<p>The patient was brought to the hospital with the complaints of:</p>
+<ul>
+<li>Palpitations (increased heart rate)</li>
+<li>Excessive sweating</li>
+<li>Weight loss despite normal appetite</li>
+<li>Irritability and anxiety</li>
+<li>Heat intolerance</li>
+<li>Disturbed sleep</li>
+</ul>
+
+<h3 style="color:#1a73e8;">HISTORY OF PRESENT ILLNESS</h3>
+<p>The patient is a 45-year-old male who was apparently normal 10–15 days back. He gradually developed symptoms such as palpitations, excessive sweating, and weight loss. The symptoms increased in intensity over time and were aggravated by stress and exertion.</p>
+<p>The patient also complained of nervousness, irritability, and difficulty in sleeping. There was no history of fever, chest pain, loss of consciousness, or any recent infection.</p>
+<p>The patient has a history of increased appetite along with weight loss and intolerance to heat. Based on clinical findings, the patient was diagnosed as a case of Hyperthyroidism and admitted for further evaluation and management.</p>
+
+<h3 style="color:#1a73e8;">PAST MEDICAL HISTORY</h3>
+<ul>
+<li>No history of hypertension.</li>
+<li>No history of diabetes mellitus.</li>
+<li>No history of tuberculosis.</li>
+<li>No previous thyroid disorder diagnosed.</li>
+</ul>
+
+<h3 style="color:#1a73e8;">PAST SURGICAL HISTORY</h3>
+<ul>
+<li>No history of any surgical intervention.</li>
+<li>No history of previous hospitalization for surgery.</li>
+</ul>
+
+<!-- ========== PAGE 3: FAMILY HISTORY ========== -->
+<h2 style="color:#1557b0;border-left:5px solid #1a73e8;padding-left:12px;margin:30px 0 15px;">📄 Page 3 — Family History & Composition</h2>
+
+<h3 style="color:#1a73e8;">FAMILY HISTORY</h3>
+<ul>
+<li>The patient belongs to a nuclear family.</li>
+<li>There are 6 members in the family.</li>
+<li>No history of thyroid disorder in the family.</li>
+<li>No history of hereditary disorders in the family.</li>
+<li>No history of genetic disorders.</li>
+<li>No history of tuberculosis in the family.</li>
+</ul>
+
+<h3 style="color:#1a73e8;">FAMILY COMPOSITION</h3>
+<div style="overflow-x:auto;-webkit-overflow-scrolling:touch;margin:15px 0;border-radius:10px;box-shadow:0 2px 10px rgba(0,0,0,0.08);">
+<table style="width:100%;border-collapse:collapse;min-width:700px;font-size:clamp(0.75rem,1.8vw,0.9rem);">
+<thead>
+<tr style="background:#1a73e8;color:white;"><th>Name</th><th>Age/Sex</th><th>Education</th><th>Occupation</th><th>Marital Status</th><th>Relationship</th><th>Health Habit</th></tr>
+</thead>
+<tbody>
+<tr><td>Mr. Ramesh Pawar</td><td>68 yr/M</td><td>10th pass</td><td>Farmer</td><td>Married</td><td>Father</td><td>Healthy</td></tr>
+<tr style="background:#e8f0fe;"><td>Mrs. Shantabai Pawar</td><td>65 yr/F</td><td>Illiterate</td><td>Housewife</td><td>Married</td><td>Mother</td><td>Healthy</td></tr>
+<tr><td>Mr. Suresh Pawar</td><td>45 yr/M</td><td>12th pass</td><td>Shopkeeper</td><td>Married</td><td>Self (Patient)</td><td>Hyperthyroidism</td></tr>
+<tr style="background:#e8f0fe;"><td>Mrs. Sunita Pawar</td><td>42 yr/F</td><td>12th pass</td><td>Housewife</td><td>Married</td><td>Wife</td><td>Healthy</td></tr>
+<tr><td>Master Rohit Pawar</td><td>18 yr/M</td><td>12th pass</td><td>Student</td><td>Unmarried</td><td>Son</td><td>Healthy</td></tr>
+<tr style="background:#e8f0fe;"><td>Miss Pooja Pawar</td><td>15 yr/F</td><td>10th pass</td><td>Student</td><td>Unmarried</td><td>Daughter</td><td>Healthy</td></tr>
+</tbody>
+</table>
+</div>
+
+<h3 style="color:#1a73e8;">FAMILY TREE</h3>
+<div style="background:#f8f9fa;border:1px solid #ced4da;border-radius:8px;padding:20px;font-family:'Courier New',monospace;font-size:clamp(0.8rem,2vw,1rem);line-height:1.8;margin:15px 0;white-space:pre;overflow-x:auto;">
+□ Mr. Ramesh Pawar (Father)
+○o Mrs. Shantabai Pawar (Mother)
+
+□ = Male  |  ○ = Female  |  ○ = Patient
+
+□○ Mr. Suresh Pawar (Patient)
+│
+├── □○ Master Rohit Pawar (Son)
+└── ○ Miss Pooja Pawar (Daughter)
+</div>
+
+<!-- ========== PAGE 4: DIETARY, PERSONAL, SOCIO-ECONOMIC, ENVIRONMENTAL ========== -->
+<h2 style="color:#1557b0;border-left:5px solid #1a73e8;padding-left:12px;margin:30px 0 15px;">📄 Page 4 — Dietary, Personal, Socio-Economic & Environmental History</h2>
+
+<h3 style="color:#1a73e8;">DIETARY HISTORY</h3>
+<ul>
+<li>The patient is taking a mixed diet.</li>
+<li>Diet is increased with frequent hunger and appetite.</li>
+<li>Consumes tea/coffee occasionally.</li>
+<li>Avoids excessive spicy and oily food.</li>
+<li>Adequate intake of fluids.</li>
+<li>No history of food allergy reported.</li>
+</ul>
+
+<h3 style="color:#1a73e8;">PERSONAL HISTORY</h3>
+<ul>
+<li>Sleep: Disturbed (insomnia)</li>
+<li>Appetite: Increased</li>
+<li>Bowel: Once daily, regular</li>
+<li>Bladder: 4–5 times/day</li>
+<li>Habits: Irritability, anxiety, and restlessness present</li>
+<li>Activity level: Increased but easily fatigued</li>
+<li>Allergy: No known drug or food allergy</li>
+<li>Neurological status: Nervousness with irritability</li>
+</ul>
+
+<h3 style="color:#1a73e8;">SOCIO-ECONOMIC HISTORY</h3>
+<ul>
+<li>The patient belongs to a middle-class family.</li>
+<li>Total annual family income is approximately ₹1,50,000 per year.</li>
+<li>The family lives in a nuclear family setup.</li>
+<li>Patient has access to medical facilities.</li>
+<li>No major financial constraints reported for treatment.</li>
+</ul>
+
+<h3 style="color:#1a73e8;">ENVIRONMENTAL HISTORY</h3>
+<ul>
+<li>The family lives in their own house with adequate ventilation.</li>
+<li>No exposure to industrial pollutants.</li>
+<li>Uses LPG for cooking.</li>
+<li>Safe drinking water supply available.</li>
+<li>Living environment is clean and hygienic.</li>
+</ul>
+
+<!-- ========== PAGE 5 & 6: PHYSICAL EXAMINATION ========== -->
+<h2 style="color:#1557b0;border-left:5px solid #1a73e8;padding-left:12px;margin:30px 0 15px;">📄 Page 5 & 6 — Physical Examination</h2>
+
+<h3 style="color:#1a73e8;">GENERAL CONDITION</h3>
+<p>Patient is conscious, oriented and cooperative. Patient appears restless and mildly anxious. Activity level is slightly increased.</p>
+
+<h3 style="color:#1a73e8;">VITAL SIGNS</h3>
+<ul>
+<li>Temperature: 98.6°F (Normal)</li>
+<li>Pulse: 102 beats/min (Increased)</li>
+<li>Respiration: 22 breaths/min (Slightly increased)</li>
+<li>Blood Pressure: 140/90 mmHg</li>
+</ul>
+
+<h3 style="color:#1a73e8;">GENERAL APPEARANCE</h3>
+<ul>
+<li>Built: Moderately built</li>
+<li>Posture: Restless</li>
+<li>Activity: Increased</li>
+<li>Speech: Rapid but coherent</li>
+<li>Signs of distress: Anxiety, sweating present</li>
+</ul>
+
+<h3 style="color:#1a73e8;">SYSTEMIC EXAMINATION</h3>
+
+<div style="overflow-x:auto;-webkit-overflow-scrolling:touch;margin:15px 0;border-radius:10px;box-shadow:0 2px 10px rgba(0,0,0,0.08);">
+<table style="width:100%;border-collapse:collapse;min-width:600px;font-size:clamp(0.8rem,2vw,0.95rem);">
+<tbody>
+<tr style="background:#e8f0fe;"><td style="padding:10px 15px;border:1px solid #ddd;font-weight:600;width:25%;">Cardiovascular</td><td style="padding:10px 15px;border:1px solid #ddd;">S1, S2 heard; no murmur; peripheral pulses rapid and bounding; no edema</td></tr>
+<tr><td style="padding:10px 15px;border:1px solid #ddd;font-weight:600;">Abdominal</td><td style="padding:10px 15px;border:1px solid #ddd;">Normal shape; soft, non-tender; no guarding/rigidity; bowel sounds present</td></tr>
+<tr style="background:#e8f0fe;"><td style="padding:10px 15px;border:1px solid #ddd;font-weight:600;">Neurological</td><td style="padding:10px 15px;border:1px solid #ddd;">Alert and oriented; time, place, person intact; pupillary reflex present; anxiety present</td></tr>
+<tr><td style="padding:10px 15px;border:1px solid #ddd;font-weight:600;">Skin</td><td style="padding:10px 15px;border:1px solid #ddd;">Warm and flushed; no pallor, cyanosis; adequate hydration; no rashes/lesions</td></tr>
+<tr style="background:#e8f0fe;"><td style="padding:10px 15px;border:1px solid #ddd;font-weight:600;">Head & Face</td><td style="padding:10px 15px;border:1px solid #ddd;">Scalp clean; facial expression anxious; symmetry maintained</td></tr>
+<tr><td style="padding:10px 15px;border:1px solid #ddd;font-weight:600;">Eyes</td><td style="padding:10px 15px;border:1px solid #ddd;">Conjunctiva pink; sclera normal (no icterus); pupillary reflex present; mild exophthalmos</td></tr>
+<tr style="background:#e8f0fe;"><td style="padding:10px 15px;border:1px solid #ddd;font-weight:600;">Ear</td><td style="padding:10px 15px;border:1px solid #ddd;">External ear normal; no discharge; hearing normal</td></tr>
+<tr><td style="padding:10px 15px;border:1px solid #ddd;font-weight:600;">Nose</td><td style="padding:10px 15px;border:1px solid #ddd;">External nose normal; nostrils patent; no discharge or flaring</td></tr>
+<tr style="background:#e8f0fe;"><td style="padding:10px 15px;border:1px solid #ddd;font-weight:600;">Mouth & Pharynx</td><td style="padding:10px 15px;border:1px solid #ddd;">Lips pink; tongue moist; mucous membrane pink; oral hygiene adequate; no congestion</td></tr>
+<tr><td style="padding:10px 15px;border:1px solid #ddd;font-weight:600;">Neck</td><td style="padding:10px 15px;border:1px solid #ddd;">Lymph nodes not palpable; neck movement normal; thyroid gland enlarged (goiter present)</td></tr>
+<tr style="background:#e8f0fe;"><td style="padding:10px 15px;border:1px solid #ddd;font-weight:600;">Chest</td><td style="padding:10px 15px;border:1px solid #ddd;">Shape symmetrical; breath sounds vesicular; no added sounds; no accessory muscle use</td></tr>
+<tr><td style="padding:10px 15px;border:1px solid #ddd;font-weight:600;">Heart</td><td style="padding:10px 15px;border:1px solid #ddd;">S1, S2 heard; no murmur; heart rate 102/min (increased)</td></tr>
+<tr style="background:#e8f0fe;"><td style="padding:10px 15px;border:1px solid #ddd;font-weight:600;">Extremities</td><td style="padding:10px 15px;border:1px solid #ddd;">No edema; tone normal; movement normal; fine tremors present; CRT &lt;2 sec; peripheral pulses palpable</td></tr>
+</tbody>
+</table>
+</div>
+
+<!-- ========== PAGE 7: VITAL SIGNS RECORD ========== -->
+<h2 style="color:#1557b0;border-left:5px solid #1a73e8;padding-left:12px;margin:30px 0 15px;">📄 Page 7 — Daily Vital Signs Record</h2>
+
+<div style="overflow-x:auto;-webkit-overflow-scrolling:touch;margin:15px 0;border-radius:10px;box-shadow:0 2px 10px rgba(0,0,0,0.08);">
+<table style="width:100%;border-collapse:collapse;min-width:600px;font-size:clamp(0.8rem,2vw,0.95rem);">
+<thead>
+<tr style="background:#1a73e8;color:white;"><th>DATE</th><th>TEMPERATURE (°F)</th><th>PULSE (/min)</th><th>RESPIRATION (/min)</th><th>BLOOD PRESSURE (mmHg)</th><th>SpO₂ (%)</th></tr>
+</thead>
+<tbody>
+<tr><td><strong>22/01/2025</strong></td><td>99.0°F</td><td>104/min</td><td>28/min</td><td>130/80</td><td>92%</td></tr>
+<tr style="background:#e8f0fe;"><td><strong>23/01/2025</strong></td><td>98.8°F</td><td>102/min</td><td>26/min</td><td>128/80</td><td>94%</td></tr>
+<tr><td><strong>24/01/2025</strong></td><td>98.6°F</td><td>100/min</td><td>24/min</td><td>126/78</td><td>97%</td></tr>
+<tr style="background:#e8f0fe;"><td><strong>25/01/2025</strong></td><td>98.4°F</td><td>96/min</td><td>22/min</td><td>124/78</td><td>98%</td></tr>
+<tr><td><strong>26/01/2025</strong></td><td>98.4°F</td><td>92/min</td><td>20/min</td><td>120/76</td><td>98%</td></tr>
+</tbody>
+</table>
+</div>
+
+<div style="background:#d4edda;padding:12px 15px;border-radius:8px;margin:15px 0;text-align:center;">
+📈 <strong>Nursing Trend:</strong> Progressive improvement — Heart rate & BP moving toward normal range, SpO₂ improved from 92% → 98%.
+</div>
+
+<!-- ========== PAGE 8: DIAGNOSTIC INVESTIGATIONS ========== -->
+<h2 style="color:#1557b0;border-left:5px solid #1a73e8;padding-left:12px;margin:30px 0 15px;">📄 Page 8 — Diagnostic Investigations</h2>
+
+<div style="overflow-x:auto;-webkit-overflow-scrolling:touch;margin:15px 0;border-radius:10px;box-shadow:0 2px 10px rgba(0,0,0,0.08);">
+<table style="width:100%;border-collapse:collapse;min-width:700px;font-size:clamp(0.75rem,1.8vw,0.9rem);">
+<thead>
+<tr style="background:#1a73e8;color:white;"><th>SR. NO.</th><th>NAME OF INVESTIGATION</th><th>NORMAL VALUE</th><th>PATIENT'S VALUE</th><th>REFERENCE</th></tr>
+</thead>
+<tbody>
+<tr><td>1</td><td>Hemoglobin</td><td>13–17 g/dL</td><td>14.5 g/dL</td><td>Normal</td></tr>
+<tr style="background:#e8f0fe;"><td>2</td><td>ESR</td><td>0–20 mm/hr</td><td>18 mm/hr</td><td>Normal</td></tr>
+<tr><td>3</td><td>Platelet Count</td><td>1.5–4 lakh/mm³</td><td>2.6 lakh/mm³</td><td>Normal</td></tr>
+<tr style="background:#e8f0fe;"><td>4</td><td>Random Blood Sugar (RBS)</td><td>70–140 mg/dL</td><td>118 mg/dL</td><td>Normal</td></tr>
+<tr><td>5</td><td>Serum Electrolytes (Na⁺)</td><td>135–145 mEq/L</td><td>138 mEq/L</td><td>Normal</td></tr>
+<tr style="background:#e8f0fe;"><td>6</td><td>Serum Electrolytes (K⁺)</td><td>3.5–5.0 mEq/L</td><td>3.8 mEq/L</td><td>Normal</td></tr>
+<tr><td>7</td><td>Total WBC Count</td><td>4,000–11,000/mm³</td><td>7,800/mm³</td><td>Normal</td></tr>
+<tr style="background:#e8f0fe;"><td>8</td><td>CT Scan/MRI Brain</td><td>No intracranial abnormality</td><td>No abnormality detected</td><td>Normal</td></tr>
+<tr><td>9</td><td>Fundoscopic Examination</td><td>No papilledema</td><td>No papilledema</td><td>Normal</td></tr>
+<tr style="background:#e8f0fe;"><td>10</td><td>Blood Pressure Monitoring</td><td>&lt;120/80 mmHg</td><td>130/80 mmHg</td><td>Slightly elevated</td></tr>
+<tr><td>11</td><td>Serum Urea</td><td>15–40 mg/dL</td><td>28 mg/dL</td><td>Normal</td></tr>
+<tr style="background:#e8f0fe;"><td>12</td><td>Serum Creatinine</td><td>0.6–1.2 mg/dL</td><td>0.9 mg/dL</td><td>Normal</td></tr>
+<tr><td>13</td><td><strong>T3 (Triiodothyronine)</strong></td><td>80–200 ng/dL</td><td><strong>280 ng/dL</strong></td><td style="color:#dc3545;font-weight:600;">Increased</td></tr>
+<tr style="background:#e8f0fe;"><td>14</td><td><strong>T4 (Thyroxine)</strong></td><td>5–12 µg/dL</td><td><strong>15 µg/dL</strong></td><td style="color:#dc3545;font-weight:600;">Increased</td></tr>
+<tr><td>15</td><td><strong>TSH</strong></td><td>0.4–4.0 mIU/L</td><td><strong>0.1 mIU/L</strong></td><td style="color:#dc3545;font-weight:600;">Decreased</td></tr>
+</tbody>
+</table>
+</div>
+
+<!-- ========== PAGE 9: MEDICAL MANAGEMENT ========== -->
+<h2 style="color:#1557b0;border-left:5px solid #1a73e8;padding-left:12px;margin:30px 0 15px;">📄 Page 9 — Medical Management (Drug Chart)</h2>
+
+<div style="overflow-x:auto;-webkit-overflow-scrolling:touch;margin:15px 0;border-radius:10px;box-shadow:0 2px 10px rgba(0,0,0,0.08);">
+<table style="width:100%;border-collapse:collapse;min-width:700px;font-size:clamp(0.75rem,1.8vw,0.9rem);">
+<thead>
+<tr style="background:#1a73e8;color:white;"><th>SR. NO.</th><th>MEDICATION</th><th>DOSE</th><th>FREQUENCY</th><th>ROUTE</th><th>ACTION</th></tr>
+</thead>
+<tbody>
+<tr><td>1</td><td>Tab. Carbimazole</td><td>10 mg</td><td>TDS</td><td>Oral</td><td>Reduces thyroid hormone production</td></tr>
+<tr style="background:#e8f0fe;"><td>2</td><td>Tab. Propranolol</td><td>40 mg</td><td>BD</td><td>Oral</td><td>Controls tachycardia & anxiety</td></tr>
+<tr><td>3</td><td>Tab. Methimazole</td><td>10 mg</td><td>BD</td><td>Oral</td><td>Inhibits thyroid hormone synthesis</td></tr>
+<tr style="background:#e8f0fe;"><td>4</td><td>Tab. Diazepam</td><td>5 mg</td><td>HS</td><td>Oral</td><td>Reduces anxiety & helps sleep</td></tr>
+<tr><td>5</td><td>Tab. Paracetamol</td><td>500 mg</td><td>SOS</td><td>Oral</td><td>Relieves fever/discomfort</td></tr>
+<tr style="background:#e8f0fe;"><td>6</td><td>Tab. Vitamin B-Complex</td><td>1 tab</td><td>OD</td><td>Oral</td><td>Improves nerve function</td></tr>
+<tr><td>7</td><td>Tab. Multivitamin</td><td>1 tab</td><td>OD</td><td>Oral</td><td>Improves general health</td></tr>
+</tbody>
+</table>
+</div>
+
+<!-- ========== PAGE 10: DISEASE INTRODUCTION ========== -->
+<h2 style="color:#1557b0;border-left:5px solid #1a73e8;padding-left:12px;margin:30px 0 15px;">📄 Page 10 — Disease Introduction, Etiology & Pathophysiology</h2>
+
+<h3 style="color:#1a73e8;">INTRODUCTION</h3>
+<p>Hyperthyroidism is a condition characterized by excessive production of thyroid hormones (T3 and T4), leading to increased metabolic activity in the body. It commonly presents with symptoms such as weight loss despite increased appetite, palpitations, excessive sweating, heat intolerance, irritability and anxiety. It significantly affects the patient's physical and mental health if not managed properly.</p>
+
+<h3 style="color:#1a73e8;">ETIOLOGY</h3>
+<p>The causes of hyperthyroidism include autoimmune disorders and other thyroid abnormalities. Common causes are:</p>
+<ul>
+<li>Graves' disease (most common)</li>
+<li>Toxic multinodular goiter</li>
+<li>Thyroiditis</li>
+<li>Excess iodine intake</li>
+<li>Thyroid adenoma</li>
+</ul>
+<p>Predisposing factors include:</p>
+<ul>
+<li>Genetic predisposition</li>
+<li>Autoimmune conditions</li>
+<li>Stress</li>
+<li>Female gender</li>
+<li>Smoking</li>
+</ul>
+
+<h3 style="color:#1a73e8;">PATHOPHYSIOLOGY</h3>
+<p>Hyperthyroidism results from excessive secretion of thyroid hormones (T3 and T4), which increases the basal metabolic rate. In Graves' disease, autoantibodies stimulate the thyroid gland leading to overproduction of hormones.</p>
+<p>This causes hypermetabolism, increased oxygen consumption and overactivity of the sympathetic nervous system. As a result, symptoms like tachycardia, tremors, weight loss, and heat intolerance occur. Enlargement of the thyroid gland (goiter) and exophthalmos may also be seen in some patients.</p>
+
+<!-- ========== PAGE 11: CLINICAL MANIFESTATIONS ========== -->
+<h2 style="color:#1557b0;border-left:5px solid #1a73e8;padding-left:12px;margin:30px 0 15px;">📄 Page 11 — Clinical Manifestations, Diagnostic & Medical Management</h2>
+
+<h3 style="color:#1a73e8;">CLINICAL MANIFESTATIONS</h3>
+<p>The patient in this case presented with the following features:</p>
+<ul>
+<li>Weight loss despite increased appetite</li>
+<li>Palpitations (tachycardia)</li>
+<li>Excessive sweating</li>
+<li>Heat intolerance</li>
+<li>Irritability and anxiety</li>
+<li>Tremors (fine tremors of hands)</li>
+<li>Disturbed sleep pattern</li>
+<li>Increased bowel movements</li>
+</ul>
+
+<h3 style="color:#1a73e8;">DIAGNOSTIC EVALUATION</h3>
+<p>Hyperthyroidism is primarily diagnosed based on clinical features and thyroid function tests. Findings included:</p>
+<ul>
+<li>Serum T3: Increased</li>
+<li>Serum T4: Increased</li>
+<li>TSH: Decreased</li>
+<li>Thyroid scan: Increased uptake</li>
+<li>Ultrasound thyroid: Enlarged gland</li>
+</ul>
+
+<h3 style="color:#1a73e8;">MEDICAL MANAGEMENT</h3>
+<ul>
+<li>Antithyroid drugs (Carbimazole/Methimazole)</li>
+<li>Beta-blockers (Propranolol)</li>
+<li>Sedatives for anxiety and sleep</li>
+<li>Adequate rest</li>
+<li>Nutritional support and hydration</li>
+<li>Regular monitoring of thyroid levels</li>
+</ul>
+
+<!-- ========== PAGE 12: NURSING MANAGEMENT ========== -->
+<h2 style="color:#1557b0;border-left:5px solid #1a73e8;padding-left:12px;margin:30px 0 15px;">📄 Page 12 — Nursing Management, Health Education, Prognosis & Conclusion</h2>
+
+<h3 style="color:#1a73e8;">NURSING MANAGEMENT</h3>
+<ul>
+<li>Monitoring vital signs (pulse, BP, temperature) regularly</li>
+<li>Assessing for signs of tachycardia, tremors and anxiety</li>
+<li>Providing a calm and cool environment</li>
+<li>Administering prescribed antithyroid medications</li>
+<li>Encouraging adequate rest and sleep</li>
+<li>Monitoring weight and nutritional status</li>
+<li>Observing for complications like thyroid storm</li>
+<li>Educating the patient regarding lifestyle modification</li>
+</ul>
+
+<h3 style="color:#1a73e8;">HEALTH EDUCATION</h3>
+<ul>
+<li>Importance of medication compliance</li>
+<li>Taking a high-calorie, high-protein diet</li>
+<li>Avoiding stress and excessive physical exertion</li>
+<li>Regular follow-up and thyroid function tests</li>
+<li>Avoiding excess iodine intake</li>
+<li>Practicing relaxation techniques such as yoga and deep breathing</li>
+<li>Maintaining adequate hydration</li>
+</ul>
+
+<h3 style="color:#1a73e8;">PROGNOSIS</h3>
+<p>With appropriate treatment and regular follow-up, the prognosis of hyperthyroidism is generally good. Early diagnosis and proper management help in preventing complications and maintaining normal thyroid function.</p>
+
+<h3 style="color:#1a73e8;">CONCLUSION</h3>
+<p>This case highlights hyperthyroidism as a manageable endocrine disorder. Effective nursing care, along with patient education and adherence to treatment, plays an important role in improving patient outcomes and quality of life.</p>
+
+<!-- ========== PAGE 13: NURSING DIAGNOSES ========== -->
+<h2 style="color:#1557b0;border-left:5px solid #1a73e8;padding-left:12px;margin:30px 0 15px;">📄 Page 13 — NANDA Nursing Diagnoses</h2>
+
+<div style="background:#e8f0fe;border-left:4px solid #1a73e8;padding:15px 20px;margin:15px 0;border-radius:5px;">
+<ol style="margin:0;padding-left:20px;">
+<li><strong>Imbalanced nutrition: less than body requirements</strong> related to increased metabolic rate as evidenced by weight loss despite increased appetite.</li>
+<li><strong>Activity intolerance</strong> related to increased metabolic demand and fatigue as evidenced by weakness and decreased tolerance to activity.</li>
+<li><strong>Anxiety</strong> related to increased thyroid hormone levels as evidenced by restlessness, irritability and nervousness.</li>
+<li><strong>Disturbed sleep pattern</strong> related to hypermetabolic state and anxiety as evidenced by insomnia and frequent awakening.</li>
+<li><strong>Risk for decreased cardiac output</strong> related to tachycardia and increased workload on heart.</li>
+<li><strong>Deficient knowledge</strong> related to disease condition, treatment and lifestyle modification as evidenced by lack of awareness.</li>
+</ol>
+</div>
+
+<!-- ========== PAGE 14-16: NURSING CARE PLANS ========== -->
+<h2 style="color:#1557b0;border-left:5px solid #1a73e8;padding-left:12px;margin:30px 0 15px;">📄 Page 14-16 — Nursing Care Plans (NANDA Format)</h2>
+
+<!-- NCP 1 -->
+<h3 style="color:#1a73e8;">Nursing Care Plan — 1: Decreased Cardiac Output</h3>
+<div style="overflow-x:auto;-webkit-overflow-scrolling:touch;margin:15px 0;border-radius:10px;box-shadow:0 2px 10px rgba(0,0,0,0.08);">
+<table style="width:100%;border-collapse:collapse;min-width:1000px;font-size:clamp(0.7rem,1.6vw,0.85rem);">
+<thead>
+<tr style="background:#1a73e8;color:white;"><th>ASSESSMENT</th><th>NURSING DIAGNOSIS</th><th>GOAL/EXPECTED OUTCOME</th><th>PLANNING</th><th>IMPLEMENTATION</th><th>EVALUATION</th></tr>
+</thead>
+<tbody>
+<tr>
+<td style="padding:15px;border:1px solid #ddd;">Subjective: Patient complains of palpitations and anxiety. Reports heat intolerance.<br><br>Objective: Tachycardia present. Restlessness and sweating observed.</td>
+<td style="padding:15px;border:1px solid #ddd;">Decreased cardiac output related to increased heart rate as evidenced by tachycardia and palpitations</td>
+<td style="padding:15px;border:1px solid #ddd;">Short term: Patient will have controlled heart rate within 1 hour.<br><br>Long term: Patient will maintain normal cardiac function.</td>
+<td style="padding:15px;border:1px solid #ddd;">• Monitor vital signs regularly<br>• Assess heart rate and rhythm</td>
+<td style="padding:15px;border:1px solid #ddd;">• Administer beta-blockers as prescribed<br>• Provide calm and cool environment<br>• Encourage rest</td>
+<td style="padding:15px;border:1px solid #ddd;">• Heart rate reduced<br>• Patient reports relief from palpitations</td>
+</tr>
+</tbody>
+</table>
+</div>
+
+<!-- NCP 2 -->
+<h3 style="color:#1a73e8;">Nursing Care Plan — 2: Imbalanced Nutrition</h3>
+<div style="overflow-x:auto;-webkit-overflow-scrolling:touch;margin:15px 0;border-radius:10px;box-shadow:0 2px 10px rgba(0,0,0,0.08);">
+<table style="width:100%;border-collapse:collapse;min-width:1000px;font-size:clamp(0.7rem,1.6vw,0.85rem);">
+<thead>
+<tr style="background:#1a73e8;color:white;"><th>ASSESSMENT</th><th>NURSING DIAGNOSIS</th><th>GOAL/EXPECTED OUTCOME</th><th>PLANNING</th><th>IMPLEMENTATION</th><th>EVALUATION</th></tr>
+</thead>
+<tbody>
+<tr>
+<td style="padding:15px;border:1px solid #ddd;">Subjective: Patient complains of weight loss despite increased appetite.<br><br>Objective: Weight loss noted. Increased appetite observed.</td>
+<td style="padding:15px;border:1px solid #ddd;">Imbalanced nutrition less than body requirements related to increased metabolism</td>
+<td style="padding:15px;border:1px solid #ddd;">Short term: Patient will maintain adequate nutritional intake.<br><br>Long term: Patient will gain weight gradually.</td>
+<td style="padding:15px;border:1px solid #ddd;">• Assess dietary intake<br>• Monitor weight regularly</td>
+<td style="padding:15px;border:1px solid #ddd;">• Provide high-calorie, high-protein diet<br>• Encourage frequent small meals<br>• Monitor nutritional status</td>
+<td style="padding:15px;border:1px solid #ddd;">• Weight stabilized/improved<br>• Nutritional status improved</td>
+</tr>
+</tbody>
+</table>
+</div>
+
+<!-- NCP 3 -->
+<h3 style="color:#1a73e8;">Nursing Care Plan — 3: Disturbed Sleep Pattern</h3>
+<div style="overflow-x:auto;-webkit-overflow-scrolling:touch;margin:15px 0;border-radius:10px;box-shadow:0 2px 10px rgba(0,0,0,0.08);">
+<table style="width:100%;border-collapse:collapse;min-width:1000px;font-size:clamp(0.7rem,1.6vw,0.85rem);">
+<thead>
+<tr style="background:#1a73e8;color:white;"><th>ASSESSMENT</th><th>NURSING DIAGNOSIS</th><th>GOAL/EXPECTED OUTCOME</th><th>PLANNING</th><th>IMPLEMENTATION</th><th>EVALUATION</th></tr>
+</thead>
+<tbody>
+<tr>
+<td style="padding:15px;border:1px solid #ddd;">Subjective: Patient complains of difficulty in sleeping and anxiety.<br><br>Objective: Irritability and restlessness present. Insomnia observed.</td>
+<td style="padding:15px;border:1px solid #ddd;">Disturbed sleep pattern related to hypermetabolic state and anxiety</td>
+<td style="padding:15px;border:1px solid #ddd;">Short term: Patient will report improved sleep within 2–3 days.<br><br>Long term: Patient will maintain normal sleep pattern.</td>
+<td style="padding:15px;border:1px solid #ddd;">• Assess sleep pattern<br>• Identify factors affecting sleep</td>
+<td style="padding:15px;border:1px solid #ddd;">• Provide quiet environment<br>• Encourage relaxation techniques<br>• Administer sedatives if prescribed</td>
+<td style="padding:15px;border:1px solid #ddd;">• Patient reports improved sleep<br>• Anxiety reduced</td>
+</tr>
+</tbody>
+</table>
+</div>
+
+<!-- ========== PAGE 17: DISCHARGE SUMMARY ========== -->
+<h2 style="color:#1557b0;border-left:5px solid #1a73e8;padding-left:12px;margin:30px 0 15px;">📄 Page 17 — Discharge Summary</h2>
+
+<p>Mr. Suresh Pawar, 45 years old male, was admitted in District Civil Hospital with complaints of palpitations, excessive sweating, weight loss despite increased appetite, and disturbed sleep. The patient also reported anxiety, irritability and heat intolerance.</p>
+<p>On evaluation, detailed history and clinical examination were done. There was no history of fever, vomiting or loss of consciousness. Vital signs showed tachycardia and mildly elevated blood pressure. Laboratory investigations revealed increased T3 and T4 levels with decreased TSH. Based on clinical assessment, the patient was diagnosed as a case of Hyperthyroidism.</p>
+<p>On examination, the patient was conscious, oriented and hemodynamically stable. No acute complications were noted. The patient was managed with antithyroid medications, beta-blockers, adequate rest, nutritional support and regular monitoring of vital signs.</p>
+<p>During the hospital stay, the patient showed symptomatic improvement. Palpitations and anxiety were reduced. The patient understood the importance of medication compliance and lifestyle modification.</p>
+
+<p style="font-weight:600;margin-top:20px;">At discharge, the patient is advised to:</p>
+<ul>
+<li>Continue prescribed medications regularly</li>
+<li>Maintain adequate rest and sleep</li>
+<li>Follow high-calorie, nutritious diet</li>
+<li>Avoid stress and excessive physical exertion</li>
+<li>Avoid excess iodine intake</li>
+<li>Monitor pulse rate regularly</li>
+<li>Attend regular follow-up and thyroid function tests</li>
+<li>Practice relaxation techniques such as yoga and deep breathing</li>
+<li>Avoid self-medication</li>
+<li>Report immediately in case of severe palpitations, chest pain or breathlessness</li>
+</ul>
+
+<!-- ========== PAGE 18: HEALTH EDUCATION ========== -->
+<h2 style="color:#1557b0;border-left:5px solid #1a73e8;padding-left:12px;margin:30px 0 15px;">📄 Page 18 — Health Education</h2>
+
+<div style="margin:15px 0;">
+<p><strong>Medication Compliance —</strong><br>
+Patient was advised to take antithyroid medications regularly as prescribed by the physician. Emphasized not to skip doses and avoid self-medication. Instructed to report any side effects like palpitations, fever or weakness.</p>
+
+<p><strong>Dietary Advice —</strong><br>
+Advised to take high-calorie, high-protein balanced diet. Encouraged adequate fluid intake. Advised to avoid excess caffeine (tea/coffee) and spicy food. Advised to avoid excess iodine intake (iodized salt, seafood in excess).</p>
+
+<p><strong>Lifestyle Modification —</strong><br>
+Advised to maintain adequate rest and sleep. Encouraged stress management techniques such as yoga, meditation and relaxation exercises. Advised to avoid smoking and alcohol consumption. Encouraged maintaining a regular daily routine.</p>
+
+<p><strong>Exercise and Activity —</strong><br>
+Advised light physical activity such as walking. Advised to avoid heavy exercise and excessive exertion. Encouraged relaxation exercises.</p>
+
+<p><strong>Disease Awareness —</strong><br>
+Explained about hyperthyroidism and its symptoms like weight loss, palpitations, sweating and anxiety. Educated about importance of regular monitoring of thyroid levels. Advised to recognize warning signs like severe palpitations or breathlessness.</p>
+
+<p><strong>Follow-up Care —</strong><br>
+Advised to attend regular follow-up visits. Advised to undergo periodic thyroid function tests. Advised to immediately report if patient develops: Severe palpitations, Chest pain, Breathlessness, Excessive sweating, Extreme weakness or dizziness.</p>
+</div>
+
+<!-- ========== PAGE 19: BIBLIOGRAPHY ========== -->
+<h2 style="color:#1557b0;border-left:5px solid #1a73e8;padding-left:12px;margin:30px 0 15px;">📄 Page 19 — Bibliography</h2>
+
+<ol>
+<li>Brunner &amp; Suddarth's Textbook of Medical-Surgical Nursing – Assessment and nursing management of patients with thyroid disorders.</li>
+<li>Davidson's Principles and Practice of Medicine – Hyperthyroidism: etiology, clinical features and management.</li>
+<li>Harrison's Principles of Internal Medicine – Thyroid disorders, including hyperthyroidism and thyrotoxicosis.</li>
+<li>Lewis's Medical-Surgical Nursing – Nursing care of patients with endocrine disorders (thyroid diseases).</li>
+<li>World Health Organization (WHO) – Guidelines on management of endocrine and metabolic disorders.</li>
+<li>American Thyroid Association (ATA) – Clinical guidelines for diagnosis and management of hyperthyroidism.</li>
+</ol>
+
+<!-- ========== DISCLAIMER ========== -->
+<div style="background:#fff3cd;border:2px solid #ffc107;padding:15px 20px;border-radius:10px;margin-top:30px;text-align:center;">
+<p style="margin:0;font-size:0.9rem;"><strong>⚕️ Medical Disclaimer:</strong> This case study is prepared for <strong>educational and academic purposes only</strong> as part of nursing practical file work (ANM, GNM, BSc Nursing). It is not intended for actual patient care, clinical decision-making, or medical diagnosis.</p>
+</div>
+
+<p style="text-align:center;margin-top:30px;color:#888;font-size:0.9rem;">© Nursing Study Vault | NANDA Format Case Study | Hyperthyroidism</p>
+
+</article>
