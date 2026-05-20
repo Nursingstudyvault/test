@@ -1,6 +1,17 @@
 ---
 title: Importance of Breastfeeding - Health Talk for Antenatal & Postnatal Mothers
-date: 2026-05-20T13:20:00.000+05:30
+date: 2026-05-20T13:28:00.000+05:30
+description: Complete health talk on importance of breastfeeding for nursing
+  practical file. Covers exclusive breastfeeding, colostrum benefits, correct
+  techniques, mother and baby benefits, myths vs facts, and WHO guidelines. For
+  ANM, GNM, BSc Nursing students.
+keywords: breastfeeding health talk, exclusive breastfeeding, colostrum
+  importance, breastfeeding techniques, breastfeeding benefits, breastfeeding
+  myths, nursing practical file, community health nursing, child health nursing,
+  ANM GNM BSc Nursing
+subject: Community Health Nursing Practical / Child Health Nursing Practical
+image: /assets/uploads/1000080429.webp
+permalink: importance-of-breastfeeding-health-talk
 category: Health Talk
 ---
 <article itemscope itemtype="https://schema.org/Article" style="max-width:900px;margin:0 auto;font-family:'Segoe UI',system-ui,sans-serif;line-height:1.8;color:#333;">
