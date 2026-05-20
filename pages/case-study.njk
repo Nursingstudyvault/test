@@ -1,38 +1,53 @@
 ---
 layout: layout.njk
-title: Case Study
-description: Detailed nursing case studies with patient history and analysis.
+title: Case Studys
+description: Nursing health talks for ANM, GNM and BSc Nursing practical files.
 category: Case Study
 ---
 
 <div class="category-header">
-    <div class="cat-icon">📖</div>
+    <div class="cat-icon">🗣️</div>
 
-    <h1>Case Study</h1>
+    <h1>Case Studys</h1>
 
     <p class="cat-desc">
-        Detailed nursing case studies with patient history, physical examination,
-        investigations, disease pathophysiology, nursing management, health
-        education, and conclusion. Ready for ANM, GNM, and BSc Nursing
-        practical files.
+        Detailed nursing health talks with introduction, objectives,
+        AV aids, content, evaluation questions, references, and health
+        education material for ANM, GNM, and BSc Nursing practical files.
     </p>
 </div>
 
 <div class="post-list">
-{% for post in collections.caseStudy | reverse %}
+
+{% for post in collections.all | reverse %}
+
+{% if "case-study/" in post.inputPath %}
+
     <div class="post-card">
+
         <div class="post-info">
+
             <h3>{{ post.data.title }}</h3>
 
             <p class="post-meta">
-                {{ post.date | date("MMMM dd, yyyy") }}
-                {% if post.data.reference %}
-                | {{ post.data.reference }}
-                {% endif %}
+                {{ post.date.toLocaleDateString('en-IN') }}
             </p>
+
+            <p class="post-desc">
+                {{ post.data.description or
+                "Detailed nursing health talk for ANM, GNM and BSc Nursing students." }}
+            </p>
+
         </div>
 
-        <a href="{{ post.url }}" class="btn">View Case</a>
+        <a href="{{ post.url }}" class="btn">
+            Read Case Study
+        </a>
+
     </div>
+
+{% endif %}
+
 {% endfor %}
+
 </div>
