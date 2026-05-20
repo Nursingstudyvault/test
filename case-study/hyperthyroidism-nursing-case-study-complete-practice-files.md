@@ -1,14 +1,8 @@
 ---
 title: "Hyperthyroidism Nursing Case Study | Complete practice files "
 date: 2026-05-20T18:15:00.000+05:30
-description: Complete 19-page NANDA format nursing case study on Hyperthyroidism
-  for ANM, GNM, BSc Nursing practical files. Covers patient identification data,
-  chief complaints, clinical history, family history and family tree, physical
-  examination, vital signs record, 15 diagnostic investigations, drug chart with
-  7 medications, disease introduction with etiology and pathophysiology,
-  clinical manifestations, nursing management, health education, 6 NANDA nursing
-  diagnoses, 3 detailed nursing care plans (cardiac output, nutrition, sleep
-  pattern), discharge summary, and bibliography with 6 references.
+description: Complete NANDA format nursing case study on Hyperthyroidism for
+  ANM, GNM and BSc Nursing students.
 keywords: hyperthyroidism case study, NANDA nursing case study, thyroid disorder
   nursing, endocrinology nursing practical file, nursing care plan
   hyperthyroidism, hyperthyroidism nursing management, ANM GNM BSc Nursing
