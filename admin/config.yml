@@ -18,6 +18,7 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Date", name: "date", widget: "datetime" }
+- { label: "Permalink / Custom URL", name: "permalink", widget: "string", required: false, hint: "Example: /health-talk/personal-hygiene-health-talk/" }
       - { label: "Category", name: "category", widget: "hidden", default: "Health Talk" }
       - label: "Body"
         name: "body"
@@ -31,6 +32,7 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Date", name: "date", widget: "datetime" }
+- { label: "Permalink / Custom URL", name: "permalink", widget: "string", required: false, hint: "Example: /health-talk/personal-hygiene-health-talk/" }
       - { label: "Category", name: "category", widget: "hidden", default: "Health Education" }
       - label: "Body"
         name: "body"
@@ -44,6 +46,7 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Date", name: "date", widget: "datetime" }
+- { label: "Permalink / Custom URL", name: "permalink", widget: "string", required: false, hint: "Example: /health-talk/personal-hygiene-health-talk/" }
       - { label: "Category", name: "category", widget: "hidden", default: "Nursing Notes" }
       - label: "Body"
         name: "body"
@@ -57,6 +60,7 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Date", name: "date", widget: "datetime" }
+- { label: "Permalink / Custom URL", name: "permalink", widget: "string", required: false, hint: "Example: /health-talk/personal-hygiene-health-talk/" }
       - { label: "Category", name: "category", widget: "hidden", default: "Procedure" }
       - label: "Body"
         name: "body"
@@ -70,6 +74,7 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Date", name: "date", widget: "datetime" }
+- { label: "Permalink / Custom URL", name: "permalink", widget: "string", required: false, hint: "Example: /health-talk/personal-hygiene-health-talk/" }
       - { label: "Category", name: "category", widget: "hidden", default: "Assignment" }
       - label: "Body"
         name: "body"
@@ -83,6 +88,7 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Date", name: "date", widget: "datetime" }
+- { label: "Permalink / Custom URL", name: "permalink", widget: "string", required: false, hint: "Example: /health-talk/personal-hygiene-health-talk/" }
       - { label: "Category", name: "category", widget: "hidden", default: "Case Study" }
       - label: "Body"
         name: "body"
@@ -96,6 +102,7 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Date", name: "date", widget: "datetime" }
+- { label: "Permalink / Custom URL", name: "permalink", widget: "string", required: false, hint: "Example: /health-talk/personal-hygiene-health-talk/" }
       - { label: "Category", name: "category", widget: "hidden", default: "Family Folder" }
       - label: "Body"
         name: "body"
@@ -109,7 +116,8 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Date", name: "date", widget: "datetime" }
-      - { label: "Category", name: "category", widget: "hidden", default: "Surgical Care Plan" }
+- { label: "Permalink / Custom URL", name: "permalink", widget: "string", required: false, hint: "Example: /health-talk/personal-hygiene-health-talk/" } 
+     - { label: "Category", name: "category", widget: "hidden", default: "Surgical Care Plan" }
       - label: "Body"
         name: "body"
         widget: "text"
@@ -122,6 +130,7 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Date", name: "date", widget: "datetime" }
+- { label: "Permalink / Custom URL", name: "permalink", widget: "string", required: false, hint: "Example: /health-talk/personal-hygiene-health-talk/" }
       - { label: "Category", name: "category", widget: "hidden", default: "Nursing Care Plan" }
       - label: "Body"
         name: "body"
