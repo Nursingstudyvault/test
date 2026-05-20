@@ -2,6 +2,7 @@
 title: Anemia - Health Talk for Antenatal Mothers & Adolescent Girls
 date: 2026-05-20T01:45:00.000+05:30
 category: Health Talk
+permalink: /health-talk/anemia-health-talk.html
 ---
 <article itemscope itemtype="https://schema.org/Article" style="max-width:900px;margin:0 auto;font-family:'Segoe UI',system-ui,sans-serif;line-height:1.8;color:#333;">
 

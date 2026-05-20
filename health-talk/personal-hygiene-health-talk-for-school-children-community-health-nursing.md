@@ -1,6 +1,8 @@
 ---
 title: Personal Hygiene - Health Talk for School Children | Community Health Nursing
 date: 2026-05-19T23:13:00.000+05:30
+category: Health Talk
+permalink: /health-talk/personal-hygiene-health-talk.html
 ---
 <article itemscope itemtype="https://schema.org/Article" style="max-width:900px;margin:0 auto;font-family:'Segoe UI',system-ui,sans-serif;line-height:1.8;color:#333;">
 
