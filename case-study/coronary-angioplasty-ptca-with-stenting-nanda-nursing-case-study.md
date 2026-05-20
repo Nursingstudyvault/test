@@ -2,10 +2,12 @@
 layout: post.njk
 title: Case Study on Coronary Angioplasty (PTCA with Stenting)
 date: 2026-05-20T16:45:00.000+05:30
-description: Complete NANDA format nursing case study on Coronary Angioplasty PTCA with DES Stenting for ANM, GNM and BSc Nursing students.
-keywords: coronary angioplasty case study, PTCA case study, stenting case study, NANDA nursing care plan, cardiac nursing case study
+description: Complete NANDA format nursing case study on Coronary Angioplasty
+  PTCA with DES Stenting for ANM, GNM and BSc Nursing students.
+keywords: coronary angioplasty case study, PTCA case study, stenting case study,
+  NANDA nursing care plan, cardiac nursing case study
 subject: Medical-Surgical Nursing / Cardiology Nursing
-image: /assets/uploads/1000080429.webp
+image: /assets/uploads/1000077995.webp
 permalink: /case-study/coronary-angioplasty-case-study.html
 category: Case Study
 ---
