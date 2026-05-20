@@ -1,6 +1,5 @@
 
 
-cat > admin/config.yml <<'EOF'
 backend:
   name: git-gateway
   branch: main
@@ -119,4 +118,3 @@ collections:
       - { label: "Permalink / Custom URL", name: "permalink", widget: "string", required: false, hint: "Example: /nursing-care-plan/topic-name/" }
       - { label: "Category", name: "category", widget: "hidden", default: "Nursing Care Plan" }
       - { label: "Body", name: "body", widget: "text" }
-EOF
