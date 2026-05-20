@@ -7,7 +7,6 @@ public_folder: "/assets/uploads"
 
 site_url: https://nursingstudyvault.online
 display_url: https://nursingstudyvault.online
-publish_mode: editorial_workflow
 
 collections:
   - name: "health-talk"
@@ -19,7 +18,7 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Date", name: "date", widget: "datetime" }
       - { label: "Meta Description", name: "description", widget: "text", required: false }
-      - { label: "Keywords", name: "keywords", widget: "string", required: false, hint: "Example: nursing care plan, health talk, GNM practical" }
+      - { label: "Keywords", name: "keywords", widget: "string", required: false }
       - { label: "Subject", name: "subject", widget: "string", required: false }
       - { label: "Featured Image", name: "image", widget: "image", required: false }
       - { label: "Permalink / Custom URL", name: "permalink", widget: "string", required: false, hint: "Example: /health-talk/personal-hygiene-health-talk/" }
@@ -35,7 +34,7 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Date", name: "date", widget: "datetime" }
       - { label: "Meta Description", name: "description", widget: "text", required: false }
-      - { label: "Keywords", name: "keywords", widget: "string", required: false, hint: "Example: health education, nursing students, GNM" }
+      - { label: "Keywords", name: "keywords", widget: "string", required: false }
       - { label: "Subject", name: "subject", widget: "string", required: false }
       - { label: "Featured Image", name: "image", widget: "image", required: false }
       - { label: "Permalink / Custom URL", name: "permalink", widget: "string", required: false, hint: "Example: /health-education/topic-name/" }
@@ -51,7 +50,7 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Date", name: "date", widget: "datetime" }
       - { label: "Meta Description", name: "description", widget: "text", required: false }
-      - { label: "Keywords", name: "keywords", widget: "string", required: false, hint: "Example: nursing notes, BSc nursing, GNM notes" }
+      - { label: "Keywords", name: "keywords", widget: "string", required: false }
       - { label: "Subject", name: "subject", widget: "string", required: false }
       - { label: "Featured Image", name: "image", widget: "image", required: false }
       - { label: "Permalink / Custom URL", name: "permalink", widget: "string", required: false, hint: "Example: /nursing-notes/topic-name/" }
@@ -67,7 +66,7 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Date", name: "date", widget: "datetime" }
       - { label: "Meta Description", name: "description", widget: "text", required: false }
-      - { label: "Keywords", name: "keywords", widget: "string", required: false, hint: "Example: nursing procedure, procedure steps, rationale" }
+      - { label: "Keywords", name: "keywords", widget: "string", required: false }
       - { label: "Subject", name: "subject", widget: "string", required: false }
       - { label: "Featured Image", name: "image", widget: "image", required: false }
       - { label: "Permalink / Custom URL", name: "permalink", widget: "string", required: false, hint: "Example: /procedure/topic-name/" }
@@ -83,7 +82,7 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Date", name: "date", widget: "datetime" }
       - { label: "Meta Description", name: "description", widget: "text", required: false }
-      - { label: "Keywords", name: "keywords", widget: "string", required: false, hint: "Example: nursing assignment, GNM assignment, BSc nursing" }
+      - { label: "Keywords", name: "keywords", widget: "string", required: false }
       - { label: "Subject", name: "subject", widget: "string", required: false }
       - { label: "Featured Image", name: "image", widget: "image", required: false }
       - { label: "Permalink / Custom URL", name: "permalink", widget: "string", required: false, hint: "Example: /assignment/topic-name/" }
@@ -99,7 +98,7 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Date", name: "date", widget: "datetime" }
       - { label: "Meta Description", name: "description", widget: "text", required: false }
-      - { label: "Keywords", name: "keywords", widget: "string", required: false, hint: "Example: nursing case study, patient case study, GNM practical" }
+      - { label: "Keywords", name: "keywords", widget: "string", required: false }
       - { label: "Subject", name: "subject", widget: "string", required: false }
       - { label: "Featured Image", name: "image", widget: "image", required: false }
       - { label: "Permalink / Custom URL", name: "permalink", widget: "string", required: false, hint: "Example: /case-study/topic-name/" }
@@ -115,7 +114,7 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Date", name: "date", widget: "datetime" }
       - { label: "Meta Description", name: "description", widget: "text", required: false }
-      - { label: "Keywords", name: "keywords", widget: "string", required: false, hint: "Example: family folder, community health nursing, CHN" }
+      - { label: "Keywords", name: "keywords", widget: "string", required: false }
       - { label: "Subject", name: "subject", widget: "string", required: false }
       - { label: "Featured Image", name: "image", widget: "image", required: false }
       - { label: "Permalink / Custom URL", name: "permalink", widget: "string", required: false, hint: "Example: /family-folder/topic-name/" }
@@ -131,7 +130,7 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Date", name: "date", widget: "datetime" }
       - { label: "Meta Description", name: "description", widget: "text", required: false }
-      - { label: "Keywords", name: "keywords", widget: "string", required: false, hint: "Example: surgical care plan, pre operative care, post operative care" }
+      - { label: "Keywords", name: "keywords", widget: "string", required: false }
       - { label: "Subject", name: "subject", widget: "string", required: false }
       - { label: "Featured Image", name: "image", widget: "image", required: false }
       - { label: "Permalink / Custom URL", name: "permalink", widget: "string", required: false, hint: "Example: /surgical-care-plan/topic-name/" }
@@ -147,7 +146,7 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Date", name: "date", widget: "datetime" }
       - { label: "Meta Description", name: "description", widget: "text", required: false }
-      - { label: "Keywords", name: "keywords", widget: "string", required: false, hint: "Example: nursing care plan, nursing diagnosis, NCP" }
+      - { label: "Keywords", name: "keywords", widget: "string", required: false }
       - { label: "Subject", name: "subject", widget: "string", required: false }
       - { label: "Featured Image", name: "image", widget: "image", required: false }
       - { label: "Permalink / Custom URL", name: "permalink", widget: "string", required: false, hint: "Example: /nursing-care-plan/topic-name/" }
