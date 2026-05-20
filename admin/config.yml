@@ -23,7 +23,7 @@ collections:
       - { label: "Featured Image", name: "image", widget: "image", required: false }
       - { label: "Permalink / Custom URL", name: "permalink", widget: "string", required: false, hint: "Example: /health-talk/personal-hygiene-health-talk/" }
       - { label: "Category", name: "category", widget: "hidden", default: "Health Talk" }
-      - { label: "HTML Editor", name: "body", widget: "text", required: false }
+      - { label: "Body", name: "body", widget: "text" }
 
   - name: "health-education"
     label: "Health Education"
@@ -39,7 +39,7 @@ collections:
       - { label: "Featured Image", name: "image", widget: "image", required: false }
       - { label: "Permalink / Custom URL", name: "permalink", widget: "string", required: false, hint: "Example: /health-education/topic-name/" }
       - { label: "Category", name: "category", widget: "hidden", default: "Health Education" }
-      - { label: "HTML Editor", name: "body", widget: "text", required: false }
+      - { label: "Body", name: "body", widget: "text" }
 
   - name: "nursing-notes"
     label: "Nursing Notes"
@@ -55,7 +55,7 @@ collections:
       - { label: "Featured Image", name: "image", widget: "image", required: false }
       - { label: "Permalink / Custom URL", name: "permalink", widget: "string", required: false, hint: "Example: /nursing-notes/topic-name/" }
       - { label: "Category", name: "category", widget: "hidden", default: "Nursing Notes" }
-      - { label: "HTML Editor", name: "body", widget: "text", required: false }
+      - { label: "Body", name: "body", widget: "text" }
 
   - name: "procedure"
     label: "Procedure"
@@ -71,7 +71,7 @@ collections:
       - { label: "Featured Image", name: "image", widget: "image", required: false }
       - { label: "Permalink / Custom URL", name: "permalink", widget: "string", required: false, hint: "Example: /procedure/topic-name/" }
       - { label: "Category", name: "category", widget: "hidden", default: "Procedure" }
-      - { label: "HTML Editor", name: "body", widget: "text", required: false }
+      - { label: "Body", name: "body", widget: "text" }
 
   - name: "assignment"
     label: "Assignment"
@@ -87,7 +87,7 @@ collections:
       - { label: "Featured Image", name: "image", widget: "image", required: false }
       - { label: "Permalink / Custom URL", name: "permalink", widget: "string", required: false, hint: "Example: /assignment/topic-name/" }
       - { label: "Category", name: "category", widget: "hidden", default: "Assignment" }
-      - { label: "HTML Editor", name: "body", widget: "text", required: false }
+      - { label: "Body", name: "body", widget: "text" }
 
   - name: "case-study"
     label: "Case Study"
@@ -103,7 +103,7 @@ collections:
       - { label: "Featured Image", name: "image", widget: "image", required: false }
       - { label: "Permalink / Custom URL", name: "permalink", widget: "string", required: false, hint: "Example: /case-study/topic-name/" }
       - { label: "Category", name: "category", widget: "hidden", default: "Case Study" }
-      - { label: "HTML Editor", name: "body", widget: "text", required: false }
+      - { label: "Body", name: "body", widget: "text" }
 
   - name: "family-folder"
     label: "Family Folder"
@@ -119,7 +119,7 @@ collections:
       - { label: "Featured Image", name: "image", widget: "image", required: false }
       - { label: "Permalink / Custom URL", name: "permalink", widget: "string", required: false, hint: "Example: /family-folder/topic-name/" }
       - { label: "Category", name: "category", widget: "hidden", default: "Family Folder" }
-      - { label: "HTML Editor", name: "body", widget: "text", required: false }
+      - { label: "Body", name: "body", widget: "text" }
 
   - name: "surgical-care-plan"
     label: "Surgical Care Plan"
@@ -135,7 +135,7 @@ collections:
       - { label: "Featured Image", name: "image", widget: "image", required: false }
       - { label: "Permalink / Custom URL", name: "permalink", widget: "string", required: false, hint: "Example: /surgical-care-plan/topic-name/" }
       - { label: "Category", name: "category", widget: "hidden", default: "Surgical Care Plan" }
-      - { label: "HTML Editor", name: "body", widget: "text", required: false }
+      - { label: "Body", name: "body", widget: "text" }
 
   - name: "nursing-care-plan"
     label: "Nursing Care Plan"
@@ -151,4 +151,4 @@ collections:
       - { label: "Featured Image", name: "image", widget: "image", required: false }
       - { label: "Permalink / Custom URL", name: "permalink", widget: "string", required: false, hint: "Example: /nursing-care-plan/topic-name/" }
       - { label: "Category", name: "category", widget: "hidden", default: "Nursing Care Plan" }
-      - { label: "HTML Editor", name: "body", widget: "text", required: false }
+      - { label: "Body", name: "body", widget: "text" }
