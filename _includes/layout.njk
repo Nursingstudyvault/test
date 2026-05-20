@@ -100,10 +100,13 @@
         <a href="/">🏠 Home</a> » {{ category | default("Page") }}
     </nav>
 
-    <main class="page-container" id="main-content">
-        <div class="content-area">
-            {{ content | safe }}
-        </div>
+    <div class="content-area">
+    {% if image %}
+    <img src="{{ image }}" alt="{{ title }}" loading="lazy" style="width:100%;max-height:420px;object-fit:cover;border-radius:12px;margin-bottom:25px;box-shadow:0 4px 15px rgba(0,0,0,0.08);">
+    {% endif %}
+
+    {{ content | safe }}
+</div>
 
         {% include "related.njk" %}
 
