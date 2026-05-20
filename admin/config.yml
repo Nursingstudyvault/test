@@ -1,4 +1,6 @@
+cd ~/test
 
+cat > admin/config.yml <<'EOF'
 backend:
   name: git-gateway
   branch: main
@@ -18,11 +20,9 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Date", name: "date", widget: "datetime" }
-- { label: "Permalink / Custom URL", name: "permalink", widget: "string", required: false, hint: "Example: /health-talk/personal-hygiene-health-talk/" }
+      - { label: "Permalink / Custom URL", name: "permalink", widget: "string", required: false, hint: "Example: /health-talk/personal-hygiene-health-talk/" }
       - { label: "Category", name: "category", widget: "hidden", default: "Health Talk" }
-      - label: "Body"
-        name: "body"
-        widget: "text"
+      - { label: "Body", name: "body", widget: "text" }
 
   - name: "health-education"
     label: "Health Education"
@@ -32,11 +32,9 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Date", name: "date", widget: "datetime" }
-- { label: "Permalink / Custom URL", name: "permalink", widget: "string", required: false, hint: "Example: /health-talk/personal-hygiene-health-talk/" }
+      - { label: "Permalink / Custom URL", name: "permalink", widget: "string", required: false, hint: "Example: /health-education/topic-name/" }
       - { label: "Category", name: "category", widget: "hidden", default: "Health Education" }
-      - label: "Body"
-        name: "body"
-        widget: "text"
+      - { label: "Body", name: "body", widget: "text" }
 
   - name: "nursing-notes"
     label: "Nursing Notes"
@@ -46,11 +44,9 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Date", name: "date", widget: "datetime" }
-- { label: "Permalink / Custom URL", name: "permalink", widget: "string", required: false, hint: "Example: /health-talk/personal-hygiene-health-talk/" }
+      - { label: "Permalink / Custom URL", name: "permalink", widget: "string", required: false, hint: "Example: /nursing-notes/topic-name/" }
       - { label: "Category", name: "category", widget: "hidden", default: "Nursing Notes" }
-      - label: "Body"
-        name: "body"
-        widget: "text"
+      - { label: "Body", name: "body", widget: "text" }
 
   - name: "procedure"
     label: "Procedure"
@@ -60,11 +56,9 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Date", name: "date", widget: "datetime" }
-- { label: "Permalink / Custom URL", name: "permalink", widget: "string", required: false, hint: "Example: /health-talk/personal-hygiene-health-talk/" }
+      - { label: "Permalink / Custom URL", name: "permalink", widget: "string", required: false, hint: "Example: /procedure/topic-name/" }
       - { label: "Category", name: "category", widget: "hidden", default: "Procedure" }
-      - label: "Body"
-        name: "body"
-        widget: "text"
+      - { label: "Body", name: "body", widget: "text" }
 
   - name: "assignment"
     label: "Assignment"
@@ -74,11 +68,9 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Date", name: "date", widget: "datetime" }
-- { label: "Permalink / Custom URL", name: "permalink", widget: "string", required: false, hint: "Example: /health-talk/personal-hygiene-health-talk/" }
+      - { label: "Permalink / Custom URL", name: "permalink", widget: "string", required: false, hint: "Example: /assignment/topic-name/" }
       - { label: "Category", name: "category", widget: "hidden", default: "Assignment" }
-      - label: "Body"
-        name: "body"
-        widget: "text"
+      - { label: "Body", name: "body", widget: "text" }
 
   - name: "case-study"
     label: "Case Study"
@@ -88,11 +80,9 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Date", name: "date", widget: "datetime" }
-- { label: "Permalink / Custom URL", name: "permalink", widget: "string", required: false, hint: "Example: /health-talk/personal-hygiene-health-talk/" }
+      - { label: "Permalink / Custom URL", name: "permalink", widget: "string", required: false, hint: "Example: /case-study/topic-name/" }
       - { label: "Category", name: "category", widget: "hidden", default: "Case Study" }
-      - label: "Body"
-        name: "body"
-        widget: "text"
+      - { label: "Body", name: "body", widget: "text" }
 
   - name: "family-folder"
     label: "Family Folder"
@@ -102,11 +92,9 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Date", name: "date", widget: "datetime" }
-- { label: "Permalink / Custom URL", name: "permalink", widget: "string", required: false, hint: "Example: /health-talk/personal-hygiene-health-talk/" }
+      - { label: "Permalink / Custom URL", name: "permalink", widget: "string", required: false, hint: "Example: /family-folder/topic-name/" }
       - { label: "Category", name: "category", widget: "hidden", default: "Family Folder" }
-      - label: "Body"
-        name: "body"
-        widget: "text"
+      - { label: "Body", name: "body", widget: "text" }
 
   - name: "surgical-care-plan"
     label: "Surgical Care Plan"
@@ -116,11 +104,9 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Date", name: "date", widget: "datetime" }
-- { label: "Permalink / Custom URL", name: "permalink", widget: "string", required: false, hint: "Example: /health-talk/personal-hygiene-health-talk/" } 
-     - { label: "Category", name: "category", widget: "hidden", default: "Surgical Care Plan" }
-      - label: "Body"
-        name: "body"
-        widget: "text"
+      - { label: "Permalink / Custom URL", name: "permalink", widget: "string", required: false, hint: "Example: /surgical-care-plan/topic-name/" }
+      - { label: "Category", name: "category", widget: "hidden", default: "Surgical Care Plan" }
+      - { label: "Body", name: "body", widget: "text" }
 
   - name: "nursing-care-plan"
     label: "Nursing Care Plan"
@@ -130,8 +116,7 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Date", name: "date", widget: "datetime" }
-- { label: "Permalink / Custom URL", name: "permalink", widget: "string", required: false, hint: "Example: /health-talk/personal-hygiene-health-talk/" }
+      - { label: "Permalink / Custom URL", name: "permalink", widget: "string", required: false, hint: "Example: /nursing-care-plan/topic-name/" }
       - { label: "Category", name: "category", widget: "hidden", default: "Nursing Care Plan" }
-      - label: "Body"
-        name: "body"
-        widget: "text"
+      - { label: "Body", name: "body", widget: "text" }
+EOF
