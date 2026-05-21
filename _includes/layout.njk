@@ -108,7 +108,9 @@
     {{ content | safe }}
 </div>
 
+        {% if not hideRelated %}
         {% include "related.njk" %}
+        {% endif %}
 
         <div class="medical-disclaimer-bottom">
             <h4>⚕️ Medical Disclaimer</h4>
