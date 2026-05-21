@@ -13,7 +13,7 @@ keywords: health talk on respiratory assessment, respiratory assessment health
   assessment practical file, ANM health talk, GNM health talk, BSc nursing
   health talk, community health nursing health talk
 subject: Community Health Nursing Practical
-permalink: health -talk/health-talk-on-respiratory-assessment.html
+permalink: health -talk/respiratory-assessmen-health-talkt.html
 category: Health Talk
 ---
 <article itemscope itemtype="https://schema.org/Article" style="max-width:900px;margin:0 auto;font-family:'Segoe UI',system-ui,sans-serif;line-height:1.8;color:#333;">
