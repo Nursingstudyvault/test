@@ -5,8 +5,8 @@ date: 2026-05-21T21:11:55+05:30
 description: Complete dengue fever prevention health talk for community people in Community Health Nursing. Includes causes, Aedes mosquito transmission, symptoms, warning signs, prevention of mosquito breeding, personal protection, home care, danger signs, role of nurse, evaluation questions and references.
 keywords: dengue fever prevention health talk, health talk on dengue fever, dengue health talk for community people, dengue prevention health education, dengue fever symptoms, dengue warning signs, aedes mosquito prevention, mosquito breeding prevention, community health nursing health talk, nursing practical file, ANM GNM BSc Nursing practical
 subject: Community Health Nursing Practical
-permalink: /health-talk/dengue-fever-prevention-health-talk-for-community-people-community-health-nursing.html
-canonical: https://nursingstudyvault.online/health-talk/dengue-fever-prevention-health-talk-for-community-people-community-health-nursing.html
+permalink: /health-talk/dengue-fever-prevention-health-talk.html
+canonical: https://nursingstudyvault.online/health-talk/dengue-fever-prevention-health-talk.html
 category: Health Talk
 ---
 <article itemscope itemtype="https://schema.org/Article" style="max-width:900px;margin:0 auto;font-family:'Segoe UI',system-ui,sans-serif;line-height:1.8;color:#333;">
@@ -20,7 +20,7 @@ category: Health Talk
 
 <!-- SEO Meta Tags -->
 <title>Dengue Fever Prevention Health Talk for Community People | Community Health Nursing</title>
-<link rel="canonical" href="https://nursingstudyvault.online/health-talk/dengue-fever-prevention-health-talk-for-community-people-community-health-nursing.html">
+<link rel="canonical" href="https://nursingstudyvault.online/health-talk/dengue-fever-prevention-health-talk.html">
 <meta name="description" content="Complete dengue fever prevention health talk for community people in Community Health Nursing. Includes causes, Aedes mosquito transmission, symptoms, warning signs, prevention of mosquito breeding, personal protection, home care, danger signs, role of nurse, evaluation questions and references.">
 <meta name="keywords" content="dengue fever prevention health talk, health talk on dengue fever, dengue health talk for community people, dengue prevention health education, dengue fever symptoms, dengue warning signs, aedes mosquito prevention, mosquito breeding prevention, community health nursing health talk, nursing practical file, ANM GNM BSc Nursing practical">
 <meta name="subject" content="Community Health Nursing Practical">
