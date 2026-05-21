@@ -12,8 +12,9 @@ keywords: Health Talk on Immunization Immunization Health Talk for Mothers
   India Vaccine Preventable Diseases Child Immunization Nursing Practical
   Community Health Nursing Health Talk MCP Card Immunization
 subject: Community Health Nursing Practical
-permalink: health-talk/immunization-health-talk-for-mothers-of-under-five-children.html
+permalink: /health-talk/immunization-health-talk-for-mothers-of-under-five-children.html
 category: Health Talk
+canonical: https://nursingstudyvault.online/health-talk/immunization-health-talk-for-mothers-of-under-five-children.html
 ---
 <article itemscope itemtype="https://schema.org/Article" style="max-width:900px;margin:0 auto;font-family:'Segoe UI',system-ui,sans-serif;line-height:1.8;color:#333;">
 
@@ -31,7 +32,7 @@ category: Health Talk
 <meta name="subject" content="Community Health Nursing Practical">
 <meta name="author" content="Nursing Study Vault">
 <meta name="robots" content="index, follow">
-<link rel="canonical" href="https://nursingstudyvault.online/immunization-health-talk-for-mothers-of-under-five-children/">
+<link rel="canonical" href="https://nursingstudyvault.online/health-talk/immunization-health-talk-for-mothers-of-under-five-children.html">
 
 <!-- Title -->
 <h1 style="color:#1a73e8;text-align:center;font-size:clamp(1.5rem,4vw,2.2rem);border-bottom:3px solid #1a73e8;padding-bottom:15px;margin-bottom:25px;">

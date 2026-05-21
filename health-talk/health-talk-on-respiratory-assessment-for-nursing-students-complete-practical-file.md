@@ -13,8 +13,9 @@ keywords: health talk on respiratory assessment, respiratory assessment health
   assessment practical file, ANM health talk, GNM health talk, BSc nursing
   health talk, community health nursing health talk
 subject: Community Health Nursing Practical
-permalink: health -talk/respiratory-assessmen-health-talkt.html
+permalink: /health-talk/respiratory-assessment-health-talk.html
 category: Health Talk
+canonical: https://nursingstudyvault.online/health-talk/respiratory-assessment-health-talk.html
 ---
 <article itemscope itemtype="https://schema.org/Article" style="max-width:900px;margin:0 auto;font-family:'Segoe UI',system-ui,sans-serif;line-height:1.8;color:#333;">
 
@@ -32,7 +33,7 @@ category: Health Talk
 <meta name="subject" content="Community Health Nursing Practical">
 <meta name="author" content="Nursing Study Vault">
 <meta name="robots" content="index, follow">
-<link rel="canonical" href="https://nursingstudyvault.online/health-talk-on-respiratory-assessment/">
+<link rel="canonical" href="https://nursingstudyvault.online/health-talk/respiratory-assessment-health-talk.html">
 
 <!-- Title -->
 <h1 style="color:#1a73e8;text-align:center;font-size:clamp(1.5rem,4vw,2.2rem);border-bottom:3px solid #1a73e8;padding-bottom:15px;margin-bottom:25px;">

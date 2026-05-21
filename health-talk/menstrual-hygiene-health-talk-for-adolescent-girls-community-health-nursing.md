@@ -11,8 +11,9 @@ keywords: Health Talk on Menstrual Hygiene Menstrual Hygiene Health Talk for
   Health Talk Adolescent Girls Health Education Menstrual Hygiene Management
   Sanitary Pad Use Menstrual Cycle Health Talk RKSK Programme WIFS Programme
 subject: Community Health Nursing Practical
-permalink: health-talk/menstrual-hygiene-health-talk-for-adolescent-girls.html
+permalink: /health-talk/menstrual-hygiene-health-talk-for-adolescent-girls.html
 category: Health Talk
+canonical: https://nursingstudyvault.online/health-talk/menstrual-hygiene-health-talk-for-adolescent-girls.html
 ---
 <article itemscope itemtype="https://schema.org/Article" style="max-width:900px;margin:0 auto;font-family:'Segoe UI',system-ui,sans-serif;line-height:1.8;color:#333;">
 
@@ -30,7 +31,7 @@ category: Health Talk
 <meta name="subject" content="Community Health Nursing Practical">
 <meta name="author" content="Nursing Study Vault">
 <meta name="robots" content="index, follow">
-<link rel="canonical" href="https://nursingstudyvault.online/menstrual-hygiene-health-talk-for-adolescent-girls/">
+<link rel="canonical" href="https://nursingstudyvault.online/health-talk/menstrual-hygiene-health-talk-for-adolescent-girls.html">
 
 <!-- Title -->
 <h1 style="color:#1a73e8;text-align:center;font-size:clamp(1.5rem,4vw,2.2rem);border-bottom:3px solid #1a73e8;padding-bottom:15px;margin-bottom:25px;">

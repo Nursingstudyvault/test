@@ -12,6 +12,7 @@ keywords: Health Talk on Personal Hygiene Personal Hygiene Health Talk for
 subject: Community Health Nursing Practical
 permalink: /health-talk/personal-hygiene-health-talk.html
 category: Health Talk
+canonical: https://nursingstudyvault.online/health-talk/personal-hygiene-health-talk.html
 ---
 <article itemscope itemtype="https://schema.org/Article" style="max-width:900px;margin:0 auto;font-family:'Segoe UI',system-ui,sans-serif;line-height:1.8;color:#333;">
 

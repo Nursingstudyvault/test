@@ -14,8 +14,9 @@ keywords: Health Talk on Family Planning Methods Family Planning Methods Health
   IUCD Health Talk Oral Contraceptive Pills Condom Health Education Injectable
   Contraception Emergency Contraception
 subject: Community Health Nursing Practical
-permalink: health-talk/family-planning-methods-health-talk-for-eligible-couples.html
+permalink: /health-talk/family-planning-methods-health-talk-for-eligible-couples.html
 category: Health Talk
+canonical: https://nursingstudyvault.online/health-talk/family-planning-methods-health-talk-for-eligible-couples.html
 ---
 <article itemscope itemtype="https://schema.org/Article" style="max-width:900px;margin:0 auto;font-family:'Segoe UI',system-ui,sans-serif;line-height:1.8;color:#333;">
 
@@ -33,7 +34,7 @@ category: Health Talk
 <meta name="subject" content="Community Health Nursing Practical">
 <meta name="author" content="Nursing Study Vault">
 <meta name="robots" content="index, follow">
-<link rel="canonical" href="https://nursingstudyvault.online/family-planning-methods-health-talk-for-eligible-couples/">
+<link rel="canonical" href="https://nursingstudyvault.online/health-talk/family-planning-methods-health-talk-for-eligible-couples.html">
 
 <!-- Title -->
 <h1 style="color:#1a73e8;text-align:center;font-size:clamp(1.5rem,4vw,2.2rem);border-bottom:3px solid #1a73e8;padding-bottom:15px;margin-bottom:25px;">

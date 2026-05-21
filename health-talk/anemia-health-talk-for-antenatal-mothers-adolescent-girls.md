@@ -11,6 +11,7 @@ keywords: Health Talk on Anemia Anemia Health Talk for Antenatal Mothers Anemia
 subject: Community Health Nursing Practical
 permalink: /health-talk/anemia-health-talk.html
 category: Health Talk
+canonical: https://nursingstudyvault.online/health-talk/anemia-health-talk.html
 ---
 <article itemscope itemtype="https://schema.org/Article" style="max-width:900px;margin:0 auto;font-family:'Segoe UI',system-ui,sans-serif;line-height:1.8;color:#333;">
 
