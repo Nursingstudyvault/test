@@ -18,14 +18,6 @@ category: Health Talk
 <meta itemprop="educationalUse" content="Nursing Practical File">
 <meta itemprop="audience" content="ANM, GNM, BSc Nursing Students">
 
-<!-- SEO Meta Tags -->
-<title>Dengue Fever Prevention Health Talk for Community People | Community Health Nursing</title>
-<link rel="canonical" href="https://nursingstudyvault.online/health-talk/dengue-fever-prevention-health-talk.html">
-<meta name="description" content="Complete dengue fever prevention health talk for community people in Community Health Nursing. Includes causes, Aedes mosquito transmission, symptoms, warning signs, prevention of mosquito breeding, personal protection, home care, danger signs, role of nurse, evaluation questions and references.">
-<meta name="keywords" content="dengue fever prevention health talk, health talk on dengue fever, dengue health talk for community people, dengue prevention health education, dengue fever symptoms, dengue warning signs, aedes mosquito prevention, mosquito breeding prevention, community health nursing health talk, nursing practical file, ANM GNM BSc Nursing practical">
-<meta name="subject" content="Community Health Nursing Practical">
-<meta name="author" content="Nursing Study Vault">
-<meta name="robots" content="index, follow">
 <!-- Title -->
 <h1 style="color:#1a73e8;text-align:center;font-size:clamp(1.5rem,4vw,2.2rem);border-bottom:3px solid #1a73e8;padding-bottom:15px;margin-bottom:25px;">
 🗣️ Health Talk on Prevention of Dengue Fever
