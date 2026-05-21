@@ -1,8 +1,9 @@
 from pathlib import Path
 from datetime import datetime
-import re, subprocess, html as htmlmod, sys
+import re
+import subprocess
 
-SITE = "https://nursingstudyvault.online"
+BASE = "https://nursingstudyvault.online"
 
 categories = {
     "1": ("health-talk", "Health Talk"),
@@ -16,79 +17,45 @@ categories = {
     "9": ("surgical-care-plan", "Surgical Care Plan"),
 }
 
-def clean_text(x):
-    x = re.sub(r"<[^>]+>", " ", x or "")
-    x = htmlmod.unescape(x)
-    x = re.sub(r"\s+", " ", x).strip()
-    return x
+def clean_text(s):
+    return " ".join((s or "").replace("\n", " ").split()).strip()
 
-def get_meta(content, key):
-    patterns = [
-        rf'<meta[^>]+name=["\']{key}["\'][^>]+content=["\']([^"\']*)["\']',
-        rf'<meta[^>]+itemprop=["\']{key}["\'][^>]+content=["\']([^"\']*)["\']',
-        rf'<meta[^>]+property=["\']{key}["\'][^>]+content=["\']([^"\']*)["\']',
-        rf'<meta[^>]+content=["\']([^"\']*)["\'][^>]+name=["\']{key}["\']',
-        rf'<meta[^>]+content=["\']([^"\']*)["\'][^>]+itemprop=["\']{key}["\']',
-    ]
-    for pat in patterns:
-        m = re.search(pat, content, re.I | re.S)
-        if m:
-            return clean_text(m.group(1))
+def slugify(title):
+    return re.sub(r'[^a-z0-9]+', '-', title.lower()).strip('-')
+
+def meta_content(html, name):
+    m = re.search(rf'<meta\s+name=["\']{re.escape(name)}["\']\s+content=["\']([^"\']*)["\']', html, re.I)
+    return clean_text(m.group(1)) if m else ""
+
+def itemprop_content(html, name):
+    m = re.search(rf'<meta\s+itemprop=["\']{re.escape(name)}["\']\s+content=["\']([^"\']*)["\']', html, re.I)
+    return clean_text(m.group(1)) if m else ""
+
+def title_from_html(html):
+    m = re.search(r'<title[^>]*>(.*?)</title>', html, re.I | re.S)
+    if m:
+        return clean_text(re.sub(r'<[^>]+>', '', m.group(1)))
+    h = re.search(r'<h1[^>]*>(.*?)</h1>', html, re.I | re.S)
+    if h:
+        return clean_text(re.sub(r'<[^>]+>', '', h.group(1)))
     return ""
 
-def get_title(content):
-    h1 = re.search(r"<h1[^>]*>(.*?)</h1>", content, re.I | re.S)
-    if h1:
-        return clean_text(h1.group(1))
-    headline = get_meta(content, "headline")
-    if headline:
-        return headline
-    title = re.search(r"<title[^>]*>(.*?)</title>", content, re.I | re.S)
-    if title:
-        return clean_text(title.group(1))
-    return input("Title not found. Enter title: ").strip()
+def fix_canonical(html, permalink):
+    correct = BASE + permalink
 
-def make_slug(text):
-    text = htmlmod.unescape(text).lower()
-    text = text.replace("&", " and ")
-    text = re.sub(r"[^a-z0-9]+", "-", text)
-    text = re.sub(r"-+", "-", text).strip("-")
-    return text[:75].strip("-")
+    html = re.sub(
+        r'<link\s+rel=["\']canonical["\']\s+href=["\'][^"\']*["\']\s*/?>\s*',
+        '',
+        html,
+        flags=re.I
+    )
 
-def make_description(content):
-    desc = get_meta(content, "description")
-    if not desc:
-        desc = clean_text(content)
-    return desc[:155].rstrip()
+    if re.search(r'</title>', html, re.I):
+        html = re.sub(r'</title>', f'</title>\n<link rel="canonical" href="{correct}">', html, count=1, flags=re.I)
+    else:
+        html = f'<link rel="canonical" href="{correct}">\n' + html
 
-def make_keywords(title, content):
-    kw = get_meta(content, "keywords")
-    if kw:
-        return kw
-    text = clean_text(title + " " + content).lower()
-    words = re.findall(r"[a-z]{4,}", text)
-    stop = set("this that with from have will your about into only also more style color border padding margin font width table health talk nursing practical file student content article strong children child mother mothers".split())
-    freq = {}
-    for w in words:
-        if w not in stop:
-            freq[w] = freq.get(w, 0) + 1
-    return ", ".join(sorted(freq, key=freq.get, reverse=True)[:12])
-
-def get_subject(content, category):
-    sub = get_meta(content, "subject")
-    if sub:
-        return sub
-    m = re.search(r"<strong>\s*Subject:\s*</strong>\s*([^<]+)", content, re.I | re.S)
-    if m:
-        return clean_text(m.group(1))
-    return category
-
-def remove_head_tags(content):
-    content = re.sub(r"<title[^>]*>.*?</title>", "", content, flags=re.I | re.S)
-    content = re.sub(r"<meta[^>]+(?:name|property|itemprop)=['\"][^'\"]+['\"][^>]*>", "", content, flags=re.I | re.S)
-    content = re.sub(r"<link[^>]+rel=['\"]canonical['\"][^>]*>", "", content, flags=re.I | re.S)
-    content = re.sub(r"\n\s*\n\s*\n+", "\n\n", content).strip()
-    return content
+    return html, correct
 
 print("Select category:")
 for k, v in categories.items():
@@ -96,14 +63,11 @@ for k, v in categories.items():
 
 choice = input("Category number: ").strip()
 if choice not in categories:
-    print("Invalid category")
-    sys.exit(1)
+    raise SystemExit("Invalid category number")
 
 folder, category = categories[choice]
 
-image = input("Featured image path, example /assets/uploads/image.webp (blank allowed): ").strip()
-
-print("\nPaste full HTML article. End with single line: END")
+print("\nPaste full HTML content. End with a single line: END")
 lines = []
 while True:
     line = input()
@@ -111,30 +75,27 @@ while True:
         break
     lines.append(line)
 
-raw_content = "\n".join(lines).strip()
+html = "\n".join(lines).strip()
 
-title = get_title(raw_content)
-description = make_description(raw_content)
-keywords = make_keywords(title, raw_content)
-subject = get_subject(raw_content, category)
+title = title_from_html(html)
+description = meta_content(html, "description") or itemprop_content(html, "description")
+keywords = meta_content(html, "keywords")
+subject = meta_content(html, "subject") or "Nursing Practical File"
 
-suggested_slug = make_slug(title)
-custom_slug = input(f"Slug [{suggested_slug}]: ").strip()
-slug = make_slug(custom_slug) if custom_slug else suggested_slug
+if not title:
+    title = input("Title not found. Enter title: ").strip()
+if not description:
+    description = input("Description not found. Enter meta description: ").strip()
+if not keywords:
+    keywords = input("Keywords not found. Enter keywords: ").strip()
 
+slug = slugify(title)
 permalink = f"/{folder}/{slug}.html"
-canonical = SITE + permalink
-
-content = remove_head_tags(raw_content)
 
 Path(folder).mkdir(exist_ok=True)
-file = Path(folder) / f"{slug}.html"
+file = Path(folder) / f"{slug}.md"
 
-if file.exists():
-    ans = input(f"File exists: {file}. Overwrite? y/n: ").strip().lower()
-    if ans != "y":
-        print("Cancelled.")
-        sys.exit(0)
+html, canonical = fix_canonical(html, permalink)
 
 date = datetime.now().astimezone().isoformat(timespec="seconds")
 
@@ -148,23 +109,15 @@ subject: {subject}
 permalink: {permalink}
 canonical: {canonical}
 category: {category}
+---
 """
 
-if image:
-    front += f"image: {image}\n"
+file.write_text(front + html + "\n", encoding="utf-8")
 
-front += "---\n"
-
-file.write_text(front + content + "\n", encoding="utf-8")
-
-print("\nSEO picked:")
+print("\nCreated:", file)
 print("Title:", title)
-print("Description:", description)
-print("Keywords:", keywords)
-print("Subject:", subject)
+print("Permalink:", permalink)
 print("Canonical:", canonical)
-print("File:", file)
-print("URL:", canonical)
 
 subprocess.run(["rm", "-rf", "_site"], check=False)
 subprocess.run(["npx", "@11ty/eleventy"], check=True)
@@ -174,4 +127,5 @@ subprocess.run(["git", "commit", "-m", f"Add {title}"], check=True)
 subprocess.run(["git", "pull", "--rebase", "origin", "main"], check=True)
 subprocess.run(["git", "push", "origin", "main"], check=True)
 
-print("\nDone! Netlify deploy complete hone ke baad URL live hoga.")
+print("\nDone! Netlify deploy complete hone ke baad URL live hoga:")
+print(canonical)
