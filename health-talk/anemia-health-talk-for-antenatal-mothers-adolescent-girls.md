@@ -1,8 +1,16 @@
 ---
 title: Anemia - Health Talk for Antenatal Mothers & Adolescent Girls
 date: 2026-05-20T01:45:00.000+05:30
-category: Health Talk
+description: Complete anemia health talk for antenatal mothers and adolescent
+  girls. Includes causes, signs and symptoms, prevention, iron-rich foods, IFA
+  tablets, complications, evaluation questions and nursing practical file
+  content.
+keywords: Health Talk on Anemia Anemia Health Talk for Antenatal Mothers Anemia
+  Health Talk for Adolescent Girls Anemia in Pregnancy Health Talk Iron
+  Deficiency Anemia Health Talk Anemia Prevention Health Talk
+subject: Community Health Nursing Practical
 permalink: /health-talk/anemia-health-talk.html
+category: Health Talk
 ---
 <article itemscope itemtype="https://schema.org/Article" style="max-width:900px;margin:0 auto;font-family:'Segoe UI',system-ui,sans-serif;line-height:1.8;color:#333;">
 
