@@ -13,7 +13,8 @@ keywords: case study on COPD, COPD nursing case study, chronic obstructive
   nursing practical file COPD, BSc nursing COPD case study, GNM nursing COPD
   case study, ANM nursing COPD case study
 subject: Medical-Surgical Nursing, Respiratory Nursing, NANDA Nursing Care Plan
-permalink: case-study/case-study-on-copd.html
+permalink: /case-study/case-study-on-copd.html
+canonical: https://nursingstudyvault.online/case-study/case-study-on-copd.html
 category: Case Study
 ---
 <article itemscope itemtype="https://schema.org/Article" style="max-width:900px;margin:0 auto;font-family:'Segoe UI',system-ui,sans-serif;line-height:1.8;color:#333;">

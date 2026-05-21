@@ -15,7 +15,8 @@ keywords: coronary angioplasty case study, PTCA nursing case study, DES stenting
   study
 subject: Medical-Surgical Nursing Practical File / Cardiology Nursing /
   Interventional Cardiology
-permalink: case-study/coronary-angioplasty-ptca-des-stenting-complete-nanda-nursing-case-study.html
+permalink: /case-study/coronary-angioplasty-ptca-des-stenting-complete-nanda-nursing-case-study.html
+canonical: https://nursingstudyvault.online/case-study/coronary-angioplasty-ptca-des-stenting-complete-nanda-nursing-case-study.html
 category: Case Study
 ---
 <article itemscope itemtype="https://schema.org/Article" style="max-width:900px;margin:0 auto;font-family:'Segoe UI',system-ui,sans-serif;line-height:1.8;color:#333;">
