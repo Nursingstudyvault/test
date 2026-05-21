@@ -15,6 +15,9 @@ canonical: https://nursingstudyvault.online/health-talk/anemia-health-talk.html
 ---
 <article itemscope itemtype="https://schema.org/Article" style="max-width:900px;margin:0 auto;font-family:'Segoe UI',system-ui,sans-serif;line-height:1.8;color:#333;">
 
+
+<link rel="canonical" href="https://nursingstudyvault.online/health-talk/anemia-health-talk.html">
+
 <meta itemprop="headline" content="Health Talk on Anemia for Antenatal Mothers and Adolescent Girls">
 <meta itemprop="description" content="Complete health talk on anemia for nursing practical file. Covers causes, symptoms, iron-rich diet, IFA tablets, and prevention of anemia in pregnancy and adolescence.">
 <meta itemprop="datePublished" content="2026-05-20">
