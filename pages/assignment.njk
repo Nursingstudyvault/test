@@ -1,37 +1,54 @@
 ---
 hideRelated: true
 layout: layout.njk
-title: Assignment
-description: Ready-made nursing assignment files.
+title: Assignments
+description: Nursing health talks for ANM, GNM and BSc Nursing practical files.
 category: Assignment
 ---
 
 <div class="category-header">
-    <div class="cat-icon">📝</div>
-    <h1>Assignment</h1>
+    <div class="cat-icon">🗣️</div>
+
+    <h1>Assignments</h1>
 
     <p class="cat-desc">
-        Ready-made nursing college assignment files with proper formatting,
-        headings, subheadings, and references. Covering all major nursing
-        subjects for ANM, GNM, and BSc Nursing students.
+        Detailed nursing health talks with introduction, objectives,
+        AV aids, content, evaluation questions, references, and health
+        education material for ANM, GNM, and BSc Nursing practical files.
     </p>
 </div>
 
 <div class="post-list">
-{% for post in collections.assignment | reverse %}
+
+{% for post in collections.all | reverse %}
+
+{% if "assignment/" in post.inputPath %}
+
     <div class="post-card">
+
         <div class="post-info">
+
             <h3>{{ post.data.title }}</h3>
 
             <p class="post-meta">
-                {{ post.date | date("MMMM dd, yyyy") }}
-                {% if post.data.subject %}
-                | {{ post.data.subject }}
-                {% endif %}
+                {{ post.date.toLocaleDateString('en-IN') }}
             </p>
+
+            <p class="post-desc">
+                {{ post.data.description or
+                "Detailed nursing health talk for ANM, GNM and BSc Nursing students." }}
+            </p>
+
         </div>
 
-        <a href="{{ post.url }}" class="btn">View Assignment</a>
+        <a href="{{ post.url }}" class="btn">
+            Read Assignment
+        </a>
+
     </div>
+
+{% endif %}
+
 {% endfor %}
+
 </div>

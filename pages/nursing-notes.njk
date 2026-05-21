@@ -1,26 +1,54 @@
 ---
 hideRelated: true
 layout: layout.njk
-title: Nursing Notes
-description: Comprehensive nursing study notes and summaries.
+title: Nursing Notess
+description: Nursing health talks for ANM, GNM and BSc Nursing practical files.
 category: Nursing Notes
 ---
 
 <div class="category-header">
-    <div class="cat-icon">📒</div>
-    <h1>Nursing Notes</h1>
-    <p class="cat-desc">Comprehensive nursing study notes, chapter summaries, and quick revision guides covering all major nursing subjects. Perfect for exam preparation and last-minute revision for ANM, GNM, and BSc Nursing students.</p>
+    <div class="cat-icon">🗣️</div>
+
+    <h1>Nursing Notess</h1>
+
+    <p class="cat-desc">
+        Detailed nursing health talks with introduction, objectives,
+        AV aids, content, evaluation questions, references, and health
+        education material for ANM, GNM, and BSc Nursing practical files.
+    </p>
 </div>
 
 <div class="post-list">
-{% set posts = collections.nursingNotes | reverse %}
-{% for post in posts %}
+
+{% for post in collections.all | reverse %}
+
+{% if "nursing-notes/" in post.inputPath %}
+
     <div class="post-card">
+
         <div class="post-info">
+
             <h3>{{ post.data.title }}</h3>
-            <p class="post-meta">{{ post.date.toLocaleDateString('en-IN') }} | {{ post.data.subject }}</p>
+
+            <p class="post-meta">
+                {{ post.date.toLocaleDateString('en-IN') }}
+            </p>
+
+            <p class="post-desc">
+                {{ post.data.description or
+                "Detailed nursing health talk for ANM, GNM and BSc Nursing students." }}
+            </p>
+
         </div>
-        <a href="{{ post.url }}" class="btn">View Notes</a>
+
+        <a href="{{ post.url }}" class="btn">
+            Read Nursing Notes
+        </a>
+
     </div>
+
+{% endif %}
+
 {% endfor %}
+
 </div>

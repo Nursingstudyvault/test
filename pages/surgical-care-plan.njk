@@ -1,26 +1,54 @@
 ---
 hideRelated: true
 layout: layout.njk
-title: Surgical Care Plan
-description: Pre-operative and post-operative surgical nursing care plans.
+title: Surgical Care Plans
+description: Nursing health talks for ANM, GNM and BSc Nursing practical files.
 category: Surgical Care Plan
 ---
 
 <div class="category-header">
-    <div class="cat-icon">🏥</div>
-    <h1>Surgical Care Plan</h1>
-    <p class="cat-desc">Pre-operative and post-operative surgical nursing care plans with complete nursing interventions, rationale, and evaluation. Ready to use for ANM, GNM, and BSc Nursing practical files.</p>
+    <div class="cat-icon">🗣️</div>
+
+    <h1>Surgical Care Plans</h1>
+
+    <p class="cat-desc">
+        Detailed nursing health talks with introduction, objectives,
+        AV aids, content, evaluation questions, references, and health
+        education material for ANM, GNM, and BSc Nursing practical files.
+    </p>
 </div>
 
 <div class="post-list">
-{% set posts = collections.surgicalCarePlan | reverse %}
-{% for post in posts %}
+
+{% for post in collections.all | reverse %}
+
+{% if "surgical-care-plan/" in post.inputPath %}
+
     <div class="post-card">
+
         <div class="post-info">
+
             <h3>{{ post.data.title }}</h3>
-            <p class="post-meta">{{ post.date.toLocaleDateString('en-IN') }} | {{ post.data.reference }}</p>
+
+            <p class="post-meta">
+                {{ post.date.toLocaleDateString('en-IN') }}
+            </p>
+
+            <p class="post-desc">
+                {{ post.data.description or
+                "Detailed nursing health talk for ANM, GNM and BSc Nursing students." }}
+            </p>
+
         </div>
-        <a href="{{ post.url }}" class="btn">View Plan</a>
+
+        <a href="{{ post.url }}" class="btn">
+            Read Surgical Care Plan
+        </a>
+
     </div>
+
+{% endif %}
+
 {% endfor %}
+
 </div>

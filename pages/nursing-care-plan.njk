@@ -1,11 +1,54 @@
 ---
 hideRelated: true
 layout: layout.njk
-title: Nursing Care Plan
-description: Complete nursing care plans.
+title: Nursing Care Plans
+description: Nursing health talks for ANM, GNM and BSc Nursing practical files.
 category: Nursing Care Plan
 ---
 
-<h1>Nursing Care Plan</h1>
-<p>Test page working.</p>
+<div class="category-header">
+    <div class="cat-icon">🗣️</div>
 
+    <h1>Nursing Care Plans</h1>
+
+    <p class="cat-desc">
+        Detailed nursing health talks with introduction, objectives,
+        AV aids, content, evaluation questions, references, and health
+        education material for ANM, GNM, and BSc Nursing practical files.
+    </p>
+</div>
+
+<div class="post-list">
+
+{% for post in collections.all | reverse %}
+
+{% if "nursing-care-plan/" in post.inputPath %}
+
+    <div class="post-card">
+
+        <div class="post-info">
+
+            <h3>{{ post.data.title }}</h3>
+
+            <p class="post-meta">
+                {{ post.date.toLocaleDateString('en-IN') }}
+            </p>
+
+            <p class="post-desc">
+                {{ post.data.description or
+                "Detailed nursing health talk for ANM, GNM and BSc Nursing students." }}
+            </p>
+
+        </div>
+
+        <a href="{{ post.url }}" class="btn">
+            Read Nursing Care Plan
+        </a>
+
+    </div>
+
+{% endif %}
+
+{% endfor %}
+
+</div>

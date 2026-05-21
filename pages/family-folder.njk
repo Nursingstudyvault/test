@@ -1,36 +1,54 @@
 ---
 hideRelated: true
 layout: layout.njk
-title: Family Folder
-description: Community health nursing family folder formats.
+title: Family Folders
+description: Nursing health talks for ANM, GNM and BSc Nursing practical files.
 category: Family Folder
 ---
 
 <div class="category-header">
-    <div class="cat-icon">👨‍👩‍👧‍👦</div>
-    <h1>Family Folder</h1>
+    <div class="cat-icon">🗣️</div>
+
+    <h1>Family Folders</h1>
+
     <p class="cat-desc">
-        Community health nursing family folder formats, household survey templates,
-        family assessment forms, genogram examples, and health census formats.
-        Essential for ANM, GNM, and BSc Nursing community health practicals.
+        Detailed nursing health talks with introduction, objectives,
+        AV aids, content, evaluation questions, references, and health
+        education material for ANM, GNM, and BSc Nursing practical files.
     </p>
 </div>
 
 <div class="post-list">
-{% for post in collections.familyFolder | reverse %}
+
+{% for post in collections.all | reverse %}
+
+{% if "family-folder/" in post.inputPath %}
+
     <div class="post-card">
+
         <div class="post-info">
+
             <h3>{{ post.data.title }}</h3>
 
             <p class="post-meta">
-                {{ post.date | date("MMMM dd, yyyy") }}
-                {% if post.data.category %}
-                | {{ post.data.category }}
-                {% endif %}
+                {{ post.date.toLocaleDateString('en-IN') }}
             </p>
+
+            <p class="post-desc">
+                {{ post.data.description or
+                "Detailed nursing health talk for ANM, GNM and BSc Nursing students." }}
+            </p>
+
         </div>
 
-        <a href="{{ post.url }}" class="btn">View Format</a>
+        <a href="{{ post.url }}" class="btn">
+            Read Family Folder
+        </a>
+
     </div>
+
+{% endif %}
+
 {% endfor %}
+
 </div>

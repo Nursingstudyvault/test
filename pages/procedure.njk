@@ -1,26 +1,54 @@
 ---
 hideRelated: true
 layout: layout.njk
-title: Procedure
-description: Step-by-step nursing procedures with rationale.
+title: Procedures
+description: Nursing health talks for ANM, GNM and BSc Nursing practical files.
 category: Procedure
 ---
 
 <div class="category-header">
-    <div class="cat-icon">🩺</div>
-    <h1>Procedure</h1>
-    <p class="cat-desc">Step-by-step nursing procedures with scientific rationale, indications, contraindications, equipment list, and nursing considerations. Perfect for ANM, GNM, and BSc Nursing practical files and OSCE preparation.</p>
+    <div class="cat-icon">🗣️</div>
+
+    <h1>Procedures</h1>
+
+    <p class="cat-desc">
+        Detailed nursing health talks with introduction, objectives,
+        AV aids, content, evaluation questions, references, and health
+        education material for ANM, GNM, and BSc Nursing practical files.
+    </p>
 </div>
 
 <div class="post-list">
-{% set posts = collections.procedure | reverse %}
-{% for post in posts %}
+
+{% for post in collections.all | reverse %}
+
+{% if "procedure/" in post.inputPath %}
+
     <div class="post-card">
+
         <div class="post-info">
+
             <h3>{{ post.data.title }}</h3>
-            <p class="post-meta">{{ post.date.toLocaleDateString('en-IN') }} | {{ post.data.reference }}</p>
+
+            <p class="post-meta">
+                {{ post.date.toLocaleDateString('en-IN') }}
+            </p>
+
+            <p class="post-desc">
+                {{ post.data.description or
+                "Detailed nursing health talk for ANM, GNM and BSc Nursing students." }}
+            </p>
+
         </div>
-        <a href="{{ post.url }}" class="btn">View Procedure</a>
+
+        <a href="{{ post.url }}" class="btn">
+            Read Procedure
+        </a>
+
     </div>
+
+{% endif %}
+
 {% endfor %}
+
 </div>
