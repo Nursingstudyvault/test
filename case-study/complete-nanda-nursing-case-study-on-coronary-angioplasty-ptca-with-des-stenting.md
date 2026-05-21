@@ -2,8 +2,10 @@
 title: Complete NANDA nursing case study on Coronary Angioplasty (PTCA with DES
   Stenting).
 date: 2026-05-20T22:21:00.000+05:30
-description: NANDA practical file for ANM, GNM, BSc Nursing. Includes stent care
-  plan, DAPT education, and cardiac rehabilitation nursing.
+description: Complete NANDA nursing case study on Coronary Angioplasty (PTCA
+  with DES stenting). Includes patient assessment, pathophysiology, indications,
+  procedure, nursing diagnoses, care plan, interventions, evaluation and
+  discharge advice.
 keywords: coronary angioplasty case study, PTCA nursing case study, DES stenting
   nursing care, drug eluting stent case study, NANDA format cardiac case study,
   cardiology nursing practical file, stent nursing care plan, DAPT nursing
