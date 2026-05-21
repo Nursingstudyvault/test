@@ -15,7 +15,8 @@ keywords: breastfeeding health talk, health talk on breastfeeding, breastfeeding
   lactating mother health talk, community health nursing health talk, nursing
   practical file, ANM GNM BSc Nursing practical
 subject: Community Health Nursing Practical
-permalink: health-talk/breastfeeding-health-talk-for-postnatal-mothers.html
+permalink: /health-talk/breastfeeding-health-talk-for-postnatal-mothers.html
+canonical: https://nursingstudyvault.online/health-talk/breastfeeding-health-talk-for-postnatal-mothers.html
 category: Health Talk
 ---
 <article itemscope itemtype="https://schema.org/Article" style="max-width:900px;margin:0 auto;font-family:'Segoe UI',system-ui,sans-serif;line-height:1.8;color:#333;">
@@ -34,7 +35,7 @@ category: Health Talk
 <meta name="subject" content="Community Health Nursing Practical">
 <meta name="author" content="Nursing Study Vault">
 <meta name="robots" content="index, follow">
-<link rel="canonical" href="https://nursingstudyvault.online/breastfeeding-health-talk-for-postnatal-mothers/">
+<link rel="canonical" href="https://nursingstudyvault.online/health-talk/breastfeeding-health-talk-for-postnatal-mothers.html">
 
 <!-- Title -->
 <h1 style="color:#1a73e8;text-align:center;font-size:clamp(1.5rem,4vw,2.2rem);border-bottom:3px solid #1a73e8;padding-bottom:15px;margin-bottom:25px;">
