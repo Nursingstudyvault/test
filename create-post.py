@@ -89,7 +89,10 @@ if not description:
 if not keywords:
     keywords = input("Keywords not found. Enter keywords: ").strip()
 
-slug = slugify(title)
+default_slug = slugify(title)
+print("\nDefault slug:", default_slug)
+custom_slug = input("Short slug enter karo (blank = default): ").strip()
+slug = slugify(custom_slug) if custom_slug else default_slug
 permalink = f"/{folder}/{slug}.html"
 
 Path(folder).mkdir(exist_ok=True)
@@ -100,7 +103,6 @@ html, canonical = fix_canonical(html, permalink)
 date = datetime.now().astimezone().isoformat(timespec="seconds")
 
 front = f"""---
-layout: post.njk
 title: {title}
 date: {date}
 description: {description}
@@ -109,6 +111,7 @@ subject: {subject}
 permalink: {permalink}
 canonical: {canonical}
 category: {category}
+hideRelated: true
 ---
 """
 

@@ -1,5 +1,4 @@
 ---
-layout: post.njk
 title: 🗣️ Health Talk on Prevention of Malnutrition
 date: 2026-05-21T19:51:43+05:30
 description: Complete malnutrition prevention health talk for mothers of under-five children in Community Health Nursing. Includes causes of malnutrition, signs and sym
@@ -8,12 +7,12 @@ subject: Community Health Nursing Practical
 permalink: /health-talk/malnutrition-prevention-health-talk.html
 canonical: https://nursingstudyvault.online/health-talk/malnutrition-prevention-health-talk.html
 category: Health Talk
+hideRelated: true
 ---
 <article itemscope itemtype="https://schema.org/Article" style="max-width:900px;margin:0 auto;font-family:'Segoe UI',system-ui,sans-serif;line-height:1.8;color:#333;">
 
 <!-- Schema.org Metadata for Google -->
 
-<!-- SEO Meta Tags -->
 <!-- Title -->
 <h1 style="color:#1a73e8;text-align:center;font-size:clamp(1.5rem,4vw,2.2rem);border-bottom:3px solid #1a73e8;padding-bottom:15px;margin-bottom:25px;">
 🗣️ Health Talk on Prevention of Malnutrition
