@@ -1,8 +1,17 @@
 ---
 title: Personal Hygiene - Health Talk for School Children | Community Health Nursing
 date: 2026-05-19T23:13:00.000+05:30
-category: Health Talk
+description: Complete personal hygiene health talk for school children in
+  Community Health Nursing. Includes definition, objectives, hand washing, oral
+  care, bathing, nail care, clean clothes, disease prevention, evaluation
+  questions and nursing practical file content.
+keywords: Health Talk on Personal Hygiene Personal Hygiene Health Talk for
+  School Children Personal Hygiene for School Students Community Health Nursing
+  Health Talk Hand Washing Health Talk Oral Hygiene Health Talk School Health
+  Programme
+subject: Community Health Nursing Practical
 permalink: /health-talk/personal-hygiene-health-talk.html
+category: Health Talk
 ---
 <article itemscope itemtype="https://schema.org/Article" style="max-width:900px;margin:0 auto;font-family:'Segoe UI',system-ui,sans-serif;line-height:1.8;color:#333;">
 
