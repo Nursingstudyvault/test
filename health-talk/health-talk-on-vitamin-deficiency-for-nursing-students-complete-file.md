@@ -10,7 +10,7 @@ keywords: Vitamin Deficiency Health Talk Vitamin Deficiency Nursing Practical
   Health Talk for Nursing Students Community Health Nursing Health Talk Vitamin
   Deficiency Causes Symptoms Prevention
 subject: Community Health Nursing Practical
-permalink: health-talk/health-talk-on-vitamin-deficiency.html
+permalink: health-talk/vitamin-deficiency-health-talk.html
 category: Health Talk
 ---
 <article itemscope itemtype="https://schema.org/Article" style="max-width:900px;margin:0 auto;font-family:'Segoe UI',system-ui,sans-serif;line-height:1.8;color:#333;">
