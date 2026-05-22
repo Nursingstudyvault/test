@@ -1,4 +1,4 @@
-
+---
 layout: layout.njk
 title: Nursing Care Plan on Hyperthyroidism
 description: Complete nursing care plan on hyperthyroidism for nursing students with patient assessment, family history, nursing diagnosis, interventions, evaluation, health education and discharge planning.
@@ -8,7 +8,8 @@ permalink: /nursing-care-plan/nursing-care-plan-on-hyperthyroidism.html
 canonical: https://nursingstudyvault.online/nursing-care-plan/nursing-care-plan-on-hyperthyroidism.html
 hideRelated: true
 ---
----
+
+
 <article itemscope itemtype="https://schema.org/Article" style="max-width:900px;margin:0 auto;font-family:'Segoe UI',system-ui,sans-serif;line-height:1.8;color:#333;">
 
 <meta itemprop="headline" content="Nursing Care Plan on Hyperthyroidism">
