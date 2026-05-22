@@ -1,4 +1,6 @@
 ---
+
+
 title: Assignment on Malnutrition | Nursing Practical File
 date: 2026-05-22T16:41:20+05:30
 description: Long detailed nursing assignment on malnutrition with introduction, definition, causes, types, risk factors, signs and symptoms, diagnosis, management, nursing care plan, prevention, health education and bibliography.
@@ -9,6 +11,19 @@ canonical: https://nursingstudyvault.online/assignment/assignment-on-malnutritio
 category: Assignment
 hideRelated: true
 ---
+
+<style>
+article{max-width:900px;margin:0 auto;background:#fff;padding:22px;border-radius:18px;box-shadow:0 4px 18px rgba(0,0,0,.08);font-family:'Segoe UI',sans-serif;line-height:1.8;color:#333}
+h1{color:#1557b0;text-align:center;border-bottom:3px solid #1a73e8;padding-bottom:14px}
+h2{color:#1557b0;border-left:5px solid #1a73e8;background:#eef5ff;padding:10px 12px;border-radius:8px;margin-top:28px}
+h3{color:#1a73e8}
+p,li{font-size:1rem}
+table{width:100%;border-collapse:collapse;margin:15px 0;box-shadow:0 2px 10px rgba(0,0,0,.08)}
+th{background:#1a73e8;color:white;padding:10px;border:1px solid #ddd}
+td{padding:10px;border:1px solid #ddd}
+tr:nth-child(even){background:#e8f0fe}
+.note{background:#fff3cd;border:1px solid #ffc107;border-radius:10px;padding:12px;margin:18px 0}
+</style>
 <article class="assignment-card">
 
 <title>Assignment on Malnutrition | Nursing Practical File</title>
