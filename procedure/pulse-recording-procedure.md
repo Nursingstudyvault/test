@@ -1,0 +1,329 @@
+---
+title: Pulse Recording Procedure | Nursing Practical File
+date: 2026-05-22T13:55:15+05:30
+description: Complete pulse recording procedure practical file for nursing students. Includes definition, purposes, normal pulse rate, pulse sites, indications, articles, preparation, step-by-step procedure with scientific rationale, precautions, documentation, health education, evaluation and references.
+keywords: pulse recording procedure, pulse measurement nursing procedure, pulse rate nursing practical, vital signs procedure, nursing practical file, ANM GNM BSc Nursing procedure, pulse recording steps with rationale
+subject: Nursing Practical Procedure
+permalink: /procedure/pulse-recording-procedure.html
+canonical: https://nursingstudyvault.online/procedure/pulse-recording-procedure.html
+category: Procedure
+hideRelated: true
+---
+<article itemscope itemtype="https://schema.org/Article" style="max-width:900px;margin:0 auto;font-family:'Segoe UI',system-ui,sans-serif;line-height:1.8;color:#333;">
+
+<meta itemprop="headline" content="Pulse Recording Procedure">
+<meta itemprop="description" content="Complete nursing practical file on pulse recording procedure with definition, purposes, normal pulse rate, pulse sites, articles, steps, rationale, precautions, documentation, health education and references.">
+<meta itemprop="datePublished" content="2026-01-15">
+<meta itemprop="educationalUse" content="Nursing Practical File">
+<meta itemprop="audience" content="ANM, GNM, BSc Nursing Students">
+
+<title>Pulse Recording Procedure | Nursing Practical File</title>
+<link rel="canonical" href="https://nursingstudyvault.online/procedure/pulse-recording-procedure.html">
+<meta name="description" content="Complete pulse recording procedure practical file for nursing students. Includes definition, purposes, normal pulse rate, pulse sites, indications, articles, preparation, step-by-step procedure with scientific rationale, precautions, documentation, health education, evaluation and references.">
+<meta name="keywords" content="pulse recording procedure, pulse measurement nursing procedure, pulse rate nursing practical, vital signs procedure, nursing practical file, ANM GNM BSc Nursing procedure, pulse recording steps with rationale">
+<meta name="subject" content="Nursing Practical Procedure">
+<meta name="author" content="Nursing Study Vault">
+<meta name="robots" content="index, follow">
+<h1 style="color:#1a73e8;text-align:center;font-size:clamp(1.5rem,4vw,2.2rem);border-bottom:3px solid #1a73e8;padding-bottom:15px;margin-bottom:25px;">
+💓 Pulse Recording Procedure
+</h1>
+
+<p style="text-align:center;color:#666;font-size:0.95rem;margin-bottom:30px;">
+<strong>Subject:</strong> Nursing Practical &nbsp;|&nbsp; 
+<strong>Suitable For:</strong> ANM / GNM / BSc Nursing &nbsp;|&nbsp; 
+<strong>Use:</strong> Practical File / Clinical Procedure
+</p>
+
+<div style="background:#fff3cd;border:1px solid #ffc107;padding:12px 15px;border-radius:8px;margin-bottom:25px;font-size:0.9rem;text-align:center;">
+⚠️ <strong>Educational Purpose Only:</strong> This content is prepared for nursing academic practical file work.
+</div>
+
+<h2 style="color:#1557b0;border-left:5px solid #1a73e8;padding-left:12px;margin:30px 0 15px;">📋 Student Information</h2>
+
+<div style="overflow-x:auto;-webkit-overflow-scrolling:touch;margin:15px 0;border-radius:10px;box-shadow:0 2px 10px rgba(0,0,0,0.08);">
+<table style="width:100%;border-collapse:collapse;min-width:600px;font-size:clamp(0.8rem,2vw,0.95rem);">
+<tbody>
+<tr style="background:#e8f0fe;"><td style="padding:12px 15px;border:1px solid #ddd;font-weight:600;width:35%;">Student Name</td><td style="padding:12px 15px;border:1px solid #ddd;">[Your Name]</td></tr>
+<tr><td style="padding:12px 15px;border:1px solid #ddd;font-weight:600;">Course</td><td style="padding:12px 15px;border:1px solid #ddd;">ANM / GNM / BSc Nursing</td></tr>
+<tr style="background:#e8f0fe;"><td style="padding:12px 15px;border:1px solid #ddd;font-weight:600;">Subject</td><td style="padding:12px 15px;border:1px solid #ddd;">Fundamentals of Nursing / Community Health Nursing Practical</td></tr>
+<tr><td style="padding:12px 15px;border:1px solid #ddd;font-weight:600;">Name of Procedure</td><td style="padding:12px 15px;border:1px solid #ddd;">Pulse Recording Procedure</td></tr>
+<tr style="background:#e8f0fe;"><td style="padding:12px 15px;border:1px solid #ddd;font-weight:600;">Clinical Area</td><td style="padding:12px 15px;border:1px solid #ddd;">Ward / OPD / PHC / CHC / Community Area</td></tr>
+<tr><td style="padding:12px 15px;border:1px solid #ddd;font-weight:600;">Date</td><td style="padding:12px 15px;border:1px solid #ddd;">[Enter Date]</td></tr>
+<tr style="background:#e8f0fe;"><td style="padding:12px 15px;border:1px solid #ddd;font-weight:600;">Performed By</td><td style="padding:12px 15px;border:1px solid #ddd;">Student Nurse</td></tr>
+<tr><td style="padding:12px 15px;border:1px solid #ddd;font-weight:600;">Supervised By</td><td style="padding:12px 15px;border:1px solid #ddd;">[Clinical Instructor Name]</td></tr>
+</tbody>
+</table>
+</div>
+
+<h2 style="color:#1557b0;border-left:5px solid #1a73e8;padding-left:12px;margin:30px 0 15px;">1. Definition</h2>
+<p><strong>Pulse recording</strong> is a nursing procedure used to assess and record the rhythmic expansion and contraction of an artery produced by the contraction of the heart. It helps to determine the heart rate, rhythm, volume and general circulatory status of the patient.</p>
+
+<h2 style="color:#1557b0;border-left:5px solid #1a73e8;padding-left:12px;margin:30px 0 15px;">2. Purposes / Objectives</h2>
+<ul>
+<li>To assess the rate, rhythm, volume and character of pulse.</li>
+<li>To evaluate the functioning of the heart and circulatory system.</li>
+<li>To detect abnormalities such as tachycardia, bradycardia or irregular pulse.</li>
+<li>To monitor changes in the patient’s condition.</li>
+<li>To assess response to treatment, medication, exercise or illness.</li>
+<li>To record vital signs accurately in the TPR chart.</li>
+<li>To identify early signs of shock, fever, dehydration or cardiac problems.</li>
+</ul>
+
+<h2 style="color:#1557b0;border-left:5px solid #1a73e8;padding-left:12px;margin:30px 0 15px;">3. Normal Pulse Rate</h2>
+
+<div style="overflow-x:auto;-webkit-overflow-scrolling:touch;margin:15px 0;border-radius:10px;box-shadow:0 2px 10px rgba(0,0,0,0.08);">
+<table style="width:100%;border-collapse:collapse;min-width:650px;font-size:clamp(0.8rem,2vw,0.95rem);">
+<thead>
+<tr style="background:#1a73e8;color:white;">
+<th style="padding:12px 15px;border:1px solid #1a73e8;">Age Group</th>
+<th style="padding:12px 15px;border:1px solid #1a73e8;">Normal Pulse Rate / Minute</th>
+<th style="padding:12px 15px;border:1px solid #1a73e8;">Remarks</th>
+</tr>
+</thead>
+<tbody>
+<tr><td style="padding:10px 15px;border:1px solid #ddd;">Newborn</td><td style="padding:10px 15px;border:1px solid #ddd;">100–160/min</td><td style="padding:10px 15px;border:1px solid #ddd;">Higher than adults</td></tr>
+<tr style="background:#e8f0fe;"><td style="padding:10px 15px;border:1px solid #ddd;">Infant</td><td style="padding:10px 15px;border:1px solid #ddd;">100–150/min</td><td style="padding:10px 15px;border:1px solid #ddd;">Varies with crying and activity</td></tr>
+<tr><td style="padding:10px 15px;border:1px solid #ddd;">Child</td><td style="padding:10px 15px;border:1px solid #ddd;">70–120/min</td><td style="padding:10px 15px;border:1px solid #ddd;">Decreases with age</td></tr>
+<tr style="background:#e8f0fe;"><td style="padding:10px 15px;border:1px solid #ddd;">Adolescent</td><td style="padding:10px 15px;border:1px solid #ddd;">60–100/min</td><td style="padding:10px 15px;border:1px solid #ddd;">Similar to adult range</td></tr>
+<tr><td style="padding:10px 15px;border:1px solid #ddd;">Adult</td><td style="padding:10px 15px;border:1px solid #ddd;">60–100/min</td><td style="padding:10px 15px;border:1px solid #ddd;">Normal resting pulse</td></tr>
+<tr style="background:#e8f0fe;"><td style="padding:10px 15px;border:1px solid #ddd;">Elderly</td><td style="padding:10px 15px;border:1px solid #ddd;">60–100/min</td><td style="padding:10px 15px;border:1px solid #ddd;">May vary due to disease/medicines</td></tr>
+</tbody>
+</table>
+</div>
+
+<h2 style="color:#1557b0;border-left:5px solid #1a73e8;padding-left:12px;margin:30px 0 15px;">4. Pulse Sites</h2>
+
+<div style="overflow-x:auto;-webkit-overflow-scrolling:touch;margin:15px 0;border-radius:10px;box-shadow:0 2px 10px rgba(0,0,0,0.08);">
+<table style="width:100%;border-collapse:collapse;min-width:700px;font-size:clamp(0.8rem,2vw,0.95rem);">
+<thead>
+<tr style="background:#1a73e8;color:white;">
+<th style="padding:12px 15px;border:1px solid #1a73e8;">Pulse Site</th>
+<th style="padding:12px 15px;border:1px solid #1a73e8;">Location</th>
+<th style="padding:12px 15px;border:1px solid #1a73e8;">Common Use</th>
+</tr>
+</thead>
+<tbody>
+<tr><td style="padding:10px 15px;border:1px solid #ddd;">Radial Pulse</td><td style="padding:10px 15px;border:1px solid #ddd;">Thumb side of wrist</td><td style="padding:10px 15px;border:1px solid #ddd;">Routine pulse recording</td></tr>
+<tr style="background:#e8f0fe;"><td style="padding:10px 15px;border:1px solid #ddd;">Carotid Pulse</td><td style="padding:10px 15px;border:1px solid #ddd;">Side of neck</td><td style="padding:10px 15px;border:1px solid #ddd;">Emergency and CPR assessment</td></tr>
+<tr><td style="padding:10px 15px;border:1px solid #ddd;">Brachial Pulse</td><td style="padding:10px 15px;border:1px solid #ddd;">Inner side of elbow</td><td style="padding:10px 15px;border:1px solid #ddd;">Infants and blood pressure measurement</td></tr>
+<tr style="background:#e8f0fe;"><td style="padding:10px 15px;border:1px solid #ddd;">Apical Pulse</td><td style="padding:10px 15px;border:1px solid #ddd;">5th intercostal space, left midclavicular line</td><td style="padding:10px 15px;border:1px solid #ddd;">Cardiac patients, infants, irregular pulse</td></tr>
+<tr><td style="padding:10px 15px;border:1px solid #ddd;">Femoral Pulse</td><td style="padding:10px 15px;border:1px solid #ddd;">Groin area</td><td style="padding:10px 15px;border:1px solid #ddd;">Shock or emergency assessment</td></tr>
+<tr style="background:#e8f0fe;"><td style="padding:10px 15px;border:1px solid #ddd;">Popliteal Pulse</td><td style="padding:10px 15px;border:1px solid #ddd;">Behind knee</td><td style="padding:10px 15px;border:1px solid #ddd;">Lower limb circulation assessment</td></tr>
+<tr><td style="padding:10px 15px;border:1px solid #ddd;">Posterior Tibial Pulse</td><td style="padding:10px 15px;border:1px solid #ddd;">Behind medial malleolus</td><td style="padding:10px 15px;border:1px solid #ddd;">Foot circulation assessment</td></tr>
+<tr style="background:#e8f0fe;"><td style="padding:10px 15px;border:1px solid #ddd;">Dorsalis Pedis Pulse</td><td style="padding:10px 15px;border:1px solid #ddd;">Top of foot</td><td style="padding:10px 15px;border:1px solid #ddd;">Peripheral circulation assessment</td></tr>
+</tbody>
+</table>
+</div>
+
+<h2 style="color:#1557b0;border-left:5px solid #1a73e8;padding-left:12px;margin:30px 0 15px;">5. Indications</h2>
+<ul>
+<li>On admission of patient.</li>
+<li>During routine vital signs monitoring.</li>
+<li>Before and after surgery or invasive procedure.</li>
+<li>Before and after administration of cardiac drugs.</li>
+<li>When patient complains of chest pain, dizziness, weakness or palpitation.</li>
+<li>During fever, dehydration, shock, bleeding or infection.</li>
+<li>Before and after exercise or physiotherapy.</li>
+<li>In cardiac, respiratory, emergency and critically ill patients.</li>
+</ul>
+
+<h2 style="color:#1557b0;border-left:5px solid #1a73e8;padding-left:12px;margin:30px 0 15px;">6. Articles Required</h2>
+
+<div style="overflow-x:auto;-webkit-overflow-scrolling:touch;margin:15px 0;border-radius:10px;box-shadow:0 2px 10px rgba(0,0,0,0.08);">
+<table style="width:100%;border-collapse:collapse;min-width:650px;font-size:clamp(0.8rem,2vw,0.95rem);">
+<thead>
+<tr style="background:#1a73e8;color:white;">
+<th style="padding:12px 15px;border:1px solid #1a73e8;">S.No.</th>
+<th style="padding:12px 15px;border:1px solid #1a73e8;">Articles</th>
+<th style="padding:12px 15px;border:1px solid #1a73e8;">Purpose</th>
+</tr>
+</thead>
+<tbody>
+<tr><td style="padding:10px 15px;border:1px solid #ddd;">1</td><td style="padding:10px 15px;border:1px solid #ddd;">Watch with second hand / Digital timer</td><td style="padding:10px 15px;border:1px solid #ddd;">To count pulse accurately for one minute</td></tr>
+<tr style="background:#e8f0fe;"><td style="padding:10px 15px;border:1px solid #ddd;">2</td><td style="padding:10px 15px;border:1px solid #ddd;">Stethoscope</td><td style="padding:10px 15px;border:1px solid #ddd;">For apical pulse if required</td></tr>
+<tr><td style="padding:10px 15px;border:1px solid #ddd;">3</td><td style="padding:10px 15px;border:1px solid #ddd;">Vital signs chart / TPR chart</td><td style="padding:10px 15px;border:1px solid #ddd;">To record pulse rate and characteristics</td></tr>
+<tr style="background:#e8f0fe;"><td style="padding:10px 15px;border:1px solid #ddd;">4</td><td style="padding:10px 15px;border:1px solid #ddd;">Pen</td><td style="padding:10px 15px;border:1px solid #ddd;">For documentation</td></tr>
+<tr><td style="padding:10px 15px;border:1px solid #ddd;">5</td><td style="padding:10px 15px;border:1px solid #ddd;">Hand sanitizer / Soap and water</td><td style="padding:10px 15px;border:1px solid #ddd;">For hand hygiene</td></tr>
+</tbody>
+</table>
+</div>
+
+<h2 style="color:#1557b0;border-left:5px solid #1a73e8;padding-left:12px;margin:30px 0 15px;">7. Preparation of Patient</h2>
+<ul>
+<li>Identify the patient correctly.</li>
+<li>Explain the procedure in simple language.</li>
+<li>Provide privacy and comfort.</li>
+<li>Ask the patient to relax and avoid talking during pulse counting.</li>
+<li>Position the patient comfortably in sitting or lying position.</li>
+<li>Support the arm comfortably if radial pulse is assessed.</li>
+<li>Allow the patient to rest for 5–10 minutes if pulse is being checked after activity.</li>
+</ul>
+
+<h2 style="color:#1557b0;border-left:5px solid #1a73e8;padding-left:12px;margin:30px 0 15px;">8. Preparation of Nurse</h2>
+<ul>
+<li>Perform hand hygiene.</li>
+<li>Collect required articles.</li>
+<li>Check that watch or timer is working properly.</li>
+<li>Select appropriate pulse site according to patient condition.</li>
+<li>Maintain calm environment to avoid false reading.</li>
+<li>Know normal pulse range according to age.</li>
+</ul>
+
+<h2 style="color:#1557b0;border-left:5px solid #1a73e8;padding-left:12px;margin:30px 0 15px;">9. Procedure Steps with Scientific Rationale</h2>
+
+<div style="overflow-x:auto;-webkit-overflow-scrolling:touch;margin:15px 0;border-radius:10px;box-shadow:0 2px 10px rgba(0,0,0,0.08);">
+<table style="width:100%;border-collapse:collapse;min-width:850px;font-size:clamp(0.78rem,2vw,0.92rem);">
+<thead>
+<tr style="background:#1a73e8;color:white;">
+<th style="padding:12px 15px;border:1px solid #1a73e8;">S.No.</th>
+<th style="padding:12px 15px;border:1px solid #1a73e8;">Procedure Steps</th>
+<th style="padding:12px 15px;border:1px solid #1a73e8;">Scientific Rationale</th>
+</tr>
+</thead>
+<tbody>
+<tr><td style="padding:10px 15px;border:1px solid #ddd;">1</td><td style="padding:10px 15px;border:1px solid #ddd;">Identify the patient by name, age and bed number.</td><td style="padding:10px 15px;border:1px solid #ddd;">Prevents error and ensures correct patient care.</td></tr>
+<tr style="background:#e8f0fe;"><td style="padding:10px 15px;border:1px solid #ddd;">2</td><td style="padding:10px 15px;border:1px solid #ddd;">Explain the procedure to the patient.</td><td style="padding:10px 15px;border:1px solid #ddd;">Reduces anxiety and promotes cooperation.</td></tr>
+<tr><td style="padding:10px 15px;border:1px solid #ddd;">3</td><td style="padding:10px 15px;border:1px solid #ddd;">Perform hand hygiene.</td><td style="padding:10px 15px;border:1px solid #ddd;">Prevents transmission of microorganisms.</td></tr>
+<tr style="background:#e8f0fe;"><td style="padding:10px 15px;border:1px solid #ddd;">4</td><td style="padding:10px 15px;border:1px solid #ddd;">Place the patient in comfortable sitting or lying position.</td><td style="padding:10px 15px;border:1px solid #ddd;">Comfort and relaxation help to obtain accurate pulse reading.</td></tr>
+<tr><td style="padding:10px 15px;border:1px solid #ddd;">5</td><td style="padding:10px 15px;border:1px solid #ddd;">Support the patient’s forearm and wrist with palm facing downward or upward.</td><td style="padding:10px 15px;border:1px solid #ddd;">Relaxed position makes radial artery easier to palpate.</td></tr>
+<tr style="background:#e8f0fe;"><td style="padding:10px 15px;border:1px solid #ddd;">6</td><td style="padding:10px 15px;border:1px solid #ddd;">Place tips of index, middle and ring fingers over radial artery at wrist.</td><td style="padding:10px 15px;border:1px solid #ddd;">Finger tips are sensitive to feel arterial pulsation.</td></tr>
+<tr><td style="padding:10px 15px;border:1px solid #ddd;">7</td><td style="padding:10px 15px;border:1px solid #ddd;">Do not use thumb for counting pulse.</td><td style="padding:10px 15px;border:1px solid #ddd;">Thumb has its own pulsation and may give false reading.</td></tr>
+<tr style="background:#e8f0fe;"><td style="padding:10px 15px;border:1px solid #ddd;">8</td><td style="padding:10px 15px;border:1px solid #ddd;">Apply gentle pressure until pulse is felt clearly.</td><td style="padding:10px 15px;border:1px solid #ddd;">Excessive pressure may obstruct blood flow and weak pressure may miss pulse.</td></tr>
+<tr><td style="padding:10px 15px;border:1px solid #ddd;">9</td><td style="padding:10px 15px;border:1px solid #ddd;">Count pulse for 60 seconds.</td><td style="padding:10px 15px;border:1px solid #ddd;">Counting for one full minute gives accurate reading, especially if pulse is irregular.</td></tr>
+<tr style="background:#e8f0fe;"><td style="padding:10px 15px;border:1px solid #ddd;">10</td><td style="padding:10px 15px;border:1px solid #ddd;">Observe rhythm, volume, tension and character of pulse.</td><td style="padding:10px 15px;border:1px solid #ddd;">Helps assess cardiovascular status and detect abnormalities.</td></tr>
+<tr><td style="padding:10px 15px;border:1px solid #ddd;">11</td><td style="padding:10px 15px;border:1px solid #ddd;">If pulse is irregular, assess apical pulse with stethoscope for one full minute.</td><td style="padding:10px 15px;border:1px solid #ddd;">Apical pulse gives more accurate heart rate in irregular rhythm.</td></tr>
+<tr style="background:#e8f0fe;"><td style="padding:10px 15px;border:1px solid #ddd;">12</td><td style="padding:10px 15px;border:1px solid #ddd;">Make the patient comfortable after procedure.</td><td style="padding:10px 15px;border:1px solid #ddd;">Promotes comfort and dignity.</td></tr>
+<tr><td style="padding:10px 15px;border:1px solid #ddd;">13</td><td style="padding:10px 15px;border:1px solid #ddd;">Perform hand hygiene.</td><td style="padding:10px 15px;border:1px solid #ddd;">Prevents cross infection.</td></tr>
+<tr style="background:#e8f0fe;"><td style="padding:10px 15px;border:1px solid #ddd;">14</td><td style="padding:10px 15px;border:1px solid #ddd;">Record pulse rate, rhythm, volume, site, date and time in TPR chart.</td><td style="padding:10px 15px;border:1px solid #ddd;">Provides legal record and continuity of care.</td></tr>
+<tr><td style="padding:10px 15px;border:1px solid #ddd;">15</td><td style="padding:10px 15px;border:1px solid #ddd;">Report abnormal findings to staff nurse/doctor/clinical instructor.</td><td style="padding:10px 15px;border:1px solid #ddd;">Early reporting helps in prompt treatment and prevention of complications.</td></tr>
+</tbody>
+</table>
+</div>
+
+<h2 style="color:#1557b0;border-left:5px solid #1a73e8;padding-left:12px;margin:30px 0 15px;">10. Characteristics of Pulse</h2>
+
+<div style="overflow-x:auto;-webkit-overflow-scrolling:touch;margin:15px 0;border-radius:10px;box-shadow:0 2px 10px rgba(0,0,0,0.08);">
+<table style="width:100%;border-collapse:collapse;min-width:700px;font-size:clamp(0.8rem,2vw,0.95rem);">
+<thead>
+<tr style="background:#1a73e8;color:white;">
+<th style="padding:12px 15px;border:1px solid #1a73e8;">Characteristic</th>
+<th style="padding:12px 15px;border:1px solid #1a73e8;">Meaning</th>
+<th style="padding:12px 15px;border:1px solid #1a73e8;">Example / Abnormality</th>
+</tr>
+</thead>
+<tbody>
+<tr><td style="padding:10px 15px;border:1px solid #ddd;">Rate</td><td style="padding:10px 15px;border:1px solid #ddd;">Number of beats per minute</td><td style="padding:10px 15px;border:1px solid #ddd;">Tachycardia, bradycardia</td></tr>
+<tr style="background:#e8f0fe;"><td style="padding:10px 15px;border:1px solid #ddd;">Rhythm</td><td style="padding:10px 15px;border:1px solid #ddd;">Regularity of beats</td><td style="padding:10px 15px;border:1px solid #ddd;">Regular or irregular pulse</td></tr>
+<tr><td style="padding:10px 15px;border:1px solid #ddd;">Volume</td><td style="padding:10px 15px;border:1px solid #ddd;">Strength of pulse wave</td><td style="padding:10px 15px;border:1px solid #ddd;">Weak, bounding, thready</td></tr>
+<tr style="background:#e8f0fe;"><td style="padding:10px 15px;border:1px solid #ddd;">Tension</td><td style="padding:10px 15px;border:1px solid #ddd;">Force needed to compress artery</td><td style="padding:10px 15px;border:1px solid #ddd;">Soft or hard pulse</td></tr>
+<tr><td style="padding:10px 15px;border:1px solid #ddd;">Equality</td><td style="padding:10px 15px;border:1px solid #ddd;">Comparison on both sides</td><td style="padding:10px 15px;border:1px solid #ddd;">Unequal pulse may indicate vascular problem</td></tr>
+</tbody>
+</table>
+</div>
+
+<h2 style="color:#1557b0;border-left:5px solid #1a73e8;padding-left:12px;margin:30px 0 15px;">11. Common Abnormal Pulse Findings</h2>
+<ul>
+<li><strong>Tachycardia:</strong> Pulse rate above normal range.</li>
+<li><strong>Bradycardia:</strong> Pulse rate below normal range.</li>
+<li><strong>Irregular pulse:</strong> Unequal spacing between pulse beats.</li>
+<li><strong>Thready pulse:</strong> Very weak and difficult to feel.</li>
+<li><strong>Bounding pulse:</strong> Strong and forceful pulse.</li>
+<li><strong>Pulse deficit:</strong> Difference between apical and radial pulse rate.</li>
+</ul>
+
+<h2 style="color:#1557b0;border-left:5px solid #1a73e8;padding-left:12px;margin:30px 0 15px;">12. Important Points</h2>
+<ul>
+<li>Count pulse for one full minute if rhythm is irregular.</li>
+<li>Do not use thumb to assess pulse.</li>
+<li>Assess apical pulse before giving cardiac drugs like digoxin, as per institution policy.</li>
+<li>Compare pulse on both sides if circulation problem is suspected.</li>
+<li>Do not press carotid pulse on both sides at the same time.</li>
+<li>Report very fast, very slow, weak, irregular or absent pulse immediately.</li>
+</ul>
+
+<h2 style="color:#1557b0;border-left:5px solid #1a73e8;padding-left:12px;margin:30px 0 15px;">13. Precautions</h2>
+<ul>
+<li>Ensure patient is relaxed before counting pulse.</li>
+<li>Avoid checking pulse immediately after exercise, crying, anxiety or smoking unless clinically required.</li>
+<li>Use fingertips, not thumb.</li>
+<li>Apply gentle pressure only.</li>
+<li>Count for full one minute in children, elderly and cardiac patients.</li>
+<li>Maintain patient privacy and comfort.</li>
+<li>Record findings immediately.</li>
+<li>Report abnormal pulse findings without delay.</li>
+</ul>
+
+<h2 style="color:#1557b0;border-left:5px solid #1a73e8;padding-left:12px;margin:30px 0 15px;">14. After Care</h2>
+<ul>
+<li>Make the patient comfortable.</li>
+<li>Replace articles properly.</li>
+<li>Perform hand hygiene.</li>
+<li>Record pulse accurately in TPR chart.</li>
+<li>Inform staff nurse/doctor if pulse is abnormal.</li>
+<li>Continue monitoring as advised.</li>
+</ul>
+
+<h2 style="color:#1557b0;border-left:5px solid #1a73e8;padding-left:12px;margin:30px 0 15px;">15. Documentation / Recording</h2>
+<ul>
+<li>Date and time of pulse recording.</li>
+<li>Pulse rate per minute.</li>
+<li>Pulse site used: radial / apical / carotid etc.</li>
+<li>Rhythm: regular or irregular.</li>
+<li>Volume: normal, weak, thready or bounding.</li>
+<li>Any associated symptoms like dizziness, chest pain, sweating or breathlessness.</li>
+<li>Action taken and reporting if abnormal.</li>
+<li>Name/signature of student nurse.</li>
+</ul>
+
+<h2 style="color:#1557b0;border-left:5px solid #1a73e8;padding-left:12px;margin:30px 0 15px;">16. Health Education</h2>
+<ul>
+<li>Teach patient to report chest pain, palpitation, dizziness, fainting or breathlessness.</li>
+<li>Advise regular follow-up for cardiac patients.</li>
+<li>Encourage medication compliance as prescribed.</li>
+<li>Advise avoidance of smoking, alcohol and excessive caffeine.</li>
+<li>Encourage balanced diet, adequate rest and stress management.</li>
+<li>Teach patient not to stop cardiac medicines without medical advice.</li>
+<li>Encourage immediate medical help if pulse becomes very fast, very slow or irregular with symptoms.</li>
+</ul>
+
+<h2 style="color:#1557b0;border-left:5px solid #1a73e8;padding-left:12px;margin:30px 0 15px;">17. Evaluation</h2>
+
+<div style="overflow-x:auto;-webkit-overflow-scrolling:touch;margin:15px 0;border-radius:10px;box-shadow:0 2px 10px rgba(0,0,0,0.08);">
+<table style="width:100%;border-collapse:collapse;min-width:650px;font-size:clamp(0.8rem,2vw,0.95rem);">
+<thead>
+<tr style="background:#1a73e8;color:white;">
+<th style="padding:12px 15px;border:1px solid #1a73e8;">S.No.</th>
+<th style="padding:12px 15px;border:1px solid #1a73e8;">Evaluation Criteria</th>
+<th style="padding:12px 15px;border:1px solid #1a73e8;">Yes / No</th>
+</tr>
+</thead>
+<tbody>
+<tr><td style="padding:10px 15px;border:1px solid #ddd;">1</td><td style="padding:10px 15px;border:1px solid #ddd;">Identified patient correctly</td><td style="padding:10px 15px;border:1px solid #ddd;">_____</td></tr>
+<tr style="background:#e8f0fe;"><td style="padding:10px 15px;border:1px solid #ddd;">2</td><td style="padding:10px 15px;border:1px solid #ddd;">Explained procedure to patient</td><td style="padding:10px 15px;border:1px solid #ddd;">_____</td></tr>
+<tr><td style="padding:10px 15px;border:1px solid #ddd;">3</td><td style="padding:10px 15px;border:1px solid #ddd;">Performed hand hygiene</td><td style="padding:10px 15px;border:1px solid #ddd;">_____</td></tr>
+<tr style="background:#e8f0fe;"><td style="padding:10px 15px;border:1px solid #ddd;">4</td><td style="padding:10px 15px;border:1px solid #ddd;">Selected correct pulse site</td><td style="padding:10px 15px;border:1px solid #ddd;">_____</td></tr>
+<tr><td style="padding:10px 15px;border:1px solid #ddd;">5</td><td style="padding:10px 15px;border:1px solid #ddd;">Used fingertips and avoided thumb</td><td style="padding:10px 15px;border:1px solid #ddd;">_____</td></tr>
+<tr style="background:#e8f0fe;"><td style="padding:10px 15px;border:1px solid #ddd;">6</td><td style="padding:10px 15px;border:1px solid #ddd;">Counted pulse accurately for required time</td><td style="padding:10px 15px;border:1px solid #ddd;">_____</td></tr>
+<tr><td style="padding:10px 15px;border:1px solid #ddd;">7</td><td style="padding:10px 15px;border:1px solid #ddd;">Assessed rhythm and volume</td><td style="padding:10px 15px;border:1px solid #ddd;">_____</td></tr>
+<tr style="background:#e8f0fe;"><td style="padding:10px 15px;border:1px solid #ddd;">8</td><td style="padding:10px 15px;border:1px solid #ddd;">Recorded findings correctly</td><td style="padding:10px 15px;border:1px solid #ddd;">_____</td></tr>
+</tbody>
+</table>
+</div>
+
+<h2 style="color:#1557b0;border-left:5px solid #1a73e8;padding-left:12px;margin:30px 0 15px;">18. Conclusion</h2>
+<p>Pulse recording is an important vital sign procedure that helps assess cardiac function and circulatory status. Accurate pulse measurement provides information about heart rate, rhythm, volume and patient condition. It should be performed carefully using correct technique, proper timing, patient comfort and accurate documentation.</p>
+
+<h2 style="color:#1557b0;border-left:5px solid #1a73e8;padding-left:12px;margin:30px 0 15px;">19. Bibliography / References</h2>
+<ol>
+<li>Kozier & Erb's, <strong>Fundamentals of Nursing</strong>, Pearson.</li>
+<li>Potter and Perry, <strong>Fundamentals of Nursing</strong>, Elsevier.</li>
+<li>B.T. Basavanthappa, <strong>Fundamentals of Nursing</strong>, Jaypee Brothers.</li>
+<li>Brunner & Suddarth, <strong>Textbook of Medical-Surgical Nursing</strong>.</li>
+<li>Indian Nursing Council Practical Guidelines.</li>
+</ol>
+
+<div style="background:#fff3cd;border:2px solid #ffc107;padding:15px 20px;border-radius:10px;margin-top:30px;text-align:center;">
+<p style="margin:0;font-size:0.9rem;"><strong>⚕️ Disclaimer:</strong> This nursing procedure is prepared for <strong>educational and academic purposes only</strong> for ANM, GNM and BSc Nursing students. Always follow institutional guidelines and perform procedures under supervision of clinical instructor or qualified health professional.</p>
+</div>
+
+</article>
