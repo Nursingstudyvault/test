@@ -140,18 +140,49 @@ category: Case Study
 </div>
 
 <h3 style="color:#1a73e8;">FAMILY TREE</h3>
-<div style="background:#f8f9fa;border:1px solid #ced4da;border-radius:8px;padding:20px;font-family:'Courier New',monospace;font-size:clamp(0.8rem,2vw,1rem);line-height:1.8;margin:15px 0;white-space:pre;overflow-x:auto;">
-□ Mr. Ramesh Pawar (Father)
-○o Mrs. Shantabai Pawar (Mother)
-
-□ = Male  |  ○ = Female  |  ○ = Patient
-
-□○ Mr. Suresh Pawar (Patient)
-│
-├── □○ Master Rohit Pawar (Son)
-└── ○ Miss Pooja Pawar (Daughter)
+<div style="background:#ffffff;border:1px solid #d0d7de;border-radius:14px;padding:25px 15px;margin:15px 0;overflow-x:auto;box-shadow:0 4px 14px rgba(0,0,0,0.08);">
+<div style="min-width:720px;text-align:center;font-family:'Segoe UI',system-ui,sans-serif;">
+<div style="display:flex;justify-content:center;gap:25px;align-items:center;">
+<div style="background:#e8f0fe;border:2px solid #1a73e8;border-radius:12px;padding:12px 18px;width:220px;">
+    <div style="font-size:28px;">👴</div>
+    <strong>Mr. Ramesh Pawar</strong>
+    <div style="font-size:0.85rem;color:#555;">Father</div>
+    <div style="font-size:0.8rem;color:#198754;">Healthy</div>
+  </div>
 </div>
-
+<div style="height:35px;border-left:2px solid #777;margin:0 auto;width:1px;"></div>
+<div style="display:flex;justify-content:center;gap:25px;align-items:center;">
+<div style="background:#e8f0fe;border:2px solid #1a73e8;border-radius:12px;padding:12px 18px;width:220px;">
+    <div style="font-size:28px;">👨</div>
+    <strong>Mr. Suresh Pawar</strong>
+    <div style="font-size:0.85rem;color:#555;">Self / Patient</div>
+    <div style="font-size:0.8rem;color:#198754;">Hyperthyroidism</div>
+  </div>
+<div style="font-size:28px;color:#777;">♡</div>
+<div style="background:#fff3cd;border:2px solid #ffc107;border-radius:12px;padding:12px 18px;width:220px;">
+    <div style="font-size:28px;">👩</div>
+    <strong>Mrs. Sunita Pawar</strong>
+    <div style="font-size:0.85rem;color:#555;">Spouse</div>
+    <div style="font-size:0.8rem;color:#198754;">Healthy</div>
+  </div>
+</div>
+<div style="height:35px;border-left:2px solid #777;margin:0 auto;width:1px;"></div>
+<div style="display:flex;justify-content:center;gap:25px;align-items:flex-start;flex-wrap:wrap;">
+<div style="background:#e8f5e9;border:2px solid #198754;border-radius:12px;padding:12px 18px;width:220px;">
+    <div style="font-size:28px;">👦</div>
+    <strong>Master Rohit Pawar</strong>
+    <div style="font-size:0.85rem;color:#555;">Son</div>
+    <div style="font-size:0.8rem;color:#198754;">Healthy</div>
+  </div>
+<div style="background:#e8f5e9;border:2px solid #198754;border-radius:12px;padding:12px 18px;width:220px;">
+    <div style="font-size:28px;">👧</div>
+    <strong>Miss Pooja Pawar</strong>
+    <div style="font-size:0.85rem;color:#555;">Daughter</div>
+    <div style="font-size:0.8rem;color:#198754;">Healthy</div>
+  </div>
+</div>
+</div>
+</div>
 <!-- ========== PAGE 4: DIETARY, PERSONAL, SOCIO-ECONOMIC, ENVIRONMENTAL ========== -->
 <h2 style="color:#1557b0;border-left:5px solid #1a73e8;padding-left:12px;margin:30px 0 15px;">📄 Page 4 — Dietary, Personal, Socio-Economic & Environmental History</h2>
 

@@ -97,22 +97,41 @@ category: Case Study
 <tr style="background:#e8f0fe;"><td>Ms. Priya Sharma</td><td>24</td><td>F</td><td>MBBS (Final Year)</td><td>Medical Student</td><td>Unmarried</td><td>Daughter</td><td>Healthy</td></tr>
 </tbody></table></div>
 
-<h3 style="color:#1a73e8;">FAMILY TREE (GENOGRAM)</h3>
-<div style="background:#f8f9fa;border:1px solid #ced4da;border-radius:8px;padding:20px;font-family:'Courier New',monospace;font-size:clamp(0.8rem,2vw,1rem);line-height:1.8;margin:15px 0;white-space:pre;overflow-x:auto;">
-□ Mr. Ramprasad Sharma (Father — MI at 52, Expired at 65 due to CHF)
-○ Mrs. Kamla Devi Sharma (Mother — HTN at 60, Alive at 80)
-
-├── □○ Mr. Rajendra Prasad Sharma (Patient — Age 58, CAD, Post PTCA+DES)
-│   └── Married to ○ Mrs. Sunita Sharma (Age 52, Mild HTN)
-│       ├── □ Mr. Amit Sharma (Son — Age 28, Overweight, Needs CVD Screening)
-│       └── ○ Ms. Priya Sharma (Daughter — Age 24, Healthy)
-
-├── □ Mr. Rameshwar Sharma (Brother — Age 50, CAD, Post CABG×3 at 52)
-└── ○ Mrs. Sunita Devi (Sister — Age 54, Healthy, Needs CVD Screening)
-
-□ = Male   ○ = Female   ○ = Patient   □○ = Deceased Male   / = Married   ─ = Sibling
+<h3 style="color:#1a73e8;">FAMILY TREE</h3>
+<div style="background:#ffffff;border:1px solid #d0d7de;border-radius:14px;padding:25px 15px;margin:15px 0;overflow-x:auto;box-shadow:0 4px 14px rgba(0,0,0,0.08);">
+<div style="min-width:720px;text-align:center;font-family:'Segoe UI',system-ui,sans-serif;">
+<div style="display:flex;justify-content:center;gap:25px;align-items:center;">
+<div style="background:#e8f0fe;border:2px solid #1a73e8;border-radius:12px;padding:12px 18px;width:220px;">
+    <div style="font-size:28px;">👨</div>
+    <strong>Mr. Rajendra Prasad Sharma</strong>
+    <div style="font-size:0.85rem;color:#555;">Self / Patient</div>
+    <div style="font-size:0.8rem;color:#dc3545;">CAD — Post PTCA + DES</div>
+  </div>
+<div style="font-size:28px;color:#777;">♡</div>
+<div style="background:#fff3cd;border:2px solid #ffc107;border-radius:12px;padding:12px 18px;width:220px;">
+    <div style="font-size:28px;">👩</div>
+    <strong>Mrs. Sunita Sharma</strong>
+    <div style="font-size:0.85rem;color:#555;">Spouse</div>
+    <div style="font-size:0.8rem;color:#dc3545;">Healthy (Mild HTN — on low-salt diet)</div>
+  </div>
 </div>
-
+<div style="height:35px;border-left:2px solid #777;margin:0 auto;width:1px;"></div>
+<div style="display:flex;justify-content:center;gap:25px;align-items:flex-start;flex-wrap:wrap;">
+<div style="background:#e8f5e9;border:2px solid #198754;border-radius:12px;padding:12px 18px;width:220px;">
+    <div style="font-size:28px;">👦</div>
+    <strong>Mr. Amit Sharma</strong>
+    <div style="font-size:0.85rem;color:#555;">Son</div>
+    <div style="font-size:0.8rem;color:#198754;">Healthy (Overweight — BMI 28; advised CVD screening)</div>
+  </div>
+<div style="background:#e8f5e9;border:2px solid #198754;border-radius:12px;padding:12px 18px;width:220px;">
+    <div style="font-size:28px;">👧</div>
+    <strong>Ms. Priya Sharma</strong>
+    <div style="font-size:0.85rem;color:#555;">Daughter</div>
+    <div style="font-size:0.8rem;color:#198754;">Healthy</div>
+  </div>
+</div>
+</div>
+</div>
 <!-- ========== PAGE 4: DIETARY, PERSONAL, SOCIO-ECONOMIC, ENVIRONMENTAL HISTORY ========== -->
 <h2 style="color:#1557b0;border-left:5px solid #1a73e8;padding-left:12px;margin:30px 0 15px;">📄 Page 4 — Dietary, Personal, Socio-Economic & Environmental History</h2>
 
