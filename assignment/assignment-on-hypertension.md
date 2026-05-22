@@ -1,0 +1,392 @@
+---
+title: Assignment on Hypertension | Nursing Practical File
+date: 2026-05-22T16:50:54+05:30
+description: Long detailed nursing assignment on hypertension with updated BP classification, definition, causes, risk factors, symptoms, diagnosis, management, nursing care plan, prevention and health education.
+keywords: hypertension assignment, nursing assignment on hypertension, hypertension nursing practical file, high blood pressure nursing care plan, hypertension causes symptoms treatment
+subject: Nursing Assignment
+permalink: /assignment/assignment-on-hypertension.html
+canonical: https://nursingstudyvault.online/assignment/assignment-on-hypertension.html
+category: Assignment
+hideRelated: true
+---
+<article class="procedure-post">
+
+<title>Assignment on Hypertension | Nursing Practical File</title>
+<link rel="canonical" href="https://nursingstudyvault.online/assignment/assignment-on-hypertension.html">
+<meta name="description" content="Long detailed nursing assignment on hypertension with updated BP classification, definition, causes, risk factors, symptoms, diagnosis, management, nursing care plan, prevention and health education.">
+<meta name="keywords" content="hypertension assignment, nursing assignment on hypertension, hypertension nursing practical file, high blood pressure nursing care plan, hypertension causes symptoms treatment">
+<meta name="subject" content="Nursing Assignment">
+<meta name="author" content="Nursing Study Vault">
+<meta name="robots" content="index, follow">
+<h1>❤️ Assignment on Hypertension</h1>
+
+<p style="text-align:center;color:#475569;">
+<strong>Subject:</strong> Nursing Assignment | 
+<strong>Suitable For:</strong> ANM / GNM / BSc Nursing Students
+</p>
+
+<div class="note-box">
+<strong>Note:</strong> This assignment is prepared for nursing practical file purpose according to updated hypertension concepts. Students can modify details as per college guidelines.
+</div>
+
+<h2>1. Cover Page</h2>
+<table>
+<tbody>
+<tr><td><strong>Name of Assignment</strong></td><td>Assignment on Hypertension</td></tr>
+<tr><td><strong>Subject</strong></td><td>Nursing / Medical Surgical Nursing / Community Health Nursing</td></tr>
+<tr><td><strong>Student Name</strong></td><td>________________________</td></tr>
+<tr><td><strong>Course</strong></td><td>ANM / GNM / BSc Nursing</td></tr>
+<tr><td><strong>Submitted To</strong></td><td>________________________</td></tr>
+<tr><td><strong>College Name</strong></td><td>________________________</td></tr>
+<tr><td><strong>Date of Submission</strong></td><td>________________________</td></tr>
+</tbody>
+</table>
+
+<h2>2. Introduction</h2>
+<p>
+Hypertension, commonly known as high blood pressure, is a chronic condition in which the pressure of blood against the walls of arteries remains persistently elevated. Blood pressure is recorded as systolic pressure and diastolic pressure. Systolic pressure is the pressure during contraction of the heart, while diastolic pressure is the pressure during relaxation of the heart.
+</p>
+
+<p>
+Hypertension is called a “silent killer” because many patients do not have symptoms in the early stage. If not detected and controlled, it may damage vital organs such as the heart, brain, kidneys, eyes and blood vessels. Long-term uncontrolled hypertension increases the risk of stroke, heart attack, heart failure, kidney failure and vision problems.
+</p>
+
+<h2>3. Definition</h2>
+<p>
+Hypertension is defined as a persistent elevation of arterial blood pressure. In most adult clinical settings, hypertension is diagnosed when office blood pressure is repeatedly 140/90 mmHg or above. Some international guidelines also identify 130–139/80–89 mmHg as stage 1 hypertension or elevated-risk range depending on the guideline used.
+</p>
+
+<h2>4. Updated Blood Pressure Classification</h2>
+<div class="table-wrap">
+<table>
+<thead>
+<tr>
+<th>Category</th>
+<th>Systolic BP</th>
+<th>Diastolic BP</th>
+</tr>
+</thead>
+<tbody>
+<tr><td>Normal BP</td><td>Less than 120 mmHg</td><td>Less than 80 mmHg</td></tr>
+<tr><td>Elevated BP</td><td>120–129 mmHg</td><td>Less than 80 mmHg</td></tr>
+<tr><td>Stage 1 Hypertension</td><td>130–139 mmHg</td><td>80–89 mmHg</td></tr>
+<tr><td>Stage 2 Hypertension</td><td>140 mmHg or above</td><td>90 mmHg or above</td></tr>
+<tr><td>Severe Hypertension</td><td>More than 180 mmHg</td><td>More than 120 mmHg</td></tr>
+</tbody>
+</table>
+</div>
+
+<h2>5. Types of Hypertension</h2>
+<ul>
+<li><strong>Primary Hypertension:</strong> It has no single identifiable cause. It develops gradually over many years and is the most common type.</li>
+<li><strong>Secondary Hypertension:</strong> It occurs due to an underlying condition such as kidney disease, endocrine disorder, pregnancy-related hypertension or certain medications.</li>
+<li><strong>Isolated Systolic Hypertension:</strong> Systolic BP is high while diastolic BP may be normal, commonly seen in elderly people.</li>
+<li><strong>White Coat Hypertension:</strong> BP is high in clinical settings but normal at home.</li>
+<li><strong>Masked Hypertension:</strong> BP is normal in clinic but high at home or during daily activities.</li>
+</ul>
+
+<h2>6. Causes of Hypertension</h2>
+<ul>
+<li>Increased peripheral vascular resistance</li>
+<li>Increased blood volume</li>
+<li>Overactivity of sympathetic nervous system</li>
+<li>Renal sodium and water retention</li>
+<li>Genetic tendency</li>
+<li>Kidney diseases</li>
+<li>Endocrine disorders</li>
+<li>Obesity</li>
+<li>High salt intake</li>
+<li>Stress and sedentary lifestyle</li>
+<li>Use of tobacco and alcohol</li>
+<li>Certain drugs such as steroids and oral contraceptive pills</li>
+</ul>
+
+<h2>7. Risk Factors</h2>
+<ul>
+<li>Increasing age</li>
+<li>Family history of hypertension</li>
+<li>Overweight and obesity</li>
+<li>High salt intake</li>
+<li>Low intake of fruits and vegetables</li>
+<li>Lack of physical activity</li>
+<li>Smoking and tobacco use</li>
+<li>Alcohol consumption</li>
+<li>Diabetes mellitus</li>
+<li>High cholesterol level</li>
+<li>Chronic kidney disease</li>
+<li>Mental stress</li>
+</ul>
+
+<h2>8. Pathophysiology</h2>
+<p>
+Blood pressure depends on cardiac output and peripheral vascular resistance. In hypertension, either cardiac output, peripheral vascular resistance or both become increased. Narrowing or stiffness of blood vessels increases resistance to blood flow. The heart has to pump with greater force, resulting in increased blood pressure.
+</p>
+
+<p>
+Long-term high blood pressure causes damage to the inner lining of blood vessels. It leads to thickening and hardening of arteries. The heart muscle becomes enlarged due to continuous workload. Gradually, uncontrolled hypertension may result in left ventricular hypertrophy, heart failure, kidney damage, stroke and vascular complications.
+</p>
+
+<h2>9. Signs and Symptoms</h2>
+<p>
+Most patients with hypertension are asymptomatic. Symptoms usually appear when blood pressure is very high or complications develop.
+</p>
+
+<ul>
+<li>Headache, especially in the morning</li>
+<li>Dizziness</li>
+<li>Blurred vision</li>
+<li>Palpitation</li>
+<li>Fatigue</li>
+<li>Shortness of breath</li>
+<li>Nose bleeding in some cases</li>
+<li>Chest pain in severe cases</li>
+<li>Confusion or weakness if stroke occurs</li>
+<li>Swelling of legs if heart or kidney involvement occurs</li>
+</ul>
+
+<h2>10. Diagnostic Evaluation</h2>
+<ul>
+<li>Repeated blood pressure measurement on different occasions</li>
+<li>Home blood pressure monitoring if advised</li>
+<li>Ambulatory blood pressure monitoring if available</li>
+<li>Complete blood count</li>
+<li>Blood sugar level</li>
+<li>Lipid profile</li>
+<li>Serum creatinine and kidney function test</li>
+<li>Urine routine examination and albumin test</li>
+<li>Electrocardiogram</li>
+<li>Echocardiography if required</li>
+<li>Fundus examination for hypertensive retinopathy</li>
+</ul>
+
+<h2>11. Correct Method of Blood Pressure Measurement</h2>
+<ul>
+<li>Allow the patient to rest for at least 5 minutes before measurement.</li>
+<li>Patient should sit comfortably with back supported.</li>
+<li>Feet should be flat on the floor and legs should not be crossed.</li>
+<li>Arm should be supported at heart level.</li>
+<li>Use correct cuff size according to arm circumference.</li>
+<li>Avoid tea, coffee, exercise and smoking at least 30 minutes before measurement.</li>
+<li>Take two readings and record the average if required.</li>
+<li>Record systolic and diastolic BP clearly with date and time.</li>
+</ul>
+
+<h2>12. Medical Management</h2>
+<ul>
+<li>Lifestyle modification for all patients.</li>
+<li>Low-salt diet and healthy dietary pattern.</li>
+<li>Weight reduction in overweight patients.</li>
+<li>Regular physical activity.</li>
+<li>Smoking and alcohol cessation.</li>
+<li>Stress reduction and adequate sleep.</li>
+<li>Antihypertensive medicines as prescribed.</li>
+<li>Regular BP monitoring and follow-up.</li>
+<li>Treatment of associated conditions such as diabetes and high cholesterol.</li>
+</ul>
+
+<h2>13. Common Antihypertensive Drugs</h2>
+<div class="table-wrap">
+<table>
+<thead>
+<tr>
+<th>Drug Class</th>
+<th>Examples</th>
+<th>Action</th>
+</tr>
+</thead>
+<tbody>
+<tr><td>Diuretics</td><td>Hydrochlorothiazide, Chlorthalidone</td><td>Remove excess salt and water from body</td></tr>
+<tr><td>ACE Inhibitors</td><td>Enalapril, Lisinopril</td><td>Relax blood vessels and reduce BP</td></tr>
+<tr><td>ARBs</td><td>Losartan, Telmisartan</td><td>Relax blood vessels and protect kidneys</td></tr>
+<tr><td>Calcium Channel Blockers</td><td>Amlodipine, Nifedipine</td><td>Relax blood vessels</td></tr>
+<tr><td>Beta Blockers</td><td>Atenolol, Metoprolol</td><td>Reduce heart rate and workload of heart</td></tr>
+</tbody>
+</table>
+</div>
+
+<h2>14. Nursing Management</h2>
+<ul>
+<li>Assess blood pressure accurately and regularly.</li>
+<li>Assess symptoms such as headache, dizziness, chest pain and breathlessness.</li>
+<li>Monitor pulse, respiration, weight and edema.</li>
+<li>Assess lifestyle habits including diet, salt intake, exercise, smoking and alcohol use.</li>
+<li>Administer antihypertensive medicines as prescribed.</li>
+<li>Observe for side effects of medicines such as dizziness, cough, swelling or excessive fall in BP.</li>
+<li>Teach patient about regular medication compliance.</li>
+<li>Encourage low-salt diet and weight control.</li>
+<li>Promote regular exercise according to patient condition.</li>
+<li>Educate patient about danger signs and need for follow-up.</li>
+</ul>
+
+<h2>15. Nursing Care Plan</h2>
+<div class="table-wrap">
+<table>
+<thead>
+<tr>
+<th>Nursing Diagnosis</th>
+<th>Goal</th>
+<th>Nursing Intervention</th>
+<th>Rationale</th>
+<th>Evaluation</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Risk for decreased cardiac output related to increased vascular resistance.</td>
+<td>Patient will maintain stable BP and adequate cardiac function.</td>
+<td>Monitor BP, pulse, chest pain, dyspnea and edema regularly.</td>
+<td>Early monitoring helps detect worsening cardiovascular status.</td>
+<td>Patient maintained stable vital signs.</td>
+</tr>
+<tr>
+<td>Deficient knowledge related to hypertension and lifestyle modification.</td>
+<td>Patient will understand disease, treatment and lifestyle changes.</td>
+<td>Explain hypertension, medication schedule, diet, exercise and follow-up.</td>
+<td>Knowledge improves self-care and treatment compliance.</td>
+<td>Patient verbalized hypertension self-care measures.</td>
+</tr>
+<tr>
+<td>Non-compliance risk related to long-term medication therapy.</td>
+<td>Patient will take medicines regularly as prescribed.</td>
+<td>Teach importance of taking medicines daily even when symptoms are absent.</td>
+<td>Hypertension is often asymptomatic, so compliance prevents complications.</td>
+<td>Patient agreed to continue medicines regularly.</td>
+</tr>
+<tr>
+<td>Risk for ineffective tissue perfusion related to high blood pressure.</td>
+<td>Patient will remain free from stroke, kidney and cardiac complications.</td>
+<td>Monitor neurological status, urine output, renal function and signs of complications.</td>
+<td>Hypertension can damage brain, kidney, heart and blood vessels.</td>
+<td>No signs of organ damage were observed.</td>
+</tr>
+</tbody>
+</table>
+</div>
+
+<h2>16. Diet Management in Hypertension</h2>
+<p>
+Diet plays an important role in controlling blood pressure. A healthy diet should include fruits, vegetables, whole grains, pulses, low-fat milk products and limited salt. Excess salt increases water retention and blood pressure. Patients should avoid processed foods, pickles, papad, chips and salty snacks.
+</p>
+
+<div class="table-wrap">
+<table>
+<thead>
+<tr>
+<th>Recommended Foods</th>
+<th>Foods to Avoid / Limit</th>
+</tr>
+</thead>
+<tbody>
+<tr><td>Fresh fruits and vegetables</td><td>Excess salt and salty snacks</td></tr>
+<tr><td>Whole grains and pulses</td><td>Pickles, papad and packaged foods</td></tr>
+<tr><td>Low-fat milk and curd</td><td>Fried and oily foods</td></tr>
+<tr><td>Nuts and seeds in limited quantity</td><td>Fast food and processed meat</td></tr>
+<tr><td>Plenty of water as advised</td><td>Excess tea, coffee, alcohol and tobacco</td></tr>
+</tbody>
+</table>
+</div>
+
+<h2>17. Lifestyle Modification</h2>
+<ul>
+<li>Reduce salt intake.</li>
+<li>Maintain healthy body weight.</li>
+<li>Do regular walking or exercise for at least 30 minutes most days of the week.</li>
+<li>Eat more fruits, vegetables and fiber-rich foods.</li>
+<li>Avoid smoking and tobacco use.</li>
+<li>Limit alcohol intake.</li>
+<li>Reduce stress through yoga, meditation and adequate sleep.</li>
+<li>Take medicines regularly.</li>
+<li>Monitor BP at regular intervals.</li>
+</ul>
+
+<h2>18. Complications of Hypertension</h2>
+<ul>
+<li>Stroke</li>
+<li>Heart attack</li>
+<li>Heart failure</li>
+<li>Left ventricular hypertrophy</li>
+<li>Chronic kidney disease</li>
+<li>Hypertensive retinopathy</li>
+<li>Peripheral vascular disease</li>
+<li>Aneurysm</li>
+<li>Cognitive decline in long-term uncontrolled hypertension</li>
+</ul>
+
+<h2>19. Hypertensive Crisis</h2>
+<p>
+Hypertensive crisis is a severe rise in blood pressure, usually more than 180/120 mmHg. It may be associated with target organ damage. It requires urgent medical attention.
+</p>
+
+<h3>Danger Signs</h3>
+<ul>
+<li>Severe headache</li>
+<li>Chest pain</li>
+<li>Shortness of breath</li>
+<li>Blurred vision</li>
+<li>Weakness or numbness of one side of body</li>
+<li>Difficulty speaking</li>
+<li>Confusion</li>
+<li>Seizures</li>
+</ul>
+
+<h2>20. Prevention of Hypertension</h2>
+<ul>
+<li>Maintain normal body weight.</li>
+<li>Eat a balanced diet with less salt.</li>
+<li>Do regular physical activity.</li>
+<li>Avoid tobacco and alcohol.</li>
+<li>Manage stress effectively.</li>
+<li>Get blood pressure checked regularly.</li>
+<li>Control diabetes and cholesterol.</li>
+<li>Take adequate sleep.</li>
+<li>Follow medical advice in high-risk individuals.</li>
+</ul>
+
+<h2>21. Health Education</h2>
+<ul>
+<li>Explain that hypertension may occur without symptoms.</li>
+<li>Advise regular BP monitoring.</li>
+<li>Teach correct timing and dose of medicines.</li>
+<li>Advise not to stop medicines without doctor’s advice.</li>
+<li>Explain low-salt diet and avoidance of salty packaged foods.</li>
+<li>Encourage regular walking and weight control.</li>
+<li>Advise avoiding smoking, tobacco and alcohol.</li>
+<li>Teach danger signs such as chest pain, severe headache, weakness, blurred vision and breathlessness.</li>
+<li>Encourage regular follow-up and laboratory tests.</li>
+<li>Educate family members to support lifestyle changes.</li>
+</ul>
+
+<h2>22. Role of Nurse</h2>
+<ul>
+<li>Screen adults for hypertension in community and clinical settings.</li>
+<li>Measure blood pressure accurately.</li>
+<li>Identify high-risk individuals.</li>
+<li>Educate patients about lifestyle modification.</li>
+<li>Promote medication adherence.</li>
+<li>Monitor side effects of antihypertensive drugs.</li>
+<li>Teach home BP monitoring if possible.</li>
+<li>Refer patients with severe BP or danger signs.</li>
+<li>Maintain records and follow-up.</li>
+<li>Conduct community awareness programmes.</li>
+</ul>
+
+<h2>23. Conclusion</h2>
+<p>
+Hypertension is a common chronic disease and an important risk factor for cardiovascular, renal and cerebrovascular complications. Early detection, regular monitoring, lifestyle modification, low-salt diet, medication compliance and follow-up are essential for controlling blood pressure. Nurses have an important role in screening, patient education, monitoring, counselling and prevention of complications.
+</p>
+
+<h2>24. Bibliography</h2>
+<ol>
+<li>K. Park, Textbook of Preventive and Social Medicine.</li>
+<li>Brunner and Suddarth, Textbook of Medical-Surgical Nursing.</li>
+<li>Basavanthappa, Community Health Nursing.</li>
+<li>World Health Organization: Hypertension Fact Sheet.</li>
+<li>American Heart Association: Blood Pressure Categories.</li>
+<li>European Society of Cardiology 2024 Guidelines on Elevated Blood Pressure and Hypertension.</li>
+</ol>
+
+<div class="disclaimer">
+<strong>Disclaimer:</strong> This content is for nursing academic purpose only. Students should follow clinical instructor and institutional guidelines.
+</div>
+
+</article>
