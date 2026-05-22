@@ -2,7 +2,7 @@
 title: 🏥 Surgical Nursing Care Plan on Appendicitis with Appendectomy
 date: 2026-05-22T11:44:24+05:30
 description: Complete surgical nursing care plan on Appendicitis with Appendectomy in NANDA format for ANM, GNM and BSc Nursing students. Includes patient data, history, family details, examination, investigations, medical and surgical management, nursing diagnoses, care plans, discharge summary and health education.
-keywords: appendicitis with appendectomy nursing care plan, appendicitis nursing care plan, appendectomy nursing care plan, appendicitis case study nursing, appendectomy case study nursing, surgical nursing care plan on appendicitis, NANDA nursing care plan for appendicitis, acute appendicitis nursing care plan, post operative care after appendectomy nursing, appendicitis with appendectomy case study, surgical case study on appendectomy, medical surgical nursing care plan appendicitis, appendicitis nursing diagnosis, appendectomy nursing diagnosis, appendicitis care plan for nursing students, appendectomy care plan for nursing students, GNM surgical nursing care plan, BSc nursing appendicitis case study, ANM nursing care plan appendectomy, complete appendicitis nursing care plan
+keywords: appendicitis with appendectomy nursing care plan, appendicitis nursing care plan, appendectomy nursing care plan, appendicitis surgical nursing care plan, appendectomy surgical nursing care plan, surgical nursing care plan on appendicitis, NANDA nursing care plan for appendicitis, acute appendicitis nursing care plan, post operative care after appendectomy nursing, appendicitis with appendectomy surgical care plan, surgical surgical care plan on appendectomy, medical surgical nursing care plan appendicitis, appendicitis nursing diagnosis, appendectomy nursing diagnosis, appendicitis care plan for nursing students, appendectomy care plan for nursing students, GNM surgical nursing care plan, BSc nursing appendicitis surgical care plan, ANM nursing care plan appendectomy, complete appendicitis nursing care plan
 subject: Nursing Practical File
 permalink: /surgical-care-plan/surgical-nursing-care-plan-on-appendicitis-with-appendectomy.html
 canonical: https://nursingstudyvault.online/surgical-care-plan/surgical-nursing-care-plan-on-appendicitis-with-appendectomy.html
@@ -29,7 +29,7 @@ Medical-Surgical Nursing | NANDA Nursing Care Plan Format
 
 <p style="text-align:center;">
 <span style="background:#dc3545;color:#fff;padding:5px 14px;border-radius:30px;font-size:0.85rem;">
-Surgical Case Study | Practical File Ready
+Surgical Nursing Care Plan | Practical File Ready
 </span>
 </p>
 
@@ -48,7 +48,7 @@ Surgical Case Study | Practical File Ready
 <tr style="background:#e8f0fe;"><td style="padding:12px 15px;border:1px solid #ddd;font-weight:600;width:35%;">Student Name</td><td style="padding:12px 15px;border:1px solid #ddd;">[Your Name]</td></tr>
 <tr><td style="padding:12px 15px;border:1px solid #ddd;font-weight:600;">Course</td><td style="padding:12px 15px;border:1px solid #ddd;">BSc Nursing / GNM / ANM</td></tr>
 <tr style="background:#e8f0fe;"><td style="padding:12px 15px;border:1px solid #ddd;font-weight:600;">Subject</td><td style="padding:12px 15px;border:1px solid #ddd;">Medical-Surgical Nursing</td></tr>
-<tr><td style="padding:12px 15px;border:1px solid #ddd;font-weight:600;">Case Study Topic</td><td style="padding:12px 15px;border:1px solid #ddd;">Appendicitis with Appendectomy</td></tr>
+<tr><td style="padding:12px 15px;border:1px solid #ddd;font-weight:600;">Surgical Care Plan Topic</td><td style="padding:12px 15px;border:1px solid #ddd;">Appendicitis with Appendectomy</td></tr>
 <tr style="background:#e8f0fe;"><td style="padding:12px 15px;border:1px solid #ddd;font-weight:600;">Format</td><td style="padding:12px 15px;border:1px solid #ddd;">NANDA-I Surgical Nursing Care Plan Format</td></tr>
 <tr><td style="padding:12px 15px;border:1px solid #ddd;font-weight:600;">Clinical Area</td><td style="padding:12px 15px;border:1px solid #ddd;">Surgical Ward / Operation Theatre / Post-operative Ward</td></tr>
 <tr style="background:#e8f0fe;"><td style="padding:12px 15px;border:1px solid #ddd;font-weight:600;">Date of Submission</td><td style="padding:12px 15px;border:1px solid #ddd;">[Enter Date]</td></tr>

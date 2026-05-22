@@ -2,7 +2,7 @@
 title: 🏥 Surgical Nursing Care Plan on Cholelithiasis with Cholecystectomy
 date: 2026-05-22T12:19:43+05:30
 description: Complete surgical nursing care plan on Cholelithiasis with Cholecystectomy in NANDA format for ANM, GNM and BSc Nursing students. Includes patient data, history, family details, examination, investigations, medical and surgical management, nursing diagnoses, care plans, discharge summary and health education.
-keywords: cholelithiasis with cholecystectomy nursing care plan, cholelithiasis nursing care plan, cholecystectomy nursing care plan, gallstones nursing care plan, gallbladder surgery nursing care plan, surgical nursing care plan on cholelithiasis, NANDA nursing care plan for cholelithiasis, laparoscopic cholecystectomy nursing care plan, post operative care after cholecystectomy nursing, cholelithiasis case study nursing, cholecystectomy case study nursing, gallbladder stone case study nursing, medical surgical nursing care plan cholelithiasis, cholelithiasis nursing diagnosis, cholecystectomy nursing diagnosis, cholecystectomy care plan for nursing students, GNM surgical nursing care plan, BSc nursing cholelithiasis case study, ANM nursing care plan cholecystectomy, complete cholelithiasis nursing care plan
+keywords: cholelithiasis with cholecystectomy nursing care plan, cholelithiasis nursing care plan, cholecystectomy nursing care plan, gallstones nursing care plan, gallbladder surgery nursing care plan, surgical nursing care plan on cholelithiasis, NANDA nursing care plan for cholelithiasis, laparoscopic cholecystectomy nursing care plan, post operative care after cholecystectomy nursing, cholelithiasis surgical nursing care plan, cholecystectomy surgical nursing care plan, gallbladder stone surgical nursing care plan, medical surgical nursing care plan cholelithiasis, cholelithiasis nursing diagnosis, cholecystectomy nursing diagnosis, cholecystectomy care plan for nursing students, GNM surgical nursing care plan, BSc nursing cholelithiasis surgical care plan, ANM nursing care plan cholecystectomy, complete cholelithiasis nursing care plan
 subject: Nursing Practical File
 permalink: /surgical-care-plan/surgical-nursing-care-plan-on-cholelithiasis-with-cholecystectomy.html
 canonical: https://nursingstudyvault.online/surgical-care-plan/surgical-nursing-care-plan-on-cholelithiasis-with-cholecystectomy.html
@@ -29,7 +29,7 @@ Medical-Surgical Nursing | NANDA Nursing Care Plan Format
 
 <p style="text-align:center;">
 <span style="background:#dc3545;color:#fff;padding:5px 14px;border-radius:30px;font-size:0.85rem;">
-Surgical Case Study | Practical File Ready
+Surgical Nursing Care Plan | Practical File Ready
 </span>
 </p>
 
@@ -48,7 +48,7 @@ Surgical Case Study | Practical File Ready
 <tr style="background:#e8f0fe;"><td style="padding:12px 15px;border:1px solid #ddd;font-weight:600;width:35%;">Student Name</td><td style="padding:12px 15px;border:1px solid #ddd;">[Your Name]</td></tr>
 <tr><td style="padding:12px 15px;border:1px solid #ddd;font-weight:600;">Course</td><td style="padding:12px 15px;border:1px solid #ddd;">BSc Nursing / GNM / ANM</td></tr>
 <tr style="background:#e8f0fe;"><td style="padding:12px 15px;border:1px solid #ddd;font-weight:600;">Subject</td><td style="padding:12px 15px;border:1px solid #ddd;">Medical-Surgical Nursing</td></tr>
-<tr><td style="padding:12px 15px;border:1px solid #ddd;font-weight:600;">Case Study Topic</td><td style="padding:12px 15px;border:1px solid #ddd;">Cholelithiasis with Cholecystectomy</td></tr>
+<tr><td style="padding:12px 15px;border:1px solid #ddd;font-weight:600;">Surgical Care Plan Topic</td><td style="padding:12px 15px;border:1px solid #ddd;">Cholelithiasis with Cholecystectomy</td></tr>
 <tr style="background:#e8f0fe;"><td style="padding:12px 15px;border:1px solid #ddd;font-weight:600;">Format</td><td style="padding:12px 15px;border:1px solid #ddd;">NANDA-I Surgical Nursing Care Plan Format</td></tr>
 <tr><td style="padding:12px 15px;border:1px solid #ddd;font-weight:600;">Clinical Area</td><td style="padding:12px 15px;border:1px solid #ddd;">Surgical Ward / Operation Theatre / Post-operative Ward</td></tr>
 <tr style="background:#e8f0fe;"><td style="padding:12px 15px;border:1px solid #ddd;font-weight:600;">Date of Submission</td><td style="padding:12px 15px;border:1px solid #ddd;">[Enter Date]</td></tr>

@@ -2,7 +2,7 @@
 title: 🏥 Surgical Nursing Care Plan on Inguinal Hernia with Herniorrhaphy / Hernioplasty
 date: 2026-05-22T12:25:48+05:30
 description: Complete surgical nursing care plan on Inguinal Hernia with Herniorrhaphy / Hernioplasty in NANDA format for ANM, GNM and BSc Nursing students. Includes patient data, history, family details, examination, investigations, surgical management, nursing diagnoses, care plans, discharge summary and health education.
-keywords: inguinal hernia surgical nursing care plan, inguinal hernia with herniorrhaphy nursing care plan, inguinal hernia with hernioplasty nursing care plan, herniorrhaphy nursing care plan, hernioplasty nursing care plan, surgical nursing care plan on inguinal hernia, NANDA nursing care plan for inguinal hernia, inguinal hernia case study nursing, herniorrhaphy case study nursing, hernioplasty case study nursing, open mesh hernioplasty nursing care plan, post operative care after hernioplasty nursing, inguinal hernia nursing diagnosis, hernia surgery nursing diagnosis, medical surgical nursing care plan inguinal hernia, inguinal hernia care plan for nursing students, GNM surgical nursing care plan, BSc nursing inguinal hernia case study, ANM nursing care plan hernioplasty, complete inguinal hernia surgical nursing care plan
+keywords: inguinal hernia surgical nursing care plan, inguinal hernia with herniorrhaphy nursing care plan, inguinal hernia with hernioplasty nursing care plan, herniorrhaphy nursing care plan, hernioplasty nursing care plan, surgical nursing care plan on inguinal hernia, NANDA nursing care plan for inguinal hernia, inguinal hernia surgical nursing care plan, herniorrhaphy surgical nursing care plan, hernioplasty surgical nursing care plan, open mesh hernioplasty nursing care plan, post operative care after hernioplasty nursing, inguinal hernia nursing diagnosis, hernia surgery nursing diagnosis, medical surgical nursing care plan inguinal hernia, inguinal hernia care plan for nursing students, GNM surgical nursing care plan, BSc nursing inguinal hernia surgical care plan, ANM nursing care plan hernioplasty, complete inguinal hernia surgical nursing care plan
 subject: Nursing Practical File
 permalink: /surgical-care-plan/inguinal-hernia-surgical-care-plan.html
 canonical: https://nursingstudyvault.online/surgical-care-plan/inguinal-hernia-surgical-care-plan.html
@@ -29,7 +29,7 @@ Medical-Surgical Nursing | NANDA Surgical Nursing Care Plan Format
 
 <p style="text-align:center;">
 <span style="background:#dc3545;color:#fff;padding:5px 14px;border-radius:30px;font-size:0.85rem;">
-Surgical Case Study | Practical File Ready
+Surgical Nursing Care Plan | Practical File Ready
 </span>
 </p>
 
@@ -48,7 +48,7 @@ Surgical Case Study | Practical File Ready
 <tr style="background:#e8f0fe;"><td style="padding:12px 15px;border:1px solid #ddd;font-weight:600;width:35%;">Student Name</td><td style="padding:12px 15px;border:1px solid #ddd;">[Your Name]</td></tr>
 <tr><td style="padding:12px 15px;border:1px solid #ddd;font-weight:600;">Course</td><td style="padding:12px 15px;border:1px solid #ddd;">BSc Nursing / GNM / ANM</td></tr>
 <tr style="background:#e8f0fe;"><td style="padding:12px 15px;border:1px solid #ddd;font-weight:600;">Subject</td><td style="padding:12px 15px;border:1px solid #ddd;">Medical-Surgical Nursing</td></tr>
-<tr><td style="padding:12px 15px;border:1px solid #ddd;font-weight:600;">Case Study Topic</td><td style="padding:12px 15px;border:1px solid #ddd;">Inguinal Hernia with Herniorrhaphy / Hernioplasty</td></tr>
+<tr><td style="padding:12px 15px;border:1px solid #ddd;font-weight:600;">Surgical Care Plan Topic</td><td style="padding:12px 15px;border:1px solid #ddd;">Inguinal Hernia with Herniorrhaphy / Hernioplasty</td></tr>
 <tr style="background:#e8f0fe;"><td style="padding:12px 15px;border:1px solid #ddd;font-weight:600;">Format</td><td style="padding:12px 15px;border:1px solid #ddd;">NANDA-I Surgical Nursing Care Plan Format</td></tr>
 <tr><td style="padding:12px 15px;border:1px solid #ddd;font-weight:600;">Clinical Area</td><td style="padding:12px 15px;border:1px solid #ddd;">Male Surgical Ward / Operation Theatre / Post-operative Ward</td></tr>
 <tr style="background:#e8f0fe;"><td style="padding:12px 15px;border:1px solid #ddd;font-weight:600;">Date of Submission</td><td style="padding:12px 15px;border:1px solid #ddd;">[Enter Date]</td></tr>

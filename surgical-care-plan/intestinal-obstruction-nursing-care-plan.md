@@ -2,7 +2,7 @@
 title: 🏥 Surgical Nursing Care Plan on Acute Intestinal Obstruction with Laparotomy
 date: 2026-05-22T12:38:21+05:30
 description: Complete surgical nursing care plan on Acute Intestinal Obstruction with Laparotomy in NANDA format for ANM, GNM and BSc Nursing students. Includes patient data, history, examination, investigations, surgical management, nursing diagnoses, care plans, discharge summary and health education.
-keywords: acute intestinal obstruction nursing care plan, intestinal obstruction nursing care plan, acute intestinal obstruction with laparotomy nursing care plan, laparotomy nursing care plan, exploratory laparotomy nursing care plan, surgical nursing care plan on intestinal obstruction, NANDA nursing care plan for intestinal obstruction, intestinal obstruction case study nursing, laparotomy case study nursing, acute intestinal obstruction nursing diagnosis, post operative care after laparotomy nursing, abdominal surgery nursing care plan, bowel obstruction nursing care plan, intestinal obstruction care plan for nursing students, GNM surgical nursing care plan, BSc nursing intestinal obstruction case study, ANM nursing care plan laparotomy, complete intestinal obstruction nursing care plan
+keywords: acute intestinal obstruction nursing care plan, intestinal obstruction nursing care plan, acute intestinal obstruction with laparotomy nursing care plan, laparotomy nursing care plan, exploratory laparotomy nursing care plan, surgical nursing care plan on intestinal obstruction, NANDA nursing care plan for intestinal obstruction, intestinal obstruction surgical nursing care plan, laparotomy surgical nursing care plan, acute intestinal obstruction nursing diagnosis, post operative care after laparotomy nursing, abdominal surgery nursing care plan, bowel obstruction nursing care plan, intestinal obstruction care plan for nursing students, GNM surgical nursing care plan, BSc nursing intestinal obstruction surgical care plan, ANM nursing care plan laparotomy, complete intestinal obstruction nursing care plan
 subject: Nursing Practical File
 permalink: /surgical-care-plan/intestinal-obstruction-nursing-care-plan.html
 canonical: https://nursingstudyvault.online/surgical-care-plan/intestinal-obstruction-nursing-care-plan.html
@@ -29,7 +29,7 @@ Medical-Surgical Nursing | NANDA Nursing Care Plan Format
 
 <p style="text-align:center;">
 <span style="background:#dc3545;color:#fff;padding:5px 14px;border-radius:30px;font-size:0.85rem;">
-Surgical Case Study | Practical File Ready
+Surgical Nursing Care Plan | Practical File Ready
 </span>
 </p>
 
@@ -48,7 +48,7 @@ Surgical Case Study | Practical File Ready
 <tr style="background:#e8f0fe;"><td style="padding:12px 15px;border:1px solid #ddd;font-weight:600;width:35%;">Student Name</td><td style="padding:12px 15px;border:1px solid #ddd;">[Your Name]</td></tr>
 <tr><td style="padding:12px 15px;border:1px solid #ddd;font-weight:600;">Course</td><td style="padding:12px 15px;border:1px solid #ddd;">BSc Nursing / GNM / ANM</td></tr>
 <tr style="background:#e8f0fe;"><td style="padding:12px 15px;border:1px solid #ddd;font-weight:600;">Subject</td><td style="padding:12px 15px;border:1px solid #ddd;">Medical-Surgical Nursing</td></tr>
-<tr><td style="padding:12px 15px;border:1px solid #ddd;font-weight:600;">Case Study Topic</td><td style="padding:12px 15px;border:1px solid #ddd;">Acute Intestinal Obstruction with Laparotomy</td></tr>
+<tr><td style="padding:12px 15px;border:1px solid #ddd;font-weight:600;">Surgical Care Plan Topic</td><td style="padding:12px 15px;border:1px solid #ddd;">Acute Intestinal Obstruction with Laparotomy</td></tr>
 <tr style="background:#e8f0fe;"><td style="padding:12px 15px;border:1px solid #ddd;font-weight:600;">Format</td><td style="padding:12px 15px;border:1px solid #ddd;">NANDA-I Surgical Nursing Care Plan Format</td></tr>
 <tr><td style="padding:12px 15px;border:1px solid #ddd;font-weight:600;">Clinical Area</td><td style="padding:12px 15px;border:1px solid #ddd;">Emergency Ward / Surgical Ward / Operation Theatre / Post-operative Ward</td></tr>
 <tr style="background:#e8f0fe;"><td style="padding:12px 15px;border:1px solid #ddd;font-weight:600;">Date of Submission</td><td style="padding:12px 15px;border:1px solid #ddd;">[Enter Date]</td></tr>
