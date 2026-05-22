@@ -4,9 +4,9 @@ date: 2026-05-22T13:05:01+05:30
 description: Complete health education practical file on care during adolescence for Community Health Nursing. Covers adolescent changes, personal hygiene, menstrual hygiene, nutrition, anemia prevention, mental health, healthy lifestyle, substance abuse prevention, lesson plan, evaluation and references.
 keywords: health education on care during adolescence, care during adolescence health education, adolescence health education, adolescent health nursing practical, adolescent care lesson plan, community health nursing practical, health education practical file, adolescent hygiene, menstrual hygiene, adolescent nutrition, anemia prevention in adolescents, mental health in adolescence, ANM GNM BSc Nursing practical
 subject: Community Health Nursing Practical
-permalink: /procedure/care-during-adolescence.html
-canonical: https://nursingstudyvault.online/procedure/care-during-adolescence.html
-category: Procedure
+permalink: /health-education/care-during-adolescence.html
+canonical: https://nursingstudyvault.online/health-education/care-during-adolescence.html
+category: Health Education
 hideRelated: true
 ---
 <article itemscope itemtype="https://schema.org/Article" style="max-width:900px;margin:0 auto;font-family:'Segoe UI',system-ui,sans-serif;line-height:1.8;color:#333;">
