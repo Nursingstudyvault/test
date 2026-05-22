@@ -4,8 +4,8 @@ date: 2026-05-22T13:37:58+05:30
 description: Complete nursing procedure practical file format for ANM, GNM and BSc Nursing students. Includes definition, purpose, indication, articles, preparation, procedure steps, scientific rationale, precautions, after care, documentation, health education and evaluation.
 keywords: nursing procedure practical file format, nursing procedure format, ANM procedure file, GNM procedure practical, BSc nursing procedure file, community health nursing procedure, nursing practical file format
 subject: Nursing Practical Procedure
-permalink: /procedure/hand-washing-procedure.html
-canonical: https://nursingstudyvault.online/procedure/hand-washing-procedure.html
+permalink: /procedure/procedure-file-format.html
+canonical: https://nursingstudyvault.online/procedure/procedure-file-format.html
 category: Procedure
 hideRelated: true
 ---
