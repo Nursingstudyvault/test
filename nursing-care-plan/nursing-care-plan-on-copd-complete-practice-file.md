@@ -151,113 +151,69 @@ category: Nursing Care Plan
 </table>
 </div>
 
+
 <h3 style="color:#1a73e8;">FAMILY TREE</h3>
 
 <div style="background:#ffffff;border:1px solid #d0d7de;border-radius:14px;padding:25px 15px;margin:15px 0;overflow-x:auto;box-shadow:0 4px 14px rgba(0,0,0,0.08);">
+<div style="min-width:720px;text-align:center;font-family:'Segoe UI',system-ui,sans-serif;">
 
-  <div style="min-width:720px;text-align:center;font-family:'Segoe UI',system-ui,sans-serif;">
+<div style="display:flex;justify-content:center;gap:25px;align-items:center;">
+  <div style="background:#e8f0fe;border:2px solid #1a73e8;border-radius:12px;padding:12px 18px;width:220px;">
+    <div style="font-size:28px;">👴</div>
+    <strong>Mr. Mohan Lal Sharma</strong>
+    <div style="font-size:0.85rem;color:#555;">Self / Patient</div>
+    <div style="font-size:0.8rem;color:#dc3545;">COPD with Acute Exacerbation</div>
+  </div>
 
-    <!-- Generation 1 -->
-    <div style="display:flex;justify-content:center;gap:25px;align-items:center;">
-      <div style="background:#e8f0fe;border:2px solid #1a73e8;border-radius:12px;padding:12px 18px;width:220px;">
-        <div style="font-size:28px;">👴</div>
-        <strong>Mr. Sharma Sr.</strong>
-        <div style="font-size:0.85rem;color:#555;">Father</div>
-        <div style="font-size:0.8rem;color:#dc3545;">Chronic smoker, respiratory illness</div>
-      </div>
+  <div style="font-size:28px;color:#777;">♡</div>
 
-      <div style="font-size:28px;color:#777;">♡</div>
-
-      <div style="background:#fff0f6;border:2px solid #d63384;border-radius:12px;padding:12px 18px;width:220px;">
-        <div style="font-size:28px;">👵</div>
-        <strong>Mrs. Sharma Sr.</strong>
-        <div style="font-size:0.85rem;color:#555;">Mother</div>
-        <div style="font-size:0.8rem;color:#666;">Age-related illness</div>
-      </div>
-    </div>
-
-    <div style="width:2px;height:35px;background:#6c757d;margin:0 auto;"></div>
-
-    <!-- Generation 2 -->
-    <div style="display:flex;justify-content:center;gap:25px;align-items:center;">
-      <div style="background:#e8f0fe;border:3px solid #dc3545;border-radius:12px;padding:12px 18px;width:240px;box-shadow:0 0 0 4px rgba(220,53,69,0.12);">
-        <div style="font-size:30px;">👨‍🦳</div>
-        <strong>Mr. Mohan Lal Sharma</strong>
-        <div style="font-size:0.85rem;color:#555;">Patient</div>
-        <div style="font-size:0.8rem;color:#dc3545;font-weight:600;">COPD with Acute Exacerbation</div>
-      </div>
-
-      <div style="font-size:28px;color:#777;">♡</div>
-
-      <div style="background:#fff0f6;border:2px solid #d63384;border-radius:12px;padding:12px 18px;width:220px;">
-        <div style="font-size:30px;">👩‍🦳</div>
-        <strong>Mrs. Kamla Devi</strong>
-        <div style="font-size:0.85rem;color:#555;">Wife</div>
-        <div style="font-size:0.8rem;color:#198754;">Healthy</div>
-      </div>
-    </div>
-
-    <div style="width:2px;height:35px;background:#6c757d;margin:0 auto;"></div>
-    <div style="width:300px;height:2px;background:#6c757d;margin:0 auto;"></div>
-
-    <!-- Generation 3 -->
-    <div style="display:flex;justify-content:center;gap:25px;margin-top:0;">
-      <div style="width:2px;height:28px;background:#6c757d;"></div>
-    </div>
-
-    <div style="display:flex;justify-content:center;gap:25px;align-items:center;">
-      <div style="background:#e8f0fe;border:2px solid #1a73e8;border-radius:12px;padding:12px 18px;width:220px;">
-        <div style="font-size:28px;">👨</div>
-        <strong>Mr. Suresh Sharma</strong>
-        <div style="font-size:0.85rem;color:#555;">Son</div>
-        <div style="font-size:0.8rem;color:#fd7e14;">Occasional smoker</div>
-      </div>
-
-      <div style="font-size:28px;color:#777;">♡</div>
-
-      <div style="background:#fff0f6;border:2px solid #d63384;border-radius:12px;padding:12px 18px;width:220px;">
-        <div style="font-size:28px;">👩</div>
-        <strong>Mrs. Neha Sharma</strong>
-        <div style="font-size:0.85rem;color:#555;">Daughter-in-law</div>
-        <div style="font-size:0.8rem;color:#198754;">Healthy</div>
-      </div>
-    </div>
-
-    <div style="width:2px;height:35px;background:#6c757d;margin:0 auto;"></div>
-    <div style="width:260px;height:2px;background:#6c757d;margin:0 auto;"></div>
-
-    <div style="display:flex;justify-content:center;gap:230px;">
-      <div style="width:2px;height:28px;background:#6c757d;"></div>
-      <div style="width:2px;height:28px;background:#6c757d;"></div>
-    </div>
-
-    <!-- Generation 4 -->
-    <div style="display:flex;justify-content:center;gap:60px;align-items:center;">
-      <div style="background:#e8f0fe;border:2px solid #1a73e8;border-radius:12px;padding:12px 18px;width:200px;">
-        <div style="font-size:28px;">👦</div>
-        <strong>Master Rohan Sharma</strong>
-        <div style="font-size:0.85rem;color:#555;">Grandson</div>
-        <div style="font-size:0.8rem;color:#198754;">Healthy</div>
-      </div>
-
-      <div style="background:#fff0f6;border:2px solid #d63384;border-radius:12px;padding:12px 18px;width:200px;">
-        <div style="font-size:28px;">👧</div>
-        <strong>Miss Kavya Sharma</strong>
-        <div style="font-size:0.85rem;color:#555;">Granddaughter</div>
-        <div style="font-size:0.8rem;color:#198754;">Healthy</div>
-      </div>
-    </div>
-
-    <div style="margin-top:25px;display:flex;justify-content:center;gap:18px;flex-wrap:wrap;font-size:0.85rem;">
-      <span style="background:#e8f0fe;border:1px solid #1a73e8;padding:5px 12px;border-radius:20px;">Male</span>
-      <span style="background:#fff0f6;border:1px solid #d63384;padding:5px 12px;border-radius:20px;">Female</span>
-      <span style="background:#fff;border:2px solid #dc3545;padding:5px 12px;border-radius:20px;">Patient Highlighted</span>
-    </div>
-
+  <div style="background:#fff3cd;border:2px solid #ffc107;border-radius:12px;padding:12px 18px;width:220px;">
+    <div style="font-size:28px;">👵</div>
+    <strong>Mrs. Kamla Devi</strong>
+    <div style="font-size:0.85rem;color:#555;">Wife</div>
+    <div style="font-size:0.8rem;color:#198754;">Healthy</div>
   </div>
 </div>
 
-<!-- ========== PAGE 4 ========== -->
+<div style="height:35px;border-left:2px solid #777;margin:0 auto;width:1px;"></div>
+
+<div style="display:flex;justify-content:center;gap:25px;align-items:flex-start;">
+  <div style="background:#f8f9fa;border:2px solid #6c757d;border-radius:12px;padding:12px 18px;width:210px;">
+    <div style="font-size:28px;">👨</div>
+    <strong>Mr. Suresh Sharma</strong>
+    <div style="font-size:0.85rem;color:#555;">Son</div>
+    <div style="font-size:0.8rem;color:#dc3545;">Occasional smoker</div>
+  </div>
+
+  <div style="background:#f8f9fa;border:2px solid #6c757d;border-radius:12px;padding:12px 18px;width:210px;">
+    <div style="font-size:28px;">👩</div>
+    <strong>Mrs. Neha Sharma</strong>
+    <div style="font-size:0.85rem;color:#555;">Daughter-in-law</div>
+    <div style="font-size:0.8rem;color:#198754;">Healthy</div>
+  </div>
+</div>
+
+<div style="height:35px;border-left:2px solid #777;margin:0 auto;width:1px;"></div>
+
+<div style="display:flex;justify-content:center;gap:25px;align-items:flex-start;">
+  <div style="background:#e8f5e9;border:2px solid #198754;border-radius:12px;padding:12px 18px;width:210px;">
+    <div style="font-size:28px;">👦</div>
+    <strong>Master Rohan Sharma</strong>
+    <div style="font-size:0.85rem;color:#555;">Grandson</div>
+    <div style="font-size:0.8rem;color:#198754;">Healthy</div>
+  </div>
+
+  <div style="background:#e8f5e9;border:2px solid #198754;border-radius:12px;padding:12px 18px;width:210px;">
+    <div style="font-size:28px;">👧</div>
+    <strong>Miss Kavya Sharma</strong>
+    <div style="font-size:0.85rem;color:#555;">Granddaughter</div>
+    <div style="font-size:0.8rem;color:#198754;">Healthy</div>
+  </div>
+</div>
+
+</div>
+</div>
+
 <h2 style="color:#1557b0;border-left:5px solid #1a73e8;padding-left:12px;margin:30px 0 15px;">📄 Page 4 — Dietary, Personal, Socio-Economic & Environmental History</h2>
 
 <h3 style="color:#1a73e8;">DIETARY HISTORY</h3>
@@ -954,7 +910,7 @@ Patient demonstrated pursed-lip breathing correctly. Respiratory rate decreased 
 <!-- ========== PAGE 14 ========== -->
 <h2 style="color:#1557b0;border-left:5px solid #1a73e8;padding-left:12px;margin:30px 0 15px;">📄 Page 14 — Discharge Summary</h2>
 
-<p>Mr. Mohan Lal Sharma, a 58-year-old male, was admitted to the medical ward with complaints of severe breathlessness, productive cough with thick sputum, wheezing, chest tightness, and fatigue. On admission, the patient had tachypnea, SpO₂ 88% on room air, bilateral wheezing, prolonged expiration, and use of accessory muscles of respiration. Based on clinical features, physical examination, chest X-ray, ABG analysis, sputum examination, and spirometry findings, the patient was diagnosed with <strong>COPD with acute exacerbation</strong>.</p>
+<p>Mr. Mohan Lal Sharma, a 65-year-old male, was admitted to the medical ward with complaints of severe breathlessness, productive cough with thick sputum, wheezing, chest tightness, and fatigue. On admission, the patient had tachypnea, SpO₂ 88% on room air, bilateral wheezing, prolonged expiration, and use of accessory muscles of respiration. Based on clinical features, physical examination, chest X-ray, ABG analysis, sputum examination, and spirometry findings, the patient was diagnosed with <strong>COPD with acute exacerbation</strong>.</p>
 
 <p>During hospitalization, the patient received oxygen therapy, nebulization with bronchodilators, corticosteroids, antibiotics, mucolytics, steam inhalation, chest physiotherapy, breathing exercises, and supportive nursing care. The patient’s condition improved gradually. Breathlessness reduced, cough and sputum decreased, wheezing improved, respiratory rate came down from 30/min to 20/min, and SpO₂ improved from 88% on room air to 96% on room air.</p>
 
