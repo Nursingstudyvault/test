@@ -9,7 +9,7 @@ canonical: https://nursingstudyvault.online/assignment/assignment-on-diabetes-me
 category: Assignment
 hideRelated: true
 ---
-<article class="procedure-post">
+<article class="assignment-card">
 
 <title>Assignment on Diabetes Mellitus | Nursing Practical File</title>
 <link rel="canonical" href="https://nursingstudyvault.online/assignment/assignment-on-diabetes-mellitus.html">
@@ -29,8 +29,8 @@ hideRelated: true
 <strong>Note:</strong> This assignment is prepared for nursing practical file purpose. Students can modify details according to college guidelines.
 </div>
 
-<h2>1. Cover Page</h2>
-<table>
+<h2>📄 1. Cover Page</h2>
+<div class="table-wrap"><table>
 <tbody>
 <tr><td><strong>Name of Assignment</strong></td><td>Assignment on Diabetes Mellitus</td></tr>
 <tr><td><strong>Subject</strong></td><td>Nursing / Medical Surgical Nursing / Community Health Nursing</td></tr>
@@ -40,9 +40,9 @@ hideRelated: true
 <tr><td><strong>College Name</strong></td><td>________________________</td></tr>
 <tr><td><strong>Date of Submission</strong></td><td>________________________</td></tr>
 </tbody>
-</table>
+</table></div>
 
-<h2>2. Introduction</h2>
+<h2>📄 2. Introduction</h2>
 <p>
 Diabetes Mellitus is a chronic metabolic disorder characterized by increased blood glucose level due to defect in insulin secretion, insulin action or both. Insulin is a hormone produced by beta cells of the pancreas. It helps glucose enter the body cells and provides energy. When insulin is insufficient or ineffective, glucose remains in the blood and causes hyperglycemia.
 </p>
@@ -51,17 +51,17 @@ Diabetes Mellitus is a chronic metabolic disorder characterized by increased blo
 Diabetes Mellitus is a major public health problem worldwide. It affects people of all age groups but is more common among adults, obese persons, people with sedentary lifestyle and those having family history of diabetes. If diabetes is not controlled properly, it can lead to serious complications affecting the eyes, kidneys, nerves, heart, blood vessels and feet. Nurses play an important role in early detection, blood glucose monitoring, medication support, diet counselling, foot care education and prevention of complications.
 </p>
 
-<h2>3. Definition</h2>
+<h2>📄 3. Definition</h2>
 <p>
 Diabetes Mellitus is a group of metabolic diseases characterized by chronic hyperglycemia resulting from defects in insulin secretion, insulin action or both.
 </p>
 
-<h2>4. Anatomy and Physiology Related to Diabetes</h2>
+<h2>📄 4. Anatomy and Physiology Related to Diabetes</h2>
 <p>
 The pancreas is a gland located behind the stomach. It has both exocrine and endocrine functions. The endocrine part of the pancreas contains islets of Langerhans. Beta cells of islets of Langerhans produce insulin. Insulin helps in the transport of glucose from blood into cells. It also helps in storage of glucose as glycogen in liver and muscles. In diabetes mellitus, insulin production is reduced or body cells become resistant to insulin, resulting in increased blood glucose level.
 </p>
 
-<h2>5. Types of Diabetes Mellitus</h2>
+<h2>📄 5. Types of Diabetes Mellitus</h2>
 <ul>
 <li><strong>Type 1 Diabetes Mellitus:</strong> It occurs due to destruction of beta cells of pancreas, leading to absolute insulin deficiency. It is commonly seen in children and young adults.</li>
 <li><strong>Type 2 Diabetes Mellitus:</strong> It occurs due to insulin resistance and relative insulin deficiency. It is the most common type and is commonly associated with obesity, sedentary lifestyle and family history.</li>
@@ -69,7 +69,7 @@ The pancreas is a gland located behind the stomach. It has both exocrine and end
 <li><strong>Secondary Diabetes:</strong> It occurs due to other diseases, drugs or pancreatic disorders.</li>
 </ul>
 
-<h2>6. Causes of Diabetes Mellitus</h2>
+<h2>📄 6. Causes of Diabetes Mellitus</h2>
 <ul>
 <li>Insulin deficiency</li>
 <li>Insulin resistance</li>
@@ -83,7 +83,7 @@ The pancreas is a gland located behind the stomach. It has both exocrine and end
 <li>Long-term use of certain drugs such as steroids</li>
 </ul>
 
-<h2>7. Risk Factors</h2>
+<h2>📄 7. Risk Factors</h2>
 <ul>
 <li>Family history of diabetes</li>
 <li>Age above 40 years</li>
@@ -97,7 +97,7 @@ The pancreas is a gland located behind the stomach. It has both exocrine and end
 <li>Stress and sedentary lifestyle</li>
 </ul>
 
-<h2>8. Pathophysiology</h2>
+<h2>📄 8. Pathophysiology</h2>
 <p>
 In Diabetes Mellitus, the body is unable to use glucose properly due to lack of insulin or resistance to insulin. In Type 1 diabetes, beta cells of the pancreas are destroyed and insulin production becomes very low or absent. In Type 2 diabetes, insulin is produced but body cells do not respond properly to insulin. This condition is called insulin resistance.
 </p>
@@ -106,7 +106,7 @@ In Diabetes Mellitus, the body is unable to use glucose properly due to lack of 
 Due to decreased insulin action, glucose cannot enter the cells effectively. As a result, blood glucose level increases. The body cells do not get enough glucose for energy, so the body starts breaking down fats and proteins. Persistent hyperglycemia causes damage to blood vessels and nerves, leading to long-term complications such as retinopathy, nephropathy, neuropathy, cardiovascular disease and diabetic foot.
 </p>
 
-<h2>9. Signs and Symptoms</h2>
+<h2>📄 9. Signs and Symptoms</h2>
 <ul>
 <li>Polyuria: frequent urination</li>
 <li>Polydipsia: excessive thirst</li>
@@ -122,9 +122,9 @@ Due to decreased insulin action, glucose cannot enter the cells effectively. As 
 <li>Dehydration in severe cases</li>
 </ul>
 
-<h2>10. Diagnostic Evaluation</h2>
+<h2>📄 10. Diagnostic Evaluation</h2>
 <div class="table-wrap">
-<table>
+<div class="table-wrap"><table>
 <thead>
 <tr>
 <th>Test</th>
@@ -139,10 +139,10 @@ Due to decreased insulin action, glucose cannot enter the cells effectively. As 
 <tr><td>Urine Sugar Test</td><td>May show glucose in urine</td></tr>
 <tr><td>Urine Ketone Test</td><td>Useful in uncontrolled diabetes or Type 1 diabetes</td></tr>
 </tbody>
-</table>
+</table></div>
 </div>
 
-<h2>11. Medical Management</h2>
+<h2>📄 11. Medical Management</h2>
 <ul>
 <li>Maintain blood glucose level within normal range.</li>
 <li>Diet control and meal planning.</li>
@@ -155,17 +155,17 @@ Due to decreased insulin action, glucose cannot enter the cells effectively. As 
 <li>Regular follow-up with health care provider.</li>
 </ul>
 
-<h2>12. Insulin Therapy</h2>
+<h2>📄 12. Insulin Therapy</h2>
 <p>
 Insulin therapy is required in Type 1 diabetes and may also be required in Type 2 diabetes when blood glucose is not controlled by diet, exercise and oral medicines. Insulin should be administered as prescribed by the physician. The patient should be taught correct injection technique, insulin storage, rotation of injection sites and recognition of hypoglycemia.
 </p>
 
-<h2>13. Oral Antidiabetic Drugs</h2>
+<h2>📄 13. Oral Antidiabetic Drugs</h2>
 <p>
 Oral antidiabetic drugs are commonly used in Type 2 diabetes mellitus. These medicines help to reduce blood glucose level by increasing insulin secretion, improving insulin sensitivity or reducing glucose absorption. The patient should take medicines regularly as prescribed and should not stop medication without medical advice.
 </p>
 
-<h2>14. Nursing Management</h2>
+<h2>📄 14. Nursing Management</h2>
 <ul>
 <li>Assess patient’s general condition and symptoms of hyperglycemia or hypoglycemia.</li>
 <li>Monitor blood glucose level as advised.</li>
@@ -179,9 +179,9 @@ Oral antidiabetic drugs are commonly used in Type 2 diabetes mellitus. These med
 <li>Provide psychological support and counselling.</li>
 </ul>
 
-<h2>15. Nursing Care Plan</h2>
+<h2>📄 15. Nursing Care Plan</h2>
 <div class="table-wrap">
-<table>
+<div class="table-wrap"><table>
 <thead>
 <tr>
 <th>Nursing Diagnosis</th>
@@ -221,16 +221,16 @@ Oral antidiabetic drugs are commonly used in Type 2 diabetes mellitus. These med
 <td>Patient demonstrated foot care practices.</td>
 </tr>
 </tbody>
-</table>
+</table></div>
 </div>
 
-<h2>16. Diet Management in Diabetes</h2>
+<h2>📄 16. Diet Management in Diabetes</h2>
 <p>
 Diet management is an important part of diabetes control. The patient should take a balanced diet with controlled carbohydrate intake, adequate protein, healthy fats, fiber-rich foods and limited sugar. Meals should be taken at regular intervals to prevent sudden rise or fall in blood glucose level.
 </p>
 
 <div class="table-wrap">
-<table>
+<div class="table-wrap"><table>
 <thead>
 <tr>
 <th>Recommended Foods</th>
@@ -244,10 +244,10 @@ Diet management is an important part of diabetes control. The patient should tak
 <tr><td>Fruits in limited quantity as advised</td><td>Excess rice, potato and high-calorie snacks</td></tr>
 <tr><td>Nuts and seeds in limited amount</td><td>Sweetened tea, cold drinks and packaged juices</td></tr>
 </tbody>
-</table>
+</table></div>
 </div>
 
-<h2>17. Exercise and Lifestyle Management</h2>
+<h2>📄 17. Exercise and Lifestyle Management</h2>
 <ul>
 <li>Do regular walking or exercise as advised.</li>
 <li>Maintain healthy body weight.</li>
@@ -259,14 +259,14 @@ Diet management is an important part of diabetes control. The patient should tak
 <li>Carry sugar candy if prone to hypoglycemia.</li>
 </ul>
 
-<h2>18. Acute Complications</h2>
+<h2>📄 18. Acute Complications</h2>
 <ul>
 <li><strong>Hypoglycemia:</strong> Low blood glucose level causing sweating, tremors, hunger, confusion and unconsciousness.</li>
 <li><strong>Diabetic Ketoacidosis:</strong> Serious complication commonly seen in Type 1 diabetes due to insulin deficiency.</li>
 <li><strong>Hyperosmolar Hyperglycemic State:</strong> Severe hyperglycemia with dehydration, commonly seen in Type 2 diabetes.</li>
 </ul>
 
-<h2>19. Chronic Complications</h2>
+<h2>📄 19. Chronic Complications</h2>
 <ul>
 <li>Diabetic retinopathy affecting eyes</li>
 <li>Diabetic nephropathy affecting kidneys</li>
@@ -279,7 +279,7 @@ Diet management is an important part of diabetes control. The patient should tak
 <li>Recurrent infections</li>
 </ul>
 
-<h2>20. Foot Care in Diabetes</h2>
+<h2>📄 20. Foot Care in Diabetes</h2>
 <ul>
 <li>Inspect feet daily for cuts, blisters, redness or swelling.</li>
 <li>Wash feet daily and dry properly, especially between toes.</li>
@@ -291,7 +291,7 @@ Diet management is an important part of diabetes control. The patient should tak
 <li>Keep blood glucose under control.</li>
 </ul>
 
-<h2>21. Prevention of Diabetes Mellitus</h2>
+<h2>📄 21. Prevention of Diabetes Mellitus</h2>
 <ul>
 <li>Maintain healthy body weight.</li>
 <li>Take balanced diet rich in fiber.</li>
@@ -303,7 +303,7 @@ Diet management is an important part of diabetes control. The patient should tak
 <li>Manage stress and take adequate sleep.</li>
 </ul>
 
-<h2>22. Health Education</h2>
+<h2>📄 22. Health Education</h2>
 <ul>
 <li>Explain the meaning, causes and symptoms of diabetes.</li>
 <li>Teach importance of regular blood glucose monitoring.</li>
@@ -317,7 +317,7 @@ Diet management is an important part of diabetes control. The patient should tak
 <li>Educate family members to support patient in lifestyle modification.</li>
 </ul>
 
-<h2>23. Role of Nurse</h2>
+<h2>📄 23. Role of Nurse</h2>
 <ul>
 <li>Identify high-risk individuals for diabetes screening.</li>
 <li>Monitor blood glucose and vital signs.</li>
@@ -331,12 +331,12 @@ Diet management is an important part of diabetes control. The patient should tak
 <li>Maintain records and support community awareness programmes.</li>
 </ul>
 
-<h2>24. Conclusion</h2>
+<h2>📄 24. Conclusion</h2>
 <p>
 Diabetes Mellitus is a chronic metabolic disorder that requires lifelong care and self-management. Proper diet, regular exercise, medication compliance, blood glucose monitoring, foot care and regular follow-up are essential to prevent complications. Nurses have an important role in patient education, monitoring, counselling, early detection of complications and promotion of healthy lifestyle.
 </p>
 
-<h2>25. Bibliography</h2>
+<h2>📄 25. Bibliography</h2>
 <ol>
 <li>Brunner and Suddarth, Textbook of Medical-Surgical Nursing.</li>
 <li>K. Park, Textbook of Preventive and Social Medicine.</li>

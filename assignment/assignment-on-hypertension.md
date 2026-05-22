@@ -9,7 +9,7 @@ canonical: https://nursingstudyvault.online/assignment/assignment-on-hypertensio
 category: Assignment
 hideRelated: true
 ---
-<article class="procedure-post">
+<article class="assignment-card">
 
 <title>Assignment on Hypertension | Nursing Practical File</title>
 <link rel="canonical" href="https://nursingstudyvault.online/assignment/assignment-on-hypertension.html">
@@ -29,8 +29,8 @@ hideRelated: true
 <strong>Note:</strong> This assignment is prepared for nursing practical file purpose according to updated hypertension concepts. Students can modify details as per college guidelines.
 </div>
 
-<h2>1. Cover Page</h2>
-<table>
+<h2>📄 1. Cover Page</h2>
+<div class="table-wrap"><table>
 <tbody>
 <tr><td><strong>Name of Assignment</strong></td><td>Assignment on Hypertension</td></tr>
 <tr><td><strong>Subject</strong></td><td>Nursing / Medical Surgical Nursing / Community Health Nursing</td></tr>
@@ -40,9 +40,9 @@ hideRelated: true
 <tr><td><strong>College Name</strong></td><td>________________________</td></tr>
 <tr><td><strong>Date of Submission</strong></td><td>________________________</td></tr>
 </tbody>
-</table>
+</table></div>
 
-<h2>2. Introduction</h2>
+<h2>📄 2. Introduction</h2>
 <p>
 Hypertension, commonly known as high blood pressure, is a chronic condition in which the pressure of blood against the walls of arteries remains persistently elevated. Blood pressure is recorded as systolic pressure and diastolic pressure. Systolic pressure is the pressure during contraction of the heart, while diastolic pressure is the pressure during relaxation of the heart.
 </p>
@@ -51,14 +51,14 @@ Hypertension, commonly known as high blood pressure, is a chronic condition in w
 Hypertension is called a “silent killer” because many patients do not have symptoms in the early stage. If not detected and controlled, it may damage vital organs such as the heart, brain, kidneys, eyes and blood vessels. Long-term uncontrolled hypertension increases the risk of stroke, heart attack, heart failure, kidney failure and vision problems.
 </p>
 
-<h2>3. Definition</h2>
+<h2>📄 3. Definition</h2>
 <p>
 Hypertension is defined as a persistent elevation of arterial blood pressure. In most adult clinical settings, hypertension is diagnosed when office blood pressure is repeatedly 140/90 mmHg or above. Some international guidelines also identify 130–139/80–89 mmHg as stage 1 hypertension or elevated-risk range depending on the guideline used.
 </p>
 
-<h2>4. Updated Blood Pressure Classification</h2>
+<h2>📄 4. Updated Blood Pressure Classification</h2>
 <div class="table-wrap">
-<table>
+<div class="table-wrap"><table>
 <thead>
 <tr>
 <th>Category</th>
@@ -73,10 +73,10 @@ Hypertension is defined as a persistent elevation of arterial blood pressure. In
 <tr><td>Stage 2 Hypertension</td><td>140 mmHg or above</td><td>90 mmHg or above</td></tr>
 <tr><td>Severe Hypertension</td><td>More than 180 mmHg</td><td>More than 120 mmHg</td></tr>
 </tbody>
-</table>
+</table></div>
 </div>
 
-<h2>5. Types of Hypertension</h2>
+<h2>📄 5. Types of Hypertension</h2>
 <ul>
 <li><strong>Primary Hypertension:</strong> It has no single identifiable cause. It develops gradually over many years and is the most common type.</li>
 <li><strong>Secondary Hypertension:</strong> It occurs due to an underlying condition such as kidney disease, endocrine disorder, pregnancy-related hypertension or certain medications.</li>
@@ -85,7 +85,7 @@ Hypertension is defined as a persistent elevation of arterial blood pressure. In
 <li><strong>Masked Hypertension:</strong> BP is normal in clinic but high at home or during daily activities.</li>
 </ul>
 
-<h2>6. Causes of Hypertension</h2>
+<h2>📄 6. Causes of Hypertension</h2>
 <ul>
 <li>Increased peripheral vascular resistance</li>
 <li>Increased blood volume</li>
@@ -101,7 +101,7 @@ Hypertension is defined as a persistent elevation of arterial blood pressure. In
 <li>Certain drugs such as steroids and oral contraceptive pills</li>
 </ul>
 
-<h2>7. Risk Factors</h2>
+<h2>📄 7. Risk Factors</h2>
 <ul>
 <li>Increasing age</li>
 <li>Family history of hypertension</li>
@@ -117,7 +117,7 @@ Hypertension is defined as a persistent elevation of arterial blood pressure. In
 <li>Mental stress</li>
 </ul>
 
-<h2>8. Pathophysiology</h2>
+<h2>📄 8. Pathophysiology</h2>
 <p>
 Blood pressure depends on cardiac output and peripheral vascular resistance. In hypertension, either cardiac output, peripheral vascular resistance or both become increased. Narrowing or stiffness of blood vessels increases resistance to blood flow. The heart has to pump with greater force, resulting in increased blood pressure.
 </p>
@@ -126,7 +126,7 @@ Blood pressure depends on cardiac output and peripheral vascular resistance. In 
 Long-term high blood pressure causes damage to the inner lining of blood vessels. It leads to thickening and hardening of arteries. The heart muscle becomes enlarged due to continuous workload. Gradually, uncontrolled hypertension may result in left ventricular hypertrophy, heart failure, kidney damage, stroke and vascular complications.
 </p>
 
-<h2>9. Signs and Symptoms</h2>
+<h2>📄 9. Signs and Symptoms</h2>
 <p>
 Most patients with hypertension are asymptomatic. Symptoms usually appear when blood pressure is very high or complications develop.
 </p>
@@ -144,7 +144,7 @@ Most patients with hypertension are asymptomatic. Symptoms usually appear when b
 <li>Swelling of legs if heart or kidney involvement occurs</li>
 </ul>
 
-<h2>10. Diagnostic Evaluation</h2>
+<h2>📄 10. Diagnostic Evaluation</h2>
 <ul>
 <li>Repeated blood pressure measurement on different occasions</li>
 <li>Home blood pressure monitoring if advised</li>
@@ -159,7 +159,7 @@ Most patients with hypertension are asymptomatic. Symptoms usually appear when b
 <li>Fundus examination for hypertensive retinopathy</li>
 </ul>
 
-<h2>11. Correct Method of Blood Pressure Measurement</h2>
+<h2>📄 11. Correct Method of Blood Pressure Measurement</h2>
 <ul>
 <li>Allow the patient to rest for at least 5 minutes before measurement.</li>
 <li>Patient should sit comfortably with back supported.</li>
@@ -171,7 +171,7 @@ Most patients with hypertension are asymptomatic. Symptoms usually appear when b
 <li>Record systolic and diastolic BP clearly with date and time.</li>
 </ul>
 
-<h2>12. Medical Management</h2>
+<h2>📄 12. Medical Management</h2>
 <ul>
 <li>Lifestyle modification for all patients.</li>
 <li>Low-salt diet and healthy dietary pattern.</li>
@@ -184,9 +184,9 @@ Most patients with hypertension are asymptomatic. Symptoms usually appear when b
 <li>Treatment of associated conditions such as diabetes and high cholesterol.</li>
 </ul>
 
-<h2>13. Common Antihypertensive Drugs</h2>
+<h2>📄 13. Common Antihypertensive Drugs</h2>
 <div class="table-wrap">
-<table>
+<div class="table-wrap"><table>
 <thead>
 <tr>
 <th>Drug Class</th>
@@ -201,10 +201,10 @@ Most patients with hypertension are asymptomatic. Symptoms usually appear when b
 <tr><td>Calcium Channel Blockers</td><td>Amlodipine, Nifedipine</td><td>Relax blood vessels</td></tr>
 <tr><td>Beta Blockers</td><td>Atenolol, Metoprolol</td><td>Reduce heart rate and workload of heart</td></tr>
 </tbody>
-</table>
+</table></div>
 </div>
 
-<h2>14. Nursing Management</h2>
+<h2>📄 14. Nursing Management</h2>
 <ul>
 <li>Assess blood pressure accurately and regularly.</li>
 <li>Assess symptoms such as headache, dizziness, chest pain and breathlessness.</li>
@@ -218,9 +218,9 @@ Most patients with hypertension are asymptomatic. Symptoms usually appear when b
 <li>Educate patient about danger signs and need for follow-up.</li>
 </ul>
 
-<h2>15. Nursing Care Plan</h2>
+<h2>📄 15. Nursing Care Plan</h2>
 <div class="table-wrap">
-<table>
+<div class="table-wrap"><table>
 <thead>
 <tr>
 <th>Nursing Diagnosis</th>
@@ -260,16 +260,16 @@ Most patients with hypertension are asymptomatic. Symptoms usually appear when b
 <td>No signs of organ damage were observed.</td>
 </tr>
 </tbody>
-</table>
+</table></div>
 </div>
 
-<h2>16. Diet Management in Hypertension</h2>
+<h2>📄 16. Diet Management in Hypertension</h2>
 <p>
 Diet plays an important role in controlling blood pressure. A healthy diet should include fruits, vegetables, whole grains, pulses, low-fat milk products and limited salt. Excess salt increases water retention and blood pressure. Patients should avoid processed foods, pickles, papad, chips and salty snacks.
 </p>
 
 <div class="table-wrap">
-<table>
+<div class="table-wrap"><table>
 <thead>
 <tr>
 <th>Recommended Foods</th>
@@ -283,10 +283,10 @@ Diet plays an important role in controlling blood pressure. A healthy diet shoul
 <tr><td>Nuts and seeds in limited quantity</td><td>Fast food and processed meat</td></tr>
 <tr><td>Plenty of water as advised</td><td>Excess tea, coffee, alcohol and tobacco</td></tr>
 </tbody>
-</table>
+</table></div>
 </div>
 
-<h2>17. Lifestyle Modification</h2>
+<h2>📄 17. Lifestyle Modification</h2>
 <ul>
 <li>Reduce salt intake.</li>
 <li>Maintain healthy body weight.</li>
@@ -299,7 +299,7 @@ Diet plays an important role in controlling blood pressure. A healthy diet shoul
 <li>Monitor BP at regular intervals.</li>
 </ul>
 
-<h2>18. Complications of Hypertension</h2>
+<h2>📄 18. Complications of Hypertension</h2>
 <ul>
 <li>Stroke</li>
 <li>Heart attack</li>
@@ -312,7 +312,7 @@ Diet plays an important role in controlling blood pressure. A healthy diet shoul
 <li>Cognitive decline in long-term uncontrolled hypertension</li>
 </ul>
 
-<h2>19. Hypertensive Crisis</h2>
+<h2>📄 19. Hypertensive Crisis</h2>
 <p>
 Hypertensive crisis is a severe rise in blood pressure, usually more than 180/120 mmHg. It may be associated with target organ damage. It requires urgent medical attention.
 </p>
@@ -329,7 +329,7 @@ Hypertensive crisis is a severe rise in blood pressure, usually more than 180/12
 <li>Seizures</li>
 </ul>
 
-<h2>20. Prevention of Hypertension</h2>
+<h2>📄 20. Prevention of Hypertension</h2>
 <ul>
 <li>Maintain normal body weight.</li>
 <li>Eat a balanced diet with less salt.</li>
@@ -342,7 +342,7 @@ Hypertensive crisis is a severe rise in blood pressure, usually more than 180/12
 <li>Follow medical advice in high-risk individuals.</li>
 </ul>
 
-<h2>21. Health Education</h2>
+<h2>📄 21. Health Education</h2>
 <ul>
 <li>Explain that hypertension may occur without symptoms.</li>
 <li>Advise regular BP monitoring.</li>
@@ -356,7 +356,7 @@ Hypertensive crisis is a severe rise in blood pressure, usually more than 180/12
 <li>Educate family members to support lifestyle changes.</li>
 </ul>
 
-<h2>22. Role of Nurse</h2>
+<h2>📄 22. Role of Nurse</h2>
 <ul>
 <li>Screen adults for hypertension in community and clinical settings.</li>
 <li>Measure blood pressure accurately.</li>
@@ -370,12 +370,12 @@ Hypertensive crisis is a severe rise in blood pressure, usually more than 180/12
 <li>Conduct community awareness programmes.</li>
 </ul>
 
-<h2>23. Conclusion</h2>
+<h2>📄 23. Conclusion</h2>
 <p>
 Hypertension is a common chronic disease and an important risk factor for cardiovascular, renal and cerebrovascular complications. Early detection, regular monitoring, lifestyle modification, low-salt diet, medication compliance and follow-up are essential for controlling blood pressure. Nurses have an important role in screening, patient education, monitoring, counselling and prevention of complications.
 </p>
 
-<h2>24. Bibliography</h2>
+<h2>📄 24. Bibliography</h2>
 <ol>
 <li>K. Park, Textbook of Preventive and Social Medicine.</li>
 <li>Brunner and Suddarth, Textbook of Medical-Surgical Nursing.</li>

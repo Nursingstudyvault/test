@@ -9,7 +9,7 @@ canonical: https://nursingstudyvault.online/assignment/assignment-on-protein-ene
 category: Assignment
 hideRelated: true
 ---
-<article class="procedure-post">
+<article class="assignment-card">
 
 <title>Assignment on Protein Energy Malnutrition | Nursing Practical File</title>
 <link rel="canonical" href="https://nursingstudyvault.online/assignment/assignment-on-protein-energy-malnutrition.html">
@@ -29,8 +29,8 @@ hideRelated: true
 <strong>Note:</strong> This assignment is prepared for nursing practical file purpose. Students can modify details according to college guidelines.
 </div>
 
-<h2>1. Cover Page</h2>
-<table>
+<h2>📄 1. Cover Page</h2>
+<div class="table-wrap"><table>
 <tbody>
 <tr><td><strong>Name of Assignment</strong></td><td>Assignment on Protein Energy Malnutrition</td></tr>
 <tr><td><strong>Subject</strong></td><td>Nursing / Community Health Nursing / Nutrition</td></tr>
@@ -40,9 +40,9 @@ hideRelated: true
 <tr><td><strong>College Name</strong></td><td>________________________</td></tr>
 <tr><td><strong>Date of Submission</strong></td><td>________________________</td></tr>
 </tbody>
-</table>
+</table></div>
 
-<h2>2. Introduction</h2>
+<h2>📄 2. Introduction</h2>
 <p>
 Protein Energy Malnutrition, commonly known as PEM, is a serious nutritional disorder caused by inadequate intake of protein and calories. It is most commonly seen in infants and young children, especially between 6 months to 5 years of age. PEM affects growth, immunity, physical activity, mental development and overall health of the child.
 </p>
@@ -51,12 +51,12 @@ Protein Energy Malnutrition, commonly known as PEM, is a serious nutritional dis
 PEM is a major public health problem in developing countries. It commonly occurs due to poverty, lack of nutrition knowledge, improper breastfeeding, delayed complementary feeding, recurrent infections, poor sanitation and food insecurity. The two severe clinical forms of PEM are marasmus and kwashiorkor.
 </p>
 
-<h2>3. Definition</h2>
+<h2>📄 3. Definition</h2>
 <p>
 Protein Energy Malnutrition is a nutritional disorder caused by deficiency of protein and energy in the diet, resulting in growth failure, weight loss, wasting, weakness and increased susceptibility to infections.
 </p>
 
-<h2>4. Causes of Protein Energy Malnutrition</h2>
+<h2>📄 4. Causes of Protein Energy Malnutrition</h2>
 <ul>
 <li>Inadequate intake of protein and calories.</li>
 <li>Poverty and food insecurity.</li>
@@ -72,7 +72,7 @@ Protein Energy Malnutrition is a nutritional disorder caused by deficiency of pr
 <li>Food taboos and faulty feeding practices.</li>
 </ul>
 
-<h2>5. Risk Factors</h2>
+<h2>📄 5. Risk Factors</h2>
 <ul>
 <li>Children below 5 years of age.</li>
 <li>Low birth weight babies.</li>
@@ -85,14 +85,14 @@ Protein Energy Malnutrition is a nutritional disorder caused by deficiency of pr
 <li>Poor sanitation and overcrowding.</li>
 </ul>
 
-<h2>6. Types of Protein Energy Malnutrition</h2>
+<h2>📄 6. Types of Protein Energy Malnutrition</h2>
 <ul>
 <li><strong>Marasmus:</strong> Severe deficiency of both calories and protein.</li>
 <li><strong>Kwashiorkor:</strong> Severe protein deficiency with relatively adequate calories.</li>
 <li><strong>Marasmic Kwashiorkor:</strong> Features of both marasmus and kwashiorkor.</li>
 </ul>
 
-<h2>7. Marasmus</h2>
+<h2>📄 7. Marasmus</h2>
 <p>
 Marasmus is a severe form of PEM caused by deficiency of both calories and protein. It is commonly seen in infants below one year of age. The child appears extremely thin due to severe wasting of muscles and subcutaneous fat.
 </p>
@@ -111,7 +111,7 @@ Marasmus is a severe form of PEM caused by deficiency of both calories and prote
 <li>Frequent infections.</li>
 </ul>
 
-<h2>8. Kwashiorkor</h2>
+<h2>📄 8. Kwashiorkor</h2>
 <p>
 Kwashiorkor is a severe form of PEM mainly caused by protein deficiency. It is commonly seen after weaning when the child is given carbohydrate-rich but protein-poor diet. Edema is the most important feature of kwashiorkor.
 </p>
@@ -130,9 +130,9 @@ Kwashiorkor is a severe form of PEM mainly caused by protein deficiency. It is c
 <li>Frequent infections.</li>
 </ul>
 
-<h2>9. Difference Between Marasmus and Kwashiorkor</h2>
+<h2>📄 9. Difference Between Marasmus and Kwashiorkor</h2>
 <div class="table-wrap">
-<table>
+<div class="table-wrap"><table>
 <thead>
 <tr>
 <th>Feature</th>
@@ -151,10 +151,10 @@ Kwashiorkor is a severe form of PEM mainly caused by protein deficiency. It is c
 <tr><td>Hair</td><td>Thin and sparse</td><td>Discolored and easily pluckable</td></tr>
 <tr><td>Appetite</td><td>Usually good</td><td>Poor</td></tr>
 </tbody>
-</table>
+</table></div>
 </div>
 
-<h2>10. Signs and Symptoms of PEM</h2>
+<h2>📄 10. Signs and Symptoms of PEM</h2>
 <ul>
 <li>Low body weight.</li>
 <li>Failure to gain weight.</li>
@@ -172,7 +172,7 @@ Kwashiorkor is a severe form of PEM mainly caused by protein deficiency. It is c
 <li>Reduced immunity.</li>
 </ul>
 
-<h2>11. Diagnostic Evaluation</h2>
+<h2>📄 11. Diagnostic Evaluation</h2>
 <ul>
 <li>Measurement of weight and height.</li>
 <li>Mid Upper Arm Circumference measurement.</li>
@@ -187,7 +187,7 @@ Kwashiorkor is a severe form of PEM mainly caused by protein deficiency. It is c
 <li>Assessment for associated infections.</li>
 </ul>
 
-<h2>12. Management of PEM</h2>
+<h2>📄 12. Management of PEM</h2>
 <ul>
 <li>Correct hypoglycemia and hypothermia in severe cases.</li>
 <li>Treat dehydration carefully.</li>
@@ -203,7 +203,7 @@ Kwashiorkor is a severe form of PEM mainly caused by protein deficiency. It is c
 <li>Refer severe acute malnutrition cases to Nutrition Rehabilitation Centre.</li>
 </ul>
 
-<h2>13. Nursing Management</h2>
+<h2>📄 13. Nursing Management</h2>
 <ul>
 <li>Assess nutritional status of the child.</li>
 <li>Record weight, height and MUAC regularly.</li>
@@ -220,9 +220,9 @@ Kwashiorkor is a severe form of PEM mainly caused by protein deficiency. It is c
 <li>Refer severe cases to higher health facility.</li>
 </ul>
 
-<h2>14. Nursing Care Plan</h2>
+<h2>📄 14. Nursing Care Plan</h2>
 <div class="table-wrap">
-<table>
+<div class="table-wrap"><table>
 <thead>
 <tr>
 <th>Nursing Diagnosis</th>
@@ -262,16 +262,16 @@ Kwashiorkor is a severe form of PEM mainly caused by protein deficiency. It is c
 <td>Mother verbalized correct feeding practices.</td>
 </tr>
 </tbody>
-</table>
+</table></div>
 </div>
 
-<h2>15. Diet Plan for PEM</h2>
+<h2>📄 15. Diet Plan for PEM</h2>
 <p>
 Children with PEM require energy-rich and protein-rich foods. Feeding should be started gradually in severe cases and increased according to tolerance. Locally available foods should be used so that the family can continue the diet at home.
 </p>
 
 <div class="table-wrap">
-<table>
+<div class="table-wrap"><table>
 <thead>
 <tr>
 <th>Food Type</th>
@@ -285,10 +285,10 @@ Children with PEM require energy-rich and protein-rich foods. Feeding should be 
 <tr><td>Vitamin-rich foods</td><td>Green leafy vegetables, carrot, pumpkin, fruits</td></tr>
 <tr><td>Mineral-rich foods</td><td>Jaggery, sesame seeds, groundnuts, green vegetables</td></tr>
 </tbody>
-</table>
+</table></div>
 </div>
 
-<h2>16. Prevention of PEM</h2>
+<h2>📄 16. Prevention of PEM</h2>
 <ul>
 <li>Promote exclusive breastfeeding for first 6 months.</li>
 <li>Start complementary feeding after 6 months.</li>
@@ -304,7 +304,7 @@ Children with PEM require energy-rich and protein-rich foods. Feeding should be 
 <li>Educate parents regarding child nutrition.</li>
 </ul>
 
-<h2>17. Health Education</h2>
+<h2>📄 17. Health Education</h2>
 <ul>
 <li>Explain importance of protein and calorie-rich diet.</li>
 <li>Teach mother about exclusive breastfeeding for 6 months.</li>
@@ -319,7 +319,7 @@ Children with PEM require energy-rich and protein-rich foods. Feeding should be 
 <li>Advise early treatment of infections.</li>
 </ul>
 
-<h2>18. Complications of PEM</h2>
+<h2>📄 18. Complications of PEM</h2>
 <ul>
 <li>Severe infection.</li>
 <li>Hypoglycemia.</li>
@@ -333,7 +333,7 @@ Children with PEM require energy-rich and protein-rich foods. Feeding should be 
 <li>Increased risk of death in severe cases.</li>
 </ul>
 
-<h2>19. Role of Nurse</h2>
+<h2>📄 19. Role of Nurse</h2>
 <ul>
 <li>Identify children at risk of PEM.</li>
 <li>Measure weight, height and MUAC.</li>
@@ -347,12 +347,12 @@ Children with PEM require energy-rich and protein-rich foods. Feeding should be 
 <li>Conduct health education sessions in community.</li>
 </ul>
 
-<h2>20. Conclusion</h2>
+<h2>📄 20. Conclusion</h2>
 <p>
 Protein Energy Malnutrition is a serious but preventable nutritional disorder commonly affecting infants and young children. It occurs due to inadequate intake of protein and calories, poor feeding practices, infections and poverty. Early identification, proper feeding, infection control, growth monitoring, immunization, health education and timely referral are essential for prevention and management of PEM. Nurses play an important role in assessment, counselling, treatment support and follow-up care.
 </p>
 
-<h2>21. Bibliography</h2>
+<h2>📄 21. Bibliography</h2>
 <ol>
 <li>K. Park, Textbook of Preventive and Social Medicine.</li>
 <li>Ghai Essential Pediatrics.</li>

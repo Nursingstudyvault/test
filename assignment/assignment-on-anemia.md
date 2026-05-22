@@ -9,7 +9,7 @@ canonical: https://nursingstudyvault.online/assignment/assignment-on-anemia.html
 category: Assignment
 hideRelated: true
 ---
-<article class="procedure-post">
+<article class="assignment-card">
 
 <title>Assignment on Anemia | Nursing Practical File</title>
 <link rel="canonical" href="https://nursingstudyvault.online/assignment/assignment-on-anemia.html">
@@ -29,8 +29,8 @@ hideRelated: true
 <strong>Note:</strong> This assignment is prepared for nursing practical file purpose. Students can modify details according to college guidelines.
 </div>
 
-<h2>1. Cover Page</h2>
-<table>
+<h2>📄 1. Cover Page</h2>
+<div class="table-wrap"><table>
 <tbody>
 <tr><td><strong>Name of Assignment</strong></td><td>Assignment on Anemia</td></tr>
 <tr><td><strong>Subject</strong></td><td>Nursing / Community Health Nursing / Medical Surgical Nursing</td></tr>
@@ -40,9 +40,9 @@ hideRelated: true
 <tr><td><strong>College Name</strong></td><td>________________________</td></tr>
 <tr><td><strong>Date of Submission</strong></td><td>________________________</td></tr>
 </tbody>
-</table>
+</table></div>
 
-<h2>2. Introduction</h2>
+<h2>📄 2. Introduction</h2>
 <p>
 Anemia is one of the most common nutritional and hematological disorders worldwide. It is a condition in which the blood does not have enough healthy red blood cells or hemoglobin to carry adequate oxygen to body tissues. Hemoglobin is an iron-containing protein present in red blood cells that carries oxygen from the lungs to different parts of the body. When hemoglobin level decreases, the tissues receive less oxygen, which results in weakness, fatigue, dizziness, breathlessness and reduced work capacity.
 </p>
@@ -51,14 +51,14 @@ Anemia is one of the most common nutritional and hematological disorders worldwi
 Anemia may affect people of all age groups, but it is more common among infants, children, adolescent girls, pregnant women, lactating mothers and women of reproductive age. In India, anemia is a major public health problem due to poor nutrition, iron deficiency, worm infestation, repeated pregnancies, heavy menstrual bleeding and lack of awareness about iron-rich foods. Nurses play an important role in early identification, prevention, treatment support and health education regarding anemia.
 </p>
 
-<h2>3. Definition</h2>
+<h2>📄 3. Definition</h2>
 <p>
 Anemia is defined as a condition in which the hemoglobin concentration, red blood cell count or packed cell volume is below normal for age and sex, resulting in decreased oxygen-carrying capacity of the blood.
 </p>
 
-<h2>4. Normal Hemoglobin Values</h2>
+<h2>📄 4. Normal Hemoglobin Values</h2>
 <div class="table-wrap">
-<table>
+<div class="table-wrap"><table>
 <thead>
 <tr>
 <th>Group</th>
@@ -72,20 +72,20 @@ Anemia is defined as a condition in which the hemoglobin concentration, red bloo
 <tr><td>Children</td><td>11–13 g/dL</td></tr>
 <tr><td>Newborn</td><td>14–20 g/dL</td></tr>
 </tbody>
-</table>
+</table></div>
 </div>
 
-<h2>5. Epidemiology / Incidence</h2>
+<h2>📄 5. Epidemiology / Incidence</h2>
 <p>
 Anemia is widely prevalent in developing countries and is commonly associated with nutritional deficiency. Iron deficiency anemia is the most common type of anemia. It is frequently seen in adolescent girls due to menstrual blood loss and poor dietary intake. Pregnant women are also at high risk because of increased iron requirement during pregnancy. Children may develop anemia due to poor nutrition, worm infestation, recurrent infections and rapid growth.
 </p>
 
-<h2>6. Pathophysiology</h2>
+<h2>📄 6. Pathophysiology</h2>
 <p>
 In anemia, the number of red blood cells or hemoglobin level decreases. As a result, the oxygen-carrying capacity of blood is reduced. The body tissues receive less oxygen, leading to tissue hypoxia. To compensate for low oxygen supply, the heart increases its rate and force of contraction. This may cause palpitation, tachycardia and breathlessness. If anemia becomes severe and remains untreated, it may lead to cardiac stress, poor growth, reduced immunity and complications during pregnancy.
 </p>
 
-<h2>7. Causes of Anemia</h2>
+<h2>📄 7. Causes of Anemia</h2>
 <ul>
 <li><strong>Iron deficiency:</strong> Inadequate intake of iron-rich foods is the most common cause.</li>
 <li><strong>Blood loss:</strong> Heavy menstruation, injury, surgery, piles or gastrointestinal bleeding may cause anemia.</li>
@@ -98,7 +98,7 @@ In anemia, the number of red blood cells or hemoglobin level decreases. As a res
 <li><strong>Inherited disorders:</strong> Thalassemia and sickle cell disease may cause chronic anemia.</li>
 </ul>
 
-<h2>8. Risk Factors</h2>
+<h2>📄 8. Risk Factors</h2>
 <ul>
 <li>Poor dietary intake</li>
 <li>Low socio-economic status</li>
@@ -112,7 +112,7 @@ In anemia, the number of red blood cells or hemoglobin level decreases. As a res
 <li>Vegetarian diet without proper iron sources</li>
 </ul>
 
-<h2>9. Classification / Types of Anemia</h2>
+<h2>📄 9. Classification / Types of Anemia</h2>
 
 <h3>A. According to Cause</h3>
 <ul>
@@ -130,7 +130,7 @@ In anemia, the number of red blood cells or hemoglobin level decreases. As a res
 <li><strong>Macrocytic anemia:</strong> Red blood cells are larger than normal, commonly seen in vitamin B12 or folic acid deficiency.</li>
 </ul>
 
-<h2>10. Signs and Symptoms</h2>
+<h2>📄 10. Signs and Symptoms</h2>
 <ul>
 <li>General weakness and fatigue</li>
 <li>Pallor of skin, conjunctiva, tongue and nail beds</li>
@@ -148,7 +148,7 @@ In anemia, the number of red blood cells or hemoglobin level decreases. As a res
 <li>Delayed growth and development in children</li>
 </ul>
 
-<h2>11. Diagnostic Evaluation</h2>
+<h2>📄 11. Diagnostic Evaluation</h2>
 <ul>
 <li><strong>Complete Blood Count:</strong> Helps to assess hemoglobin, RBC count, hematocrit and red cell indices.</li>
 <li><strong>Hemoglobin Estimation:</strong> Confirms severity of anemia.</li>
@@ -161,9 +161,9 @@ In anemia, the number of red blood cells or hemoglobin level decreases. As a res
 <li><strong>Bone Marrow Examination:</strong> Done in selected cases such as aplastic anemia.</li>
 </ul>
 
-<h2>12. Severity of Anemia</h2>
+<h2>📄 12. Severity of Anemia</h2>
 <div class="table-wrap">
-<table>
+<div class="table-wrap"><table>
 <thead>
 <tr>
 <th>Severity</th>
@@ -175,10 +175,10 @@ In anemia, the number of red blood cells or hemoglobin level decreases. As a res
 <tr><td>Moderate Anemia</td><td>7–9.9 g/dL</td></tr>
 <tr><td>Severe Anemia</td><td>Less than 7 g/dL</td></tr>
 </tbody>
-</table>
+</table></div>
 </div>
 
-<h2>13. Medical Management / Treatment</h2>
+<h2>📄 13. Medical Management / Treatment</h2>
 <ul>
 <li>Identify and treat the underlying cause of anemia.</li>
 <li>Give oral iron and folic acid tablets as prescribed.</li>
@@ -191,7 +191,7 @@ In anemia, the number of red blood cells or hemoglobin level decreases. As a res
 <li>Refer complicated or severe cases to higher health facility.</li>
 </ul>
 
-<h2>14. Nursing Management</h2>
+<h2>📄 14. Nursing Management</h2>
 <ul>
 <li>Assess general condition of the patient.</li>
 <li>Observe for pallor, weakness, dizziness and breathlessness.</li>
@@ -208,9 +208,9 @@ In anemia, the number of red blood cells or hemoglobin level decreases. As a res
 <li>Encourage regular follow-up and hemoglobin testing.</li>
 </ul>
 
-<h2>15. Nursing Care Plan</h2>
+<h2>📄 15. Nursing Care Plan</h2>
 <div class="table-wrap">
-<table>
+<div class="table-wrap"><table>
 <thead>
 <tr>
 <th>Nursing Diagnosis</th>
@@ -250,16 +250,16 @@ In anemia, the number of red blood cells or hemoglobin level decreases. As a res
 <td>No signs of infection were observed.</td>
 </tr>
 </tbody>
-</table>
+</table></div>
 </div>
 
-<h2>16. Diet Plan for Anemia</h2>
+<h2>📄 16. Diet Plan for Anemia</h2>
 <p>
 Diet plays an important role in prevention and treatment of anemia. The patient should take iron-rich foods along with vitamin C rich foods because vitamin C increases iron absorption. Protein-rich foods are also important for blood formation and general health.
 </p>
 
 <div class="table-wrap">
-<table>
+<div class="table-wrap"><table>
 <thead>
 <tr>
 <th>Food Group</th>
@@ -273,10 +273,10 @@ Diet plays an important role in prevention and treatment of anemia. The patient 
 <tr><td>Folic acid sources</td><td>Green leafy vegetables, legumes, citrus fruits</td></tr>
 <tr><td>Vitamin B12 sources</td><td>Milk, curd, egg, meat, fish</td></tr>
 </tbody>
-</table>
+</table></div>
 </div>
 
-<h2>17. Prevention of Anemia</h2>
+<h2>📄 17. Prevention of Anemia</h2>
 <ul>
 <li>Take balanced diet rich in iron, protein and vitamins.</li>
 <li>Take iron and folic acid tablets regularly as advised.</li>
@@ -291,7 +291,7 @@ Diet plays an important role in prevention and treatment of anemia. The patient 
 <li>Treat heavy menstrual bleeding and chronic infections early.</li>
 </ul>
 
-<h2>18. Health Education</h2>
+<h2>📄 18. Health Education</h2>
 <ul>
 <li>Explain the meaning, causes and symptoms of anemia.</li>
 <li>Teach the importance of iron-rich diet.</li>
@@ -306,7 +306,7 @@ Diet plays an important role in prevention and treatment of anemia. The patient 
 <li>Advise follow-up hemoglobin testing.</li>
 </ul>
 
-<h2>19. Complications of Anemia</h2>
+<h2>📄 19. Complications of Anemia</h2>
 <ul>
 <li>Severe weakness and fatigue</li>
 <li>Reduced work capacity</li>
@@ -320,7 +320,7 @@ Diet plays an important role in prevention and treatment of anemia. The patient 
 <li>Poor school performance and reduced concentration</li>
 </ul>
 
-<h2>20. Role of Nurse in Prevention and Control of Anemia</h2>
+<h2>📄 20. Role of Nurse in Prevention and Control of Anemia</h2>
 <ul>
 <li>Screen high-risk groups for anemia.</li>
 <li>Identify signs and symptoms of anemia early.</li>
@@ -334,12 +334,12 @@ Diet plays an important role in prevention and treatment of anemia. The patient 
 <li>Conduct health education sessions in school and community.</li>
 </ul>
 
-<h2>21. Conclusion</h2>
+<h2>📄 21. Conclusion</h2>
 <p>
 Anemia is a common but preventable and treatable health problem. It mainly occurs due to iron deficiency, poor nutrition, blood loss, worm infestation and increased demand during pregnancy. Early diagnosis, proper treatment, iron and folic acid supplementation, balanced diet, deworming and health education are essential for prevention and control of anemia. Nurses have an important role in assessment, treatment support, counselling, follow-up and community awareness regarding anemia.
 </p>
 
-<h2>22. Bibliography</h2>
+<h2>📄 22. Bibliography</h2>
 <ol>
 <li>K. Park, Textbook of Preventive and Social Medicine.</li>
 <li>Brunner and Suddarth, Textbook of Medical-Surgical Nursing.</li>
