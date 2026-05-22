@@ -1,5 +1,5 @@
 ---
-layout: layout.njk
+layout: false
 title: Nursing Care Plan on Hyperthyroidism
 description: Complete nursing care plan on hyperthyroidism for nursing students with patient assessment, family history, nursing diagnosis, interventions, evaluation, health education and discharge planning.
 keywords: hyperthyroidism nursing care plan, nursing care plan on hyperthyroidism, NANDA nursing diagnosis hyperthyroidism, hyperthyroidism nursing diagnosis and interventions, medical surgical nursing care plan hyperthyroidism
