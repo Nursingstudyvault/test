@@ -11,22 +11,22 @@ hideRelated: true
 ---
 <article itemscope itemtype="https://schema.org/Article" style="max-width:900px;margin:0 auto;font-family:'Segoe UI',system-ui,sans-serif;line-height:1.8;color:#333;">
 
-<meta itemprop="headline" content="Hyperthyroidism - Complete NANDA Nursing Case Study (19 Pages)">
-<meta itemprop="description" content="Complete 19-page NANDA format nursing case study on Hyperthyroidism. Covers patient identification, clinical history, physical examination, investigations, medical management, nursing diagnoses, nursing care plans, discharge summary, and health education.">
+<meta itemprop="headline" content="Nursing Care Plan on Hyperthyroidism">
+<meta itemprop="description" content="Complete NANDA format nursing care plan on Hyperthyroidism. Covers patient identification, clinical history, physical examination, investigations, medical management, nursing diagnoses, nursing care plans, discharge summary, and health education.">
 <meta itemprop="datePublished" content="2026-05-20">
 <meta itemprop="educationalUse" content="Nursing Practical File">
 <meta itemprop="audience" content="ANM, GNM, BSc Nursing Students">
 
 <!-- ========== HEADER ========== -->
 <h1 style="color:#1a73e8;text-align:center;font-size:clamp(1.5rem,4vw,2.2rem);border-bottom:3px solid #1a73e8;padding-bottom:15px;margin-bottom:10px;">
-🩺 Case Study on Hyperthyroidism
+🩺 Nursing Care Plan on Hyperthyroidism
 </h1>
 
 <p style="text-align:center;color:#666;font-size:0.95rem;margin-bottom:5px;">Medical-Surgical Nursing | NANDA Nursing Care Plan Format</p>
 <p style="text-align:center;"><span style="background:#e63946;color:#fff;padding:5px 14px;border-radius:30px;font-size:0.85rem;">Endocrinology Nursing | Practical File Ready</span></p>
 
 <div style="background:#fff3cd;border:1px solid #ffc107;padding:12px 15px;border-radius:8px;margin:25px 0;font-size:0.9rem;text-align:center;">
-⚠️ <strong>Educational Purpose Only:</strong> This case study is for nursing academic practical file preparation. Not for actual patient care or clinical decision-making.
+⚠️ <strong>Educational Purpose Only:</strong> This nursing care plan is for nursing academic practical file preparation. Not for actual patient care or clinical decision-making.
 </div>
 
 <!-- ========== STUDENT INFO ========== -->
@@ -38,7 +38,7 @@ hideRelated: true
 <tr style="background:#e8f0fe;"><td style="padding:12px 15px;border:1px solid #ddd;font-weight:600;width:35%;">Student Name</td><td style="padding:12px 15px;border:1px solid #ddd;">[Your Name]</td></tr>
 <tr><td style="padding:12px 15px;border:1px solid #ddd;font-weight:600;">Course</td><td style="padding:12px 15px;border:1px solid #ddd;">BSc Nursing / GNM / ANM</td></tr>
 <tr style="background:#e8f0fe;"><td style="padding:12px 15px;border:1px solid #ddd;font-weight:600;">Subject</td><td style="padding:12px 15px;border:1px solid #ddd;">Medical-Surgical Nursing / Endocrinology Nursing</td></tr>
-<tr><td style="padding:12px 15px;border:1px solid #ddd;font-weight:600;">Case Study Topic</td><td style="padding:12px 15px;border:1px solid #ddd;">Hyperthyroidism — Complete Nursing Case Study</td></tr>
+<tr><td style="padding:12px 15px;border:1px solid #ddd;font-weight:600;">Nursing Care Plan Topic</td><td style="padding:12px 15px;border:1px solid #ddd;">Hyperthyroidism — Complete Nursing Care Plan</td></tr>
 <tr style="background:#e8f0fe;"><td style="padding:12px 15px;border:1px solid #ddd;font-weight:600;">Format</td><td style="padding:12px 15px;border:1px solid #ddd;">NANDA-I Nursing Care Plan Format</td></tr>
 <tr><td style="padding:12px 15px;border:1px solid #ddd;font-weight:600;">Date of Submission</td><td style="padding:12px 15px;border:1px solid #ddd;">[Enter Date]</td></tr>
 <tr style="background:#e8f0fe;"><td style="padding:12px 15px;border:1px solid #ddd;font-weight:600;">Clinical Instructor</td><td style="padding:12px 15px;border:1px solid #ddd;">[Instructor Name]</td></tr>
@@ -356,7 +356,7 @@ hideRelated: true
 </table>
 </div>
 
-<!-- ========== PAGE 10: DISEASE INTRODUCTION ========== -->
+<!-- ========== PAGE 10: NANDA NURSING DIAGNOSES ========== -->
 <h2 style="color:#1557b0;border-left:5px solid #1a73e8;padding-left:12px;margin:30px 0 15px;">📄 Page 10 — NANDA Nursing Diagnoses</h2>
 
 <div style="background:#e8f0fe;border-left:4px solid #1a73e8;padding:15px 20px;margin:15px 0;border-radius:5px;">
@@ -492,9 +492,9 @@ Advised to attend regular follow-up visits. Advised to undergo periodic thyroid 
 
 <!-- ========== DISCLAIMER ========== -->
 <div style="background:#fff3cd;border:2px solid #ffc107;padding:15px 20px;border-radius:10px;margin-top:30px;text-align:center;">
-<p style="margin:0;font-size:0.9rem;"><strong>⚕️ Medical Disclaimer:</strong> This case study is prepared for <strong>educational and academic purposes only</strong> as part of nursing practical file work (ANM, GNM, BSc Nursing). It is not intended for actual patient care, clinical decision-making, or medical diagnosis.</p>
+<p style="margin:0;font-size:0.9rem;"><strong>⚕️ Medical Disclaimer:</strong> This nursing care plan is prepared for <strong>educational and academic purposes only</strong> as part of nursing practical file work (ANM, GNM, BSc Nursing). It is not intended for actual patient care, clinical decision-making, or medical diagnosis.</p>
 </div>
 
-<p style="text-align:center;margin-top:30px;color:#888;font-size:0.9rem;">© Nursing Study Vault | NANDA Format Case Study | Hyperthyroidism</p>
+<p style="text-align:center;margin-top:30px;color:#888;font-size:0.9rem;">© Nursing Study Vault | NANDA Format Nursing Care Plan | Hyperthyroidism</p>
 
 </article>
