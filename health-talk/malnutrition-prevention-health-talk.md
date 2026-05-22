@@ -1,8 +1,8 @@
 ---
-title: 🗣️ Health Talk on Prevention of Malnutrition
+title: Malnutrition Prevention Health Talk for Mothers of Under-Five Children | Community Health Nursing
 date: 2026-05-21T19:51:43+05:30
-description: Complete malnutrition prevention health talk for mothers of under-five children in Community Health Nursing. Includes causes of malnutrition, signs and sym
-keywords: malnutrition prevention health talk, health talk on malnutrition, malnutrition health talk for mothers, under five children malnutrition, prevention of malnutrition in children, balanced diet health talk, complementary feeding health talk, growth monitoring health talk, community health nursing health talk, child health nursing practical, nursing practical file
+description: Complete malnutrition prevention health talk for mothers of under-five children in Community Health Nursing. Includes definition, causes, signs and symptoms, breastfeeding, complementary feeding, balanced diet, immunization, deworming, hygiene, growth monitoring, danger signs, evaluation questions and references.
+keywords: malnutrition prevention health talk, health talk on malnutrition, malnutrition health talk for mothers, under five children malnutrition, prevention of malnutrition in children, breastfeeding and complementary feeding, balanced diet health talk, growth monitoring health talk, community health nursing health talk, child health nursing practical, nursing practical file
 subject: Community Health Nursing Practical
 permalink: /health-talk/malnutrition-prevention-health-talk.html
 canonical: https://nursingstudyvault.online/health-talk/malnutrition-prevention-health-talk.html
