@@ -1,12 +1,12 @@
 ---
-title: 🏥 Surgical Surgical Care Plan on Inguinal Hernia with Herniorrhaphy / Hernioplasty
+title: 🏥 Surgical Nursing Care Plan on Inguinal Hernia with Herniorrhaphy / Hernioplasty
 date: 2026-05-22T12:25:48+05:30
 description: Complete surgical nursing care plan on Inguinal Hernia with Herniorrhaphy / Hernioplasty in NANDA format for ANM, GNM and BSc Nursing students. Includes patient data, history, family details, examination, investigations, surgical management, nursing diagnoses, care plans, discharge summary and health education.
-keywords: inguinal hernia surgical care plan, inguinal hernia with herniorrhaphy nursing care plan, inguinal hernia with hernioplasty nursing care plan, herniorrhaphy nursing care plan, hernioplasty nursing care plan, surgical surgical care plan on inguinal hernia, NANDA nursing care plan for inguinal hernia, inguinal hernia case study nursing, herniorrhaphy case study nursing, hernioplasty case study nursing, open mesh hernioplasty nursing care plan, post operative care after hernioplasty nursing, inguinal hernia nursing diagnosis, hernia surgery nursing diagnosis, medical surgical nursing care plan inguinal hernia, inguinal hernia care plan for nursing students, GNM surgical nursing care plan, BSc nursing inguinal hernia case study, ANM nursing care plan hernioplasty, complete inguinal hernia surgical care plan
+keywords: inguinal hernia surgical nursing care plan, inguinal hernia with herniorrhaphy nursing care plan, inguinal hernia with hernioplasty nursing care plan, herniorrhaphy nursing care plan, hernioplasty nursing care plan, surgical nursing care plan on inguinal hernia, NANDA nursing care plan for inguinal hernia, inguinal hernia case study nursing, herniorrhaphy case study nursing, hernioplasty case study nursing, open mesh hernioplasty nursing care plan, post operative care after hernioplasty nursing, inguinal hernia nursing diagnosis, hernia surgery nursing diagnosis, medical surgical nursing care plan inguinal hernia, inguinal hernia care plan for nursing students, GNM surgical nursing care plan, BSc nursing inguinal hernia case study, ANM nursing care plan hernioplasty, complete inguinal hernia surgical nursing care plan
 subject: Nursing Practical File
 permalink: /surgical-care-plan/inguinal-hernia-surgical-care-plan.html
 canonical: https://nursingstudyvault.online/surgical-care-plan/inguinal-hernia-surgical-care-plan.html
-category: Surgical Care Plan
+category: Surgical Nursing Care Plan
 hideRelated: true
 ---
 <link rel="canonical" href="https://nursingstudyvault.online/surgical-care-plan/inguinal-hernia-surgical-care-plan.html">
@@ -20,11 +20,11 @@ hideRelated: true
 
 <!-- HEADER -->
 <h1 style="color:#1a73e8;text-align:center;font-size:clamp(1.5rem,4vw,2.2rem);border-bottom:3px solid #1a73e8;padding-bottom:15px;margin-bottom:10px;">
-🏥 Surgical Surgical Care Plan on Inguinal Hernia with Herniorrhaphy / Hernioplasty
+🏥 Surgical Nursing Care Plan on Inguinal Hernia with Herniorrhaphy / Hernioplasty
 </h1>
 
 <p style="text-align:center;color:#666;font-size:0.95rem;margin-bottom:5px;">
-Medical-Surgical Nursing | NANDA Surgical Care Plan Format
+Medical-Surgical Nursing | NANDA Surgical Nursing Care Plan Format
 </p>
 
 <p style="text-align:center;">
