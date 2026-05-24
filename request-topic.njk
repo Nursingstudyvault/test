@@ -20,7 +20,8 @@ description: Need a specific nursing care plan, case study, or practical file? S
     <div style="display: grid; grid-template-columns: 1fr 360px; gap: 40px;">
         <div class="request-form-container" style="background: var(--surface); border-radius: 30px; padding: 35px; border: 1px solid var(--border);">
             <div style="text-align: center; margin-bottom: 30px;"><h2 style="margin-bottom: 10px;">📝 Submit Your Request</h2><p>Fill out the form below. We'll create your practical file and notify you via email.</p></div>
-            <form name="request-topic" method="POST" data-netlify="true" action="/thank-you/" name="topic-request" method="POST" data-netlify="true" style="display: flex; flex-direction: column; gap: 20px;">
+            <form name="request-topic" method="POST" data-netlify="true" action="/thank-you/" style="display: flex; flex-direction: column; gap: 20px;">
+                <input type="hidden" name="form-name" value="request-topic">
                 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px;">
                     <div><label style="display: block; margin-bottom: 8px;">👤 Your Full Name</label><input type="text" name="name" placeholder="e.g., Priya Sharma" style="width: 100%; padding: 12px; border: 1px solid var(--border); border-radius: 12px; background: var(--bg);" required></div>
                     <div><label style="display: block; margin-bottom: 8px;">📧 Email Address</label><input type="email" name="email" placeholder="Where to send the file" style="width: 100%; padding: 12px; border: 1px solid var(--border); border-radius: 12px; background: var(--bg);" required></div>

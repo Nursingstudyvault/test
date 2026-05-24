@@ -302,7 +302,7 @@
                 <a href="/privacy-policy/">Privacy Policy</a>
                 <a href="/terms/">Terms</a>
             </div>
-            <div><h4>📧 Newsletter</h4><p style="font-size: 0.85rem;">Get notified about new files</p><div class="newsletter-form"><input type="email" placeholder="Your email"><button>→</button></div></div>
+            <div><h4>📧 Newsletter</h4><p style="font-size: 0.85rem;">Get notified about new files</p><form name="newsletter" method="POST" data-netlify="true" action="/thank-you/" class="newsletter-form"><input type="hidden" name="form-name" value="newsletter"><input type="email" name="email" placeholder="Your email" required><button type="submit">→</button></form></div>
         </div>
         <div class="credit">
             <p>© 2026 Nursing Study Vault | All Rights Reserved</p>
