@@ -1,0 +1,345 @@
+---
+title: Malnutrition Prevention Health Talk for Mothers of Under-Five Children | Community Health Nursing
+date: 2026-05-21T19:51:43+05:30
+description: Complete malnutrition prevention health talk for mothers of under-five children in Community Health Nursing. Includes definition, causes, signs and symptoms, breastfeeding, complementary feeding, balanced diet, immunization, deworming, hygiene, growth monitoring, danger signs, evaluation questions and references.
+keywords: malnutrition prevention health talk, health talk on malnutrition, malnutrition health talk for mothers, under five children malnutrition, prevention of malnutrition in children, breastfeeding and complementary feeding, balanced diet health talk, growth monitoring health talk, community health nursing health talk, child health nursing practical, nursing practical file
+subject: Community Health Nursing Practical
+permalink: /health-talk/malnutrition-prevention-health-talk.html
+canonical: https://nursingstudyvault.online/health-talk/malnutrition-prevention-health-talk.html
+category: Health Talk
+hideRelated: true
+---
+<article itemscope itemtype="https://schema.org/Article" style="max-width:900px;margin:0 auto;font-family:'Segoe UI',system-ui,sans-serif;line-height:1.8;color:#333;">
+
+<!-- Schema.org Metadata for Google -->
+
+<!-- Title -->
+<h1 style="color:#1a73e8;text-align:center;font-size:clamp(1.5rem,4vw,2.2rem);border-bottom:3px solid #1a73e8;padding-bottom:15px;margin-bottom:25px;">
+🗣️ Health Talk on Prevention of Malnutrition
+</h1>
+
+<p style="text-align:center;color:#666;font-size:0.95rem;margin-bottom:30px;">
+<strong>Subject:</strong> Community Health Nursing Practical &nbsp;|&nbsp; 
+<strong>Target:</strong> Mothers of Under-Five Children &nbsp;|&nbsp; 
+<strong>Duration:</strong> 30-40 Minutes
+</p>
+
+<div style="background:#fff3cd;border:1px solid #ffc107;padding:12px 15px;border-radius:8px;margin-bottom:25px;font-size:0.9rem;text-align:center;">
+⚠️ <strong>Educational Purpose Only:</strong> This content is for nursing academic practical file preparation. Not for actual patient care or medical diagnosis.
+</div>
+
+<!-- ==================== STUDENT INFORMATION ==================== -->
+<h2 style="color:#1557b0;border-left:5px solid #1a73e8;padding-left:12px;margin:30px 0 15px;">📋 Student Information</h2>
+
+<div style="overflow-x:auto;-webkit-overflow-scrolling:touch;margin:15px 0;border-radius:10px;box-shadow:0 2px 10px rgba(0,0,0,0.08);">
+<table style="width:100%;border-collapse:collapse;min-width:600px;font-size:clamp(0.8rem,2vw,0.95rem);">
+<tbody>
+<tr style="background:#e8f0fe;"><td style="padding:12px 15px;border:1px solid #ddd;font-weight:600;width:35%;">Student Name</td><td style="padding:12px 15px;border:1px solid #ddd;">[Your Name]</td></tr>
+<tr><td style="padding:12px 15px;border:1px solid #ddd;font-weight:600;">Course</td><td style="padding:12px 15px;border:1px solid #ddd;">BSc Nursing / GNM / ANM</td></tr>
+<tr style="background:#e8f0fe;"><td style="padding:12px 15px;border:1px solid #ddd;font-weight:600;">Subject</td><td style="padding:12px 15px;border:1px solid #ddd;">Community Health Nursing Practical</td></tr>
+<tr><td style="padding:12px 15px;border:1px solid #ddd;font-weight:600;">Topic</td><td style="padding:12px 15px;border:1px solid #ddd;">Health Talk on Prevention of Malnutrition</td></tr>
+<tr style="background:#e8f0fe;"><td style="padding:12px 15px;border:1px solid #ddd;font-weight:600;">Target Group</td><td style="padding:12px 15px;border:1px solid #ddd;">Mothers of Under-Five Children</td></tr>
+<tr><td style="padding:12px 15px;border:1px solid #ddd;font-weight:600;">Venue</td><td style="padding:12px 15px;border:1px solid #ddd;">Anganwadi Centre / PHC / CHC / Community Area, [Village/City]</td></tr>
+<tr style="background:#e8f0fe;"><td style="padding:12px 15px;border:1px solid #ddd;font-weight:600;">Date</td><td style="padding:12px 15px;border:1px solid #ddd;">[Enter Date]</td></tr>
+<tr><td style="padding:12px 15px;border:1px solid #ddd;font-weight:600;">Duration</td><td style="padding:12px 15px;border:1px solid #ddd;">30-40 Minutes</td></tr>
+<tr style="background:#e8f0fe;"><td style="padding:12px 15px;border:1px solid #ddd;font-weight:600;">Method</td><td style="padding:12px 15px;border:1px solid #ddd;">Lecture, Demonstration, Discussion, Q&A</td></tr>
+<tr><td style="padding:12px 15px;border:1px solid #ddd;font-weight:600;">AV Aids</td><td style="padding:12px 15px;border:1px solid #ddd;">Food Chart, Growth Chart, Flashcards, Bowl & Spoon, Food Models, Posters</td></tr>
+<tr style="background:#e8f0fe;"><td style="padding:12px 15px;border:1px solid #ddd;font-weight:600;">Clinical Instructor</td><td style="padding:12px 15px;border:1px solid #ddd;">[Instructor Name]</td></tr>
+</tbody>
+</table>
+</div>
+
+<!-- ==================== GENERAL OBJECTIVE ==================== -->
+<h2 style="color:#1557b0;border-left:5px solid #1a73e8;padding-left:12px;margin:30px 0 15px;">🎯 General Objective</h2>
+<p>At the end of the health talk, mothers of under-five children will be able to understand the meaning, causes, signs, prevention, and management of malnutrition and will be motivated to provide age-appropriate feeding, balanced diet, immunization, hygiene, and regular growth monitoring for healthy growth and development of children.</p>
+
+<!-- ==================== SPECIFIC OBJECTIVES ==================== -->
+<h2 style="color:#1557b0;border-left:5px solid #1a73e8;padding-left:12px;margin:30px 0 15px;">📋 Specific Objectives</h2>
+<p>At the end of this health talk, the participants will be able to:</p>
+<ol style="padding-left:25px;">
+<li><strong>Define</strong> malnutrition in simple words</li>
+<li><strong>List</strong> common causes of malnutrition in under-five children</li>
+<li><strong>Identify</strong> signs and symptoms of malnutrition</li>
+<li><strong>Explain</strong> importance of exclusive breastfeeding for first 6 months</li>
+<li><strong>Describe</strong> correct complementary feeding after 6 months</li>
+<li><strong>List</strong> locally available nutritious foods</li>
+<li><strong>Explain</strong> importance of immunization, deworming, hygiene, and safe water</li>
+<li><strong>State</strong> danger signs requiring referral to health facility</li>
+</ol>
+
+<!-- ==================== AV AIDS ==================== -->
+<h2 style="color:#1557b0;border-left:5px solid #1a73e8;padding-left:12px;margin:30px 0 15px;">📚 Audio-Visual Aids Used</h2>
+
+<div style="overflow-x:auto;-webkit-overflow-scrolling:touch;margin:15px 0;border-radius:10px;box-shadow:0 2px 10px rgba(0,0,0,0.08);">
+<table style="width:100%;border-collapse:collapse;min-width:600px;font-size:clamp(0.8rem,2vw,0.95rem);">
+<thead>
+<tr style="background:#1a73e8;color:white;">
+<th style="padding:12px 15px;border:1px solid #1a73e8;text-align:left;">S.No.</th>
+<th style="padding:12px 15px;border:1px solid #1a73e8;text-align:left;">AV Aid</th>
+<th style="padding:12px 15px;border:1px solid #1a73e8;text-align:left;">Purpose</th>
+</tr>
+</thead>
+<tbody>
+<tr><td style="padding:10px 15px;border:1px solid #ddd;">1</td><td style="padding:10px 15px;border:1px solid #ddd;">Food Group Chart</td><td style="padding:10px 15px;border:1px solid #ddd;">Explain balanced diet</td></tr>
+<tr style="background:#e8f0fe;"><td style="padding:10px 15px;border:1px solid #ddd;">2</td><td style="padding:10px 15px;border:1px solid #ddd;">Growth Monitoring Chart</td><td style="padding:10px 15px;border:1px solid #ddd;">Show importance of weight monitoring</td></tr>
+<tr><td style="padding:10px 15px;border:1px solid #ddd;">3</td><td style="padding:10px 15px;border:1px solid #ddd;">Food Models</td><td style="padding:10px 15px;border:1px solid #ddd;">Demonstrate nutritious local foods</td></tr>
+<tr style="background:#e8f0fe;"><td style="padding:10px 15px;border:1px solid #ddd;">4</td><td style="padding:10px 15px;border:1px solid #ddd;">Bowl and Spoon</td><td style="padding:10px 15px;border:1px solid #ddd;">Show correct feeding method</td></tr>
+<tr><td style="padding:10px 15px;border:1px solid #ddd;">5</td><td style="padding:10px 15px;border:1px solid #ddd;">Flashcards</td><td style="padding:10px 15px;border:1px solid #ddd;">Explain signs, prevention, and danger signs</td></tr>
+<tr style="background:#e8f0fe;"><td style="padding:10px 15px;border:1px solid #ddd;">6</td><td style="padding:10px 15px;border:1px solid #ddd;">Pamphlets</td><td style="padding:10px 15px;border:1px solid #ddd;">Take-home education material</td></tr>
+</tbody>
+</table>
+</div>
+
+<!-- ==================== CONTENT ==================== -->
+<h2 style="color:#1557b0;border-left:5px solid #1a73e8;padding-left:12px;margin:30px 0 15px;">📖 Content of Health Talk</h2>
+
+<h3 style="color:#1a73e8;">1. Introduction</h3>
+<p><strong>Greeting:</strong> "Good morning respected madam/sir and dear mothers. My name is [Your Name], and I am a nursing student from [College Name]. Today I am going to give a health talk on prevention of malnutrition in under-five children."</p>
+<p><strong>Ice-Breaking:</strong> "Every mother wants her child to grow healthy, active, and intelligent. For this, proper food, breastfeeding, cleanliness, immunization, and regular weight monitoring are very important."</p>
+
+<blockquote style="background:#e8f0fe;padding:15px 20px;border-left:5px solid #1a73e8;border-radius:5px;margin:15px 0;">
+<strong>Key Message:</strong> "Right food at the right age prevents malnutrition and supports healthy growth."
+</blockquote>
+
+<h3 style="color:#1a73e8;">2. Definition of Malnutrition</h3>
+<p><strong>Malnutrition</strong> is a condition that occurs when the body does not get adequate nutrients such as energy, protein, vitamins, and minerals required for normal growth, development, immunity, and health. In children, malnutrition may cause low weight, poor growth, weakness, repeated infections, delayed development, and poor school performance later in life.</p>
+
+<h3 style="color:#1a73e8;">3. Types of Malnutrition</h3>
+
+<div style="overflow-x:auto;-webkit-overflow-scrolling:touch;margin:15px 0;border-radius:10px;box-shadow:0 2px 10px rgba(0,0,0,0.08);">
+<table style="width:100%;border-collapse:collapse;min-width:650px;font-size:clamp(0.8rem,2vw,0.95rem);">
+<thead>
+<tr style="background:#1a73e8;color:white;">
+<th style="padding:12px 15px;border:1px solid #1a73e8;">Type</th>
+<th style="padding:12px 15px;border:1px solid #1a73e8;">Meaning</th>
+<th style="padding:12px 15px;border:1px solid #1a73e8;">Example</th>
+</tr>
+</thead>
+<tbody>
+<tr><td style="padding:10px 15px;border:1px solid #ddd;">Undernutrition</td><td style="padding:10px 15px;border:1px solid #ddd;">Child gets less food or poor quality food</td><td style="padding:10px 15px;border:1px solid #ddd;">Underweight, wasting, stunting</td></tr>
+<tr style="background:#e8f0fe;"><td style="padding:10px 15px;border:1px solid #ddd;">Micronutrient Deficiency</td><td style="padding:10px 15px;border:1px solid #ddd;">Lack of vitamins and minerals</td><td style="padding:10px 15px;border:1px solid #ddd;">Anemia, vitamin A deficiency, iodine deficiency</td></tr>
+<tr><td style="padding:10px 15px;border:1px solid #ddd;">Overnutrition</td><td style="padding:10px 15px;border:1px solid #ddd;">Excess unhealthy food and less activity</td><td style="padding:10px 15px;border:1px solid #ddd;">Childhood obesity</td></tr>
+</tbody>
+</table>
+</div>
+
+<h3 style="color:#1a73e8;">4. Causes of Malnutrition in Under-Five Children</h3>
+<ul>
+<li>Not starting breastfeeding within one hour after birth.</li>
+<li>Not giving colostrum or throwing away first yellow milk.</li>
+<li>Not giving exclusive breastfeeding for first 6 months.</li>
+<li>Late, early, or inadequate complementary feeding.</li>
+<li>Giving watery, thin, or low-nutrient food frequently.</li>
+<li>Poverty, food insecurity, and lack of nutrition knowledge.</li>
+<li>Repeated infections like diarrhea, pneumonia, measles, and worm infestation.</li>
+<li>Poor hygiene, unsafe drinking water, and open defecation.</li>
+<li>Incomplete immunization and irregular health check-ups.</li>
+<li>Neglect of girl child or unequal food distribution in family.</li>
+</ul>
+
+<h3 style="color:#1a73e8;">5. Signs and Symptoms of Malnutrition</h3>
+
+<div style="overflow-x:auto;-webkit-overflow-scrolling:touch;margin:15px 0;border-radius:10px;box-shadow:0 2px 10px rgba(0,0,0,0.08);">
+<table style="width:100%;border-collapse:collapse;min-width:700px;font-size:clamp(0.8rem,2vw,0.95rem);">
+<thead>
+<tr style="background:#1a73e8;color:white;">
+<th style="padding:12px 15px;border:1px solid #1a73e8;">Area</th>
+<th style="padding:12px 15px;border:1px solid #1a73e8;">Signs</th>
+</tr>
+</thead>
+<tbody>
+<tr><td style="padding:10px 15px;border:1px solid #ddd;">General Appearance</td><td style="padding:10px 15px;border:1px solid #ddd;">Thin body, low weight, weakness, tiredness, inactive child</td></tr>
+<tr style="background:#e8f0fe;"><td style="padding:10px 15px;border:1px solid #ddd;">Growth</td><td style="padding:10px 15px;border:1px solid #ddd;">Poor weight gain, short height for age, delayed milestones</td></tr>
+<tr><td style="padding:10px 15px;border:1px solid #ddd;">Skin and Hair</td><td style="padding:10px 15px;border:1px solid #ddd;">Dry skin, sparse hair, hair color changes, poor wound healing</td></tr>
+<tr style="background:#e8f0fe;"><td style="padding:10px 15px;border:1px solid #ddd;">Immunity</td><td style="padding:10px 15px;border:1px solid #ddd;">Repeated fever, cough, diarrhea, infections</td></tr>
+<tr><td style="padding:10px 15px;border:1px solid #ddd;">Severe Signs</td><td style="padding:10px 15px;border:1px solid #ddd;">Swelling of feet, severe wasting, poor appetite, lethargy</td></tr>
+</tbody>
+</table>
+</div>
+
+<h3 style="color:#1a73e8;">6. Prevention of Malnutrition</h3>
+<p>Malnutrition can be prevented by proper feeding practices, balanced diet, breastfeeding, timely complementary feeding, immunization, hygiene, safe water, deworming, and regular growth monitoring.</p>
+
+<h4>A. Breastfeeding</h4>
+<ul>
+<li>Start breastfeeding within <strong>one hour of birth</strong>.</li>
+<li>Give <strong>colostrum</strong>; do not discard it.</li>
+<li>Give <strong>exclusive breastfeeding for first 6 months</strong>.</li>
+<li>No water, honey, ghutti, animal milk, tea, or other food before 6 months unless medically advised.</li>
+<li>Continue breastfeeding up to 2 years or beyond along with complementary food.</li>
+</ul>
+
+<h4>B. Complementary Feeding After 6 Months</h4>
+<p>After completion of 6 months, breast milk alone is not enough. Complementary feeding should be started while continuing breastfeeding.</p>
+
+<div style="overflow-x:auto;-webkit-overflow-scrolling:touch;margin:15px 0;border-radius:10px;box-shadow:0 2px 10px rgba(0,0,0,0.08);">
+<table style="width:100%;border-collapse:collapse;min-width:750px;font-size:clamp(0.8rem,2vw,0.95rem);">
+<thead>
+<tr style="background:#1a73e8;color:white;">
+<th style="padding:12px 15px;border:1px solid #1a73e8;">Age</th>
+<th style="padding:12px 15px;border:1px solid #1a73e8;">Food Consistency</th>
+<th style="padding:12px 15px;border:1px solid #1a73e8;">Frequency</th>
+<th style="padding:12px 15px;border:1px solid #1a73e8;">Examples</th>
+</tr>
+</thead>
+<tbody>
+<tr><td style="padding:10px 15px;border:1px solid #ddd;">6-8 months</td><td style="padding:10px 15px;border:1px solid #ddd;">Thick mashed food</td><td style="padding:10px 15px;border:1px solid #ddd;">2-3 times/day</td><td style="padding:10px 15px;border:1px solid #ddd;">Mashed dal-rice, khichdi, mashed banana, suji kheer</td></tr>
+<tr style="background:#e8f0fe;"><td style="padding:10px 15px;border:1px solid #ddd;">9-11 months</td><td style="padding:10px 15px;border:1px solid #ddd;">Soft chopped food</td><td style="padding:10px 15px;border:1px solid #ddd;">3-4 times/day</td><td style="padding:10px 15px;border:1px solid #ddd;">Soft roti with dal, vegetables, egg, curd, fruits</td></tr>
+<tr><td style="padding:10px 15px;border:1px solid #ddd;">12-24 months</td><td style="padding:10px 15px;border:1px solid #ddd;">Family food, soft and small pieces</td><td style="padding:10px 15px;border:1px solid #ddd;">3-4 meals + 1-2 snacks</td><td style="padding:10px 15px;border:1px solid #ddd;">Rice, dal, roti, vegetables, milk, fruits, egg/paneer</td></tr>
+</tbody>
+</table>
+</div>
+
+<div style="background:#fff3cd;padding:15px;border-radius:8px;margin:15px 0;text-align:center;">
+🥣 <strong>Important:</strong> Child food should be thick, soft, clean, energy-rich, and given with love and patience.
+</div>
+
+<h3 style="color:#1a73e8;">7. Balanced Diet for Children</h3>
+
+<div style="overflow-x:auto;-webkit-overflow-scrolling:touch;margin:15px 0;border-radius:10px;box-shadow:0 2px 10px rgba(0,0,0,0.08);">
+<table style="width:100%;border-collapse:collapse;min-width:700px;font-size:clamp(0.8rem,2vw,0.95rem);">
+<thead>
+<tr style="background:#1a73e8;color:white;">
+<th style="padding:12px 15px;border:1px solid #1a73e8;">Food Group</th>
+<th style="padding:12px 15px;border:1px solid #1a73e8;">Function</th>
+<th style="padding:12px 15px;border:1px solid #1a73e8;">Local Examples</th>
+</tr>
+</thead>
+<tbody>
+<tr><td style="padding:10px 15px;border:1px solid #ddd;">Energy Foods</td><td style="padding:10px 15px;border:1px solid #ddd;">Provide energy for play and activity</td><td style="padding:10px 15px;border:1px solid #ddd;">Rice, wheat, roti, potato, ghee, oil</td></tr>
+<tr style="background:#e8f0fe;"><td style="padding:10px 15px;border:1px solid #ddd;">Body Building Foods</td><td style="padding:10px 15px;border:1px solid #ddd;">Help growth and muscle development</td><td style="padding:10px 15px;border:1px solid #ddd;">Dal, pulses, milk, curd, paneer, egg, fish, meat</td></tr>
+<tr><td style="padding:10px 15px;border:1px solid #ddd;">Protective Foods</td><td style="padding:10px 15px;border:1px solid #ddd;">Improve immunity and prevent deficiency</td><td style="padding:10px 15px;border:1px solid #ddd;">Green leafy vegetables, carrot, fruits, amla, lemon</td></tr>
+</tbody>
+</table>
+</div>
+
+<h3 style="color:#1a73e8;">8. Low-Cost Nutritious Food Ideas</h3>
+<ul>
+<li>Khichdi with dal, rice, vegetables, and little oil/ghee.</li>
+<li>Dal-roti mashed with vegetables.</li>
+<li>Suji upma with vegetables.</li>
+<li>Mashed banana, papaya, seasonal fruits.</li>
+<li>Curd rice or curd with soft roti.</li>
+<li>Boiled egg or paneer if available.</li>
+<li>Sprouted pulses and roasted chana powder for older children.</li>
+<li>Groundnut, sesame, jaggery preparations for energy and protein.</li>
+</ul>
+
+<h3 style="color:#1a73e8;">9. Feeding During Illness</h3>
+<ul>
+<li>Do not stop feeding during illness.</li>
+<li>Continue breastfeeding during diarrhea, fever, cough, or cold.</li>
+<li>Give small frequent meals and fluids.</li>
+<li>After illness, give one extra meal daily for at least 2 weeks to regain lost weight.</li>
+<li>Use ORS and zinc during diarrhea as advised by health worker.</li>
+</ul>
+
+<h3 style="color:#1a73e8;">10. Growth Monitoring</h3>
+<p>Growth monitoring helps to detect malnutrition early. Mothers should take children regularly to Anganwadi Centre, sub-centre, PHC, or immunization session for weight monitoring and growth chart recording.</p>
+<ul>
+<li>Weigh child regularly.</li>
+<li>Check growth curve on Mother and Child Protection Card.</li>
+<li>If weight is not increasing, consult ANM/ASHA/Anganwadi worker.</li>
+<li>Early action prevents severe malnutrition.</li>
+</ul>
+
+<h3 style="color:#1a73e8;">11. Immunization, Deworming and Vitamin Supplementation</h3>
+<ul>
+<li>Complete immunization protects children from vaccine-preventable diseases.</li>
+<li>Repeated infections increase risk of malnutrition.</li>
+<li>Deworming helps prevent worm infestation and improves nutrition status.</li>
+<li>Vitamin A supplementation should be taken as per national schedule.</li>
+<li>Iron and folic acid supplementation should be taken as advised for prevention of anemia.</li>
+</ul>
+
+<h3 style="color:#1a73e8;">12. Hygiene and Safe Water</h3>
+<ul>
+<li>Wash hands with soap before preparing food and feeding child.</li>
+<li>Wash hands after using toilet and cleaning child’s stool.</li>
+<li>Use clean utensils, bowl, and spoon for feeding.</li>
+<li>Give safe drinking water.</li>
+<li>Keep food covered and freshly prepared as much as possible.</li>
+<li>Use sanitary toilet and avoid open defecation.</li>
+<li>Keep child’s nails short and clean.</li>
+</ul>
+
+<h3 style="color:#1a73e8;">13. Danger Signs Requiring Medical Help</h3>
+<ul>
+<li>Child is very weak, lethargic, or unconscious.</li>
+<li>Child is unable to drink or breastfeed.</li>
+<li>Severe wasting or visible ribs and loose skin.</li>
+<li>Swelling of both feet.</li>
+<li>Persistent diarrhea or vomiting.</li>
+<li>High fever, fast breathing, convulsions, or severe dehydration.</li>
+<li>No weight gain or continuous weight loss.</li>
+</ul>
+
+<h3 style="color:#1a73e8;">14. Role of Nurse / ANM / ASHA / Anganwadi Worker</h3>
+<ul>
+<li>Educate mothers about breastfeeding and complementary feeding.</li>
+<li>Monitor child growth and maintain records.</li>
+<li>Identify underweight and malnourished children early.</li>
+<li>Provide counselling on low-cost nutritious foods.</li>
+<li>Promote immunization, deworming, vitamin A, and IFA supplementation.</li>
+<li>Teach hand washing, safe water, and sanitation practices.</li>
+<li>Refer severe malnutrition or danger signs to health facility.</li>
+<li>Conduct follow-up visits and family counselling.</li>
+</ul>
+
+<!-- ==================== SUMMARY ==================== -->
+<h2 style="color:#1557b0;border-left:5px solid #1a73e8;padding-left:12px;margin:30px 0 15px;">✅ Summary — The 5 Golden Rules</h2>
+
+<div style="background:#e8f0fe;padding:20px;border-radius:10px;margin:15px 0;">
+<ol style="font-size:clamp(0.9rem,2vw,1.1rem);">
+<li><strong>🤱 Breastfeed Properly</strong> — Exclusive breastfeeding for first 6 months</li>
+<li><strong>🥣 Start Complementary Feeding</strong> — Start thick nutritious food after 6 months</li>
+<li><strong>🍲 Give Balanced Diet</strong> — Include energy, protein, vitamins, and minerals</li>
+<li><strong>📈 Monitor Growth</strong> — Weigh child regularly and check growth chart</li>
+<li><strong>💉 Prevent Infections</strong> — Complete immunization, deworming, hygiene, and safe water</li>
+</ol>
+</div>
+
+<blockquote style="background:#d4edda;padding:15px 20px;border-left:5px solid #28a745;border-radius:5px;margin:15px 0;font-size:clamp(0.9rem,2vw,1.1rem);">
+🌟 <strong>Healthy food, clean habits, and regular care make every child strong and active.</strong>
+</blockquote>
+
+<!-- ==================== EVALUATION ==================== -->
+<h2 style="color:#1557b0;border-left:5px solid #1a73e8;padding-left:12px;margin:30px 0 15px;">❓ Evaluation Questions</h2>
+
+<div style="overflow-x:auto;-webkit-overflow-scrolling:touch;margin:15px 0;border-radius:10px;box-shadow:0 2px 10px rgba(0,0,0,0.08);">
+<table style="width:100%;border-collapse:collapse;min-width:600px;font-size:clamp(0.8rem,2vw,0.95rem);">
+<thead>
+<tr style="background:#1a73e8;color:white;">
+<th style="padding:12px 15px;border:1px solid #1a73e8;">S.No.</th>
+<th style="padding:12px 15px;border:1px solid #1a73e8;">Question</th>
+<th style="padding:12px 15px;border:1px solid #1a73e8;">Expected Answer</th>
+</tr>
+</thead>
+<tbody>
+<tr><td style="padding:10px 15px;border:1px solid #ddd;">1</td><td style="padding:10px 15px;border:1px solid #ddd;">What is malnutrition?</td><td style="padding:10px 15px;border:1px solid #ddd;">Lack or imbalance of nutrients needed for growth and health</td></tr>
+<tr style="background:#e8f0fe;"><td style="padding:10px 15px;border:1px solid #ddd;">2</td><td style="padding:10px 15px;border:1px solid #ddd;">How long should exclusive breastfeeding be given?</td><td style="padding:10px 15px;border:1px solid #ddd;">First 6 months</td></tr>
+<tr><td style="padding:10px 15px;border:1px solid #ddd;">3</td><td style="padding:10px 15px;border:1px solid #ddd;">When should complementary feeding be started?</td><td style="padding:10px 15px;border:1px solid #ddd;">After completion of 6 months</td></tr>
+<tr style="background:#e8f0fe;"><td style="padding:10px 15px;border:1px solid #ddd;">4</td><td style="padding:10px 15px;border:1px solid #ddd;">Name two low-cost nutritious foods.</td><td style="padding:10px 15px;border:1px solid #ddd;">Khichdi, dal-rice, curd, banana, egg, sprouts</td></tr>
+<tr><td style="padding:10px 15px;border:1px solid #ddd;">5</td><td style="padding:10px 15px;border:1px solid #ddd;">Why is growth monitoring important?</td><td style="padding:10px 15px;border:1px solid #ddd;">To detect poor growth and malnutrition early</td></tr>
+<tr style="background:#e8f0fe;"><td style="padding:10px 15px;border:1px solid #ddd;">6</td><td style="padding:10px 15px;border:1px solid #ddd;">Name one danger sign of severe malnutrition.</td><td style="padding:10px 15px;border:1px solid #ddd;">Swelling of feet, severe wasting, lethargy, unable to feed</td></tr>
+</tbody>
+</table>
+</div>
+
+<!-- ==================== REFERENCES ==================== -->
+<h2 style="color:#1557b0;border-left:5px solid #1a73e8;padding-left:12px;margin:30px 0 15px;">📖 References</h2>
+<ol>
+<li>K. Park, <strong>Textbook of Preventive and Social Medicine</strong>, 27th Edition</li>
+<li>B.T. Basavanthappa, <strong>Community Health Nursing</strong>, 3rd Edition, Jaypee Brothers</li>
+<li><strong>WHO</strong> — Infant and Young Child Feeding Guidelines</li>
+<li><strong>UNICEF</strong> — Child Nutrition and Malnutrition Prevention Guidelines</li>
+<li><strong>Ministry of Health and Family Welfare, Government of India</strong> — Infant and Young Child Feeding Guidelines</li>
+<li><strong>National Health Mission</strong> — Child Health and Nutrition Programme</li>
+</ol>
+
+<!-- ==================== DISCLAIMER ==================== -->
+<div style="background:#fff3cd;border:2px solid #ffc107;padding:15px 20px;border-radius:10px;margin-top:30px;text-align:center;">
+<p style="margin:0;font-size:0.9rem;"><strong>⚕️ Medical Disclaimer:</strong> This health talk is prepared for <strong>educational and academic purposes only</strong> as part of nursing practical file work (ANM, GNM, BSc Nursing). It is not intended for actual patient care, medical diagnosis, or treatment. Always follow your institution's guidelines and consult your clinical instructor/qualified health professional.</p>
+</div>
+
+</article>

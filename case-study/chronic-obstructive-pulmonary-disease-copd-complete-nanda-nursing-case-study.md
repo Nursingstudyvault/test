@@ -1,0 +1,519 @@
+---
+title: Chronic Obstructive Pulmonary Disease (COPD) - Complete NANDA Nursing
+  Case Study
+date: 2026-05-21T17:02:00.000+05:30
+description: Complete 19-page NANDA format nursing case study on Chronic
+  Obstructive Pulmonary Disease (COPD). Covers patient identification, clinical
+  history, physical examination, investigations, medical management, nursing
+  diagnoses, nursing care plans, discharge summary, and health education.
+keywords: case study on COPD, COPD nursing case study, chronic obstructive
+  pulmonary disease case study, COPD NANDA nursing care plan, COPD nursing
+  diagnosis, COPD medical surgical nursing case study, COPD patient case study,
+  respiratory nursing case study, COPD health education, COPD discharge summary,
+  nursing practical file COPD, BSc nursing COPD case study, GNM nursing COPD
+  case study, ANM nursing COPD case study
+subject: Medical-Surgical Nursing, Respiratory Nursing, NANDA Nursing Care Plan
+permalink: /case-study/case-study-on-copd.html
+canonical: https://nursingstudyvault.online/case-study/case-study-on-copd.html
+category: Case Study
+---
+<article itemscope itemtype="https://schema.org/Article" style="max-width:900px;margin:0 auto;font-family:'Segoe UI',system-ui,sans-serif;line-height:1.8;color:#333;">
+
+<meta itemprop="headline" content="Chronic Obstructive Pulmonary Disease (COPD) - Complete NANDA Nursing Case Study (19 Pages)">
+<meta itemprop="description" content="Complete 19-page NANDA format nursing case study on Chronic Obstructive Pulmonary Disease (COPD). Covers patient identification, clinical history, physical examination, investigations, medical management, nursing diagnoses, nursing care plans, discharge summary, and health education.">
+<meta itemprop="datePublished" content="2026-05-21">
+<meta itemprop="educationalUse" content="Nursing Practical File">
+<meta itemprop="audience" content="ANM, GNM, BSc Nursing Students">
+
+<!-- ========== HEADER ========== -->
+<h1 style="color:#1a73e8;text-align:center;font-size:clamp(1.5rem,4vw,2.2rem);border-bottom:3px solid #1a73e8;padding-bottom:15px;margin-bottom:10px;">🫁 Case Study on Chronic Obstructive Pulmonary Disease (COPD)</h1>
+<p style="text-align:center;color:#666;font-size:0.95rem;margin-bottom:5px;">Medical-Surgical Nursing | NANDA Nursing Care Plan Format</p>
+<p style="text-align:center;"><span style="background:#dc3545;color:#fff;padding:5px 14px;border-radius:30px;font-size:0.85rem;">Respiratory Nursing | Practical File Ready</span></p>
+<div style="background:#fff3cd;border:1px solid #ffc107;padding:12px 15px;border-radius:8px;margin:25px 0;font-size:0.9rem;text-align:center;">⚠️ <strong>Educational Purpose Only:</strong> This case study is for nursing academic practical file preparation. Not for actual patient care or clinical decision-making.</div>
+
+<!-- ========== STUDENT INFO ========== -->
+<h2 style="color:#1557b0;border-left:5px solid #1a73e8;padding-left:12px;margin:30px 0 15px;">📋 Student Information</h2>
+<div style="overflow-x:auto;-webkit-overflow-scrolling:touch;margin:15px 0;border-radius:10px;box-shadow:0 2px 10px rgba(0,0,0,0.08);"><table style="width:100%;border-collapse:collapse;min-width:600px;font-size:clamp(0.8rem,2vw,0.95rem);"><tbody>
+<tr style="background:#e8f0fe;"><td style="padding:12px 15px;border:1px solid #ddd;font-weight:600;width:35%;">Student Name</td><td style="padding:12px 15px;border:1px solid #ddd;">[Your Name]</td></tr>
+<tr><td style="padding:12px 15px;border:1px solid #ddd;font-weight:600;">Course</td><td style="padding:12px 15px;border:1px solid #ddd;">BSc Nursing / GNM / ANM</td></tr>
+<tr style="background:#e8f0fe;"><td style="padding:12px 15px;border:1px solid #ddd;font-weight:600;">Subject</td><td style="padding:12px 15px;border:1px solid #ddd;">Medical-Surgical Nursing / Respiratory Nursing</td></tr>
+<tr><td style="padding:12px 15px;border:1px solid #ddd;font-weight:600;">Case Study Topic</td><td style="padding:12px 15px;border:1px solid #ddd;">Chronic Obstructive Pulmonary Disease (COPD) — Complete Nursing Case Study</td></tr>
+<tr style="background:#e8f0fe;"><td style="padding:12px 15px;border:1px solid #ddd;font-weight:600;">Format</td><td style="padding:12px 15px;border:1px solid #ddd;">NANDA-I Nursing Care Plan Format</td></tr>
+<tr><td style="padding:12px 15px;border:1px solid #ddd;font-weight:600;">Date of Submission</td><td style="padding:12px 15px;border:1px solid #ddd;">[Enter Date]</td></tr>
+<tr style="background:#e8f0fe;"><td style="padding:12px 15px;border:1px solid #ddd;font-weight:600;">Clinical Instructor</td><td style="padding:12px 15px;border:1px solid #ddd;">[Instructor Name]</td></tr>
+</tbody></table></div>
+
+<!-- ========== PAGE 1: PATIENT IDENTIFICATION DATA ========== -->
+<h2 style="color:#1557b0;border-left:5px solid #1a73e8;padding-left:12px;margin:30px 0 15px;">📄 Page 1 — Patient Identification Data</h2>
+<div style="overflow-x:auto;-webkit-overflow-scrolling:touch;margin:15px 0;border-radius:10px;box-shadow:0 2px 10px rgba(0,0,0,0.08);"><table style="width:100%;border-collapse:collapse;min-width:600px;font-size:clamp(0.8rem,2vw,0.95rem);"><tbody>
+<tr style="background:#e8f0fe;"><td style="padding:10px 15px;border:1px solid #ddd;font-weight:600;width:40%;">Name</td><td style="padding:10px 15px;border:1px solid #ddd;">Mr. Mohan Lal Sharma</td></tr>
+<tr><td style="padding:10px 15px;border:1px solid #ddd;font-weight:600;">Age</td><td style="padding:10px 15px;border:1px solid #ddd;">68 Years</td></tr>
+<tr style="background:#e8f0fe;"><td style="padding:10px 15px;border:1px solid #ddd;font-weight:600;">Sex</td><td style="padding:10px 15px;border:1px solid #ddd;">Male</td></tr>
+<tr><td style="padding:10px 15px;border:1px solid #ddd;font-weight:600;">Address</td><td style="padding:10px 15px;border:1px solid #ddd;">Mandore Road, Jodhpur, Rajasthan</td></tr>
+<tr style="background:#e8f0fe;"><td style="padding:10px 15px;border:1px solid #ddd;font-weight:600;">Occupation</td><td style="padding:10px 15px;border:1px solid #ddd;">Retired Textile Mill Worker</td></tr>
+<tr><td style="padding:10px 15px;border:1px solid #ddd;font-weight:600;">Marital Status</td><td style="padding:10px 15px;border:1px solid #ddd;">Married</td></tr>
+<tr style="background:#e8f0fe;"><td style="padding:10px 15px;border:1px solid #ddd;font-weight:600;">Religion/Category</td><td style="padding:10px 15px;border:1px solid #ddd;">Hindu / OBC</td></tr>
+<tr><td style="padding:10px 15px;border:1px solid #ddd;font-weight:600;">Annual Income</td><td style="padding:10px 15px;border:1px solid #ddd;">₹3,20,000/-</td></tr>
+<tr style="background:#e8f0fe;"><td style="padding:10px 15px;border:1px solid #ddd;font-weight:600;">Diagnosis</td><td style="padding:10px 15px;border:1px solid #ddd;">Acute Exacerbation of Chronic Obstructive Pulmonary Disease (COPD) with Type II Respiratory Failure</td></tr>
+<tr><td style="padding:10px 15px;border:1px solid #ddd;font-weight:600;">Type of Family</td><td style="padding:10px 15px;border:1px solid #ddd;">Joint Family</td></tr>
+<tr style="background:#e8f0fe;"><td style="padding:10px 15px;border:1px solid #ddd;font-weight:600;">Family Size</td><td style="padding:10px 15px;border:1px solid #ddd;">6 Members</td></tr>
+<tr><td style="padding:10px 15px;border:1px solid #ddd;font-weight:600;">Ward Name</td><td style="padding:10px 15px;border:1px solid #ddd;">Respiratory Medicine Ward / High Dependency Unit</td></tr>
+<tr style="background:#e8f0fe;"><td style="padding:10px 15px;border:1px solid #ddd;font-weight:600;">Bed Number</td><td style="padding:10px 15px;border:1px solid #ddd;">12</td></tr>
+<tr><td style="padding:10px 15px;border:1px solid #ddd;font-weight:600;">Doctor Incharge</td><td style="padding:10px 15px;border:1px solid #ddd;">Dr. R. K. Mehta, MD Respiratory Medicine</td></tr>
+<tr style="background:#e8f0fe;"><td style="padding:10px 15px;border:1px solid #ddd;font-weight:600;">Date of Admission</td><td style="padding:10px 15px;border:1px solid #ddd;">10/03/2026</td></tr>
+<tr><td style="padding:10px 15px;border:1px solid #ddd;font-weight:600;">Hospital Name</td><td style="padding:10px 15px;border:1px solid #ddd;">Mathura Das Mathur Hospital, Jodhpur</td></tr>
+</tbody></table></div>
+
+<!-- ========== PAGE 2: CHIEF COMPLAINTS & HISTORY ========== -->
+<h2 style="color:#1557b0;border-left:5px solid #1a73e8;padding-left:12px;margin:30px 0 15px;">📄 Page 2 — Chief Complaints & Clinical History</h2>
+
+<h3 style="color:#1a73e8;">CHIEF COMPLAINT</h3>
+<p>The patient was brought to the emergency department at 9:15 PM with the complaints of:</p>
+<ul>
+<li>Severe shortness of breath since 2 days, increased markedly since morning</li>
+<li>Productive cough with thick yellowish sputum since 5 days</li>
+<li>Wheezing and chest tightness since 3 days</li>
+<li>Fever with chills since 2 days</li>
+<li>Unable to sleep in lying position; prefers sitting upright</li>
+<li>Marked fatigue and inability to perform daily activities</li>
+<li>Loss of appetite and generalized weakness</li>
+<li>History of recurrent similar episodes for the last 4 years</li>
+</ul>
+
+<h3 style="color:#1a73e8;">HISTORY OF PRESENT ILLNESS</h3>
+<p>The patient, Mr. Mohan Lal Sharma, a 68-year-old retired textile mill worker, was apparently living with chronic breathlessness and cough for the last 8 years. He had progressive exertional dyspnea, initially occurring only during heavy work, but gradually increasing over the years. For the last 2 years, he developed breathlessness even while walking inside the house and climbing a few steps. He also had chronic cough with mucoid sputum, especially in the early morning.</p>
+<p>Five days before admission, the patient developed increased cough with thick yellowish sputum. Three days before admission, he developed wheezing, chest tightness, and increased breathlessness. Two days before admission, he developed low-grade fever with chills and malaise. On the day of admission, breathlessness became severe even at rest. He was unable to speak full sentences and had to sit leaning forward to breathe. Family members noticed bluish discoloration of lips and excessive drowsiness. He was brought to the emergency department by his son.</p>
+<p>On arrival, the patient was conscious but drowsy, dyspneic, tachypneic, using accessory muscles of respiration, and had oxygen saturation of 82% on room air. Auscultation revealed bilateral diffuse wheeze with coarse crepitations. Arterial blood gas analysis showed hypoxemia with hypercapnia, suggestive of Type II respiratory failure. The patient was immediately started on controlled oxygen therapy, nebulization with bronchodilators, IV corticosteroids, antibiotics, and non-invasive ventilation support. He was admitted to the Respiratory Medicine HDU for close monitoring and management.</p>
+
+<h3 style="color:#1a73e8;">PAST MEDICAL HISTORY</h3>
+<ul>
+<li>Known case of COPD for 8 years; diagnosed by spirometry showing persistent airflow limitation</li>
+<li>History of recurrent acute exacerbations requiring hospitalization 2 times in the last 1 year</li>
+<li>Hypertension — diagnosed 10 years ago; on Tablet Amlodipine 5mg OD</li>
+<li>No known history of diabetes mellitus, tuberculosis, bronchial asthma, epilepsy, or ischemic heart disease</li>
+<li>History of frequent respiratory infections during winter season</li>
+<li>No known drug allergy</li>
+</ul>
+
+<h3 style="color:#1a73e8;">PAST SURGICAL HISTORY</h3>
+<ul>
+<li>No history of any major surgical intervention.</li>
+<li>No history of thoracic surgery or lung biopsy.</li>
+<li>No history of blood transfusion.</li>
+</ul>
+
+<!-- ========== PAGE 3: FAMILY HISTORY ========== -->
+<h2 style="color:#1557b0;border-left:5px solid #1a73e8;padding-left:12px;margin:30px 0 15px;">📄 Page 3 — Family History & Composition</h2>
+
+<h3 style="color:#1a73e8;">FAMILY HISTORY</h3>
+<ul>
+<li>The patient belongs to a joint family.</li>
+<li>There are 6 members in the family — patient, wife, son, daughter-in-law, and 2 grandchildren.</li>
+<li>Father — chronic smoker; died at age 72 due to chronic respiratory illness.</li>
+<li>Mother — died at age 78 due to age-related illness.</li>
+<li>No family history of bronchial asthma, tuberculosis, lung cancer, or genetic lung disease reported.</li>
+<li>Son is healthy but occasionally smokes; family was advised regarding passive smoking risk.</li>
+<li><strong>Environmental and smoking-related respiratory risk is present in the family.</strong></li>
+</ul>
+
+<h3 style="color:#1a73e8;">FAMILY COMPOSITION</h3>
+<div style="overflow-x:auto;-webkit-overflow-scrolling:touch;margin:15px 0;border-radius:10px;box-shadow:0 2px 10px rgba(0,0,0,0.08);"><table style="width:100%;border-collapse:collapse;min-width:700px;font-size:clamp(0.75rem,1.8vw,0.9rem);"><thead><tr style="background:#1a73e8;color:white;"><th>Name</th><th>Age/Sex</th><th>Education</th><th>Occupation</th><th>Marital Status</th><th>Relationship</th><th>Health Status</th></tr></thead><tbody>
+<tr><td>Mr. Mohan Lal Sharma</td><td>68/M</td><td>Class 8</td><td>Retired Textile Worker</td><td>Married</td><td>Self (Patient)</td><td>COPD with acute exacerbation</td></tr>
+<tr style="background:#e8f0fe;"><td>Mrs. Kamla Devi</td><td>64/F</td><td>Class 5</td><td>Housewife</td><td>Married</td><td>Wife</td><td>Healthy</td></tr>
+<tr><td>Mr. Suresh Sharma</td><td>38/M</td><td>BA</td><td>Shopkeeper</td><td>Married</td><td>Son</td><td>Occasional smoker</td></tr>
+<tr style="background:#e8f0fe;"><td>Mrs. Neha Sharma</td><td>34/F</td><td>B.Com</td><td>Housewife</td><td>Married</td><td>Daughter-in-law</td><td>Healthy</td></tr>
+<tr><td>Master Rohan Sharma</td><td>10/M</td><td>Class 5</td><td>Student</td><td>Unmarried</td><td>Grandson</td><td>Healthy</td></tr>
+<tr style="background:#e8f0fe;"><td>Miss Kavya Sharma</td><td>7/F</td><td>Class 2</td><td>Student</td><td>Unmarried</td><td>Granddaughter</td><td>Healthy</td></tr>
+</tbody></table></div>
+<h3 style="color:#1a73e8;">FAMILY TREE</h3>
+<div style="background:#ffffff;border:1px solid #d0d7de;border-radius:14px;padding:25px 15px;margin:15px 0;overflow-x:auto;box-shadow:0 4px 14px rgba(0,0,0,0.08);">
+<div style="min-width:720px;text-align:center;font-family:'Segoe UI',system-ui,sans-serif;">
+<div style="display:flex;justify-content:center;gap:25px;align-items:center;">
+<div style="background:#e8f0fe;border:2px solid #1a73e8;border-radius:12px;padding:12px 18px;width:220px;">
+    <div style="font-size:28px;">👨</div>
+    <strong>Mr. Mohan Lal Sharma</strong>
+    <div style="font-size:0.85rem;color:#555;">Self / Patient</div>
+    <div style="font-size:0.8rem;color:#dc3545;">COPD with acute exacerbation</div>
+  </div>
+<div style="font-size:28px;color:#777;">♡</div>
+<div style="background:#fff3cd;border:2px solid #ffc107;border-radius:12px;padding:12px 18px;width:220px;">
+    <div style="font-size:28px;">👩</div>
+    <strong>Mrs. Neha Sharma</strong>
+    <div style="font-size:0.85rem;color:#555;">Spouse</div>
+    <div style="font-size:0.8rem;color:#198754;">Healthy</div>
+  </div>
+</div>
+<div style="height:35px;border-left:2px solid #777;margin:0 auto;width:1px;"></div>
+<div style="display:flex;justify-content:center;gap:25px;align-items:flex-start;flex-wrap:wrap;">
+<div style="background:#e8f5e9;border:2px solid #198754;border-radius:12px;padding:12px 18px;width:220px;">
+    <div style="font-size:28px;">👦</div>
+    <strong>Mr. Suresh Sharma</strong>
+    <div style="font-size:0.85rem;color:#555;">Son</div>
+    <div style="font-size:0.8rem;color:#198754;">Occasional smoker</div>
+  </div>
+<div style="background:#e8f5e9;border:2px solid #198754;border-radius:12px;padding:12px 18px;width:220px;">
+    <div style="font-size:28px;">👦</div>
+    <strong>Master Rohan Sharma</strong>
+    <div style="font-size:0.85rem;color:#555;">Grandson</div>
+    <div style="font-size:0.8rem;color:#198754;">Healthy</div>
+  </div>
+<div style="background:#e8f5e9;border:2px solid #198754;border-radius:12px;padding:12px 18px;width:220px;">
+    <div style="font-size:28px;">👧</div>
+    <strong>Miss Kavya Sharma</strong>
+    <div style="font-size:0.85rem;color:#555;">Granddaughter</div>
+    <div style="font-size:0.8rem;color:#198754;">Healthy</div>
+  </div>
+</div>
+</div>
+</div>
+<!-- ========== PAGE 4: DIETARY, PERSONAL, SOCIO-ECONOMIC, ENVIRONMENTAL ========== -->
+<h2 style="color:#1557b0;border-left:5px solid #1a73e8;padding-left:12px;margin:30px 0 15px;">📄 Page 4 — Dietary, Personal, Socio-Economic & Environmental History</h2>
+
+<h3 style="color:#1a73e8;">DIETARY HISTORY</h3>
+<ul>
+<li>The patient takes a mixed diet, mainly vegetarian with occasional non-vegetarian food.</li>
+<li>Appetite is reduced since the present illness due to breathlessness and fatigue.</li>
+<li>Diet is low in protein and calories; patient often avoids full meals because eating increases dyspnea.</li>
+<li>Consumes tea 4-5 times/day and takes spicy fried snacks frequently.</li>
+<li>Fluid intake is approximately 1.5-2 liters/day.</li>
+<li>No known food allergy reported.</li>
+<li>Patient has mild weight loss over the last 6 months due to chronic illness and poor appetite.</li>
+</ul>
+
+<h3 style="color:#1a73e8;">PERSONAL HISTORY</h3>
+<ul>
+<li>Sleep: Disturbed sleep due to cough, wheezing, and breathlessness; sleeps with 2 pillows.</li>
+<li>Appetite: Reduced during exacerbation.</li>
+<li>Bowel: Once daily, occasionally constipated due to reduced activity and low fiber intake.</li>
+<li>Bladder: Normal frequency; no burning micturition.</li>
+<li>Habits: Chronic smoker for 40 years — approximately 15 cigarettes/day; stopped smoking irregularly but restarted several times.</li>
+<li>Occupational exposure: Worked in textile mill for 30 years with exposure to cotton dust and industrial fumes.</li>
+<li>Activity level: Markedly reduced; gets breathless while walking short distance.</li>
+<li>Allergy: No known drug or food allergy.</li>
+<li>BMI: 20.1 kg/m² — borderline low normal with muscle wasting.</li>
+</ul>
+
+<h3 style="color:#1a73e8;">SOCIO-ECONOMIC HISTORY</h3>
+<ul>
+<li>The patient belongs to a lower-middle-class family.</li>
+<li>Family income is mainly from son's shop and patient's small pension.</li>
+<li>Patient lives in a joint family and receives good family support.</li>
+<li>Financial limitations affect regular follow-up and purchase of inhalers.</li>
+<li>Patient has access to government hospital services.</li>
+</ul>
+
+<h3 style="color:#1a73e8;">ENVIRONMENTAL HISTORY</h3>
+<ul>
+<li>The family lives in a pucca house with moderate ventilation.</li>
+<li>Patient is exposed to dust due to nearby road traffic and dry climate.</li>
+<li>Uses LPG for cooking; no biomass fuel exposure currently.</li>
+<li>Past occupational exposure to textile dust is significant.</li>
+<li>Safe drinking water and sanitation facilities are available.</li>
+<li>Family was advised to keep the home smoke-free and dust-free.</li>
+</ul>
+
+<!-- ========== PAGE 5 & 6: PHYSICAL EXAMINATION ========== -->
+<h2 style="color:#1557b0;border-left:5px solid #1a73e8;padding-left:12px;margin:30px 0 15px;">📄 Page 5 & 6 — Physical Examination</h2>
+
+<h3 style="color:#1a73e8;">GENERAL CONDITION</h3>
+<p>Patient is conscious but drowsy, oriented to person and place, dyspneic, and appears exhausted. He is sitting in tripod position, using accessory muscles of respiration. Speech is broken due to breathlessness. Patient appears anxious and fatigued.</p>
+
+<h3 style="color:#1a73e8;">VITAL SIGNS</h3>
+<ul>
+<li>Temperature: 100.4°F</li>
+<li>Pulse: 112 beats/min</li>
+<li>Respiration: 32 breaths/min</li>
+<li>Blood Pressure: 150/90 mmHg</li>
+<li>SpO₂: 82% on room air; 90% with controlled oxygen</li>
+<li>Pain Score: 2/10 — chest tightness, no severe chest pain</li>
+</ul>
+
+<h3 style="color:#1a73e8;">GENERAL APPEARANCE</h3>
+<ul>
+<li>Built: Thin, mildly wasted appearance</li>
+<li>Posture: Tripod position; leaning forward to breathe</li>
+<li>Activity: Severely limited due to dyspnea</li>
+<li>Speech: Unable to complete full sentences</li>
+<li>Signs of distress: Tachypnea, nasal flaring, pursed-lip breathing, use of accessory muscles</li>
+<li>Skin: Mild central cyanosis present; skin warm due to fever</li>
+<li>Chest shape: Barrel-shaped chest suggestive of chronic hyperinflation</li>
+</ul>
+
+<h3 style="color:#1a73e8;">SYSTEMIC EXAMINATION</h3>
+<div style="overflow-x:auto;-webkit-overflow-scrolling:touch;margin:15px 0;border-radius:10px;box-shadow:0 2px 10px rgba(0,0,0,0.08);"><table style="width:100%;border-collapse:collapse;min-width:600px;font-size:clamp(0.8rem,2vw,0.95rem);"><tbody>
+<tr style="background:#e8f0fe;"><td style="padding:10px 15px;border:1px solid #ddd;font-weight:600;width:25%;">Respiratory</td><td style="padding:10px 15px;border:1px solid #ddd;">Respiratory rate 32/min; use of accessory muscles; pursed-lip breathing; barrel chest; reduced chest expansion bilaterally; hyperresonant percussion note; decreased breath sounds with prolonged expiration; bilateral diffuse wheeze and coarse crepitations; productive cough with thick yellow sputum.</td></tr>
+<tr><td style="padding:10px 15px;border:1px solid #ddd;font-weight:600;">Cardiovascular</td><td style="padding:10px 15px;border:1px solid #ddd;">Pulse 112/min, regular; BP 150/90 mmHg; S1 and S2 audible; no murmur; peripheral pulses palpable; mild tachycardia due to hypoxia and respiratory distress; no pedal edema at present.</td></tr>
+<tr style="background:#e8f0fe;"><td style="padding:10px 15px;border:1px solid #ddd;font-weight:600;">Neurological</td><td style="padding:10px 15px;border:1px solid #ddd;">Patient conscious but drowsy; oriented to person and place; mild confusion due to hypercapnia; pupils equal and reacting to light; no focal neurological deficit; restlessness and anxiety present.</td></tr>
+<tr><td style="padding:10px 15px;border:1px solid #ddd;font-weight:600;">Skin</td><td style="padding:10px 15px;border:1px solid #ddd;">Mild central cyanosis present over lips; skin warm; no icterus; no clubbing marked, but mild nail bed cyanosis present; skin turgor slightly reduced.</td></tr>
+<tr style="background:#e8f0fe;"><td style="padding:10px 15px;border:1px solid #ddd;font-weight:600;">Head & Face</td><td style="padding:10px 15px;border:1px solid #ddd;">Facial expression anxious and fatigued; no facial asymmetry; nasal flaring present during inspiration.</td></tr>
+<tr><td style="padding:10px 15px;border:1px solid #ddd;font-weight:600;">Eyes</td><td style="padding:10px 15px;border:1px solid #ddd;">Conjunctiva mildly pale; sclera normal; pupils equal and reactive; no icterus.</td></tr>
+<tr style="background:#e8f0fe;"><td style="padding:10px 15px;border:1px solid #ddd;font-weight:600;">Ear</td><td style="padding:10px 15px;border:1px solid #ddd;">External ear normal; no discharge; hearing response normal.</td></tr>
+<tr><td style="padding:10px 15px;border:1px solid #ddd;font-weight:600;">Nose</td><td style="padding:10px 15px;border:1px solid #ddd;">Nostrils patent; nasal flaring present; no nasal discharge.</td></tr>
+<tr style="background:#e8f0fe;"><td style="padding:10px 15px;border:1px solid #ddd;font-weight:600;">Mouth & Pharynx</td><td style="padding:10px 15px;border:1px solid #ddd;">Lips cyanosed; oral mucosa slightly dry; tongue coated; oral hygiene fair; no throat congestion.</td></tr>
+<tr><td style="padding:10px 15px;border:1px solid #ddd;font-weight:600;">Neck</td><td style="padding:10px 15px;border:1px solid #ddd;">Accessory neck muscles active during respiration; lymph nodes not palpable; thyroid not enlarged; JVP not raised.</td></tr>
+<tr style="background:#e8f0fe;"><td style="padding:10px 15px;border:1px solid #ddd;font-weight:600;">Chest</td><td style="padding:10px 15px;border:1px solid #ddd;">Barrel-shaped chest; reduced bilateral expansion; intercostal retractions present; hyperresonance on percussion; prolonged expiratory phase; bilateral wheeze and coarse crepitations.</td></tr>
+<tr><td style="padding:10px 15px;border:1px solid #ddd;font-weight:600;">Abdomen</td><td style="padding:10px 15px;border:1px solid #ddd;">Soft, non-tender; no guarding or rigidity; bowel sounds present; no hepatosplenomegaly.</td></tr>
+<tr style="background:#e8f0fe;"><td style="padding:10px 15px;border:1px solid #ddd;font-weight:600;">Extremities</td><td style="padding:10px 15px;border:1px solid #ddd;">No pedal edema; peripheral pulses present; mild cyanosis of nail beds; no calf tenderness; muscle wasting present.</td></tr>
+</tbody></table></div>
+
+<!-- ========== PAGE 7: VITAL SIGNS RECORD ========== -->
+<h2 style="color:#1557b0;border-left:5px solid #1a73e8;padding-left:12px;margin:30px 0 15px;">📄 Page 7 — Vital Signs Monitoring Record</h2>
+<div style="overflow-x:auto;-webkit-overflow-scrolling:touch;margin:15px 0;border-radius:10px;box-shadow:0 2px 10px rgba(0,0,0,0.08);"><table style="width:100%;border-collapse:collapse;min-width:700px;font-size:clamp(0.75rem,1.8vw,0.9rem);"><thead><tr style="background:#1a73e8;color:white;"><th>DATE/TIME</th><th>TEMP (°F)</th><th>PULSE (/min)</th><th>RESP (/min)</th><th>BP (mmHg)</th><th>SpO₂ (%)</th><th>DYSPNEA GRADE</th></tr></thead><tbody>
+<tr><td><strong>10/03/2026</strong> — 9:15 PM Admission</td><td>100.4°F</td><td>112/min</td><td>32/min</td><td>150/90</td><td>82% RA</td><td>Severe at rest</td></tr>
+<tr style="background:#e8f0fe;"><td><strong>11/03/2026</strong> — 8:00 AM Day 2</td><td>99.8°F</td><td>104/min</td><td>28/min</td><td>144/86</td><td>90% on controlled O₂</td><td>Moderate-severe</td></tr>
+<tr><td><strong>12/03/2026</strong> — 8:00 AM Day 3</td><td>99.0°F</td><td>96/min</td><td>24/min</td><td>138/84</td><td>92% on O₂</td><td>Moderate</td></tr>
+<tr style="background:#e8f0fe;"><td><strong>13/03/2026</strong> — 8:00 AM Day 4</td><td>98.6°F</td><td>88/min</td><td>22/min</td><td>132/80</td><td>94% on low-flow O₂</td><td>Mild-moderate</td></tr>
+<tr><td><strong>14/03/2026</strong> — 8:00 AM Day 5</td><td>98.4°F</td><td>82/min</td><td>20/min</td><td>128/78</td><td>94% room air / 96% O₂</td><td>Mild on exertion</td></tr>
+</tbody></table></div>
+<div style="background:#d4edda;padding:12px 15px;border-radius:8px;margin:15px 0;text-align:center;">📈 <strong>Nursing Trend:</strong> Patient improved gradually with controlled oxygen, nebulization, antibiotics, corticosteroids, chest physiotherapy, and breathing exercises. SpO₂ improved from 82% to 94%, respiratory rate decreased from 32/min to 20/min, and dyspnea reduced from severe at rest to mild on exertion.</div>
+
+<!-- ========== PAGE 8: DIAGNOSTIC INVESTIGATIONS ========== -->
+<h2 style="color:#1557b0;border-left:5px solid #1a73e8;padding-left:12px;margin:30px 0 15px;">📄 Page 8 — Diagnostic Investigations</h2>
+<div style="overflow-x:auto;-webkit-overflow-scrolling:touch;margin:15px 0;border-radius:10px;box-shadow:0 2px 10px rgba(0,0,0,0.08);"><table style="width:100%;border-collapse:collapse;min-width:750px;font-size:clamp(0.75rem,1.8vw,0.9rem);"><thead><tr style="background:#1a73e8;color:white;"><th>SR. NO.</th><th>NAME OF INVESTIGATION</th><th>NORMAL VALUE</th><th>PATIENT'S VALUE</th><th>REFERENCE</th></tr></thead><tbody>
+<tr><td>1</td><td>Hemoglobin</td><td>13–17 g/dL</td><td>12.4 g/dL</td><td>Mild anemia</td></tr>
+<tr style="background:#e8f0fe;"><td>2</td><td>Total WBC Count</td><td>4,000–11,000/mm³</td><td>15,600/mm³</td><td style="color:#dc3545;font-weight:600;">Elevated — infection/exacerbation</td></tr>
+<tr><td>3</td><td>Neutrophils</td><td>40–70%</td><td>82%</td><td style="color:#dc3545;font-weight:600;">Neutrophilia — bacterial infection</td></tr>
+<tr style="background:#e8f0fe;"><td>4</td><td>Platelet Count</td><td>1.5–4 lakh/mm³</td><td>2.8 lakh/mm³</td><td>Normal</td></tr>
+<tr><td>5</td><td>ESR</td><td>0–20 mm/hr</td><td>42 mm/hr</td><td style="color:#dc3545;font-weight:600;">Elevated</td></tr>
+<tr style="background:#e8f0fe;"><td>6</td><td>Random Blood Sugar</td><td>70–140 mg/dL</td><td>132 mg/dL</td><td>Normal</td></tr>
+<tr><td>7</td><td>Serum Creatinine</td><td>0.7–1.3 mg/dL</td><td>1.0 mg/dL</td><td>Normal</td></tr>
+<tr style="background:#e8f0fe;"><td>8</td><td>Blood Urea</td><td>15–40 mg/dL</td><td>36 mg/dL</td><td>Normal</td></tr>
+<tr><td>9</td><td>Serum Sodium</td><td>135–145 mEq/L</td><td>138 mEq/L</td><td>Normal</td></tr>
+<tr style="background:#e8f0fe;"><td>10</td><td>Serum Potassium</td><td>3.5–5.0 mEq/L</td><td>3.4 mEq/L</td><td style="color:#dc3545;font-weight:600;">Slightly low — monitor during nebulization</td></tr>
+<tr><td>11</td><td>ABG — pH</td><td>7.35–7.45</td><td>7.31</td><td style="color:#dc3545;font-weight:600;">Respiratory acidosis</td></tr>
+<tr style="background:#e8f0fe;"><td>12</td><td>ABG — PaCO₂</td><td>35–45 mmHg</td><td>62 mmHg</td><td style="color:#dc3545;font-weight:600;">Hypercapnia</td></tr>
+<tr><td>13</td><td>ABG — PaO₂</td><td>80–100 mmHg</td><td>54 mmHg</td><td style="color:#dc3545;font-weight:600;">Hypoxemia</td></tr>
+<tr style="background:#e8f0fe;"><td>14</td><td>ABG — HCO₃⁻</td><td>22–26 mEq/L</td><td>30 mEq/L</td><td>Compensatory rise</td></tr>
+<tr><td>15</td><td>Chest X-Ray</td><td>Normal lung fields</td><td colspan="2">Hyperinflated lungs, flattened diaphragm, increased bronchovascular markings; no pneumothorax</td></tr>
+<tr style="background:#e8f0fe;"><td>16</td><td>Sputum Examination</td><td>No pathogenic organism</td><td colspan="2">Thick purulent sputum; gram-positive cocci seen; culture sent</td></tr>
+<tr><td>17</td><td>Spirometry</td><td>FEV₁/FVC &gt;70%</td><td>FEV₁/FVC 48%</td><td style="color:#dc3545;font-weight:600;">Obstructive pattern</td></tr>
+<tr style="background:#e8f0fe;"><td>18</td><td>FEV₁ Predicted</td><td>&gt;80%</td><td>42%</td><td style="color:#dc3545;font-weight:600;">Severe airflow limitation</td></tr>
+</tbody></table></div>
+<!-- ========== PAGE 9: MEDICAL MANAGEMENT ========== -->
+<h2 style="color:#1557b0;border-left:5px solid #1a73e8;padding-left:12px;margin:30px 0 15px;">📄 Page 9 — Medical Management (Drug Chart)</h2>
+<div style="overflow-x:auto;-webkit-overflow-scrolling:touch;margin:15px 0;border-radius:10px;box-shadow:0 2px 10px rgba(0,0,0,0.08);"><table style="width:100%;border-collapse:collapse;min-width:750px;font-size:clamp(0.75rem,1.8vw,0.9rem);"><thead><tr style="background:#1a73e8;color:white;"><th>SR. NO.</th><th>MEDICATION</th><th>DOSE</th><th>FREQ</th><th>ROUTE</th><th>ACTION</th></tr></thead><tbody>
+<tr><td>1</td><td>Oxygen Therapy</td><td>1-2 L/min</td><td>Continuous as required</td><td>Nasal prongs / Venturi mask</td><td>Corrects hypoxemia; controlled oxygen prevents worsening CO₂ retention in COPD</td></tr>
+<tr style="background:#e8f0fe;"><td>2</td><td>NIV / BiPAP Support</td><td>As prescribed</td><td>Intermittent/continuous</td><td>Non-invasive ventilation</td><td>Improves ventilation, reduces PaCO₂, decreases work of breathing, prevents intubation</td></tr>
+<tr><td>3</td><td>Neb. Salbutamol</td><td>2.5 mg</td><td>Every 6 hourly</td><td>Nebulization</td><td>Short-acting beta-2 agonist; bronchodilation and relief of bronchospasm</td></tr>
+<tr style="background:#e8f0fe;"><td>4</td><td>Neb. Ipratropium Bromide</td><td>500 mcg</td><td>Every 6 hourly</td><td>Nebulization</td><td>Anticholinergic bronchodilator; reduces bronchoconstriction and mucus secretion</td></tr>
+<tr><td>5</td><td>Inj. Hydrocortisone</td><td>100 mg</td><td>Every 8 hourly</td><td>IV</td><td>Corticosteroid; reduces airway inflammation and improves airflow</td></tr>
+<tr style="background:#e8f0fe;"><td>6</td><td>Tab. Prednisolone</td><td>40 mg</td><td>OD for 5 days</td><td>Oral</td><td>Systemic steroid used after IV steroid; reduces exacerbation severity</td></tr>
+<tr><td>7</td><td>Inj. Ceftriaxone</td><td>1 g</td><td>BD</td><td>IV</td><td>Broad-spectrum antibiotic for suspected bacterial respiratory infection</td></tr>
+<tr style="background:#e8f0fe;"><td>8</td><td>Tab. Azithromycin</td><td>500 mg</td><td>OD for 3 days</td><td>Oral</td><td>Macrolide antibiotic; covers atypical organisms and reduces airway inflammation</td></tr>
+<tr><td>9</td><td>Tab. Theophylline</td><td>200 mg</td><td>BD</td><td>Oral</td><td>Bronchodilator; relaxes bronchial smooth muscles; requires monitoring for toxicity</td></tr>
+<tr style="background:#e8f0fe;"><td>10</td><td>Tab. Amlodipine</td><td>5 mg</td><td>OD</td><td>Oral</td><td>Antihypertensive; controls blood pressure</td></tr>
+<tr><td>11</td><td>Tab. Pantoprazole</td><td>40 mg</td><td>OD</td><td>Oral</td><td>Gastric protection during steroid therapy</td></tr>
+<tr style="background:#e8f0fe;"><td>12</td><td>Tab. Paracetamol</td><td>500 mg</td><td>SOS</td><td>Oral</td><td>Antipyretic and analgesic; reduces fever and discomfort</td></tr>
+<tr><td>13</td><td>Chest Physiotherapy</td><td>As tolerated</td><td>2-3 times/day</td><td>Physical therapy</td><td>Helps mobilize secretions and improves airway clearance</td></tr>
+</tbody></table></div>
+
+<!-- ========== PAGE 10: DISEASE INTRODUCTION ========== -->
+<h2 style="color:#1557b0;border-left:5px solid #1a73e8;padding-left:12px;margin:30px 0 15px;">📄 Page 10 — Disease Introduction, Etiology & Pathophysiology</h2>
+
+<h3 style="color:#1a73e8;">INTRODUCTION</h3>
+<p>Chronic Obstructive Pulmonary Disease (COPD) is a common, preventable, and treatable chronic respiratory disease characterized by persistent airflow limitation that is usually progressive and associated with chronic inflammatory response in the airways and lungs. The airflow limitation is not fully reversible and is mainly caused by chronic bronchitis, emphysema, or a combination of both.</p>
+<p>COPD develops gradually over many years. The most common cause is long-term exposure to harmful particles or gases, especially cigarette smoke. Other important causes include occupational dust exposure, air pollution, biomass fuel smoke, and recurrent respiratory infections. COPD mainly affects middle-aged and elderly people and is a major cause of morbidity, repeated hospitalization, disability, and mortality worldwide.</p>
+<p>In this case, the patient is a 68-year-old male with a long history of smoking and occupational exposure to textile dust. He presented with acute worsening of breathlessness, productive cough, wheezing, fever, hypoxemia, and hypercapnia. These features suggest acute exacerbation of COPD with Type II respiratory failure.</p>
+
+<h3 style="color:#1a73e8;">ETIOLOGY</h3>
+<p>The main etiological factors responsible for COPD in this patient are:</p>
+<ul>
+<li><strong>Cigarette smoking:</strong> The patient has a 40-year history of smoking approximately 15 cigarettes per day. Smoking causes chronic airway inflammation, mucus gland enlargement, ciliary dysfunction, airway narrowing, and destruction of alveolar walls.</li>
+<li><strong>Occupational exposure:</strong> Long-term exposure to cotton dust and industrial fumes in textile mill work contributed to chronic airway irritation and inflammation.</li>
+<li><strong>Air pollution and dust exposure:</strong> Living in a dusty environment and exposure to traffic-related pollution may aggravate respiratory symptoms.</li>
+<li><strong>Recurrent respiratory infections:</strong> Frequent infections cause repeated airway inflammation and accelerate decline in lung function.</li>
+<li><strong>Age-related lung changes:</strong> Elderly age reduces lung elasticity and respiratory reserve.</li>
+<li><strong>Poor treatment adherence:</strong> Irregular inhaler use and delayed follow-up increase the risk of exacerbation.</li>
+<li><strong>Nutritional weakness:</strong> Reduced appetite and weight loss reduce respiratory muscle strength.</li>
+</ul>
+
+<h3 style="color:#1a73e8;">PATHOPHYSIOLOGY</h3>
+<p>The pathophysiology of COPD involves chronic inflammation of the airways, lung parenchyma, and pulmonary blood vessels due to prolonged exposure to harmful particles such as cigarette smoke and occupational dust.</p>
+<p><strong>1. Chronic Airway Inflammation:</strong> Inhaled irritants activate inflammatory cells such as neutrophils, macrophages, and CD8+ T lymphocytes. These cells release inflammatory mediators, proteolytic enzymes, and oxidative substances. This leads to edema of bronchial mucosa, thickening of airway walls, and narrowing of small airways.</p>
+<p><strong>2. Mucus Hypersecretion:</strong> Chronic irritation causes hypertrophy of mucus glands and increase in goblet cells. Excess thick mucus is produced. Ciliary function is impaired due to smoking, so mucus clearance becomes poor. Accumulated secretions obstruct airways and provide a medium for bacterial growth, causing recurrent infections.</p>
+<p><strong>3. Bronchoconstriction and Airway Obstruction:</strong> Inflammation and mucus plugging narrow the bronchial lumen. During expiration, small airways collapse early due to loss of elastic support. This causes air trapping and incomplete emptying of lungs.</p>
+<p><strong>4. Emphysematous Changes:</strong> Protease-antiprotease imbalance and oxidative stress destroy alveolar walls. Alveoli become enlarged and lose elasticity. The surface area for gas exchange decreases. Loss of elastic recoil makes expiration difficult and causes hyperinflation of lungs.</p>
+<p><strong>5. Ventilation-Perfusion Mismatch:</strong> Some lung areas are poorly ventilated due to obstruction, while blood flow continues. This causes reduced oxygenation of blood, resulting in hypoxemia. In advanced COPD, CO₂ elimination is also impaired, causing hypercapnia.</p>
+<p><strong>6. Respiratory Acidosis:</strong> Retention of carbon dioxide increases carbonic acid in blood, lowering pH. In chronic COPD, kidneys compensate by retaining bicarbonate, but during acute exacerbation compensation becomes insufficient, leading to acute-on-chronic respiratory acidosis.</p>
+<p><strong>7. Increased Work of Breathing:</strong> Air trapping and hyperinflation flatten the diaphragm. Respiratory muscles must work harder. Patient uses accessory muscles and adopts tripod position to improve ventilation. Prolonged increased work of breathing leads to fatigue and respiratory failure.</p>
+<p><strong>8. Pulmonary Hypertension and Cor Pulmonale:</strong> Chronic hypoxemia causes pulmonary vasoconstriction. Over time, pulmonary artery pressure increases and right ventricle becomes strained. This may lead to right-sided heart failure, known as cor pulmonale.</p>
+
+<!-- ========== PAGE 11: CLINICAL MANIFESTATIONS ========== -->
+<h2 style="color:#1557b0;border-left:5px solid #1a73e8;padding-left:12px;margin:30px 0 15px;">📄 Page 11 — Clinical Manifestations, Diagnostic & Medical Management</h2>
+
+<h3 style="color:#1a73e8;">CLINICAL MANIFESTATIONS</h3>
+<p>The patient presented with classical features of acute exacerbation of COPD:</p>
+<ul>
+<li><strong>Progressive dyspnea:</strong> Breathlessness increased from exertional dyspnea to dyspnea at rest. Patient was unable to speak full sentences.</li>
+<li><strong>Chronic productive cough:</strong> Long-standing cough with increased sputum production during exacerbation.</li>
+<li><strong>Purulent sputum:</strong> Thick yellowish sputum indicates infective exacerbation.</li>
+<li><strong>Wheezing:</strong> Diffuse wheeze due to bronchospasm and narrowed airways.</li>
+<li><strong>Chest tightness:</strong> Due to bronchoconstriction and hyperinflation.</li>
+<li><strong>Fever and chills:</strong> Suggest respiratory infection as a trigger for exacerbation.</li>
+<li><strong>Pursed-lip breathing:</strong> Patient uses this technique naturally to prevent airway collapse during expiration.</li>
+<li><strong>Tripod position:</strong> Sitting forward helps accessory muscles work better and reduces respiratory distress.</li>
+<li><strong>Cyanosis:</strong> Bluish discoloration of lips and nail beds due to hypoxemia.</li>
+<li><strong>Drowsiness and confusion:</strong> Due to hypercapnia and CO₂ retention.</li>
+<li><strong>Fatigue and weakness:</strong> Due to increased work of breathing, poor oxygenation, and reduced nutritional status.</li>
+<li><strong>Barrel-shaped chest:</strong> Due to chronic hyperinflation and air trapping.</li>
+</ul>
+
+<h3 style="color:#1a73e8;">DIAGNOSTIC EVALUATION</h3>
+<ul>
+<li><strong>Arterial Blood Gas Analysis:</strong> pH 7.31, PaCO₂ 62 mmHg, PaO₂ 54 mmHg, HCO₃⁻ 30 mEq/L. These values indicate acute-on-chronic Type II respiratory failure with respiratory acidosis and partial metabolic compensation.</li>
+<li><strong>Pulse Oximetry:</strong> SpO₂ 82% on room air, improved to 90-94% with controlled oxygen therapy.</li>
+<li><strong>Chest X-Ray:</strong> Hyperinflated lungs, flattened diaphragm, increased bronchovascular markings. These findings support COPD with chronic hyperinflation.</li>
+<li><strong>Spirometry:</strong> FEV₁/FVC ratio 48% and FEV₁ 42% predicted, showing severe obstructive airway disease.</li>
+<li><strong>Complete Blood Count:</strong> WBC count 15,600/mm³ with neutrophilia, suggestive of bacterial infection.</li>
+<li><strong>Sputum Examination:</strong> Purulent sputum with organisms seen on microscopy; culture sent for antibiotic sensitivity.</li>
+<li><strong>Serum Electrolytes:</strong> Potassium slightly low, requiring monitoring because beta-agonist nebulization may further reduce potassium level.</li>
+<li><strong>ECG:</strong> Sinus tachycardia; no acute ischemic changes. ECG helps rule out cardiac cause of breathlessness.</li>
+</ul>
+
+<h3 style="color:#1a73e8;">MEDICAL MANAGEMENT</h3>
+<ul>
+<li><strong>Controlled Oxygen Therapy:</strong> Oxygen was administered carefully using nasal prongs/Venturi mask to maintain target SpO₂ around 88-92% initially. Excess oxygen in CO₂ retainers can worsen hypercapnia; therefore oxygen therapy was controlled and monitored with ABG.</li>
+<li><strong>Non-Invasive Ventilation:</strong> BiPAP was used because patient had hypercapnia, respiratory acidosis, severe dyspnea, and accessory muscle use. NIV improves alveolar ventilation, reduces PaCO₂, decreases respiratory muscle fatigue, and reduces need for intubation.</li>
+<li><strong>Bronchodilator Therapy:</strong> Nebulized Salbutamol and Ipratropium Bromide were given regularly. These medications relieve bronchospasm, open airways, reduce wheeze, and improve airflow.</li>
+<li><strong>Corticosteroid Therapy:</strong> IV Hydrocortisone followed by oral Prednisolone was given to reduce airway inflammation, shorten recovery time, and improve lung function during exacerbation.</li>
+<li><strong>Antibiotic Therapy:</strong> Ceftriaxone and Azithromycin were prescribed because the patient had fever, increased sputum volume, purulent sputum, and raised WBC count, suggesting infective exacerbation.</li>
+<li><strong>Chest Physiotherapy:</strong> Deep breathing exercises, coughing techniques, postural drainage as tolerated, and chest percussion were used to mobilize secretions.</li>
+<li><strong>Hydration and Nutrition:</strong> Adequate oral fluids, high-calorie and high-protein diet in small frequent meals were advised to maintain energy and reduce fatigue during eating.</li>
+<li><strong>Smoking Cessation:</strong> Patient and family were counseled strictly to stop smoking and avoid passive smoke exposure.</li>
+</ul>
+<!-- ========== PAGE 12: NURSING MANAGEMENT ========== -->
+<h2 style="color:#1557b0;border-left:5px solid #1a73e8;padding-left:12px;margin:30px 0 15px;">📄 Page 12 — Nursing Management, Health Education, Prognosis & Conclusion</h2>
+
+<h3 style="color:#1a73e8;">NURSING MANAGEMENT</h3>
+<p>Nursing management of COPD with acute exacerbation focuses on maintaining airway patency, improving ventilation and oxygenation, reducing work of breathing, preventing complications, promoting secretion clearance, supporting nutrition, reducing anxiety, and educating the patient and family for long-term home care.</p>
+<ul>
+<li><strong>Airway and Breathing Assessment:</strong> Assessed respiratory rate, rhythm, depth, use of accessory muscles, nasal flaring, chest expansion, breath sounds, cough effectiveness, sputum amount, color, consistency, and oxygen saturation. Patient was observed for signs of respiratory fatigue such as drowsiness, shallow breathing, silent chest, and inability to cough effectively.</li>
+<li><strong>Positioning:</strong> Patient was kept in high Fowler's position and encouraged to sit in tripod position during severe dyspnea. This position improves diaphragmatic movement, decreases pressure on lungs, promotes lung expansion, and reduces work of breathing.</li>
+<li><strong>Controlled Oxygen Administration:</strong> Oxygen was administered as prescribed through nasal prongs/Venturi mask. SpO₂ was monitored continuously and ABG was repeated as advised. Excessive oxygen was avoided because COPD patients with CO₂ retention may develop worsening hypercapnia.</li>
+<li><strong>Monitoring During NIV/BiPAP:</strong> Patient was supported during non-invasive ventilation. Mask fitting, skin pressure areas, air leak, patient comfort, respiratory effort, mental status, and SpO₂ were monitored. Patient was reassured to reduce fear of mask ventilation.</li>
+<li><strong>Nebulization Care:</strong> Nebulized Salbutamol and Ipratropium were administered as prescribed. Pulse rate, tremors, palpitations, potassium level, and response to bronchodilator therapy were monitored. Nebulizer chamber and mask were kept clean to prevent infection.</li>
+<li><strong>Medication Administration:</strong> IV antibiotics, corticosteroids, antipyretics, antihypertensive drugs, and gastric protection medicines were administered on time. Patient was monitored for side effects such as steroid-induced hyperglycemia, gastric irritation, secondary infection, and antibiotic allergy.</li>
+<li><strong>Airway Clearance Measures:</strong> Patient was encouraged to perform effective coughing, huff coughing, deep breathing exercises, and pursed-lip breathing. Chest physiotherapy and postural drainage were provided as tolerated. Adequate hydration was encouraged to loosen secretions unless contraindicated.</li>
+<li><strong>Sputum Observation:</strong> Sputum amount, color, odor, and consistency were monitored. Thick yellow sputum was reported to physician. Sputum sample was collected in a sterile container before antibiotics whenever possible.</li>
+<li><strong>Infection Control:</strong> Hand hygiene, respiratory hygiene, proper disposal of sputum, use of mask during coughing, and clean nebulization equipment were maintained. Visitors with respiratory infection were restricted.</li>
+<li><strong>Energy Conservation:</strong> Nursing care activities were planned with rest periods. Patient was assisted with bathing, toileting, and feeding during acute dyspnea. Unnecessary exertion was avoided. Gradual mobilization was started after improvement.</li>
+<li><strong>Nutritional Support:</strong> Small frequent high-calorie and high-protein meals were advised. Patient was encouraged to rest before meals and eat slowly. Gas-forming foods and heavy meals were avoided because abdominal distension can increase breathlessness.</li>
+<li><strong>Anxiety Reduction:</strong> Patient was reassured calmly. Procedures were explained in simple language. Family presence was allowed as per hospital policy. Relaxation breathing and pursed-lip breathing were taught to reduce panic during dyspnea.</li>
+<li><strong>Patient and Family Education:</strong> Education was provided regarding disease process, inhaler technique, smoking cessation, avoidance of dust and smoke, breathing exercises, medication adherence, vaccination, nutrition, and early warning signs requiring hospital visit.</li>
+</ul>
+
+<h3 style="color:#1a73e8;">HEALTH EDUCATION</h3>
+<ul>
+<li><strong>Smoking Cessation:</strong> Patient was educated that complete smoking cessation is the most important step to slow disease progression. Even one cigarette can worsen airway inflammation and increase exacerbation risk. Family members were also advised not to smoke inside the house.</li>
+<li><strong>Inhaler Technique:</strong> Patient was taught correct inhaler use: shake inhaler, breathe out fully, place mouthpiece properly, press inhaler while breathing in slowly and deeply, hold breath for 10 seconds, then breathe out slowly. Spacer use was advised if coordination is poor.</li>
+<li><strong>Breathing Exercises:</strong> Pursed-lip breathing and diaphragmatic breathing were demonstrated. Patient was advised to practice these exercises several times daily and during breathlessness.</li>
+<li><strong>Airway Clearance:</strong> Patient was taught effective coughing and huff coughing to remove secretions without excessive fatigue. Adequate warm fluids were advised if not contraindicated.</li>
+<li><strong>Trigger Avoidance:</strong> Patient was advised to avoid dust, smoke, strong perfumes, cold air, overcrowded places, and exposure to people with respiratory infections.</li>
+<li><strong>Vaccination:</strong> Annual influenza vaccine and pneumococcal vaccination were advised as per physician recommendation to reduce risk of respiratory infections.</li>
+<li><strong>Nutrition:</strong> Small frequent meals, high-protein foods, fruits, vegetables, and adequate fluids were advised. Heavy meals and gas-forming foods should be avoided.</li>
+<li><strong>Follow-up:</strong> Regular follow-up with respiratory physician was advised. Spirometry, inhaler review, and oxygen requirement assessment should be done as recommended.</li>
+<li><strong>Warning Signs:</strong> Patient and family were instructed to seek medical help immediately if breathlessness increases, sputum becomes yellow/green or blood-stained, fever develops, lips become blue, drowsiness/confusion occurs, or inhalers do not relieve symptoms.</li>
+</ul>
+
+<h3 style="color:#1a73e8;">PROGNOSIS</h3>
+<p>COPD is a chronic progressive disease, but symptoms and exacerbations can be controlled with proper treatment, smoking cessation, inhaler adherence, pulmonary rehabilitation, vaccination, nutrition, and avoidance of triggers. In this patient, prognosis is guarded because he has severe airflow limitation, recurrent exacerbations, long smoking history, occupational dust exposure, and Type II respiratory failure during admission. However, with strict smoking cessation, correct inhaler use, regular follow-up, pulmonary rehabilitation, and early treatment of infections, further decline can be slowed and quality of life can improve.</p>
+
+<h3 style="color:#1a73e8;">CONCLUSION</h3>
+<p>This case study presents Mr. Mohan Lal Sharma, a 68-year-old male with long-standing COPD who was admitted with acute exacerbation and Type II respiratory failure. The exacerbation was most likely triggered by respiratory infection, as evidenced by fever, purulent sputum, raised WBC count, and worsening dyspnea. He required controlled oxygen therapy, nebulized bronchodilators, corticosteroids, antibiotics, chest physiotherapy, and non-invasive ventilation support.</p>
+<p>The case highlights the essential role of nurses in early recognition of respiratory distress, maintaining airway clearance, monitoring oxygen therapy, preventing CO₂ retention, administering nebulization and medications, supporting NIV, reducing anxiety, conserving energy, improving nutrition, and providing long-term education. COPD care does not end at discharge; it requires lifelong self-management and family support.</p>
+<p>The most important nursing responsibility in this case is to educate the patient and family regarding smoking cessation, inhaler technique, breathing exercises, infection prevention, nutrition, follow-up, and warning signs of exacerbation. With consistent care and adherence to treatment, the patient can reduce hospital admissions and maintain better functional capacity.</p>
+
+<!-- ========== PAGE 13: NURSING DIAGNOSES ========== -->
+<h2 style="color:#1557b0;border-left:5px solid #1a73e8;padding-left:12px;margin:30px 0 15px;">📄 Page 13 — NANDA Nursing Diagnoses</h2>
+<div style="background:#e8f0fe;border-left:4px solid #1a73e8;padding:15px 20px;margin:15px 0;border-radius:5px;"><ol style="margin:0;padding-left:20px;">
+<li><strong>Ineffective airway clearance</strong> related to excessive mucus production, thick secretions, and ineffective cough as evidenced by productive cough with thick yellow sputum, coarse crepitations, wheezing, and difficulty expectorating.</li>
+<li><strong>Impaired gas exchange</strong> related to ventilation-perfusion mismatch and alveolar hypoventilation secondary to COPD as evidenced by SpO₂ 82% on room air, PaO₂ 54 mmHg, PaCO₂ 62 mmHg, cyanosis, drowsiness, and respiratory acidosis.</li>
+<li><strong>Ineffective breathing pattern</strong> related to airway obstruction, hyperinflation, and respiratory muscle fatigue as evidenced by respiratory rate 32/min, use of accessory muscles, tripod position, pursed-lip breathing, and prolonged expiration.</li>
+<li><strong>Activity intolerance</strong> related to imbalance between oxygen supply and demand and decreased pulmonary reserve as evidenced by dyspnea on minimal activity, fatigue, inability to perform daily activities, and need for assistance.</li>
+<li><strong>Anxiety</strong> related to acute breathlessness, fear of suffocation, hospitalization, and unfamiliar NIV equipment as evidenced by restlessness, fearful facial expression, repeated questioning, and inability to relax.</li>
+<li><strong>Imbalanced nutrition: less than body requirements</strong> related to increased work of breathing, fatigue, poor appetite, and dyspnea during meals as evidenced by reduced food intake, weight loss, muscle wasting, and BMI 20.1 kg/m².</li>
+<li><strong>Risk for infection</strong> related to retained secretions, chronic lung disease, smoking history, steroid therapy, and impaired mucociliary clearance.</li>
+<li><strong>Deficient knowledge</strong> regarding COPD disease process, inhaler technique, breathing exercises, smoking cessation, trigger avoidance, medication adherence, and early warning signs as evidenced by irregular inhaler use and repeated exacerbations.</li>
+</ol></div>
+
+<!-- ========== PAGES 14-16: NURSING CARE PLANS ========== -->
+<h2 style="color:#1557b0;border-left:5px solid #1a73e8;padding-left:12px;margin:30px 0 15px;">📄 Page 14-16 — Nursing Care Plans (NANDA Format)</h2>
+
+<!-- NCP 1 -->
+<h3 style="color:#1a73e8;">Nursing Care Plan — 1: Ineffective Airway Clearance</h3>
+<div style="overflow-x:auto;-webkit-overflow-scrolling:touch;margin:15px 0;border-radius:10px;box-shadow:0 2px 10px rgba(0,0,0,0.08);"><table style="width:100%;border-collapse:collapse;min-width:1000px;font-size:clamp(0.7rem,1.6vw,0.85rem);"><thead><tr style="background:#1a73e8;color:white;"><th>ASSESSMENT</th><th>NURSING DIAGNOSIS</th><th>GOAL/EXPECTED OUTCOME</th><th>PLANNING</th><th>IMPLEMENTATION</th><th>EVALUATION</th></tr></thead><tbody><tr><td style="padding:15px;border:1px solid #ddd;">Subjective: Patient reports, "Mujhe balgam nikalne mein dikkat ho rahi hai." Complaints of cough with thick sputum and chest congestion.<br><br>Objective: Thick yellow sputum, coarse crepitations, bilateral wheeze, respiratory rate 32/min, SpO₂ 82% room air, ineffective cough, use of accessory muscles.</td><td style="padding:15px;border:1px solid #ddd;">Ineffective airway clearance related to excessive mucus production, thick secretions, and ineffective cough as evidenced by productive cough, coarse crepitations, wheezing, and difficulty expectorating.</td><td style="padding:15px;border:1px solid #ddd;">Short term: Patient will demonstrate improved airway clearance within 24-48 hours as evidenced by easier expectoration and reduced wheeze.<br>Long term: Patient will maintain patent airway, clear breath sounds improved from baseline, and effective cough before discharge.</td><td style="padding:15px;border:1px solid #ddd;">• Assess cough, sputum amount, color, and consistency<br>• Auscultate breath sounds every 4 hours<br>• Encourage effective coughing and deep breathing<br>• Provide nebulization and chest physiotherapy as prescribed<br>• Maintain adequate hydration if not contraindicated</td><td style="padding:15px;border:1px solid #ddd;">• Positioned patient in high Fowler's/tripod position<br>• Administered nebulized Salbutamol and Ipratropium as prescribed<br>• Encouraged huff coughing and deep breathing exercises<br>• Provided chest physiotherapy as tolerated<br>• Encouraged warm fluids and adequate oral intake<br>• Collected sputum sample for examination<br>• Monitored sputum color and amount daily</td><td style="padding:15px;border:1px solid #ddd;">• Patient expectorated sputum more effectively by Day 2<br>• Sputum became less thick by Day 3<br>• Wheeze and crepitations reduced<br>• Respiratory rate decreased from 32/min to 22/min by Day 4<br>• Patient verbalized and demonstrated huff coughing technique</td></tr></tbody></table></div>
+
+<!-- NCP 2 -->
+<h3 style="color:#1a73e8;">Nursing Care Plan — 2: Impaired Gas Exchange</h3>
+<div style="overflow-x:auto;-webkit-overflow-scrolling:touch;margin:15px 0;border-radius:10px;box-shadow:0 2px 10px rgba(0,0,0,0.08);"><table style="width:100%;border-collapse:collapse;min-width:1000px;font-size:clamp(0.7rem,1.6vw,0.85rem);"><thead><tr style="background:#1a73e8;color:white;"><th>ASSESSMENT</th><th>NURSING DIAGNOSIS</th><th>GOAL/EXPECTED OUTCOME</th><th>PLANNING</th><th>IMPLEMENTATION</th><th>EVALUATION</th></tr></thead><tbody><tr><td style="padding:15px;border:1px solid #ddd;">Subjective: Patient reports severe breathlessness at rest and inability to lie flat.<br><br>Objective: SpO₂ 82% room air, PaO₂ 54 mmHg, PaCO₂ 62 mmHg, pH 7.31, cyanosis, drowsiness, tachypnea, accessory muscle use.</td><td style="padding:15px;border:1px solid #ddd;">Impaired gas exchange related to ventilation-perfusion mismatch and alveolar hypoventilation secondary to COPD as evidenced by hypoxemia, hypercapnia, cyanosis, drowsiness, and respiratory acidosis.</td><td style="padding:15px;border:1px solid #ddd;">Short term: Patient will maintain SpO₂ within prescribed target range and show reduced respiratory distress within 24 hours.<br>Long term: ABG values will improve, cyanosis will reduce, and patient will remain alert and oriented before discharge.</td><td style="padding:15px;border:1px solid #ddd;">• Monitor SpO₂ continuously<br>• Monitor ABG reports as advised<br>• Administer controlled oxygen therapy<br>• Observe for CO₂ retention signs<br>• Support NIV/BiPAP as prescribed</td><td style="padding:15px;border:1px solid #ddd;">• Administered controlled oxygen at 1-2 L/min as prescribed<br>• Maintained patient in high Fowler's position<br>• Supported BiPAP/NIV therapy and monitored mask tolerance<br>• Monitored mental status, cyanosis, SpO₂, and respiratory effort<br>• Reported ABG findings to physician<br>• Avoided unnecessary high-flow oxygen</td><td style="padding:15px;border:1px solid #ddd;">• SpO₂ improved from 82% to 90-94% with controlled oxygen<br>• Drowsiness reduced by Day 2<br>• Cyanosis decreased<br>• Respiratory distress reduced gradually<br>• Patient remained alert and oriented by Day 4</td></tr></tbody></table></div>
+
+<!-- NCP 3 -->
+<h3 style="color:#1a73e8;">Nursing Care Plan — 3: Ineffective Breathing Pattern</h3>
+<div style="overflow-x:auto;-webkit-overflow-scrolling:touch;margin:15px 0;border-radius:10px;box-shadow:0 2px 10px rgba(0,0,0,0.08);"><table style="width:100%;border-collapse:collapse;min-width:1000px;font-size:clamp(0.7rem,1.6vw,0.85rem);"><thead><tr style="background:#1a73e8;color:white;"><th>ASSESSMENT</th><th>NURSING DIAGNOSIS</th><th>GOAL/EXPECTED OUTCOME</th><th>PLANNING</th><th>IMPLEMENTATION</th><th>EVALUATION</th></tr></thead><tbody><tr><td style="padding:15px;border:1px solid #ddd;">Subjective: Patient says, "Saans bahut phool rahi hai, main seedha let nahi pa raha hoon." Patient complains of chest tightness and fatigue while breathing.<br><br>Objective: Respiratory rate 32/min, tripod position, pursed-lip breathing, accessory muscle use, prolonged expiration, barrel chest, reduced chest expansion.</td><td style="padding:15px;border:1px solid #ddd;">Ineffective breathing pattern related to airway obstruction, lung hyperinflation, and respiratory muscle fatigue as evidenced by tachypnea, tripod position, pursed-lip breathing, accessory muscle use, and prolonged expiration.</td><td style="padding:15px;border:1px solid #ddd;">Short term: Patient will demonstrate improved breathing pattern within 24-48 hours as evidenced by reduced respiratory rate and decreased accessory muscle use.<br>Long term: Patient will perform pursed-lip and diaphragmatic breathing correctly and maintain comfortable breathing at rest before discharge.</td><td style="padding:15px;border:1px solid #ddd;">• Assess respiratory pattern, rate, rhythm, depth, and effort<br>• Maintain high Fowler's/tripod position<br>• Teach pursed-lip breathing and diaphragmatic breathing<br>• Cluster nursing care to prevent fatigue<br>• Monitor response to bronchodilator therapy</td><td style="padding:15px;border:1px solid #ddd;">• Positioned patient in high Fowler's and tripod position during dyspnea<br>• Taught pursed-lip breathing: inhale through nose for 2 counts, exhale slowly through pursed lips for 4 counts<br>• Encouraged diaphragmatic breathing during rest periods<br>• Administered bronchodilator nebulization as prescribed<br>• Provided rest between activities and avoided unnecessary exertion<br>• Reassured patient during episodes of breathlessness</td><td style="padding:15px;border:1px solid #ddd;">• Respiratory rate reduced from 32/min to 24/min by Day 3 and 20/min by Day 5<br>• Accessory muscle use decreased<br>• Patient demonstrated pursed-lip breathing correctly<br>• Patient could sit comfortably and speak short sentences without severe dyspnea<br>• Chest tightness reduced after nebulization</td></tr></tbody></table></div>
+
+<!-- ========== PAGE 17: DISCHARGE SUMMARY ========== -->
+<h2 style="color:#1557b0;border-left:5px solid #1a73e8;padding-left:12px;margin:30px 0 15px;">📄 Page 17 — Discharge Summary</h2>
+<p>Mr. Mohan Lal Sharma, 68-year-old male, was admitted to Mathura Das Mathur Hospital, Jodhpur on 10/03/2026 at 9:15 PM with severe breathlessness, productive cough with thick yellow sputum, wheezing, fever, chest tightness, and drowsiness. He was a known case of COPD for 8 years with long history of smoking and occupational exposure to textile dust. On admission, he was tachypneic, hypoxic, cyanosed, and using accessory muscles of respiration. SpO₂ was 82% on room air. ABG showed pH 7.31, PaCO₂ 62 mmHg, PaO₂ 54 mmHg, suggestive of acute exacerbation of COPD with Type II respiratory failure.</p>
+<p>During hospitalization, the patient was managed with controlled oxygen therapy, non-invasive ventilation/BiPAP support, nebulized bronchodilators, IV corticosteroids, antibiotics, antipyretics, chest physiotherapy, breathing exercises, nutritional support, and close monitoring of respiratory status. His condition improved gradually. Fever subsided, sputum became less purulent, wheezing reduced, oxygen saturation improved, and respiratory distress decreased.</p>
+<p>At discharge, patient is conscious, oriented, afebrile, hemodynamically stable, and able to maintain SpO₂ around 94% on room air/low-flow oxygen as advised. Respiratory rate reduced to 20/min. Patient is able to walk short distances with mild exertional dyspnea. He and his family were educated regarding inhaler technique, smoking cessation, breathing exercises, nutrition, trigger avoidance, vaccination, and follow-up care.</p>
+<p style="font-weight:600;margin-top:20px;">At discharge, the patient is advised to:</p>
+<ul>
+<li>Stop smoking completely and permanently; avoid passive smoke exposure.</li>
+<li>Use inhalers exactly as prescribed and demonstrate correct inhaler technique at every follow-up.</li>
+<li>Practice pursed-lip breathing and diaphragmatic breathing daily.</li>
+<li>Continue steam inhalation or warm fluids if advised to loosen secretions.</li>
+<li>Take antibiotics, steroids, and bronchodilators only as prescribed; do not stop medicines suddenly.</li>
+<li>Avoid dust, smoke, strong perfumes, cold air, and crowded places during infection season.</li>
+<li>Maintain adequate nutrition with small frequent high-protein meals.</li>
+<li>Drink adequate fluids unless restricted by physician.</li>
+<li>Attend pulmonary rehabilitation or regular walking program as tolerated.</li>
+<li>Take annual influenza vaccination and pneumococcal vaccination as advised.</li>
+<li>Keep home environment clean, well ventilated, and smoke-free.</li>
+<li>Use mask while going outside in dusty areas.</li>
+<li>Follow up with respiratory physician after 1 week, then as advised.</li>
+<li>Seek immediate medical help if breathlessness increases, lips become blue, fever returns, sputum becomes green/yellow or blood-stained, confusion/drowsiness occurs, or inhalers do not relieve symptoms.</li>
+</ul>
+
+<!-- ========== PAGE 18: HEALTH EDUCATION ========== -->
+<h2 style="color:#1557b0;border-left:5px solid #1a73e8;padding-left:12px;margin:30px 0 15px;">📄 Page 18 — Health Education</h2>
+<div style="margin:15px 0;">
+<p><strong>Smoking Cessation —</strong><br>Patient was strongly educated that complete smoking cessation is the most important step in COPD management. Smoking causes continuous irritation of airways, increases mucus production, damages cilia, destroys alveoli, and accelerates decline in lung function. Patient was advised not to smoke even occasionally. Family members were instructed to keep the home completely smoke-free. The son was also advised to stop smoking because passive smoking can worsen the patient's COPD and increase respiratory infections in children.</p>
+
+<p><strong>Correct Inhaler Technique —</strong><br>Patient was taught that inhalers work only when used correctly. Steps explained: remove cap and shake inhaler, breathe out completely, place mouthpiece between lips, press inhaler once while breathing in slowly and deeply, hold breath for about 10 seconds, then breathe out slowly. If a second puff is prescribed, wait 30-60 seconds before repeating. Spacer use was advised for better drug delivery. Patient was instructed to rinse mouth after steroid inhaler to prevent oral fungal infection.</p>
+
+<p><strong>Breathing Exercises —</strong><br>Pursed-lip breathing was demonstrated: inhale slowly through nose for 2 counts and exhale slowly through pursed lips for 4 counts. This helps keep airways open longer, reduces air trapping, and decreases breathlessness. Diaphragmatic breathing was also taught to strengthen breathing muscles and reduce accessory muscle use. Patient was advised to practice breathing exercises several times daily and especially during dyspnea.</p>
+
+<p><strong>Airway Clearance —</strong><br>Patient was taught huff coughing technique to remove secretions with less fatigue. He was advised to sit upright, take a deep breath, keep mouth open, and forcefully exhale saying "huff." This helps move mucus from smaller airways to larger airways. Warm fluids and adequate hydration were advised to thin secretions. Patient was instructed not to suppress cough when sputum is present.</p>
+
+<p><strong>Nutrition —</strong><br>Patient was advised to take small frequent meals instead of heavy meals because a full stomach can push the diaphragm upward and increase breathlessness. High-protein foods such as dal, paneer in moderation, eggs if allowed, sprouts, soybean, milk, curd, and nuts were advised. High-calorie foods in healthy form were recommended because COPD increases energy expenditure. Gas-forming foods, excessive fried foods, and very spicy foods should be avoided if they worsen discomfort.</p>
+
+<p><strong>Activity and Energy Conservation —</strong><br>Patient was advised to perform activities slowly and take rest periods between tasks. Bathing, dressing, and walking should be done at a comfortable pace. He should sit while bathing and dressing if needed. Walking should be started gradually, beginning with short distances and increasing as tolerated. Patient should avoid sudden heavy exertion, lifting heavy weights, and walking in extreme heat, cold, or dusty weather.</p>
+
+<p><strong>Prevention of Infection —</strong><br>Patient was advised to wash hands frequently, avoid close contact with people having cough/cold/flu, avoid crowded places during outbreaks, use mask in dusty or crowded areas, and maintain oral hygiene. Annual influenza vaccine and pneumococcal vaccine were advised as per doctor's recommendation. Early treatment of respiratory infection is important to prevent severe exacerbation.</p>
+
+<p><strong>Trigger Avoidance —</strong><br>Patient and family were instructed to avoid exposure to dust, smoke, incense sticks, mosquito coils, strong perfumes, chemical fumes, cold air, and indoor pollution. House should be cleaned with wet mopping instead of dry sweeping to reduce dust. Bedding should be washed regularly and rooms should be well ventilated.</p>
+
+<p><strong>Warning Signs Requiring Immediate Hospital Visit —</strong><br>Patient and family were instructed to seek urgent medical help if breathlessness suddenly increases, patient cannot speak full sentences, lips or fingers become blue, sputum becomes green/yellow or blood-stained, fever develops, chest pain occurs, confusion or excessive sleepiness appears, swelling of feet develops, or prescribed inhalers/nebulization do not give relief.</p>
+
+<p><strong>Follow-up Care —</strong><br>Patient was advised to follow up with respiratory physician after 1 week and then regularly as advised. At follow-up visits, inhaler technique, symptom control, oxygen requirement, spirometry, vaccination status, nutrition, and exacerbation history should be reviewed. Patient was advised to keep a record of symptoms, sputum changes, medicines, and any emergency visits.</p>
+</div>
+
+<!-- ========== PAGE 19: BIBLIOGRAPHY ========== -->
+<h2 style="color:#1557b0;border-left:5px solid #1a73e8;padding-left:12px;margin:30px 0 15px;">📄 Page 19 — Bibliography</h2>
+<ol>
+<li>Brunner, L.S. &amp; Suddarth, D.S. (2022). <em>Textbook of Medical-Surgical Nursing</em> (15th ed.). Wolters Kluwer. Chapter: Management of Patients with Respiratory Disorders.</li>
+<li>NANDA International. (2024). <em>Nursing Diagnoses: Definitions and Classification 2024-2026</em> (13th ed.). Thieme Medical Publishers.</li>
+<li>Lewis, S.L., Bucher, L., Heitkemper, M.M., Harding, M.M., Kwong, J., &amp; Roberts, D. (2023). <em>Medical-Surgical Nursing: Assessment and Management of Clinical Problems</em>. Elsevier.</li>
+<li>Global Initiative for Chronic Obstructive Lung Disease (GOLD). (2025). <em>Global Strategy for the Diagnosis, Management, and Prevention of COPD</em>.</li>
+<li>World Health Organization. (2025). <em>Chronic Obstructive Pulmonary Disease (COPD) — Fact Sheet</em>. WHO, Geneva.</li>
+<li>Hinkle, J.L. &amp; Cheever, K.H. (2022). <em>Brunner &amp; Suddarth's Textbook of Medical-Surgical Nursing</em>. Wolters Kluwer.</li>
+<li>Doenges, M.E., Moorhouse, M.F., &amp; Murr, A.C. (2024). <em>Nursing Care Plans: Guidelines for Individualizing Client Care Across the Life Span</em>. F.A. Davis Company.</li>
+<li>Indian Chest Society &amp; National College of Chest Physicians. COPD management guidelines and respiratory care recommendations.</li>
+</ol>
+
+<!-- ========== DISCLAIMER ========== -->
+<div style="background:#fff3cd;border:2px solid #ffc107;padding:15px 20px;border-radius:10px;margin-top:30px;text-align:center;"><p style="margin:0;font-size:0.9rem;"><strong>⚕️ Medical Disclaimer:</strong> This case study is prepared for <strong>educational and academic purposes only</strong> as part of nursing practical file work (ANM, GNM, BSc Nursing). It is not intended for actual patient care, clinical decision-making, or medical diagnosis. Always refer to your institution's guidelines and standard textbooks.</p></div>
+<p style="text-align:center;margin-top:30px;color:#888;font-size:0.9rem;">© Nursing Study Vault | NANDA Format Case Study | Chronic Obstructive Pulmonary Disease (COPD)</p>
+</article>
+
+

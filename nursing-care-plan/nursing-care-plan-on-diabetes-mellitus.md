@@ -1,0 +1,1147 @@
+---
+title: 🩸 Nursing Care Plan on Diabetes Mellitus
+date: 2026-05-22T08:22:31+05:30
+description: Complete medical surgical nursing care plan on Diabetes Mellitus with patient assessment, clinical history, physical examination, investigations, drug chart, NANDA nursing diagnoses, nursing care plans, discharge summary, health education and bibliography.
+keywords: type 2 diabetes mellitus nursing care plan, diabetes mellitus nursing care plan, NANDA nursing care plan diabetes, medical surgical nursing care plan, diabetes nursing diagnosis, hyperglycemia nursing care plan, impaired glucose regulation nursing care plan, risk for unstable blood glucose level, BSc nursing practical file, GNM nursing care plan, ANM nursing practical file
+subject: Nursing Practical File
+permalink: /nursing-care-plan/nursing-care-plan-on-diabetes-mellitus.html
+canonical: https://nursingstudyvault.online/nursing-care-plan/nursing-care-plan-on-diabetes-mellitus.html
+category: Nursing Care Plan
+hideRelated: true
+---
+<link rel="canonical" href="https://nursingstudyvault.online/nursing-care-plan/nursing-care-plan-on-diabetes-mellitus.html">
+<article itemscope itemtype="https://schema.org/Article" style="max-width:900px;margin:0 auto;font-family:'Segoe UI',system-ui,sans-serif;line-height:1.8;color:#333;">
+
+<meta itemprop="headline" content="Nursing Care Plan on Diabetes Mellitus - Complete NANDA Format">
+<meta itemprop="description" content="Complete medical surgical nursing care plan on Diabetes Mellitus with patient assessment, clinical history, physical examination, investigations, drug chart, NANDA nursing diagnoses, nursing care plans, discharge summary, health education and bibliography.">
+<meta itemprop="datePublished" content="2026-05-21">
+<meta itemprop="educationalUse" content="Nursing Practical File">
+<meta itemprop="audience" content="ANM, GNM, BSc Nursing Students">
+
+<!-- ========== HEADER ========== -->
+<h1 style="color:#1a73e8;text-align:center;font-size:clamp(1.5rem,4vw,2.2rem);border-bottom:3px solid #1a73e8;padding-bottom:15px;margin-bottom:10px;">🩸 Nursing Care Plan on Diabetes Mellitus</h1>
+
+<p style="text-align:center;color:#666;font-size:0.95rem;margin-bottom:5px;">Medical-Surgical Nursing | NANDA Nursing Care Plan Format</p>
+
+<p style="text-align:center;">
+<span style="background:#198754;color:#fff;padding:5px 14px;border-radius:30px;font-size:0.85rem;">Endocrine Nursing | Practical File Ready</span>
+</p>
+
+<div style="background:#fff3cd;border:1px solid #ffc107;padding:12px 15px;border-radius:8px;margin:25px 0;font-size:0.9rem;text-align:center;">
+⚠️ <strong>Educational Purpose Only:</strong> This nursing care plan is prepared for academic practical file work. Not for actual patient care or clinical decision-making.
+</div>
+
+<!-- ========== STUDENT INFO ========== -->
+<h2 style="color:#1557b0;border-left:5px solid #1a73e8;padding-left:12px;margin:30px 0 15px;">📋 Student Information</h2>
+
+<div style="overflow-x:auto;-webkit-overflow-scrolling:touch;margin:15px 0;border-radius:10px;box-shadow:0 2px 10px rgba(0,0,0,0.08);">
+<table style="width:100%;border-collapse:collapse;min-width:600px;font-size:clamp(0.8rem,2vw,0.95rem);">
+<tbody>
+<tr style="background:#e8f0fe;">
+<td style="padding:12px 15px;border:1px solid #ddd;font-weight:600;width:35%;">Student Name</td>
+<td style="padding:12px 15px;border:1px solid #ddd;">[Your Name]</td>
+</tr>
+<tr>
+<td style="padding:12px 15px;border:1px solid #ddd;font-weight:600;">Course</td>
+<td style="padding:12px 15px;border:1px solid #ddd;">BSc Nursing / GNM / ANM</td>
+</tr>
+<tr style="background:#e8f0fe;">
+<td style="padding:12px 15px;border:1px solid #ddd;font-weight:600;">Subject</td>
+<td style="padding:12px 15px;border:1px solid #ddd;">Medical-Surgical Nursing / Endocrine Nursing</td>
+</tr>
+<tr>
+<td style="padding:12px 15px;border:1px solid #ddd;font-weight:600;">Topic</td>
+<td style="padding:12px 15px;border:1px solid #ddd;">Nursing Care Plan on Diabetes Mellitus</td>
+</tr>
+<tr style="background:#e8f0fe;">
+<td style="padding:12px 15px;border:1px solid #ddd;font-weight:600;">Format</td>
+<td style="padding:12px 15px;border:1px solid #ddd;">NANDA-I Nursing Care Plan Format</td>
+</tr>
+<tr>
+<td style="padding:12px 15px;border:1px solid #ddd;font-weight:600;">Date of Submission</td>
+<td style="padding:12px 15px;border:1px solid #ddd;">[Enter Date]</td>
+</tr>
+<tr style="background:#e8f0fe;">
+<td style="padding:12px 15px;border:1px solid #ddd;font-weight:600;">Clinical Instructor</td>
+<td style="padding:12px 15px;border:1px solid #ddd;">[Instructor Name]</td>
+</tr>
+</tbody>
+</table>
+</div>
+
+<!-- ========== PAGE 1: PATIENT IDENTIFICATION DATA ========== -->
+<h2 style="color:#1557b0;border-left:5px solid #1a73e8;padding-left:12px;margin:30px 0 15px;">📄 Page 1 — Patient Identification Data</h2>
+
+<div style="overflow-x:auto;-webkit-overflow-scrolling:touch;margin:15px 0;border-radius:10px;box-shadow:0 2px 10px rgba(0,0,0,0.08);">
+<table style="width:100%;border-collapse:collapse;min-width:600px;font-size:clamp(0.8rem,2vw,0.95rem);">
+<tbody>
+<tr style="background:#e8f0fe;">
+<td style="padding:10px 15px;border:1px solid #ddd;font-weight:600;width:40%;">Name</td>
+<td style="padding:10px 15px;border:1px solid #ddd;">Mr. Ramesh Kumar Sharma</td>
+</tr>
+<tr>
+<td style="padding:10px 15px;border:1px solid #ddd;font-weight:600;">Age</td>
+<td style="padding:10px 15px;border:1px solid #ddd;">55 Years</td>
+</tr>
+<tr style="background:#e8f0fe;">
+<td style="padding:10px 15px;border:1px solid #ddd;font-weight:600;">Sex</td>
+<td style="padding:10px 15px;border:1px solid #ddd;">Male</td>
+</tr>
+<tr>
+<td style="padding:10px 15px;border:1px solid #ddd;font-weight:600;">Address</td>
+<td style="padding:10px 15px;border:1px solid #ddd;">Mansarovar, Jaipur, Rajasthan</td>
+</tr>
+<tr style="background:#e8f0fe;">
+<td style="padding:10px 15px;border:1px solid #ddd;font-weight:600;">Occupation</td>
+<td style="padding:10px 15px;border:1px solid #ddd;">Shopkeeper</td>
+</tr>
+<tr>
+<td style="padding:10px 15px;border:1px solid #ddd;font-weight:600;">Marital Status</td>
+<td style="padding:10px 15px;border:1px solid #ddd;">Married</td>
+</tr>
+<tr style="background:#e8f0fe;">
+<td style="padding:10px 15px;border:1px solid #ddd;font-weight:600;">Religion/Category</td>
+<td style="padding:10px 15px;border:1px solid #ddd;">Hindu / General</td>
+</tr>
+<tr>
+<td style="padding:10px 15px;border:1px solid #ddd;font-weight:600;">Annual Income</td>
+<td style="padding:10px 15px;border:1px solid #ddd;">₹4,80,000/- approximately</td>
+</tr>
+<tr style="background:#e8f0fe;">
+<td style="padding:10px 15px;border:1px solid #ddd;font-weight:600;">Diagnosis</td>
+<td style="padding:10px 15px;border:1px solid #ddd;">Type 2 Diabetes Mellitus with Hyperglycemia</td>
+</tr>
+<tr>
+<td style="padding:10px 15px;border:1px solid #ddd;font-weight:600;">Type of Family</td>
+<td style="padding:10px 15px;border:1px solid #ddd;">Nuclear Family</td>
+</tr>
+<tr style="background:#e8f0fe;">
+<td style="padding:10px 15px;border:1px solid #ddd;font-weight:600;">Family Size</td>
+<td style="padding:10px 15px;border:1px solid #ddd;">5 Members</td>
+</tr>
+<tr>
+<td style="padding:10px 15px;border:1px solid #ddd;font-weight:600;">Ward Name</td>
+<td style="padding:10px 15px;border:1px solid #ddd;">Medical Ward</td>
+</tr>
+<tr style="background:#e8f0fe;">
+<td style="padding:10px 15px;border:1px solid #ddd;font-weight:600;">Bed Number</td>
+<td style="padding:10px 15px;border:1px solid #ddd;">12</td>
+</tr>
+<tr>
+<td style="padding:10px 15px;border:1px solid #ddd;font-weight:600;">Doctor Incharge</td>
+<td style="padding:10px 15px;border:1px solid #ddd;">Dr. A. K. Meena, MD Medicine</td>
+</tr>
+<tr style="background:#e8f0fe;">
+<td style="padding:10px 15px;border:1px solid #ddd;font-weight:600;">Date of Admission</td>
+<td style="padding:10px 15px;border:1px solid #ddd;">12/03/2026</td>
+</tr>
+<tr>
+<td style="padding:10px 15px;border:1px solid #ddd;font-weight:600;">Hospital Name</td>
+<td style="padding:10px 15px;border:1px solid #ddd;">Sawai Man Singh Hospital, Jaipur</td>
+</tr>
+</tbody>
+</table>
+</div>
+
+<!-- ========== PAGE 2: CHIEF COMPLAINTS & HISTORY ========== -->
+<h2 style="color:#1557b0;border-left:5px solid #1a73e8;padding-left:12px;margin:30px 0 15px;">📄 Page 2 — Chief Complaints & Clinical History</h2>
+
+<h3 style="color:#1a73e8;">CHIEF COMPLAINTS</h3>
+
+<p>The patient was admitted to the medical ward with the following complaints:</p>
+
+<ul>
+<li>Excessive thirst since 2 weeks</li>
+<li>Frequent urination, especially during night, since 2 weeks</li>
+<li>Generalized weakness and fatigue since 10 days</li>
+<li>Increased hunger since 1 month</li>
+<li>Occasional blurred vision since 1 week</li>
+<li>Delayed healing of small wound over right foot since 8 days</li>
+<li>Dryness of mouth and skin</li>
+<li>Unintentional weight loss of approximately 3 kg in last 2 months</li>
+</ul>
+
+<h3 style="color:#1a73e8;">HISTORY OF PRESENT ILLNESS</h3>
+
+<p>Mr. Ramesh Kumar Sharma, a 55-year-old male shopkeeper, was apparently well until about 2 weeks before admission when he started experiencing excessive thirst and frequent urination. He reported passing urine 10–12 times per day and 3–4 times at night, which disturbed his sleep. He also complained of dryness of mouth, increased hunger, generalized weakness, and easy fatigability while doing routine work at his shop.</p>
+
+<p>The patient noticed that a small wound over the right foot, caused by minor trauma while walking, was healing slowly. He also experienced occasional blurred vision and mild headache. He ignored the symptoms initially and increased his water intake. As weakness and frequency of urination increased, he visited the outpatient department where random blood sugar was found to be 320 mg/dL. He was advised admission for blood glucose monitoring, diabetic evaluation, wound care, medication adjustment, and patient education.</p>
+
+<p>On admission, the patient was conscious and oriented but appeared weak and anxious about his condition. His vital signs were stable except mildly elevated blood pressure. Blood investigations revealed fasting blood sugar 180 mg/dL, post-prandial blood sugar 286 mg/dL, HbA1c 8.5%, and urine sugar positive. The patient was diagnosed as Type 2 Diabetes Mellitus with Hyperglycemia and was started on diabetic diet, oral antidiabetic medication, blood glucose monitoring, wound care, and health education.</p>
+
+<h3 style="color:#1a73e8;">PAST MEDICAL HISTORY</h3>
+
+<ul>
+<li>Known case of Type 2 Diabetes Mellitus for 5 years.</li>
+<li>Patient was taking oral antidiabetic medication irregularly.</li>
+<li>History of hypertension for 3 years; on antihypertensive medication.</li>
+<li>No history of tuberculosis, asthma, epilepsy, thyroid disorder, or chronic kidney disease.</li>
+<li>No history of previous diabetic ketoacidosis or hypoglycemic coma.</li>
+<li>No known drug allergy or food allergy.</li>
+</ul>
+
+<h3 style="color:#1a73e8;">PAST SURGICAL HISTORY</h3>
+
+<ul>
+<li>No history of major surgery.</li>
+<li>No history of amputation or diabetic foot surgery.</li>
+<li>No history of blood transfusion.</li>
+<li>No history of previous hospitalization for any major illness.</li>
+</ul>
+
+<!-- ========== PAGE 3: FAMILY HISTORY ========== -->
+<h2 style="color:#1557b0;border-left:5px solid #1a73e8;padding-left:12px;margin:30px 0 15px;">📄 Page 3 — Family History & Composition</h2>
+
+<h3 style="color:#1a73e8;">FAMILY HISTORY</h3>
+
+<ul>
+<li>The patient belongs to a nuclear family.</li>
+<li>There are 5 members in the family — patient, wife, one son, one daughter-in-law, and one grandson.</li>
+<li>Father had history of Type 2 Diabetes Mellitus and hypertension.</li>
+<li>Mother had history of hypertension.</li>
+<li>Younger brother is also diagnosed with Type 2 Diabetes Mellitus.</li>
+<li>No family history of tuberculosis, bronchial asthma, epilepsy, or psychiatric illness.</li>
+<li>There is a positive family history of diabetes mellitus.</li>
+</ul>
+
+<h3 style="color:#1a73e8;">FAMILY COMPOSITION</h3>
+
+<div style="overflow-x:auto;-webkit-overflow-scrolling:touch;margin:15px 0;border-radius:10px;box-shadow:0 2px 10px rgba(0,0,0,0.08);">
+<table style="width:100%;border-collapse:collapse;min-width:700px;font-size:clamp(0.75rem,1.8vw,0.9rem);">
+<thead>
+<tr style="background:#1a73e8;color:white;">
+<th style="padding:10px;border:1px solid #ddd;">Name</th>
+<th style="padding:10px;border:1px solid #ddd;">Age/Sex</th>
+<th style="padding:10px;border:1px solid #ddd;">Education</th>
+<th style="padding:10px;border:1px solid #ddd;">Occupation</th>
+<th style="padding:10px;border:1px solid #ddd;">Marital Status</th>
+<th style="padding:10px;border:1px solid #ddd;">Relationship</th>
+<th style="padding:10px;border:1px solid #ddd;">Health Status</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="padding:10px;border:1px solid #ddd;">Mr. Ramesh Kumar Sharma</td>
+<td style="padding:10px;border:1px solid #ddd;">55/M</td>
+<td style="padding:10px;border:1px solid #ddd;">B.A.</td>
+<td style="padding:10px;border:1px solid #ddd;">Shopkeeper</td>
+<td style="padding:10px;border:1px solid #ddd;">Married</td>
+<td style="padding:10px;border:1px solid #ddd;">Self / Patient</td>
+<td style="padding:10px;border:1px solid #ddd;">Type 2 Diabetes Mellitus with Hyperglycemia</td>
+</tr>
+<tr style="background:#e8f0fe;">
+<td style="padding:10px;border:1px solid #ddd;">Mrs. Sunita Sharma</td>
+<td style="padding:10px;border:1px solid #ddd;">50/F</td>
+<td style="padding:10px;border:1px solid #ddd;">Secondary</td>
+<td style="padding:10px;border:1px solid #ddd;">Housewife</td>
+<td style="padding:10px;border:1px solid #ddd;">Married</td>
+<td style="padding:10px;border:1px solid #ddd;">Wife</td>
+<td style="padding:10px;border:1px solid #ddd;">Healthy</td>
+</tr>
+<tr>
+<td style="padding:10px;border:1px solid #ddd;">Mr. Amit Sharma</td>
+<td style="padding:10px;border:1px solid #ddd;">28/M</td>
+<td style="padding:10px;border:1px solid #ddd;">B.Com</td>
+<td style="padding:10px;border:1px solid #ddd;">Private Job</td>
+<td style="padding:10px;border:1px solid #ddd;">Married</td>
+<td style="padding:10px;border:1px solid #ddd;">Son</td>
+<td style="padding:10px;border:1px solid #ddd;">Healthy</td>
+</tr>
+<tr style="background:#e8f0fe;">
+<td style="padding:10px;border:1px solid #ddd;">Mrs. Pooja Sharma</td>
+<td style="padding:10px;border:1px solid #ddd;">25/F</td>
+<td style="padding:10px;border:1px solid #ddd;">B.A.</td>
+<td style="padding:10px;border:1px solid #ddd;">Housewife</td>
+<td style="padding:10px;border:1px solid #ddd;">Married</td>
+<td style="padding:10px;border:1px solid #ddd;">Daughter-in-law</td>
+<td style="padding:10px;border:1px solid #ddd;">Healthy</td>
+</tr>
+<tr>
+<td style="padding:10px;border:1px solid #ddd;">Master Aarav Sharma</td>
+<td style="padding:10px;border:1px solid #ddd;">3/M</td>
+<td style="padding:10px;border:1px solid #ddd;">-</td>
+<td style="padding:10px;border:1px solid #ddd;">-</td>
+<td style="padding:10px;border:1px solid #ddd;">Unmarried</td>
+<td style="padding:10px;border:1px solid #ddd;">Grandson</td>
+<td style="padding:10px;border:1px solid #ddd;">Healthy</td>
+</tr>
+</tbody>
+</table>
+</div>
+
+
+<h3 style="color:#1a73e8;">FAMILY TREE</h3>
+
+<div style="background:#ffffff;border:1px solid #d0d7de;border-radius:14px;padding:25px 15px;margin:15px 0;overflow-x:auto;box-shadow:0 4px 14px rgba(0,0,0,0.08);">
+<div style="min-width:720px;text-align:center;font-family:'Segoe UI',system-ui,sans-serif;">
+
+<div style="display:flex;justify-content:center;gap:25px;align-items:center;">
+  <div style="background:#e8f0fe;border:2px solid #1a73e8;border-radius:12px;padding:12px 18px;width:220px;">
+    <div style="font-size:28px;">👨</div>
+    <strong>Mr. Ramesh Kumar Sharma</strong>
+    <div style="font-size:0.85rem;color:#555;">Self / Patient</div>
+    <div style="font-size:0.8rem;color:#dc3545;">Type 2 Diabetes Mellitus</div>
+  </div>
+
+  <div style="font-size:28px;color:#777;">♡</div>
+
+  <div style="background:#fff3cd;border:2px solid #ffc107;border-radius:12px;padding:12px 18px;width:220px;">
+    <div style="font-size:28px;">👩</div>
+    <strong>Mrs. Sunita Sharma</strong>
+    <div style="font-size:0.85rem;color:#555;">Wife</div>
+    <div style="font-size:0.8rem;color:#198754;">Healthy</div>
+  </div>
+</div>
+
+<div style="height:35px;border-left:2px solid #777;margin:0 auto;width:1px;"></div>
+
+<div style="display:flex;justify-content:center;gap:25px;align-items:flex-start;">
+  <div style="background:#f8f9fa;border:2px solid #6c757d;border-radius:12px;padding:12px 18px;width:210px;">
+    <div style="font-size:28px;">👨</div>
+    <strong>Mr. Amit Sharma</strong>
+    <div style="font-size:0.85rem;color:#555;">Son</div>
+    <div style="font-size:0.8rem;color:#198754;">Healthy</div>
+  </div>
+
+  <div style="background:#f8f9fa;border:2px solid #6c757d;border-radius:12px;padding:12px 18px;width:210px;">
+    <div style="font-size:28px;">👩</div>
+    <strong>Mrs. Pooja Sharma</strong>
+    <div style="font-size:0.85rem;color:#555;">Daughter-in-law</div>
+    <div style="font-size:0.8rem;color:#198754;">Healthy</div>
+  </div>
+</div>
+
+<div style="height:35px;border-left:2px solid #777;margin:0 auto;width:1px;"></div>
+
+<div style="display:flex;justify-content:center;">
+  <div style="background:#e8f5e9;border:2px solid #198754;border-radius:12px;padding:12px 18px;width:210px;">
+    <div style="font-size:28px;">👦</div>
+    <strong>Master Aarav Sharma</strong>
+    <div style="font-size:0.85rem;color:#555;">Grandson</div>
+    <div style="font-size:0.8rem;color:#198754;">Healthy</div>
+  </div>
+</div>
+
+</div>
+</div>
+
+<h2 style="color:#1557b0;border-left:5px solid #1a73e8;padding-left:12px;margin:30px 0 15px;">📄 Page 4 — Dietary, Personal, Socio-Economic & Environmental History</h2>
+
+<h3 style="color:#1a73e8;">DIETARY HISTORY</h3>
+<ul>
+<li>The patient takes a mixed diet but mostly vegetarian food at home.</li>
+<li>He consumes 4–5 cups of tea daily with sugar.</li>
+<li>He has a habit of eating sweets, biscuits, namkeen, and fried snacks frequently.</li>
+<li>He usually takes heavy dinner late at night due to shop timing.</li>
+<li>Intake of green leafy vegetables, salads, fruits, and high-fiber food is inadequate.</li>
+<li>He does not follow a regular diabetic diet plan.</li>
+<li>He often skips breakfast and takes irregular meals.</li>
+<li>Fluid intake is adequate, but thirst has increased due to hyperglycemia.</li>
+<li>No known food allergy reported.</li>
+</ul>
+
+<h3 style="color:#1a73e8;">PERSONAL HISTORY</h3>
+<ul>
+<li>Sleep: Disturbed due to frequent urination at night.</li>
+<li>Appetite: Increased appetite for last 1 month.</li>
+<li>Bowel: Regular, once daily.</li>
+<li>Bladder: Increased frequency of urination, especially at night.</li>
+<li>Habits: Occasional tobacco chewing for 10 years; no alcohol intake reported.</li>
+<li>Activity level: Sedentary lifestyle; spends most of the day sitting at shop.</li>
+<li>Exercise: No regular walking or exercise routine.</li>
+<li>Hygiene: Maintains average personal hygiene but has inadequate foot care practices.</li>
+<li>Allergy: No known drug or food allergy.</li>
+<li>BMI: 28.4 kg/m² — Overweight.</li>
+</ul>
+
+<h3 style="color:#1a73e8;">SOCIO-ECONOMIC HISTORY</h3>
+<ul>
+<li>The patient belongs to a middle-class family.</li>
+<li>Main source of income is his grocery shop and son's private job.</li>
+<li>Family income is sufficient for basic needs and treatment expenses.</li>
+<li>Patient has access to nearby hospital and medical facilities.</li>
+<li>Family members are supportive and willing to help in diet control and medication adherence.</li>
+</ul>
+
+<h3 style="color:#1a73e8;">ENVIRONMENTAL HISTORY</h3>
+<ul>
+<li>The patient lives in a pucca house with adequate ventilation and lighting.</li>
+<li>Safe drinking water supply is available.</li>
+<li>Sanitation facilities are adequate.</li>
+<li>House surroundings are clean.</li>
+<li>No exposure to industrial pollution or harmful chemicals.</li>
+<li>Cooking is done using LPG gas.</li>
+</ul>
+
+<!-- ========== PAGE 5 & 6: PHYSICAL EXAMINATION ========== -->
+<h2 style="color:#1557b0;border-left:5px solid #1a73e8;padding-left:12px;margin:30px 0 15px;">📄 Page 5 & 6 — Physical Examination</h2>
+
+<h3 style="color:#1a73e8;">GENERAL CONDITION</h3>
+<p>Patient is conscious, oriented to time, place, and person. He appears weak and mildly anxious. Patient is cooperative during examination. No acute respiratory distress is present. Mild dehydration signs are observed due to hyperglycemia and polyuria.</p>
+
+<h3 style="color:#1a73e8;">VITAL SIGNS</h3>
+<ul>
+<li>Temperature: 98.4°F</li>
+<li>Pulse: 88 beats/min, regular</li>
+<li>Respiration: 20 breaths/min</li>
+<li>Blood Pressure: 146/90 mmHg</li>
+<li>SpO₂: 98% on room air</li>
+<li>Random Blood Sugar: 320 mg/dL on admission</li>
+<li>Pain Score: 2/10 due to mild right foot wound discomfort</li>
+</ul>
+
+<h3 style="color:#1a73e8;">GENERAL APPEARANCE</h3>
+<ul>
+<li>Built: Moderately built and overweight.</li>
+<li>Posture: Normal sitting and standing posture.</li>
+<li>Gait: Slightly cautious due to right foot wound.</li>
+<li>Speech: Clear and coherent.</li>
+<li>Skin: Dry skin with mild dehydration signs.</li>
+<li>Facial expression: Mildly anxious regarding blood sugar control.</li>
+</ul>
+
+<h3 style="color:#1a73e8;">SYSTEMIC EXAMINATION</h3>
+
+<div style="overflow-x:auto;-webkit-overflow-scrolling:touch;margin:15px 0;border-radius:10px;box-shadow:0 2px 10px rgba(0,0,0,0.08);">
+<table style="width:100%;border-collapse:collapse;min-width:600px;font-size:clamp(0.8rem,2vw,0.95rem);">
+<tbody>
+
+<tr style="background:#e8f0fe;">
+<td style="padding:10px 15px;border:1px solid #ddd;font-weight:600;width:25%;">Cardiovascular</td>
+<td style="padding:10px 15px;border:1px solid #ddd;">S1 and S2 heard clearly. No murmur. Pulse 88/min regular. Peripheral pulses palpable. Blood pressure mildly elevated. No pedal edema.</td>
+</tr>
+
+<tr>
+<td style="padding:10px 15px;border:1px solid #ddd;font-weight:600;">Respiratory</td>
+<td style="padding:10px 15px;border:1px solid #ddd;">Chest symmetrical. Respiratory rate 20/min. Vesicular breath sounds heard bilaterally. No wheeze, crackles, or respiratory distress.</td>
+</tr>
+
+<tr style="background:#e8f0fe;">
+<td style="padding:10px 15px;border:1px solid #ddd;font-weight:600;">Neurological</td>
+<td style="padding:10px 15px;border:1px solid #ddd;">Patient conscious and oriented. GCS 15/15. Pupils equal and reacting to light. No focal neurological deficit. Mild tingling sensation occasionally present in both feet.</td>
+</tr>
+
+<tr>
+<td style="padding:10px 15px;border:1px solid #ddd;font-weight:600;">Skin</td>
+<td style="padding:10px 15px;border:1px solid #ddd;">Skin dry and warm. Mild dehydration present. Small superficial wound over right foot with delayed healing. No cyanosis, clubbing, or icterus.</td>
+</tr>
+
+<tr style="background:#e8f0fe;">
+<td style="padding:10px 15px;border:1px solid #ddd;font-weight:600;">Head & Face</td>
+<td style="padding:10px 15px;border:1px solid #ddd;">Head normal in shape. Face symmetrical. No facial puffiness. Mild tired look present.</td>
+</tr>
+
+<tr>
+<td style="padding:10px 15px;border:1px solid #ddd;font-weight:600;">Eyes</td>
+<td style="padding:10px 15px;border:1px solid #ddd;">Conjunctiva pink. Sclera white. Pupils equal and reactive. Patient complains of occasional blurred vision. No redness or discharge.</td>
+</tr>
+
+<tr style="background:#e8f0fe;">
+<td style="padding:10px 15px;border:1px solid #ddd;font-weight:600;">Ear</td>
+<td style="padding:10px 15px;border:1px solid #ddd;">External ear normal. No discharge. Hearing response normal.</td>
+</tr>
+
+<tr>
+<td style="padding:10px 15px;border:1px solid #ddd;font-weight:600;">Nose</td>
+<td style="padding:10px 15px;border:1px solid #ddd;">Nose normal. No nasal discharge. Nostrils patent.</td>
+</tr>
+
+<tr style="background:#e8f0fe;">
+<td style="padding:10px 15px;border:1px solid #ddd;font-weight:600;">Mouth & Pharynx</td>
+<td style="padding:10px 15px;border:1px solid #ddd;">Oral mucosa slightly dry. Tongue moist but coated. No throat congestion. Dental hygiene average.</td>
+</tr>
+
+<tr>
+<td style="padding:10px 15px;border:1px solid #ddd;font-weight:600;">Neck</td>
+<td style="padding:10px 15px;border:1px solid #ddd;">Neck movement normal. No lymph node enlargement. Thyroid not enlarged. No JVD.</td>
+</tr>
+
+<tr style="background:#e8f0fe;">
+<td style="padding:10px 15px;border:1px solid #ddd;font-weight:600;">Abdomen</td>
+<td style="padding:10px 15px;border:1px solid #ddd;">Abdomen soft and non-tender. No distension. Bowel sounds present. No organomegaly detected.</td>
+</tr>
+
+<tr>
+<td style="padding:10px 15px;border:1px solid #ddd;font-weight:600;">Extremities</td>
+<td style="padding:10px 15px;border:1px solid #ddd;">No pedal edema. Peripheral pulses palpable. Small superficial wound present on right foot. Mild numbness and tingling sensation in feet. Capillary refill less than 3 seconds.</td>
+</tr>
+
+</tbody>
+</table>
+</div>
+
+<!-- ========== PAGE 7: VITAL SIGNS RECORD ========== -->
+<h2 style="color:#1557b0;border-left:5px solid #1a73e8;padding-left:12px;margin:30px 0 15px;">📄 Page 7 — Vital Signs Monitoring Record</h2>
+
+<div style="overflow-x:auto;-webkit-overflow-scrolling:touch;margin:15px 0;border-radius:10px;box-shadow:0 2px 10px rgba(0,0,0,0.08);">
+<table style="width:100%;border-collapse:collapse;min-width:700px;font-size:clamp(0.75rem,1.8vw,0.9rem);">
+<thead>
+<tr style="background:#1a73e8;color:white;">
+<th style="padding:12px;border:1px solid #ddd;">DATE/TIME</th>
+<th style="padding:12px;border:1px solid #ddd;">TEMP</th>
+<th style="padding:12px;border:1px solid #ddd;">PULSE</th>
+<th style="padding:12px;border:1px solid #ddd;">RESP</th>
+<th style="padding:12px;border:1px solid #ddd;">BP</th>
+<th style="padding:12px;border:1px solid #ddd;">SpO₂</th>
+<th style="padding:12px;border:1px solid #ddd;">RBS/FBS</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="padding:10px;border:1px solid #ddd;"><strong>Day 1</strong> — Admission</td>
+<td style="padding:10px;border:1px solid #ddd;">98.4°F</td>
+<td style="padding:10px;border:1px solid #ddd;">88/min</td>
+<td style="padding:10px;border:1px solid #ddd;">20/min</td>
+<td style="padding:10px;border:1px solid #ddd;">146/90</td>
+<td style="padding:10px;border:1px solid #ddd;">98%</td>
+<td style="padding:10px;border:1px solid #ddd;">RBS 320 mg/dL</td>
+</tr>
+
+<tr style="background:#e8f0fe;">
+<td style="padding:10px;border:1px solid #ddd;"><strong>Day 2</strong> — Morning</td>
+<td style="padding:10px;border:1px solid #ddd;">98.2°F</td>
+<td style="padding:10px;border:1px solid #ddd;">84/min</td>
+<td style="padding:10px;border:1px solid #ddd;">19/min</td>
+<td style="padding:10px;border:1px solid #ddd;">140/86</td>
+<td style="padding:10px;border:1px solid #ddd;">98%</td>
+<td style="padding:10px;border:1px solid #ddd;">FBS 210 mg/dL</td>
+</tr>
+
+<tr>
+<td style="padding:10px;border:1px solid #ddd;"><strong>Day 3</strong> — Morning</td>
+<td style="padding:10px;border:1px solid #ddd;">98.6°F</td>
+<td style="padding:10px;border:1px solid #ddd;">82/min</td>
+<td style="padding:10px;border:1px solid #ddd;">18/min</td>
+<td style="padding:10px;border:1px solid #ddd;">136/84</td>
+<td style="padding:10px;border:1px solid #ddd;">99%</td>
+<td style="padding:10px;border:1px solid #ddd;">FBS 168 mg/dL</td>
+</tr>
+
+<tr style="background:#e8f0fe;">
+<td style="padding:10px;border:1px solid #ddd;"><strong>Day 4</strong> — Discharge</td>
+<td style="padding:10px;border:1px solid #ddd;">98.4°F</td>
+<td style="padding:10px;border:1px solid #ddd;">78/min</td>
+<td style="padding:10px;border:1px solid #ddd;">18/min</td>
+<td style="padding:10px;border:1px solid #ddd;">130/80</td>
+<td style="padding:10px;border:1px solid #ddd;">99%</td>
+<td style="padding:10px;border:1px solid #ddd;">FBS 132 mg/dL</td>
+</tr>
+</tbody>
+</table>
+</div>
+
+<div style="background:#d4edda;padding:12px 15px;border-radius:8px;margin:15px 0;text-align:center;">
+📈 <strong>Nursing Trend:</strong> Blood sugar gradually reduced from 320 mg/dL to 132 mg/dL with insulin therapy, diabetic diet, medication adherence, hydration, and monitoring.
+</div>
+
+<!-- ========== PAGE 8: DIAGNOSTIC INVESTIGATIONS ========== -->
+<h2 style="color:#1557b0;border-left:5px solid #1a73e8;padding-left:12px;margin:30px 0 15px;">📄 Page 8 — Diagnostic Investigations</h2>
+
+<div style="overflow-x:auto;-webkit-overflow-scrolling:touch;margin:15px 0;border-radius:10px;box-shadow:0 2px 10px rgba(0,0,0,0.08);">
+<table style="width:100%;border-collapse:collapse;min-width:750px;font-size:clamp(0.75rem,1.8vw,0.9rem);">
+<thead>
+<tr style="background:#1a73e8;color:white;">
+<th style="padding:12px;border:1px solid #ddd;">SR. NO.</th>
+<th style="padding:12px;border:1px solid #ddd;">INVESTIGATION</th>
+<th style="padding:12px;border:1px solid #ddd;">NORMAL VALUE</th>
+<th style="padding:12px;border:1px solid #ddd;">PATIENT VALUE</th>
+<th style="padding:12px;border:1px solid #ddd;">INTERPRETATION</th>
+</tr>
+</thead>
+<tbody>
+
+<tr>
+<td style="padding:10px;border:1px solid #ddd;">1</td>
+<td style="padding:10px;border:1px solid #ddd;">Hemoglobin</td>
+<td style="padding:10px;border:1px solid #ddd;">13–17 g/dL</td>
+<td style="padding:10px;border:1px solid #ddd;">12.8 g/dL</td>
+<td style="padding:10px;border:1px solid #ddd;">Slightly low</td>
+</tr>
+
+<tr style="background:#e8f0fe;">
+<td style="padding:10px;border:1px solid #ddd;">2</td>
+<td style="padding:10px;border:1px solid #ddd;">Total WBC Count</td>
+<td style="padding:10px;border:1px solid #ddd;">4,000–11,000/mm³</td>
+<td style="padding:10px;border:1px solid #ddd;">9,800/mm³</td>
+<td style="padding:10px;border:1px solid #ddd;">Normal</td>
+</tr>
+
+<tr>
+<td style="padding:10px;border:1px solid #ddd;">3</td>
+<td style="padding:10px;border:1px solid #ddd;">Platelet Count</td>
+<td style="padding:10px;border:1px solid #ddd;">1.5–4 lakh/mm³</td>
+<td style="padding:10px;border:1px solid #ddd;">2.6 lakh/mm³</td>
+<td style="padding:10px;border:1px solid #ddd;">Normal</td>
+</tr>
+
+<tr style="background:#e8f0fe;">
+<td style="padding:10px;border:1px solid #ddd;">4</td>
+<td style="padding:10px;border:1px solid #ddd;">Fasting Blood Sugar</td>
+<td style="padding:10px;border:1px solid #ddd;">70–110 mg/dL</td>
+<td style="padding:10px;border:1px solid #ddd;"><strong>210 mg/dL</strong></td>
+<td style="padding:10px;border:1px solid #ddd;color:#dc3545;font-weight:600;">Elevated</td>
+</tr>
+
+<tr>
+<td style="padding:10px;border:1px solid #ddd;">5</td>
+<td style="padding:10px;border:1px solid #ddd;">Post-Prandial Blood Sugar</td>
+<td style="padding:10px;border:1px solid #ddd;">&lt;140 mg/dL</td>
+<td style="padding:10px;border:1px solid #ddd;"><strong>286 mg/dL</strong></td>
+<td style="padding:10px;border:1px solid #ddd;color:#dc3545;font-weight:600;">Elevated</td>
+</tr>
+
+<tr style="background:#e8f0fe;">
+<td style="padding:10px;border:1px solid #ddd;">6</td>
+<td style="padding:10px;border:1px solid #ddd;">Random Blood Sugar</td>
+<td style="padding:10px;border:1px solid #ddd;">&lt;200 mg/dL</td>
+<td style="padding:10px;border:1px solid #ddd;"><strong>320 mg/dL</strong></td>
+<td style="padding:10px;border:1px solid #ddd;color:#dc3545;font-weight:600;">Marked hyperglycemia</td>
+</tr>
+
+<tr>
+<td style="padding:10px;border:1px solid #ddd;">7</td>
+<td style="padding:10px;border:1px solid #ddd;">HbA1c</td>
+<td style="padding:10px;border:1px solid #ddd;">&lt;6.5%</td>
+<td style="padding:10px;border:1px solid #ddd;"><strong>9.1%</strong></td>
+<td style="padding:10px;border:1px solid #ddd;color:#dc3545;font-weight:600;">Poor long-term glycemic control</td>
+</tr>
+
+<tr style="background:#e8f0fe;">
+<td style="padding:10px;border:1px solid #ddd;">8</td>
+<td style="padding:10px;border:1px solid #ddd;">Urine Sugar</td>
+<td style="padding:10px;border:1px solid #ddd;">Absent</td>
+<td style="padding:10px;border:1px solid #ddd;">+++</td>
+<td style="padding:10px;border:1px solid #ddd;color:#dc3545;font-weight:600;">Glycosuria present</td>
+</tr>
+
+<tr>
+<td style="padding:10px;border:1px solid #ddd;">9</td>
+<td style="padding:10px;border:1px solid #ddd;">Urine Ketone</td>
+<td style="padding:10px;border:1px solid #ddd;">Absent</td>
+<td style="padding:10px;border:1px solid #ddd;">Negative</td>
+<td style="padding:10px;border:1px solid #ddd;">No ketoacidosis</td>
+</tr>
+
+<tr style="background:#e8f0fe;">
+<td style="padding:10px;border:1px solid #ddd;">10</td>
+<td style="padding:10px;border:1px solid #ddd;">Serum Creatinine</td>
+<td style="padding:10px;border:1px solid #ddd;">0.7–1.3 mg/dL</td>
+<td style="padding:10px;border:1px solid #ddd;">1.0 mg/dL</td>
+<td style="padding:10px;border:1px solid #ddd;">Normal renal function</td>
+</tr>
+
+<tr>
+<td style="padding:10px;border:1px solid #ddd;">11</td>
+<td style="padding:10px;border:1px solid #ddd;">Blood Urea</td>
+<td style="padding:10px;border:1px solid #ddd;">15–40 mg/dL</td>
+<td style="padding:10px;border:1px solid #ddd;">34 mg/dL</td>
+<td style="padding:10px;border:1px solid #ddd;">Normal</td>
+</tr>
+
+<tr style="background:#e8f0fe;">
+<td style="padding:10px;border:1px solid #ddd;">12</td>
+<td style="padding:10px;border:1px solid #ddd;">Serum Sodium</td>
+<td style="padding:10px;border:1px solid #ddd;">135–145 mEq/L</td>
+<td style="padding:10px;border:1px solid #ddd;">138 mEq/L</td>
+<td style="padding:10px;border:1px solid #ddd;">Normal</td>
+</tr>
+
+<tr>
+<td style="padding:10px;border:1px solid #ddd;">13</td>
+<td style="padding:10px;border:1px solid #ddd;">Serum Potassium</td>
+<td style="padding:10px;border:1px solid #ddd;">3.5–5.0 mEq/L</td>
+<td style="padding:10px;border:1px solid #ddd;">4.2 mEq/L</td>
+<td style="padding:10px;border:1px solid #ddd;">Normal</td>
+</tr>
+
+<tr style="background:#e8f0fe;">
+<td style="padding:10px;border:1px solid #ddd;">14</td>
+<td style="padding:10px;border:1px solid #ddd;">Total Cholesterol</td>
+<td style="padding:10px;border:1px solid #ddd;">&lt;200 mg/dL</td>
+<td style="padding:10px;border:1px solid #ddd;"><strong>232 mg/dL</strong></td>
+<td style="padding:10px;border:1px solid #ddd;color:#dc3545;font-weight:600;">Elevated</td>
+</tr>
+
+<tr>
+<td style="padding:10px;border:1px solid #ddd;">15</td>
+<td style="padding:10px;border:1px solid #ddd;">LDL Cholesterol</td>
+<td style="padding:10px;border:1px solid #ddd;">&lt;100 mg/dL</td>
+<td style="padding:10px;border:1px solid #ddd;"><strong>148 mg/dL</strong></td>
+<td style="padding:10px;border:1px solid #ddd;color:#dc3545;font-weight:600;">Elevated</td>
+</tr>
+
+<tr style="background:#e8f0fe;">
+<td style="padding:10px;border:1px solid #ddd;">16</td>
+<td style="padding:10px;border:1px solid #ddd;">HDL Cholesterol</td>
+<td style="padding:10px;border:1px solid #ddd;">&gt;40 mg/dL</td>
+<td style="padding:10px;border:1px solid #ddd;"><strong>36 mg/dL</strong></td>
+<td style="padding:10px;border:1px solid #ddd;color:#dc3545;font-weight:600;">Low</td>
+</tr>
+
+<tr>
+<td style="padding:10px;border:1px solid #ddd;">17</td>
+<td style="padding:10px;border:1px solid #ddd;">Triglycerides</td>
+<td style="padding:10px;border:1px solid #ddd;">&lt;150 mg/dL</td>
+<td style="padding:10px;border:1px solid #ddd;"><strong>210 mg/dL</strong></td>
+<td style="padding:10px;border:1px solid #ddd;color:#dc3545;font-weight:600;">Elevated</td>
+</tr>
+
+<tr style="background:#e8f0fe;">
+<td style="padding:10px;border:1px solid #ddd;">18</td>
+<td style="padding:10px;border:1px solid #ddd;">Foot Wound Swab</td>
+<td style="padding:10px;border:1px solid #ddd;">No pathogenic growth</td>
+<td style="padding:10px;border:1px solid #ddd;">Mild bacterial growth</td>
+<td style="padding:10px;border:1px solid #ddd;color:#fd7e14;font-weight:600;">Local wound infection risk</td>
+</tr>
+
+</tbody>
+</table>
+</div>
+
+<!-- ========== PAGE 9: MEDICAL MANAGEMENT ========== -->
+<h2 style="color:#1557b0;border-left:5px solid #1a73e8;padding-left:12px;margin:30px 0 15px;">📄 Page 9 — Medical Management (Drug Chart)</h2>
+
+<div style="overflow-x:auto;-webkit-overflow-scrolling:touch;margin:15px 0;border-radius:10px;box-shadow:0 2px 10px rgba(0,0,0,0.08);">
+<table style="width:100%;border-collapse:collapse;min-width:750px;font-size:clamp(0.75rem,1.8vw,0.9rem);">
+<thead>
+<tr style="background:#1a73e8;color:white;">
+<th style="padding:12px;border:1px solid #ddd;">SR. NO.</th>
+<th style="padding:12px;border:1px solid #ddd;">MEDICATION</th>
+<th style="padding:12px;border:1px solid #ddd;">DOSE</th>
+<th style="padding:12px;border:1px solid #ddd;">FREQUENCY</th>
+<th style="padding:12px;border:1px solid #ddd;">ROUTE</th>
+<th style="padding:12px;border:1px solid #ddd;">ACTION / PURPOSE</th>
+</tr>
+</thead>
+<tbody>
+
+<tr>
+<td style="padding:10px;border:1px solid #ddd;">1</td>
+<td style="padding:10px;border:1px solid #ddd;">Inj. Regular Insulin</td>
+<td style="padding:10px;border:1px solid #ddd;">As per sliding scale</td>
+<td style="padding:10px;border:1px solid #ddd;">Before meals and bedtime</td>
+<td style="padding:10px;border:1px solid #ddd;">Subcutaneous</td>
+<td style="padding:10px;border:1px solid #ddd;">Rapid control of high blood glucose level.</td>
+</tr>
+
+<tr style="background:#e8f0fe;">
+<td style="padding:10px;border:1px solid #ddd;">2</td>
+<td style="padding:10px;border:1px solid #ddd;">Tab. Metformin</td>
+<td style="padding:10px;border:1px solid #ddd;">500 mg</td>
+<td style="padding:10px;border:1px solid #ddd;">BD after meals</td>
+<td style="padding:10px;border:1px solid #ddd;">Oral</td>
+<td style="padding:10px;border:1px solid #ddd;">Biguanide; decreases hepatic glucose production and improves insulin sensitivity.</td>
+</tr>
+
+<tr>
+<td style="padding:10px;border:1px solid #ddd;">3</td>
+<td style="padding:10px;border:1px solid #ddd;">Tab. Glimepiride</td>
+<td style="padding:10px;border:1px solid #ddd;">2 mg</td>
+<td style="padding:10px;border:1px solid #ddd;">OD before breakfast</td>
+<td style="padding:10px;border:1px solid #ddd;">Oral</td>
+<td style="padding:10px;border:1px solid #ddd;">Sulfonylurea; stimulates pancreatic insulin secretion.</td>
+</tr>
+
+<tr style="background:#e8f0fe;">
+<td style="padding:10px;border:1px solid #ddd;">4</td>
+<td style="padding:10px;border:1px solid #ddd;">Tab. Telmisartan</td>
+<td style="padding:10px;border:1px solid #ddd;">40 mg</td>
+<td style="padding:10px;border:1px solid #ddd;">OD</td>
+<td style="padding:10px;border:1px solid #ddd;">Oral</td>
+<td style="padding:10px;border:1px solid #ddd;">Antihypertensive; controls blood pressure and protects kidney function in diabetes.</td>
+</tr>
+
+<tr>
+<td style="padding:10px;border:1px solid #ddd;">5</td>
+<td style="padding:10px;border:1px solid #ddd;">Tab. Atorvastatin</td>
+<td style="padding:10px;border:1px solid #ddd;">20 mg</td>
+<td style="padding:10px;border:1px solid #ddd;">HS</td>
+<td style="padding:10px;border:1px solid #ddd;">Oral</td>
+<td style="padding:10px;border:1px solid #ddd;">Statin; lowers LDL cholesterol and reduces cardiovascular risk.</td>
+</tr>
+
+<tr style="background:#e8f0fe;">
+<td style="padding:10px;border:1px solid #ddd;">6</td>
+<td style="padding:10px;border:1px solid #ddd;">Tab. Pantoprazole</td>
+<td style="padding:10px;border:1px solid #ddd;">40 mg</td>
+<td style="padding:10px;border:1px solid #ddd;">OD before breakfast</td>
+<td style="padding:10px;border:1px solid #ddd;">Oral</td>
+<td style="padding:10px;border:1px solid #ddd;">Proton pump inhibitor; prevents gastric irritation due to medicines.</td>
+</tr>
+
+<tr>
+<td style="padding:10px;border:1px solid #ddd;">7</td>
+<td style="padding:10px;border:1px solid #ddd;">Tab. Multivitamin</td>
+<td style="padding:10px;border:1px solid #ddd;">1 tablet</td>
+<td style="padding:10px;border:1px solid #ddd;">OD</td>
+<td style="padding:10px;border:1px solid #ddd;">Oral</td>
+<td style="padding:10px;border:1px solid #ddd;">Supports general health and nutritional status.</td>
+</tr>
+
+<tr style="background:#e8f0fe;">
+<td style="padding:10px;border:1px solid #ddd;">8</td>
+<td style="padding:10px;border:1px solid #ddd;">Tab. Vitamin B Complex</td>
+<td style="padding:10px;border:1px solid #ddd;">1 tablet</td>
+<td style="padding:10px;border:1px solid #ddd;">OD</td>
+<td style="padding:10px;border:1px solid #ddd;">Oral</td>
+<td style="padding:10px;border:1px solid #ddd;">Helps nerve health and reduces neuropathy-related symptoms.</td>
+</tr>
+
+<tr>
+<td style="padding:10px;border:1px solid #ddd;">9</td>
+<td style="padding:10px;border:1px solid #ddd;">Normal Saline</td>
+<td style="padding:10px;border:1px solid #ddd;">500 mL</td>
+<td style="padding:10px;border:1px solid #ddd;">As prescribed</td>
+<td style="padding:10px;border:1px solid #ddd;">IV infusion</td>
+<td style="padding:10px;border:1px solid #ddd;">Maintains hydration and corrects fluid deficit due to polyuria.</td>
+</tr>
+
+<tr style="background:#e8f0fe;">
+<td style="padding:10px;border:1px solid #ddd;">10</td>
+<td style="padding:10px;border:1px solid #ddd;">Povidone Iodine Dressing</td>
+<td style="padding:10px;border:1px solid #ddd;">Local application</td>
+<td style="padding:10px;border:1px solid #ddd;">Once daily</td>
+<td style="padding:10px;border:1px solid #ddd;">Topical</td>
+<td style="padding:10px;border:1px solid #ddd;">Antiseptic dressing for right foot wound to prevent infection.</td>
+</tr>
+
+<tr>
+<td style="padding:10px;border:1px solid #ddd;">11</td>
+<td style="padding:10px;border:1px solid #ddd;">Tab. Amoxicillin + Clavulanic Acid</td>
+<td style="padding:10px;border:1px solid #ddd;">625 mg</td>
+<td style="padding:10px;border:1px solid #ddd;">BD</td>
+<td style="padding:10px;border:1px solid #ddd;">Oral</td>
+<td style="padding:10px;border:1px solid #ddd;">Antibiotic; prevents/treats local wound infection as prescribed.</td>
+</tr>
+
+<tr style="background:#e8f0fe;">
+<td style="padding:10px;border:1px solid #ddd;">12</td>
+<td style="padding:10px;border:1px solid #ddd;">Tab. Paracetamol</td>
+<td style="padding:10px;border:1px solid #ddd;">500 mg</td>
+<td style="padding:10px;border:1px solid #ddd;">SOS</td>
+<td style="padding:10px;border:1px solid #ddd;">Oral</td>
+<td style="padding:10px;border:1px solid #ddd;">Analgesic and antipyretic; relieves pain or fever if present.</td>
+</tr>
+
+</tbody>
+</table>
+</div>
+
+<div style="background:#fff3cd;border:1px solid #ffc107;padding:12px 15px;border-radius:8px;margin:15px 0;">
+<strong>Nursing Note:</strong> Monitor blood glucose before insulin administration. Observe for signs of hypoglycemia such as sweating, tremors, dizziness, hunger, confusion, and weakness. Maintain diabetic diet and regular medication schedule.
+</div>
+
+<!-- ========== PAGE 10: NANDA NURSING DIAGNOSES ========== -->
+<h2 style="color:#1557b0;border-left:5px solid #1a73e8;padding-left:12px;margin:30px 0 15px;">📄 Page 10 — NANDA Nursing Diagnoses</h2>
+
+<div style="background:#e8f0fe;border-left:4px solid #1a73e8;padding:15px 20px;margin:15px 0;border-radius:5px;">
+<ol style="margin:0;padding-left:20px;">
+
+<li><strong>Risk for unstable blood glucose level</strong> related to inadequate diabetes management, irregular diet pattern, sedentary lifestyle, and insufficient knowledge regarding diabetic care as evidenced by RBS 320 mg/dL, FBS 210 mg/dL, PPBS 286 mg/dL, HbA1c 9.1%, polyuria, polydipsia, and fatigue.</li>
+
+<li><strong>Deficient knowledge</strong> regarding diabetes mellitus, medication adherence, diabetic diet, blood glucose monitoring, foot care, and prevention of complications as evidenced by irregular medication intake, lack of regular blood sugar monitoring, and poor understanding of diabetic diet.</li>
+
+<li><strong>Risk for infection</strong> related to hyperglycemia, delayed wound healing, and impaired immune response as evidenced by superficial right foot wound and mild bacterial growth in wound swab.</li>
+
+<li><strong>Impaired skin integrity</strong> related to delayed wound healing secondary to diabetes mellitus as evidenced by superficial wound over right foot, dry skin, and delayed tissue repair.</li>
+
+<li><strong>Imbalanced nutrition: more than body requirements</strong> related to excessive intake of sweets, fried foods, irregular meals, and sedentary lifestyle as evidenced by BMI 28.4 kg/m², dyslipidemia, and uncontrolled blood sugar level.</li>
+
+<li><strong>Risk for peripheral neurovascular dysfunction</strong> related to long-term uncontrolled diabetes mellitus as evidenced by occasional tingling and numbness in both feet.</li>
+
+<li><strong>Fatigue</strong> related to altered glucose metabolism and hyperglycemia as evidenced by patient complaint of weakness, tiredness, and reduced activity tolerance.</li>
+
+<li><strong>Ineffective health maintenance</strong> related to inadequate lifestyle modification, tobacco chewing habit, irregular follow-up, poor dietary control, and lack of regular exercise as evidenced by uncontrolled diabetes, elevated HbA1c, dyslipidemia, and overweight status.</li>
+
+</ol>
+</div>
+<!-- ========== PAGE 11-13: NURSING CARE PLANS ========== -->
+<h2 style="color:#1557b0;border-left:5px solid #1a73e8;padding-left:12px;margin:30px 0 15px;">📄 Page 11-13 — Nursing Care Plans (NANDA Format)</h2>
+
+<!-- NCP 1 -->
+<h3 style="color:#1a73e8;">Nursing Care Plan — 1: Risk for Unstable Blood Glucose Level</h3>
+
+<div style="overflow-x:auto;-webkit-overflow-scrolling:touch;margin:15px 0;border-radius:10px;box-shadow:0 2px 10px rgba(0,0,0,0.08);">
+<table style="width:100%;border-collapse:collapse;min-width:1000px;font-size:clamp(0.7rem,1.6vw,0.85rem);">
+<thead>
+<tr style="background:#1a73e8;color:white;">
+<th style="padding:12px;border:1px solid #ddd;">ASSESSMENT</th>
+<th style="padding:12px;border:1px solid #ddd;">NURSING DIAGNOSIS</th>
+<th style="padding:12px;border:1px solid #ddd;">GOAL / EXPECTED OUTCOME</th>
+<th style="padding:12px;border:1px solid #ddd;">PLANNING</th>
+<th style="padding:12px;border:1px solid #ddd;">IMPLEMENTATION</th>
+<th style="padding:12px;border:1px solid #ddd;">EVALUATION</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td style="padding:15px;border:1px solid #ddd;">
+<strong>Subjective:</strong> Patient complains of increased thirst, frequent urination, weakness, and tiredness. Patient says, “Mera sugar control nahi ho raha hai.”<br><br>
+<strong>Objective:</strong> RBS 320 mg/dL, FBS 210 mg/dL, PPBS 286 mg/dL, HbA1c 9.1%, dry mouth, polyuria, irregular medication history, irregular diet pattern.
+</td>
+
+<td style="padding:15px;border:1px solid #ddd;">
+Risk for unstable blood glucose level related to inadequate diabetes management, irregular diet pattern, sedentary lifestyle, and insufficient knowledge regarding diabetic care as evidenced by RBS 320 mg/dL, FBS 210 mg/dL, PPBS 286 mg/dL, HbA1c 9.1%, polyuria, polydipsia, and fatigue.
+</td>
+
+<td style="padding:15px;border:1px solid #ddd;">
+<strong>Short-term goal:</strong> Patient’s blood glucose level will gradually reduce toward acceptable range within 3–4 days.<br><br>
+<strong>Long-term goal:</strong> Patient will maintain blood glucose level through medication adherence, diabetic diet, exercise, and regular monitoring.
+</td>
+
+<td style="padding:15px;border:1px solid #ddd;">
+<ul>
+<li>Monitor blood glucose regularly.</li>
+<li>Assess signs and symptoms of hyperglycemia and hypoglycemia.</li>
+<li>Administer insulin and oral antidiabetic drugs as prescribed.</li>
+<li>Maintain diabetic diet plan.</li>
+<li>Encourage adequate hydration.</li>
+<li>Educate patient regarding self-monitoring and medication adherence.</li>
+</ul>
+</td>
+
+<td style="padding:15px;border:1px solid #ddd;">
+<ul>
+<li>Checked blood glucose before meals and at bedtime.</li>
+<li>Administered regular insulin according to sliding scale as prescribed.</li>
+<li>Administered Metformin and Glimepiride as ordered.</li>
+<li>Observed patient for hypoglycemia signs such as sweating, tremors, dizziness, hunger, confusion, and weakness.</li>
+<li>Provided diabetic diet with controlled carbohydrate intake.</li>
+<li>Encouraged patient to drink adequate water unless contraindicated.</li>
+<li>Explained importance of taking medicines regularly and not skipping meals after insulin or antidiabetic tablets.</li>
+<li>Instructed patient to maintain a blood sugar record diary.</li>
+</ul>
+</td>
+
+<td style="padding:15px;border:1px solid #ddd;">
+Patient’s blood glucose level improved gradually. RBS reduced from 320 mg/dL on admission to FBS 132 mg/dL by discharge. Patient verbalized understanding of medication schedule, diet control, and regular blood glucose monitoring.
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+
+<!-- NCP 2 -->
+<h3 style="color:#1a73e8;">Nursing Care Plan — 2: Deficient Knowledge</h3>
+
+<div style="overflow-x:auto;-webkit-overflow-scrolling:touch;margin:15px 0;border-radius:10px;box-shadow:0 2px 10px rgba(0,0,0,0.08);">
+<table style="width:100%;border-collapse:collapse;min-width:1000px;font-size:clamp(0.7rem,1.6vw,0.85rem);">
+<thead>
+<tr style="background:#1a73e8;color:white;">
+<th style="padding:12px;border:1px solid #ddd;">ASSESSMENT</th>
+<th style="padding:12px;border:1px solid #ddd;">NURSING DIAGNOSIS</th>
+<th style="padding:12px;border:1px solid #ddd;">GOAL / EXPECTED OUTCOME</th>
+<th style="padding:12px;border:1px solid #ddd;">PLANNING</th>
+<th style="padding:12px;border:1px solid #ddd;">IMPLEMENTATION</th>
+<th style="padding:12px;border:1px solid #ddd;">EVALUATION</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td style="padding:15px;border:1px solid #ddd;">
+<strong>Subjective:</strong> Patient says, “Mujhe diabetic diet aur foot care ke baare mein poori jankari nahi hai.” Patient reports irregular medicine intake and no regular blood sugar monitoring.<br><br>
+<strong>Objective:</strong> Poor knowledge about diabetes complications, irregular follow-up, unhealthy diet habits, no regular exercise, right foot wound present.
+</td>
+
+<td style="padding:15px;border:1px solid #ddd;">
+Deficient knowledge regarding diabetes mellitus, medication adherence, diabetic diet, blood glucose monitoring, foot care, and prevention of complications as evidenced by irregular medication intake, lack of regular blood sugar monitoring, and poor understanding of diabetic diet.
+</td>
+
+<td style="padding:15px;border:1px solid #ddd;">
+<strong>Short-term goal:</strong> Patient will verbalize basic understanding of diabetes, medication, diet, and foot care within 48 hours.<br><br>
+<strong>Long-term goal:</strong> Patient will demonstrate correct self-care practices and follow regular treatment plan after discharge.
+</td>
+
+<td style="padding:15px;border:1px solid #ddd;">
+<ul>
+<li>Assess patient’s existing knowledge about diabetes.</li>
+<li>Teach disease process in simple language.</li>
+<li>Explain medication schedule and importance of compliance.</li>
+<li>Teach diabetic diet and exercise plan.</li>
+<li>Educate regarding foot care and warning signs.</li>
+<li>Involve family members in teaching.</li>
+</ul>
+</td>
+
+<td style="padding:15px;border:1px solid #ddd;">
+<ul>
+<li>Explained diabetes as a condition in which blood sugar remains high due to insufficient insulin action.</li>
+<li>Explained importance of taking antidiabetic medicines regularly at the same time daily.</li>
+<li>Taught patient not to skip meals after insulin or tablets.</li>
+<li>Explained diabetic diet: avoid sweets, sugary drinks, fried foods, refined flour, and excess rice/potato.</li>
+<li>Advised intake of whole grains, pulses, green vegetables, salads, and controlled portions.</li>
+<li>Taught daily foot inspection, washing feet with lukewarm water, drying between toes, applying moisturizer except between toes, and wearing comfortable footwear.</li>
+<li>Instructed not to walk barefoot.</li>
+<li>Educated family to support diet control and follow-up visits.</li>
+</ul>
+</td>
+
+<td style="padding:15px;border:1px solid #ddd;">
+Patient and family verbalized understanding of diabetes care. Patient correctly repeated medication timing, diabetic diet restrictions, foot care steps, and warning signs requiring medical attention.
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+
+<!-- NCP 3 -->
+<h3 style="color:#1a73e8;">Nursing Care Plan — 3: Risk for Infection</h3>
+
+<div style="overflow-x:auto;-webkit-overflow-scrolling:touch;margin:15px 0;border-radius:10px;box-shadow:0 2px 10px rgba(0,0,0,0.08);">
+<table style="width:100%;border-collapse:collapse;min-width:1000px;font-size:clamp(0.7rem,1.6vw,0.85rem);">
+<thead>
+<tr style="background:#1a73e8;color:white;">
+<th style="padding:12px;border:1px solid #ddd;">ASSESSMENT</th>
+<th style="padding:12px;border:1px solid #ddd;">NURSING DIAGNOSIS</th>
+<th style="padding:12px;border:1px solid #ddd;">GOAL / EXPECTED OUTCOME</th>
+<th style="padding:12px;border:1px solid #ddd;">PLANNING</th>
+<th style="padding:12px;border:1px solid #ddd;">IMPLEMENTATION</th>
+<th style="padding:12px;border:1px solid #ddd;">EVALUATION</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td style="padding:15px;border:1px solid #ddd;">
+<strong>Subjective:</strong> Patient complains of mild discomfort at right foot wound site.<br><br>
+<strong>Objective:</strong> Superficial right foot wound present, delayed healing, dry skin, hyperglycemia, wound swab showing mild bacterial growth, no fever.
+</td>
+
+<td style="padding:15px;border:1px solid #ddd;">
+Risk for infection related to hyperglycemia, delayed wound healing, and impaired immune response as evidenced by superficial right foot wound and mild bacterial growth in wound swab.
+</td>
+
+<td style="padding:15px;border:1px solid #ddd;">
+<strong>Short-term goal:</strong> Patient will remain free from signs of systemic infection during hospitalization.<br><br>
+<strong>Long-term goal:</strong> Wound will heal without complications, and patient will follow proper wound and foot care at home.
+</td>
+
+<td style="padding:15px;border:1px solid #ddd;">
+<ul>
+<li>Assess wound condition daily.</li>
+<li>Monitor temperature and signs of infection.</li>
+<li>Maintain aseptic technique during dressing.</li>
+<li>Administer antibiotics as prescribed.</li>
+<li>Maintain blood glucose control.</li>
+<li>Teach foot hygiene and wound care.</li>
+</ul>
+</td>
+
+<td style="padding:15px;border:1px solid #ddd;">
+<ul>
+<li>Inspected wound for redness, swelling, discharge, warmth, pain, and foul smell.</li>
+<li>Monitored temperature and WBC count.</li>
+<li>Performed daily dressing using aseptic technique with povidone iodine as prescribed.</li>
+<li>Administered Amoxicillin + Clavulanic Acid 625 mg BD as ordered.</li>
+<li>Maintained blood glucose monitoring and insulin therapy to promote wound healing.</li>
+<li>Encouraged protein-rich diabetic diet for tissue repair.</li>
+<li>Educated patient to keep feet clean and dry and avoid barefoot walking.</li>
+</ul>
+</td>
+
+<td style="padding:15px;border:1px solid #ddd;">
+Patient remained afebrile. No pus discharge or spreading redness observed. Wound condition improved, and patient verbalized correct wound care and foot care measures before discharge.
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<!-- ========== PAGE 14: DISCHARGE SUMMARY ========== -->
+<h2 style="color:#1557b0;border-left:5px solid #1a73e8;padding-left:12px;margin:30px 0 15px;">📄 Page 14 — Discharge Summary</h2>
+
+<p>Mr. Rajesh Kumar Sharma, 54-year-old male, was admitted to the medical ward with complaints of increased thirst, frequent urination, weakness, fatigue, occasional blurred vision, and delayed healing of a small right foot wound. On admission, his random blood sugar was 320 mg/dL, fasting blood sugar was 210 mg/dL, post-prandial blood sugar was 286 mg/dL, and HbA1c was 9.1%, indicating uncontrolled Type 2 Diabetes Mellitus.</p>
+
+<p>During hospitalization, the patient was managed with regular blood glucose monitoring, insulin therapy according to sliding scale, oral antidiabetic medications, diabetic diet, hydration, wound dressing, and health education. His blood glucose level gradually improved. By discharge, fasting blood sugar reduced to 132 mg/dL, vital signs were stable, and the right foot wound showed improvement without signs of systemic infection.</p>
+
+<p>The patient and family were educated regarding diabetes mellitus, medication adherence, diabetic diet, regular exercise, blood glucose monitoring, foot care, wound care, prevention of complications, and follow-up visits. Patient is being discharged in stable condition with advice to continue medicines regularly and follow diabetic lifestyle modification.</p>
+
+<p style="font-weight:600;margin-top:20px;">At discharge, the patient is advised to:</p>
+
+<ul>
+<li>Take all antidiabetic medicines exactly as prescribed by the physician.</li>
+<li>Do not skip meals after taking insulin or oral antidiabetic tablets.</li>
+<li>Monitor blood sugar regularly and maintain a blood glucose record diary.</li>
+<li>Follow a diabetic diet: avoid sweets, sugary drinks, fried foods, refined flour, and excess rice or potato.</li>
+<li>Include whole grains, pulses, green leafy vegetables, salads, fruits in controlled quantity, and protein-rich food as advised.</li>
+<li>Drink adequate water unless restricted by the physician.</li>
+<li>Walk for at least 30 minutes daily as tolerated.</li>
+<li>Maintain ideal body weight and avoid sedentary lifestyle.</li>
+<li>Stop tobacco chewing completely.</li>
+<li>Inspect feet daily for cuts, cracks, redness, swelling, blisters, or wounds.</li>
+<li>Wash feet daily with lukewarm water and dry properly, especially between toes.</li>
+<li>Do not walk barefoot, even inside the house.</li>
+<li>Wear comfortable, well-fitting footwear.</li>
+<li>Keep right foot wound clean and dry; continue dressing as advised.</li>
+<li>Report immediately if wound shows redness, swelling, pus discharge, foul smell, fever, or increasing pain.</li>
+<li>Recognize symptoms of hypoglycemia such as sweating, tremors, hunger, dizziness, confusion, and weakness.</li>
+<li>Carry sugar candy/glucose tablets for emergency hypoglycemia management.</li>
+<li>Attend follow-up visit after 1 week or as advised by the physician.</li>
+<li>Repeat HbA1c every 3 months and lipid profile as advised.</li>
+<li>Consult doctor immediately if blood sugar remains very high, patient develops vomiting, excessive weakness, drowsiness, chest pain, breathlessness, or altered sensorium.</li>
+</ul>
+
+<!-- ========== PAGE 15: HEALTH EDUCATION ========== -->
+<h2 style="color:#1557b0;border-left:5px solid #1a73e8;padding-left:12px;margin:30px 0 15px;">📄 Page 15 — Health Education</h2>
+
+<div style="margin:15px 0;">
+
+<p><strong>Medication Compliance —</strong><br>
+Patient was educated to take antidiabetic medicines regularly at the prescribed time. He was advised not to stop medicines when symptoms improve because diabetes is a chronic condition requiring long-term control. Patient was instructed not to skip meals after taking insulin or oral antidiabetic tablets, as this may cause hypoglycemia. He was taught to keep medicines safely, follow correct dose, and consult the doctor before changing any medicine. Family members were advised to support the patient in maintaining a regular medication schedule.</p>
+
+<p><strong>Blood Glucose Monitoring —</strong><br>
+Patient was advised to monitor fasting and post-prandial blood sugar regularly as prescribed. He was instructed to maintain a blood glucose diary with date, time, reading, medicine taken, diet changes, and symptoms if any. HbA1c testing every 3 months was advised to assess long-term glucose control. Patient was educated that good sugar control helps prevent complications such as diabetic foot, kidney disease, eye disease, nerve damage, heart disease, and stroke.</p>
+
+<p><strong>Diabetic Diet —</strong><br>
+Patient was advised to follow a balanced diabetic diet with controlled carbohydrate intake. He was instructed to avoid sweets, sugar, jaggery, honey, sugary tea, cold drinks, packaged juices, bakery items, fried snacks, refined flour products, and excessive rice or potato. He was advised to include whole wheat roti, oats, dal, pulses, sprouts, green leafy vegetables, salad, curd, and protein-rich foods in controlled portions. Meals should be taken at regular intervals and skipping meals should be avoided. Portion control was emphasized. Patient was advised to consult a dietician for an individualized diabetic diet chart.</p>
+
+<p><strong>Exercise and Weight Control —</strong><br>
+Patient was advised to perform regular physical activity such as brisk walking for 30 minutes daily, at least 5 days per week, as tolerated. He was instructed to avoid prolonged sitting and include light household activity. Exercise helps improve insulin sensitivity, reduces blood glucose level, controls weight, improves lipid profile, and reduces cardiovascular risk. Patient was advised to start slowly and increase activity gradually. He should avoid exercise during severe hypoglycemia, very high blood sugar with illness, or if feeling dizzy or weak.</p>
+
+<p><strong>Foot Care —</strong><br>
+Patient was educated that diabetic patients are at high risk of foot ulcers due to reduced sensation, poor circulation, and delayed wound healing. He was advised to inspect both feet daily for cuts, cracks, redness, swelling, blisters, wounds, or color changes. Feet should be washed daily with lukewarm water and dried properly, especially between toes. Moisturizer may be applied to dry skin but not between toes. Nails should be cut straight across. Patient should not walk barefoot and should always wear soft, comfortable footwear. Any foot injury should be reported early.</p>
+
+<p><strong>Hypoglycemia Management —</strong><br>
+Patient was taught symptoms of low blood sugar such as sweating, tremors, hunger, dizziness, headache, palpitations, confusion, irritability, weakness, and fainting. If symptoms occur and patient is conscious, he should immediately take 15 grams of fast-acting carbohydrate such as glucose powder/tablet, sugar candy, or sweet drink, then recheck blood sugar after 15 minutes if possible. After recovery, he should take a small snack or meal. Family members were educated to seek emergency help if patient becomes unconscious or unable to swallow.</p>
+
+<p><strong>Prevention of Complications —</strong><br>
+Patient was educated that uncontrolled diabetes can affect eyes, kidneys, nerves, heart, blood vessels, and feet. Regular eye check-up, kidney function test, urine microalbumin, lipid profile, blood pressure monitoring, and foot examination were advised. Patient was instructed to stop tobacco chewing completely because tobacco increases risk of vascular disease, delayed wound healing, heart disease, and stroke. He was advised to attend regular follow-up and never ignore wounds, infection, chest pain, breathlessness, severe weakness, vomiting, or altered sensorium.</p>
+
+<p><strong>Follow-up Care —</strong><br>
+Patient was advised to visit the physician after 1 week or as instructed. He should bring blood sugar records, medicine list, and wound dressing details during follow-up. HbA1c should be repeated every 3 months. Lipid profile, renal function test, urine test, eye examination, and foot examination should be done as advised. Patient and family were encouraged to maintain long-term lifestyle modification for better diabetes control and prevention of complications.</p>
+
+</div>
+<!-- ========== PAGE 16: BIBLIOGRAPHY ========== -->
+<h2 style="color:#1557b0;border-left:5px solid #1a73e8;padding-left:12px;margin:30px 0 15px;">📄 Page 16 — Bibliography</h2>
+
+<ol>
+<li>Brunner, L.S. &amp; Suddarth, D.S. (2022). <em>Textbook of Medical-Surgical Nursing</em> (15th ed.). Wolters Kluwer. Chapter: Management of Patients with Diabetes Mellitus and Metabolic Disorders.</li>
+
+<li>NANDA International. (2024). <em>Nursing Diagnoses: Definitions and Classification 2024–2026</em> (13th ed.). Thieme Medical Publishers.</li>
+
+<li>Lewis, S.L., Bucher, L., Heitkemper, M.M., Harding, M.M., Kwong, J., &amp; Roberts, D. (2023). <em>Medical-Surgical Nursing: Assessment and Management of Clinical Problems</em> (12th ed.). Elsevier.</li>
+
+<li>Ignatavicius, D.D., Workman, M.L., Rebar, C.R., &amp; Heimgartner, N.M. (2024). <em>Medical-Surgical Nursing: Concepts for Interprofessional Collaborative Care</em> (11th ed.). Elsevier.</li>
+
+<li>Doenges, M.E., Moorhouse, M.F., &amp; Murr, A.C. (2024). <em>Nursing Care Plans: Guidelines for Individualizing Client Care Across the Life Span</em> (11th ed.). F.A. Davis Company.</li>
+
+<li>American Diabetes Association. (2025). Standards of Care in Diabetes—2025. <em>Diabetes Care</em>, 48(Supplement 1).</li>
+
+<li>World Health Organization. (2025). <em>Diabetes — Fact Sheet</em>. WHO, Geneva.</li>
+
+<li>Indian Council of Medical Research. (2024). <em>ICMR Guidelines for Management of Type 2 Diabetes Mellitus</em>. ICMR, New Delhi.</li>
+</ol>
+
+<!-- ========== DISCLAIMER ========== -->
+<div style="background:#fff3cd;border:2px solid #ffc107;padding:15px 20px;border-radius:10px;margin-top:30px;text-align:center;">
+<p style="margin:0;font-size:0.9rem;">
+<strong>⚕️ Medical Disclaimer:</strong> This nursing care plan is prepared for <strong>educational and academic purposes only</strong> as part of nursing practical file work (ANM, GNM, BSc Nursing). It is not intended for actual patient care, clinical decision-making, or medical diagnosis. Always refer to your institution's guidelines and standard nursing textbooks.
+</p>
+</div>
+
+<p style="text-align:center;margin-top:30px;color:#888;font-size:0.9rem;">
+© Nursing Study Vault | NANDA Format Medical-Surgical Nursing Care Plan | Type 2 Diabetes Mellitus
+</p>
+
+</article>
