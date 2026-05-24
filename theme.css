@@ -529,3 +529,90 @@ a:hover {
     background: var(--accent) !important;
     color: white !important;
 }
+
+/* ===== GLOBAL ARTICLE RESPONSIVE FIX ===== */
+html, body {
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
+main, .container, article {
+  box-sizing: border-box;
+}
+
+article {
+  width: 100%;
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 16px;
+  overflow-wrap: break-word;
+}
+
+article img,
+article video,
+article iframe {
+  max-width: 100%;
+  height: auto;
+}
+
+article table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+article div[style*="overflow-x:auto"] {
+  width: 100%;
+  max-width: 100%;
+  overflow-x: auto !important;
+  -webkit-overflow-scrolling: touch;
+}
+
+article td,
+article th,
+article p,
+article li {
+  overflow-wrap: anywhere;
+  word-break: normal;
+}
+
+@media (max-width: 600px) {
+  article {
+    padding: 12px !important;
+    font-size: 15px;
+    line-height: 1.7;
+  }
+
+  article h1 {
+    font-size: 1.45rem !important;
+  }
+
+  article h2 {
+    font-size: 1.2rem !important;
+  }
+
+  article h3 {
+    font-size: 1.05rem !important;
+  }
+
+  article table {
+    font-size: 13px !important;
+  }
+
+  article td,
+  article th {
+    padding: 8px !important;
+  }
+}
+
+@media (min-width: 601px) and (max-width: 1024px) {
+  article {
+    max-width: 94%;
+    padding: 20px !important;
+  }
+}
+
+@media (min-width: 1025px) {
+  article {
+    max-width: 900px;
+  }
+}
