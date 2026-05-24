@@ -1,4 +1,5 @@
 ---
+layout: layout.njk
 title: Family Folder Format | Community Health Nursing Practical File
 date: 2026-05-22T14:24:20+05:30
 description: Complete family folder format for nursing students. Includes family identification data, family composition, socio-economic status, environmental assessment, health assessment, nursing care plan, home visit report, health education and references.

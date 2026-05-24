@@ -1,4 +1,5 @@
 ---
+layout: layout.njk
 title: Health Talk on Respiratory Assessment for Nursing Students | Complete
   Practical File
 date: 2026-05-21T12:46:00.000+05:30

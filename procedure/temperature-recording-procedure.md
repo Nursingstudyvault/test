@@ -1,4 +1,5 @@
 ---
+layout: layout.njk
 title: Temperature Recording Procedure | Nursing Practical File
 date: 2026-05-22T13:51:53+05:30
 description: Complete temperature recording procedure practical file for nursing students. Includes definition, purposes, indications, articles, preparation, step-by-step procedure with scientific rationale, precautions, after care, documentation, health education, evaluation and references.

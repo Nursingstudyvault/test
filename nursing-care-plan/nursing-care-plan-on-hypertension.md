@@ -1,4 +1,5 @@
 ---
+layout: layout.njk
 title: 🩺 Nursing Care Plan on Hypertension
 date: 2026-05-22T09:19:55+05:30
 description: Complete Medical Surgical Nursing Care Plan on Hypertension with patient identification, history, physical examination, investigations, NANDA nursing diagnoses, interventions, evaluation, discharge planning and health education.

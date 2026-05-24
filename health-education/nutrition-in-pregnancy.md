@@ -1,4 +1,5 @@
 ---
+layout: layout.njk
 title: Health Education on Nutrition in Pregnancy | Community Health Nursing Practical
 date: 2026-05-22T13:20:14+05:30
 description: Complete health education practical file on nutrition in pregnancy for Community Health Nursing. Covers balanced diet, nutritional requirements, iron, folic acid, calcium, iodine, protein, anemia prevention, foods to include and avoid, lesson plan, evaluation and references.

@@ -1,4 +1,5 @@
 ---
+layout: layout.njk
 title: Blood Pressure Measurement Procedure | Nursing Practical File
 date: 2026-05-22T14:00:26+05:30
 description: Complete blood pressure measurement procedure practical file for nursing students. Includes definition, purposes, normal BP range, indications, articles, preparation, step-by-step procedure with scientific rationale, precautions, documentation, health education, evaluation and references.

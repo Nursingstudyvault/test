@@ -1,4 +1,5 @@
 ---
+layout: layout.njk
 title: Dengue Fever Prevention Health Talk for Community People | Community Health Nursing
 date: 2026-05-21T21:11:55+05:30
 description: Complete dengue fever prevention health talk for community people in Community Health Nursing. Includes causes, Aedes mosquito transmission, symptoms, warning signs, prevention of mosquito breeding, personal protection, home care, danger signs, role of nurse, evaluation questions and references.

@@ -1,4 +1,5 @@
 ---
+layout: layout.njk
 
 
 title: Assignment on Diabetes Mellitus | Nursing Practical File

@@ -1,4 +1,5 @@
 ---
+layout: layout.njk
 title: Malnutrition Prevention Health Talk for Mothers of Under-Five Children | Community Health Nursing
 date: 2026-05-21T19:51:43+05:30
 description: Complete malnutrition prevention health talk for mothers of under-five children in Community Health Nursing. Includes definition, causes, signs and symptoms, breastfeeding, complementary feeding, balanced diet, immunization, deworming, hygiene, growth monitoring, danger signs, evaluation questions and references.

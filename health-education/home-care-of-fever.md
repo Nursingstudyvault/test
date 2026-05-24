@@ -1,4 +1,5 @@
 ---
+layout: layout.njk
 title: Health Education on Home Care of Fever | Community Health Nursing Practical
 date: 2026-05-22T13:25:41+05:30
 description: Complete health education practical file on home care of fever for Community Health Nursing. Covers meaning of fever, normal body temperature, causes, symptoms, temperature checking, tepid sponging, fluids, rest, safe medicine use, danger signs, prevention, lesson plan, evaluation and references.

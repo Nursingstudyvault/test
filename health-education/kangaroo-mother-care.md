@@ -1,4 +1,5 @@
 ---
+layout: layout.njk
 title: Health Education on Kangaroo Mother Care | Community Health Nursing Practical
 date: 2026-05-22T13:20:14+05:30
 description: Complete health education practical file on Kangaroo Mother Care for Community Health Nursing. Covers meaning, importance, benefits, eligibility, skin-to-skin contact, breastfeeding, temperature maintenance, steps of KMC, precautions, role of nurse, lesson plan, evaluation and references.

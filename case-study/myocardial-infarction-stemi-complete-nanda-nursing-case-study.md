@@ -1,4 +1,5 @@
 ---
+layout: layout.njk
 title: Myocardial Infarction (STEMI) - Complete NANDA Nursing Case Study
 date: 2026-05-20T19:31:00.000+05:30
 description: Myocardial Infarction (STEMI) nursing case study with NANDA care

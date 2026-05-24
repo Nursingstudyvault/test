@@ -1,4 +1,5 @@
 ---
+layout: layout.njk
 title: Complete NANDA nursing case study on Coronary Angioplasty (PTCA with DES
   Stenting).
 date: 2026-05-20T22:21:00.000+05:30

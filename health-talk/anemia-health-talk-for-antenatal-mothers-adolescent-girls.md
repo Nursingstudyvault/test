@@ -1,4 +1,5 @@
 ---
+layout: layout.njk
 title: Anemia - Health Talk for Antenatal Mothers & Adolescent Girls
 date: 2026-05-20T01:45:00.000+05:30
 description: Complete anemia health talk for antenatal mothers and adolescent

@@ -1,4 +1,5 @@
 ---
+layout: layout.njk
 
 
 title: Assignment on Protein Energy Malnutrition | Nursing Practical File

@@ -1,4 +1,5 @@
 ---
+layout: layout.njk
 title: Family Folder on Family with Antenatal Mother | Filled Dummy Data
 date: 2026-05-22T15:13:09+05:30
 description: Filled family folder on family with antenatal mother using dummy data for Community Health Nursing practical file.

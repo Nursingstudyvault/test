@@ -1,4 +1,5 @@
 ---
+layout: layout.njk
 title: Health Education on Danger Signs in Pregnancy | Community Health Nursing Practical
 date: 2026-05-22T13:12:11+05:30
 description: Complete health education practical file on danger signs in pregnancy for Community Health Nursing. Covers severe vaginal bleeding, severe headache, blurred vision, swelling of face and hands, convulsions, fever, severe abdominal pain, reduced fetal movements, leaking per vagina, immediate referral, lesson plan, evaluation and references.

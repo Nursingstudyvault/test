@@ -1,4 +1,5 @@
 ---
+layout: layout.njk
 title: Family Planning Methods Health Talk for Eligible Couples | Community
   Health Nursing
 date: 2026-05-21T15:53:00.000+05:30

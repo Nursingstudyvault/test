@@ -1,4 +1,5 @@
 ---
+layout: layout.njk
 title: Surgical Nursing Care Plan on Coronary Angioplasty (PTCA with DES Stenting)
   Stenting).
 date: 2026-05-20T22:21:00.000+05:30

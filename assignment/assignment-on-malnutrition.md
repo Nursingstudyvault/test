@@ -1,4 +1,5 @@
 ---
+layout: layout.njk
 
 
 title: Assignment on Malnutrition | Nursing Practical File

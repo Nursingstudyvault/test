@@ -1,4 +1,5 @@
 ---
+layout: layout.njk
 title: 🏥 Surgical Nursing Care Plan on Acute Intestinal Obstruction with Laparotomy
 date: 2026-05-22T12:38:21+05:30
 description: Complete surgical nursing care plan on Acute Intestinal Obstruction with Laparotomy in NANDA format for ANM, GNM and BSc Nursing students. Includes patient data, history, examination, investigations, surgical management, nursing diagnoses, care plans, discharge summary and health education.

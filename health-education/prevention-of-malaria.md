@@ -1,4 +1,5 @@
 ---
+layout: layout.njk
 title: Health Education on Prevention of Malaria | Community Health Nursing Practical
 date: 2026-05-22T13:20:14+05:30
 description: Complete health education practical file on prevention of malaria for Community Health Nursing. Covers causes, transmission, signs and symptoms, mosquito breeding prevention, personal protection, early diagnosis, treatment, community participation, lesson plan, evaluation and references.

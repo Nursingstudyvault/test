@@ -1,4 +1,5 @@
 ---
+layout: layout.njk
 title: Chronic Obstructive Pulmonary Disease (COPD) - Complete NANDA Nursing
   Case Study
 date: 2026-05-21T17:02:00.000+05:30

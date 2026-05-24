@@ -1,4 +1,5 @@
 ---
+layout: layout.njk
 title: Respiration Counting Procedure | Nursing Practical File
 date: 2026-05-22T13:58:26+05:30
 description: Complete respiration counting procedure practical file for nursing students. Includes definition, purposes, normal respiratory rate, types of respiration, indications, articles, preparation, step-by-step procedure with scientific rationale, precautions, documentation, health education, evaluation and references.

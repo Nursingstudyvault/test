@@ -1,4 +1,5 @@
 ---
+layout: layout.njk
 title: Personal Hygiene - Health Talk for School Children | Community Health Nursing
 date: 2026-05-19T23:13:00.000+05:30
 description: Complete personal hygiene health talk for school children in

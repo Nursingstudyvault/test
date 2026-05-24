@@ -1,4 +1,5 @@
 ---
+layout: layout.njk
 title: 🏥 Surgical Nursing Care Plan on Appendicitis with Appendectomy
 date: 2026-05-22T11:44:24+05:30
 description: Complete surgical nursing care plan on Appendicitis with Appendectomy in NANDA format for ANM, GNM and BSc Nursing students. Includes patient data, history, family details, examination, investigations, medical and surgical management, nursing diagnoses, care plans, discharge summary and health education.

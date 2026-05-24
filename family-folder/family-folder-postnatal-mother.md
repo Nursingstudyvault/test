@@ -1,4 +1,5 @@
 ---
+layout: layout.njk
 title: Family Folder on Family with Postnatal Mother | Community Health Nursing Practical File
 date: 2026-05-22T16:18:10+05:30
 description: Complete family folder on family with postnatal mother for Community Health Nursing practical file with family assessment, postnatal mother assessment, newborn care, nursing care plan and health education.

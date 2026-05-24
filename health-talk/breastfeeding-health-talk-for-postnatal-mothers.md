@@ -1,4 +1,5 @@
 ---
+layout: layout.njk
 title: Breastfeeding Health Talk for Postnatal Mothers | Community Health Nursing
 date: 2026-05-21T19:10:00.000+05:30
 description: Complete breastfeeding health talk for postnatal mothers in

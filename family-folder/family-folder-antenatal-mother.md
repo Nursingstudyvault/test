@@ -1,4 +1,5 @@
 ---
+layout: layout.njk
 title: Family Folder on Family with Antenatal Mother | Community Health Nursing Practical File
 date: 2026-05-22T14:54:21+05:30
 description: Complete family folder on family with antenatal mother for nursing students. Includes family identification data, family composition, antenatal assessment, obstetric history, nutrition, danger signs, nursing care plan, health education, home visit report and references.

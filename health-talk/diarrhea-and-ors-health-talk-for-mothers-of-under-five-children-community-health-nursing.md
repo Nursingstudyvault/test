@@ -1,4 +1,5 @@
 ---
+layout: layout.njk
 title: Diarrhea and ORS Health Talk for Mothers of Under-Five Children |
   Community Health Nursing
 date: 2026-05-21T16:44:00.000+05:30

@@ -146,7 +146,100 @@
             .hero-buttons { flex-direction: column; align-items: center; }
             .categories-grid { grid-template-columns: 1fr; }
         }
-    </style>
+    
+/* FIX HOMEPAGE STATS SECTION */
+.stats-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 20px;
+    max-width: 900px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.stat-card {
+    text-align: center;
+}
+
+@media (max-width: 768px) {
+    .stats-grid {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 22px;
+        padding: 0 20px;
+    }
+}
+
+
+
+/* Desktop Categories Dropdown */
+.desktop-dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.desktop-dropbtn {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    color: var(--text-primary);
+    padding: 9px 14px;
+    border-radius: 999px;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+.desktop-dropdown-menu {
+    display: none;
+    position: absolute;
+    right: 0;
+    top: 115%;
+    width: 280px;
+    max-height: 360px;
+    overflow-y: auto;
+    overflow-x: hidden;
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 16px;
+    box-shadow: 0 18px 45px rgba(0,0,0,0.22);
+    padding: 10px;
+    z-index: 99999;
+    scrollbar-width: thin;
+}
+
+.desktop-dropdown:hover .desktop-dropdown-menu {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 4px;
+}
+
+.desktop-dropdown-menu::-webkit-scrollbar {
+    width: 6px;
+}
+
+.desktop-dropdown-menu::-webkit-scrollbar-thumb {
+    background: var(--border);
+    border-radius: 20px;
+}
+
+.desktop-dropdown-menu a {
+    display: block;
+    padding: 10px 12px;
+    border-radius: 10px;
+    color: var(--text-primary);
+    text-decoration: none;
+    font-size: 0.9rem;
+    white-space: nowrap;
+}
+
+.desktop-dropdown-menu a:hover {
+    background: var(--bg);
+}
+
+@media (max-width: 768px) {
+    .desktop-dropdown {
+        display: none;
+    }
+}
+</style>
 </head>
 <body>
 
@@ -158,31 +251,50 @@
         </div>
         <button id="hamburgerBtn" class="hamburger" style="background: none; border: none; font-size: 1.8rem; cursor: pointer; display: none;">☰</button>
         <nav class="desktop-nav">
-            <a href="/nursing-care-plan/" class="btn btn-outline">All Categories</a>
-            <a href="/nursing-care-plan/" class="btn btn-primary">Request Topic</a>
-        </nav>
+<div class="desktop-dropdown">
+    <button class="desktop-dropbtn">Categories ▾</button>
+    <div class="desktop-dropdown-menu">
+        <a href="/nursing-care-plan/">Nursing Care Plan</a>
+        <a href="/surgical-care-plan/">Surgical Care Plan</a>
+        <a href="/case-study/">Case Study</a>
+        <a href="/health-talk/">Health Talk</a>
+        <a href="/health-education/">Health Education</a>
+        <a href="/procedure/">Procedure</a>
+        <a href="/assignment/">Assignment</a>
+        <a href="/family-folder/">Family Folder</a>
+        <a href="/nursing-notes/">Nursing Notes</a>
+        <a href="/case-presentation/">Case Presentation</a>
+        <a href="/lesson-plan/">Lesson Plan</a>
+        <a href="/drug-study/">Drug Study</a>
+        <a href="/nursing-diagnosis/">Nursing Diagnosis</a>
+        <a href="/question-bank/">Question Bank</a>
+        <a href="/practical-exam-guide/">Practical Exam Guide</a>
+    </div>
+</div>
+</nav>
     </div>
 </header>
 
 <!-- Mobile Sidebar -->
 <div id="sidebar" class="sidebar">
-    <button id="closeSidebar" class="close-btn">✕</button>
-    <h3>📚 Categories</h3>
-    <a href="/nursing-care-plan/">Nursing Care Plan</a>
-    <a href="/nursing-care-plan/">Surgical Care Plan</a>
-    <a href="/nursing-care-plan/">Case Study</a>
-    <a href="/nursing-care-plan/">Health Talk</a>
-    <a href="/nursing-care-plan/">Health Education</a>
-    <a href="/nursing-care-plan/">Procedure</a>
-    <a href="/nursing-care-plan/">Assignment</a>
-    <a href="/nursing-care-plan/">Family Folder</a>
-    <a href="/nursing-care-plan/">Nursing Notes</a>
-    <a href="/nursing-care-plan/">Case Presentation</a>
-    <a href="/nursing-care-plan/">Lesson Plan</a>
-    <a href="/nursing-care-plan/">Drug Study</a>
-    <a href="/nursing-care-plan/">Nursing Diagnosis</a>
-    <a href="/nursing-care-plan/">Question Bank</a>
-    <a href="/nursing-care-plan/">Practical Exam Guide</a>
+<h3>📚 Categories</h3>
+
+<a href="/nursing-care-plan/">Nursing Care Plan</a>
+<a href="/surgical-care-plan/">Surgical Care Plan</a>
+<a href="/case-study/">Case Study</a>
+<a href="/health-talk/">Health Talk</a>
+<a href="/health-education/">Health Education</a>
+<a href="/procedure/">Procedure</a>
+<a href="/assignment/">Assignment</a>
+<a href="/family-folder/">Family Folder</a>
+<a href="/nursing-notes/">Nursing Notes</a>
+<a href="/case-presentation/">Case Presentation</a>
+<a href="/lesson-plan/">Lesson Plan</a>
+<a href="/drug-study/">Drug Study</a>
+<a href="/nursing-diagnosis/">Nursing Diagnosis</a>
+<a href="/question-bank/">Question Bank</a>
+<a href="/practical-exam-guide/">Practical Exam Guide</a>
+
 </div>
 <div id="overlay" class="overlay"></div>
 
@@ -192,8 +304,8 @@
             <h1>Your Complete Nursing <br>Practical Files Hub</h1>
             <p>Ready-to-use nursing care plans, case studies, health talks, and procedures — verified for ANM, GNM, BSc Nursing students.</p>
             <div class="hero-buttons">
-                <a href="/nursing-care-plan/" class="btn btn-primary">📚 Browse All Files</a>
-                <a href="/nursing-care-plan/" class="btn btn-outline">📝 Request Topic</a>
+                <a href="#categoriesGrid" class="btn btn-primary">📚 Browse All Files</a>
+                <a href="/request-topic/" class="btn btn-outline">📝 Request Topic</a>
             </div>
         </div>
     </section>
@@ -214,21 +326,21 @@
         <p style="text-align: center; color: var(--text-muted); margin-bottom: 30px;">Ready-to-use nursing practical files at your fingertips</p>
         
         <div class="categories-grid" id="categoriesGrid">
-            <div class="card category-card" data-name="nursing care plan"><div class="category-icon">📋</div><h3>Nursing Care Plan</h3><p>Complete NANDA care plans with interventions</p><div class="badge">120+ Plans</div></div>
-            <div class="card category-card" data-name="surgical care plan"><div class="category-icon">🏥</div><h3>Surgical Care Plan</h3><p>Pre & post-operative care</p><div class="badge">45+ Plans</div></div>
-            <div class="card category-card" data-name="case study"><div class="category-icon">📖</div><h3>Case Study</h3><p>Detailed case studies with patient history</p><div class="badge">30+ Studies</div></div>
-            <div class="card category-card" data-name="health talk"><div class="category-icon">🗣️</div><h3>Health Talk</h3><p>Community health talk scripts</p><div class="badge">25+ Talks</div></div>
-            <div class="card category-card" data-name="health education"><div class="category-icon">💊</div><h3>Health Education</h3><p>Patient education materials</p><div class="badge">20+ Topics</div></div>
-            <div class="card category-card" data-name="procedure"><div class="category-icon">🩺</div><h3>Procedure</h3><p>Step-by-step nursing procedures</p><div class="badge">15+ Procedures</div></div>
-            <div class="card category-card" data-name="assignment"><div class="category-icon">✍️</div><h3>Assignment</h3><p>Ready-to-submit assignments</p><div class="badge">40+ Files</div></div>
-            <div class="card category-card" data-name="family folder"><div class="category-icon">👨‍👩‍👧‍👦</div><h3>Family Folder</h3><p>CHN family folder formats</p><div class="badge">10+ Formats</div></div>
-            <div class="card category-card" data-name="nursing notes"><div class="category-icon">📒</div><h3>Nursing Notes</h3><p>Study notes & exam preparation</p><div class="badge">50+ Notes</div></div>
-            <div class="card category-card" data-name="case presentation"><div class="category-icon">🎤</div><h3>Case Presentation</h3><p>Clinical presentation format</p><div class="badge">15+ Cases</div></div>
-            <div class="card category-card" data-name="lesson plan"><div class="category-icon">📝</div><h3>Lesson Plan</h3><p>Teaching plan for health education</p><div class="badge">20+ Plans</div></div>
-            <div class="card category-card" data-name="drug study"><div class="category-icon">💊</div><h3>Drug Study</h3><p>Common drugs, dosage, side effects</p><div class="badge">100+ Drugs</div></div>
-            <div class="card category-card" data-name="nursing diagnosis"><div class="category-icon">📋</div><h3>Nursing Diagnosis</h3><p>Complete NANDA list</p><div class="badge">200+ Dx</div></div>
-            <div class="card category-card" data-name="question bank"><div class="category-icon">❓</div><h3>Question Bank</h3><p>Previous papers & practice</p><div class="badge">500+ Qs</div></div>
-            <div class="card category-card" data-name="practical exam guide"><div class="category-icon">🎓</div><h3>Practical Exam Guide</h3><p>Tips, viva, OSCE guide</p><div class="badge">1 Guide</div></div>
+            <a href="/nursing-care-plan/" class="card category-card" data-name="nursing care plan"><div class="category-icon">📋</div><h3>Nursing Care Plan</h3><p>Complete NANDA care plans with interventions</p><div class="badge">120+ Plans</div></a>
+            <a href="/surgical-care-plan/" class="card category-card" data-name="surgical care plan"><div class="category-icon">🏥</div><h3>Surgical Care Plan</h3><p>Pre & post-operative care</p><div class="badge">45+ Plans</div></a>
+            <a href="/case-study/" class="card category-card" data-name="case study"><div class="category-icon">📖</div><h3>Case Study</h3><p>Detailed case studies with patient history</p><div class="badge">30+ Studies</div></a>
+            <a href="/health-talk/" class="card category-card" data-name="health talk"><div class="category-icon">🗣️</div><h3>Health Talk</h3><p>Community health talk scripts</p><div class="badge">25+ Talks</div></a>
+            <a href="/health-education/" class="card category-card" data-name="health education"><div class="category-icon">💊</div><h3>Health Education</h3><p>Patient education materials</p><div class="badge">20+ Topics</div></a>
+            <a href="/procedure/" class="card category-card" data-name="procedure"><div class="category-icon">🩺</div><h3>Procedure</h3><p>Step-by-step nursing procedures</p><div class="badge">15+ Procedures</div></a>
+            <a href="/assignment/" class="card category-card" data-name="assignment"><div class="category-icon">✍️</div><h3>Assignment</h3><p>Ready-to-submit assignments</p><div class="badge">40+ Files</div></a>
+            <a href="/family-folder/" class="card category-card" data-name="family folder"><div class="category-icon">👨‍👩‍👧‍👦</div><h3>Family Folder</h3><p>CHN family folder formats</p><div class="badge">10+ Formats</div></a>
+            <a href="/nursing-notes/" class="card category-card" data-name="nursing notes"><div class="category-icon">📒</div><h3>Nursing Notes</h3><p>Study notes & exam preparation</p><div class="badge">50+ Notes</div></a>
+            <a href="/case-presentation/" class="card category-card" data-name="case presentation"><div class="category-icon">🎤</div><h3>Case Presentation</h3><p>Clinical presentation format</p><div class="badge">15+ Cases</div></a>
+            <a href="/lesson-plan/" class="card category-card" data-name="lesson plan"><div class="category-icon">📝</div><h3>Lesson Plan</h3><p>Teaching plan for health education</p><div class="badge">20+ Plans</div></a>
+            <a href="/drug-study/" class="card category-card" data-name="drug study"><div class="category-icon">💊</div><h3>Drug Study</h3><p>Common drugs, dosage, side effects</p><div class="badge">100+ Drugs</div></a>
+            <a href="/nursing-diagnosis/" class="card category-card" data-name="nursing diagnosis"><div class="category-icon">📋</div><h3>Nursing Diagnosis</h3><p>Complete NANDA list</p><div class="badge">200+ Dx</div></a>
+            <a href="/question-bank/" class="card category-card" data-name="question bank"><div class="category-icon">❓</div><h3>Question Bank</h3><p>Previous papers & practice</p><div class="badge">500+ Qs</div></a>
+            <a href="/practical-exam-guide/" class="card category-card" data-name="practical exam guide"><div class="category-icon">🎓</div><h3>Practical Exam Guide</h3><p>Tips, viva, OSCE guide</p><div class="badge">1 Guide</div></a>
         </div>
 
         <h2 style="text-align: center;">Why Choose <span style="color: var(--accent);">Us?</span></h2>
@@ -252,12 +364,12 @@
         <div class="cta-section">
             <h3>📝 Need a Specific Nursing File?</h3>
             <p>Request a topic and we'll create it for you — free!</p>
-            <a href="/nursing-care-plan/" class="btn btn-primary" style="margin-top: 15px;">Request Topic →</a>
+            <a href="/request-topic/" class="btn btn-primary" style="margin-top: 15px;">Request Topic →</a>
         </div>
 
         <div class="disclaimer-card">
             <strong>⚕️ Medical Disclaimer:</strong> The content on Nursing Study Vault is for educational purposes only. Not a substitute for professional medical advice. 
-            <a href="/nursing-care-plan/" style="color: var(--accent);">Read Full Disclaimer →</a>
+            <a href="/disclaimer/" style="color: var(--accent);">Read Full Disclaimer →</a>
         </div>
     </div>
 </main>
@@ -265,13 +377,31 @@
 <footer class="site-footer">
     <div class="container">
         <div class="footer-links">
-            <div><h4>📚 Categories</h4><a href="/nursing-care-plan/">Nursing Care Plan</a><a href="/nursing-care-plan/">Surgical Care Plan</a><a href="/nursing-care-plan/">Case Study</a><a href="/nursing-care-plan/">Health Talk</a><a href="/nursing-care-plan/">Procedure</a></div>
-            <div><h4>📄 Resources</h4><a href="/nursing-care-plan/">Assignments</a><a href="/nursing-care-plan/">Family Folder</a><a href="/nursing-care-plan/">Nursing Notes</a><a href="/nursing-care-plan/">Case Presentation</a><a href="/nursing-care-plan/">Question Bank</a></div>
-            <div><h4>ℹ️ Info</h4><a href="/nursing-care-plan/">About Us</a><a href="/nursing-care-plan/">Contact</a><a href="/nursing-care-plan/">Disclaimer</a><a href="/nursing-care-plan/">Privacy Policy</a><a href="/nursing-care-plan/">Terms</a></div>
-            <div><h4>📧 Newsletter</h4><p style="font-size: 0.85rem;">Get notified about new files</p><div class="newsletter-form"><input type="email" placeholder="Your email"><button>→</button></div></div>
+            <div><h4>📚 Categories</h4>
+                <a href="/nursing-care-plan/">Nursing Care Plan</a>
+                <a href="/surgical-care-plan/">Surgical Care Plan</a>
+                <a href="/case-study/">Case Study</a>
+                <a href="/health-talk/">Health Talk</a>
+                <a href="/procedure/">Procedure</a>
+            </div>
+            <div><h4>📄 Resources</h4>
+                <a href="/assignment/">Assignments</a>
+                <a href="/family-folder/">Family Folder</a>
+                <a href="/nursing-notes/">Nursing Notes</a>
+                <a href="/case-presentation/">Case Presentation</a>
+                <a href="/question-bank/">Question Bank</a>
+            </div>
+            <div><h4>ℹ️ Info</h4>
+                <a href="/about/">About Us</a>
+                <a href="/contact/">Contact</a>
+                <a href="/disclaimer/">Disclaimer</a>
+                <a href="/privacy-policy/">Privacy Policy</a>
+                <a href="/terms/">Terms</a>
+            </div>
+            <div><h4>📧 Newsletter</h4><p style="font-size: 0.85rem;">Get notified about new files</p><form name="newsletter" method="POST" data-netlify="true" action="/thank-you/" class="newsletter-form"><input type="hidden" name="form-name" value="newsletter"><input type="email" name="email" placeholder="Your email" required><button type="submit">→</button></form></div>
         </div>
         <div class="credit">
-            <p>© 2025 Nursing Study Vault | All Rights Reserved</p>
+            <p>© 2026 Nursing Study Vault | All Rights Reserved</p>
             <p>⚕️ Educational Purpose Only — Not a substitute for medical advice</p>
             <p style="margin-top: 10px;">❤️ Designed by Nursing Students for Nursing Students</p>
         </div>
@@ -350,6 +480,31 @@
 .overlay.active { display: block; }
 .desktop-nav { display: flex; gap: 15px; }
 @media (max-width: 768px) { .desktop-nav { display: none; } }
+
+/* FIX HOMEPAGE STATS SECTION */
+.stats-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 20px;
+    max-width: 900px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.stat-card {
+    text-align: center;
+}
+
+@media (max-width: 768px) {
+    .stats-grid {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 22px;
+        padding: 0 20px;
+    }
+}
+
+
+
 </style>
 
 </body>

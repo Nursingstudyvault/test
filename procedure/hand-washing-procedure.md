@@ -1,4 +1,5 @@
 ---
+layout: layout.njk
 title: Hand Washing Procedure | Nursing Practical File
 date: 2026-05-22T13:50:10+05:30
 description: Complete hand washing procedure practical file for nursing students. Includes definition, purposes, indications, articles, preparation, step-by-step procedure with scientific rationale, precautions, after care, documentation, health education, evaluation and references.

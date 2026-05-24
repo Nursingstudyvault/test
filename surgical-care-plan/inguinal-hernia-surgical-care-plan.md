@@ -1,4 +1,5 @@
 ---
+layout: layout.njk
 title: 🏥 Surgical Nursing Care Plan on Inguinal Hernia with Herniorrhaphy / Hernioplasty
 date: 2026-05-22T12:25:48+05:30
 description: Complete surgical nursing care plan on Inguinal Hernia with Herniorrhaphy / Hernioplasty in NANDA format for ANM, GNM and BSc Nursing students. Includes patient data, history, family details, examination, investigations, surgical management, nursing diagnoses, care plans, discharge summary and health education.

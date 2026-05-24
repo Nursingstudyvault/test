@@ -1,4 +1,5 @@
 ---
+layout: layout.njk
 title: ❤️‍🩹 Medical-Surgical Nursing Care Plan on Myocardial Infarction
 date: 2026-05-22T10:55:28+05:30
 description: Complete medical-surgical nursing care plan on Myocardial Infarction for nursing students with patient assessment, investigations, medical management, NANDA nursing diagnoses, nursing care plans, discharge summary and health education.

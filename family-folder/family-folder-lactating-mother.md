@@ -1,4 +1,5 @@
 ---
+layout: layout.njk
 title: Family Folder on Family with Lactating Mother | Community Health Nursing Practical File
 date: 2026-05-22T16:26:30+05:30
 description: Complete family folder on family with lactating mother for Community Health Nursing practical file with family assessment, lactation assessment, breastfeeding care plan and health education.

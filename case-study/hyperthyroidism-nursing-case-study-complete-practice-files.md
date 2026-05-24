@@ -1,4 +1,5 @@
 ---
+layout: layout.njk
 title: "Hyperthyroidism Nursing Case Study | Complete practice files "
 date: 2026-05-20T18:15:00.000+05:30
 description: Complete NANDA format nursing case study on Hyperthyroidism for

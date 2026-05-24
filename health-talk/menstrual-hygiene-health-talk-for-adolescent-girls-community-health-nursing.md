@@ -1,4 +1,5 @@
 ---
+layout: layout.njk
 title: Menstrual Hygiene Health Talk for Adolescent Girls | Community Health Nursing
 date: 2026-05-21T14:29:00.000+05:30
 description: Complete menstrual hygiene health talk for adolescent girls in

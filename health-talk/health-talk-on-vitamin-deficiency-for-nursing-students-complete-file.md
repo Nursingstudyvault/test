@@ -1,4 +1,5 @@
 ---
+layout: layout.njk
 title: "Health Talk on Vitamin Deficiency for Nursing Students Complete File "
 date: 2026-05-21T12:27:00.000+05:30
 description: health talk on vitamin deficiency, vitamin deficiency health talk,

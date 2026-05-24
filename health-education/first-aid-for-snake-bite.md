@@ -1,4 +1,5 @@
 ---
+layout: layout.njk
 title: Health Education on First Aid for Snake Bite | Community Health Nursing Practical
 date: 2026-05-22T13:29:17+05:30
 description: Complete health education practical file on first aid for snake bite. Covers meaning, types, signs and symptoms, immediate first aid, immobilization, what not to do, anti-snake venom, prevention, lesson plan, evaluation and references for nursing students.

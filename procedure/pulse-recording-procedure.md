@@ -1,4 +1,5 @@
 ---
+layout: layout.njk
 title: Pulse Recording Procedure | Nursing Practical File
 date: 2026-05-22T13:55:15+05:30
 description: Complete pulse recording procedure practical file for nursing students. Includes definition, purposes, normal pulse rate, pulse sites, indications, articles, preparation, step-by-step procedure with scientific rationale, precautions, documentation, health education, evaluation and references.

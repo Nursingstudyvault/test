@@ -1,4 +1,5 @@
 ---
+layout: layout.njk
 title: Nursing Care Plan on COPD | complete practice file
 date: 2026-05-21T22:43:00.000+05:30
 description: >

@@ -1,4 +1,5 @@
 ---
+layout: layout.njk
 title: Health Education on Care During Adolescence | Community Health Nursing Practical
 date: 2026-05-22T13:05:01+05:30
 description: Complete health education practical file on care during adolescence for Community Health Nursing. Covers adolescent changes, personal hygiene, menstrual hygiene, nutrition, anemia prevention, mental health, healthy lifestyle, substance abuse prevention, lesson plan, evaluation and references.

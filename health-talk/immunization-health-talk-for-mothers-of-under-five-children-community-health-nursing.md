@@ -1,4 +1,5 @@
 ---
+layout: layout.njk
 title: "Immunization Health Talk for Mothers of Under-Five Children | Community
   Health Nursing "
 date: 2026-05-21T15:10:00.000+05:30

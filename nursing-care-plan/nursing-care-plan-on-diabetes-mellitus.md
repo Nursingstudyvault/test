@@ -1,4 +1,5 @@
 ---
+layout: layout.njk
 title: 🩸 Nursing Care Plan on Diabetes Mellitus
 date: 2026-05-22T08:22:31+05:30
 description: Complete medical surgical nursing care plan on Diabetes Mellitus with patient assessment, clinical history, physical examination, investigations, drug chart, NANDA nursing diagnoses, nursing care plans, discharge summary, health education and bibliography.
