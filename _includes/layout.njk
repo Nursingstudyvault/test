@@ -1,30 +1,142 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>{% if title %}{{ title }} | Nursing Study Vault{% else %}Nursing Study Vault{% endif %}</title>
-  <meta name="description" content="{% if description %}{{ description }}{% else %}Nursing Study Vault - nursing practical files, care plans, case studies and assignments.{% endif %}">
-  <link rel="stylesheet" href="/assets/style.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+    <title>{% if title %}{{ title }} | Nursing Study Vault{% else %}Nursing Study Vault - Practical Files{% endif %}</title>
+    <meta name="description" content="{% if description %}{{ description }}{% else %}Free nursing practical files for ANM, GNM, BSc Nursing students.{% endif %}">
+    <link rel="stylesheet" href="/theme.css">
 </head>
 <body>
-  <header class="site-header">
-    <a href="/" class="site-logo">⚕️ Nursing <span>Study</span> Vault</a>
-    <nav class="site-nav">
-      <a href="/">Home</a>
-      <a href="/nursing-care-plan/">Care Plans</a>
-      <a href="/case-study/">Case Study</a>
-      <a href="/health-talk/">Health Talk</a>
-      <a href="/assignment/">Assignment</a>
-    </nav>
-  </header>
 
-  <main class="site-main">
+<header class="site-header">
+    <div class="container header-inner">
+        <div class="logo">
+            <h1>Nursing<span style="color: var(--accent);">StudyVault</span></h1>
+            <p>Practical Files for Nursing Students</p>
+        </div>
+        <button id="hamburgerBtn" class="hamburger" style="background: none; border: none; font-size: 1.8rem; cursor: pointer; display: none;">☰</button>
+        <nav class="desktop-nav">
+            <a href="/" class="btn btn-outline">Home</a>
+            <a href="/nursing-care-plan/" class="btn btn-outline">Care Plans</a>
+            <a href="/case-study/" class="btn btn-outline">Case Studies</a>
+            <a href="/health-talk/" class="btn btn-outline">Health Talks</a>
+            <a href="/procedure/" class="btn btn-outline">Procedures</a>
+            <a href="/request-topic/" class="btn btn-primary">Request Topic</a>
+        </nav>
+    </div>
+</header>
+
+<div id="sidebar" class="sidebar">
+    <button id="closeSidebar" class="close-btn">✕</button>
+    <h3>📚 Categories</h3>
+    <a href="/">🏠 Home</a>
+    <a href="/nursing-care-plan/">📋 Nursing Care Plans</a>
+    <a href="/surgical-care-plan/">🏥 Surgical Care Plans</a>
+    <a href="/case-study/">📖 Case Studies</a>
+    <a href="/health-talk/">🗣️ Health Talks</a>
+    <a href="/health-education/">💊 Health Education</a>
+    <a href="/procedure/">🩺 Procedures</a>
+    <a href="/assignment/">✍️ Assignments</a>
+    <a href="/family-folder/">👨‍👩‍👧‍👦 Family Folder</a>
+    <h3>ℹ️ Information</h3>
+    <a href="/about.html">📄 About Us</a>
+    <a href="/contact.html">📞 Contact</a>
+    <a href="/disclaimer.html">⚕️ Disclaimer</a>
+    <a href="/privacy-policy.html">🔒 Privacy Policy</a>
+    <a href="/terms.html">📜 Terms</a>
+    <a href="/request-topic/">📝 Request Topic</a>
+</div>
+<div id="overlay" class="overlay"></div>
+
+<main>
     {{ content | safe }}
-  </main>
+</main>
 
-  <footer class="site-footer">
-    <p>© 2026 Nursing Study Vault. Educational purpose only.</p>
-  </footer>
+<footer class="site-footer">
+    <div class="container">
+        <div class="footer-links">
+            <div><h4>📚 Resources</h4><a href="/nursing-care-plan/">Care Plans</a><a href="/case-study/">Case Studies</a><a href="/health-talk/">Health Talks</a><a href="/procedure/">Procedures</a></div>
+            <div><h4>📄 Quick Links</h4><a href="/request-topic/">Request Topic</a><a href="/about.html">About Us</a><a href="/contact.html">Contact</a></div>
+            <div><h4>⚖️ Legal</h4><a href="/disclaimer.html">Disclaimer</a><a href="/privacy-policy.html">Privacy</a><a href="/terms.html">Terms</a></div>
+            <div><h4>📧 Newsletter</h4><div class="newsletter-form"><input type="email" placeholder="Your email"><button>→</button></div></div>
+        </div>
+        <div class="credit">
+            <p>© 2025 Nursing Study Vault | All Rights Reserved</p>
+            <p>⚕️ Educational Purpose Only</p>
+            <p>❤️ Designed by Nursing Students for Nursing Students</p>
+        </div>
+    </div>
+</footer>
+
+<script>
+    const hamburger = document.getElementById('hamburgerBtn');
+    const sidebar = document.getElementById('sidebar');
+    const overlay = document.getElementById('overlay');
+    const closeBtn = document.getElementById('closeSidebar');
+
+    function openSidebar() { sidebar.classList.add('active'); overlay.classList.add('active'); }
+    function closeSidebar() { sidebar.classList.remove('active'); overlay.classList.remove('active'); }
+
+    if(hamburger) hamburger.addEventListener('click', openSidebar);
+    if(closeBtn) closeBtn.addEventListener('click', closeSidebar);
+    if(overlay) overlay.addEventListener('click', closeSidebar);
+
+    function checkWidth() {
+        if(window.innerWidth <= 768) hamburger.style.display = 'block';
+        else { hamburger.style.display = 'none'; closeSidebar(); }
+    }
+    window.addEventListener('load', checkWidth);
+    window.addEventListener('resize', checkWidth);
+</script>
+
+<style>
+.newsletter-form { display: flex; margin-top: 10px; }
+.newsletter-form input { flex: 1; padding: 8px; border: 1px solid var(--border); border-radius: 4px 0 0 4px; background: var(--bg); }
+.newsletter-form button { padding: 8px 16px; background: var(--accent); color: white; border: none; border-radius: 0 4px 4px 0; cursor: pointer; }
+.footer-links { display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 30px; margin-bottom: 30px; }
+.footer-links a { display: block; margin-bottom: 8px; font-size: 0.85rem; color: var(--text-secondary); text-decoration: none; }
+.footer-links a:hover { color: var(--accent); }
+.credit { text-align: center; padding-top: 20px; border-top: 1px solid var(--border); font-size: 0.8rem; }
+.sidebar {
+    position: fixed;
+    top: 0;
+    right: -300px;
+    width: 280px;
+    height: 100%;
+    background: var(--surface);
+    z-index: 1001;
+    padding: 60px 20px;
+    transition: right 0.3s ease;
+    box-shadow: -2px 0 8px var(--shadow);
+}
+.sidebar.active { right: 0; }
+.sidebar a { display: block; padding: 10px 0; color: var(--text-primary); text-decoration: none; }
+.close-btn {
+    position: absolute;
+    top: 15px;
+    right: 15px;
+    background: none;
+    border: none;
+    font-size: 1.5rem;
+    cursor: pointer;
+}
+.overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0,0,0,0.5);
+    z-index: 1000;
+    display: none;
+}
+.overlay.active { display: block; }
+@media (max-width: 768px) {
+    .hamburger { display: block !important; }
+    .desktop-nav { display: none !important; }
+}
+</style>
+
 </body>
 </html>
