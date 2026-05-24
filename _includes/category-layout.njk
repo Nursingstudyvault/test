@@ -163,7 +163,64 @@
             .category-stats .stat { padding: 8px 16px; font-size: 0.8rem; }
             .category-stats .stat span { font-size: 1.2rem; }
         }
-    </style>
+    
+
+/* Desktop Categories Dropdown */
+.desktop-dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.desktop-dropbtn {
+    background: transparent;
+    border: 1px solid var(--border);
+    color: var(--text-primary);
+    padding: 9px 14px;
+    border-radius: 999px;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+.desktop-dropdown-menu {
+    display: none;
+    position: absolute;
+    right: 0;
+    top: 110%;
+    min-width: 260px;
+    background: var(--card-bg);
+    border: 1px solid var(--border);
+    border-radius: 16px;
+    box-shadow: 0 16px 40px rgba(0,0,0,0.12);
+    padding: 10px;
+    z-index: 9999;
+}
+
+.desktop-dropdown:hover .desktop-dropdown-menu {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 4px;
+}
+
+.desktop-dropdown-menu a {
+    display: block;
+    padding: 10px 12px;
+    border-radius: 10px;
+    color: var(--text-primary);
+    text-decoration: none;
+    font-size: 0.9rem;
+}
+
+.desktop-dropdown-menu a:hover {
+    background: var(--bg-secondary);
+}
+
+@media (max-width: 768px) {
+    .desktop-dropdown {
+        display: none;
+    }
+}
+
+</style>
 </head>
 <body>
 
@@ -175,23 +232,26 @@
         </div>
         <button id="hamburgerBtn" class="hamburger" style="background: none; border: none; font-size: 1.8rem; cursor: pointer; display: none;">☰</button>
         <nav class="desktop-nav">
-
-<a href="/nursing-care-plan/">Nursing Care Plan</a>
-<a href="/surgical-care-plan/">Surgical Care Plan</a>
-<a href="/case-study/">Case Study</a>
-<a href="/health-talk/">Health Talk</a>
-<a href="/health-education/">Health Education</a>
-<a href="/procedure/">Procedure</a>
-<a href="/assignment/">Assignment</a>
-<a href="/family-folder/">Family Folder</a>
-<a href="/nursing-notes/">Nursing Notes</a>
-<a href="/case-presentation/">Case Presentation</a>
-<a href="/lesson-plan/">Lesson Plan</a>
-<a href="/drug-study/">Drug Study</a>
-<a href="/nursing-diagnosis/">Nursing Diagnosis</a>
-<a href="/question-bank/">Question Bank</a>
-<a href="/practical-exam-guide/">Practical Exam Guide</a>
-
+<div class="desktop-dropdown">
+    <button class="desktop-dropbtn">Categories ▾</button>
+    <div class="desktop-dropdown-menu">
+        <a href="/nursing-care-plan/">Nursing Care Plan</a>
+        <a href="/surgical-care-plan/">Surgical Care Plan</a>
+        <a href="/case-study/">Case Study</a>
+        <a href="/health-talk/">Health Talk</a>
+        <a href="/health-education/">Health Education</a>
+        <a href="/procedure/">Procedure</a>
+        <a href="/assignment/">Assignment</a>
+        <a href="/family-folder/">Family Folder</a>
+        <a href="/nursing-notes/">Nursing Notes</a>
+        <a href="/case-presentation/">Case Presentation</a>
+        <a href="/lesson-plan/">Lesson Plan</a>
+        <a href="/drug-study/">Drug Study</a>
+        <a href="/nursing-diagnosis/">Nursing Diagnosis</a>
+        <a href="/question-bank/">Question Bank</a>
+        <a href="/practical-exam-guide/">Practical Exam Guide</a>
+    </div>
+</div>
 </nav>
     </div>
 </header>
@@ -319,6 +379,8 @@
 .footer-links a { display: block; margin-bottom: 8px; font-size: 0.85rem; color: var(--text-secondary); text-decoration: none; }
 .footer-links a:hover { color: var(--accent); }
 .credit { text-align: center; padding-top: 20px; border-top: 1px solid var(--border); font-size: 0.8rem; }
+
+
 </style>
 
 </body>
