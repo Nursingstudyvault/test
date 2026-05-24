@@ -1,0 +1,70 @@
+{% if canonical %}
+<link rel="canonical" href="{{ canonical }}">
+{% elif page.url %}
+<link rel="canonical" href="https://nursingstudyvault.online{{ page.url }}">
+{% endif %}
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Nursing Study Vault",
+  "url": "https://nursingstudyvault.online/",
+  "logo": "https://nursingstudyvault.online/assets/uploads/logo.png"
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "Nursing Study Vault",
+  "url": "https://nursingstudyvault.online/"
+}
+</script>
+
+{% if title %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": {{ title | dump | safe }},
+  "description": {{ description | default("") | dump | safe }},
+  "author": {
+    "@type": "Organization",
+    "name": "Nursing Study Vault"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Nursing Study Vault"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://nursingstudyvault.online{{ page.url }}"
+  }
+}
+</script>
+{% endif %}
+
+{% if page.url and page.url != "/" %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "https://nursingstudyvault.online/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": {{ category | default("Page") | dump | safe }},
+      "item": "https://nursingstudyvault.online{{ page.url }}"
+    }
+  ]
+}
+</script>
+{% endif %}

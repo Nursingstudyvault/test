@@ -236,10 +236,11 @@
 }
 </style>
     {% if canonical %}
-    <link rel="canonical" href="{{ canonical }}">
+    
     {% elif page.url %}
     <link rel="canonical" href="https://nursingstudyvault.online{{ page.url }}">
     {% endif %}
+    {% include "seo-head.njk" %}
 </head>
 <body>
 
