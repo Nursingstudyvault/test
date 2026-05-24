@@ -159,3 +159,137 @@ collections:
       - { label: "Category", name: "category", widget: "select", options: ["Family Folder"], default: "Family Folder" }
       - { label: "Hide Related", name: "hideRelated", widget: "boolean", default: true }
       - { label: "Body HTML", name: "body", widget: "code", default_language: "html", allow_language_selection: false }
+
+  - name: "case_presentation"
+    label: "Case Presentation"
+    folder: "case-presentation"
+    create: true
+    slug: "{{slug}}"
+    extension: "md"
+    format: "frontmatter"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Date", name: "date", widget: "datetime" }
+      - { label: "Description", name: "description", widget: "text" }
+      - { label: "Keywords", name: "keywords", widget: "text" }
+      - { label: "Subject", name: "subject", widget: "string", default: "Nursing Case Presentation" }
+      - { label: "Permalink", name: "permalink", widget: "string", hint: "/case-presentation/slug.html" }
+      - { label: "Canonical", name: "canonical", widget: "string" }
+      - { label: "Category", name: "category", widget: "select", options: ["Case Presentation"], default: "Case Presentation" }
+      - { label: "Hide Related", name: "hideRelated", widget: "boolean", default: true }
+      - { label: "Body HTML", name: "body", widget: "code", default_language: "html", allow_language_selection: false }
+
+  - name: "drug_study"
+    label: "Drug Study"
+    folder: "drug-study"
+    create: true
+    slug: "{{slug}}"
+    extension: "md"
+    format: "frontmatter"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Date", name: "date", widget: "datetime" }
+      - { label: "Description", name: "description", widget: "text" }
+      - { label: "Keywords", name: "keywords", widget: "text" }
+      - { label: "Subject", name: "subject", widget: "string", default: "Drug Study" }
+      - { label: "Permalink", name: "permalink", widget: "string", hint: "/drug-study/slug.html" }
+      - { label: "Canonical", name: "canonical", widget: "string" }
+      - { label: "Category", name: "category", widget: "select", options: ["Drug Study"], default: "Drug Study" }
+      - { label: "Hide Related", name: "hideRelated", widget: "boolean", default: true }
+      - { label: "Body HTML", name: "body", widget: "code", default_language: "html", allow_language_selection: false }
+
+  - name: "lesson_plan"
+    label: "Lesson Plan"
+    folder: "lesson-plan"
+    create: true
+    slug: "{{slug}}"
+    extension: "md"
+    format: "frontmatter"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Date", name: "date", widget: "datetime" }
+      - { label: "Description", name: "description", widget: "text" }
+      - { label: "Keywords", name: "keywords", widget: "text" }
+      - { label: "Subject", name: "subject", widget: "string", default: "Lesson Plan" }
+      - { label: "Permalink", name: "permalink", widget: "string", hint: "/lesson-plan/slug.html" }
+      - { label: "Canonical", name: "canonical", widget: "string" }
+      - { label: "Category", name: "category", widget: "select", options: ["Lesson Plan"], default: "Lesson Plan" }
+      - { label: "Hide Related", name: "hideRelated", widget: "boolean", default: true }
+      - { label: "Body HTML", name: "body", widget: "code", default_language: "html", allow_language_selection: false }
+
+  - name: "nursing_diagnosis"
+    label: "Nursing Diagnosis"
+    folder: "nursing-diagnosis"
+    create: true
+    slug: "{{slug}}"
+    extension: "md"
+    format: "frontmatter"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Date", name: "date", widget: "datetime" }
+      - { label: "Description", name: "description", widget: "text" }
+      - { label: "Keywords", name: "keywords", widget: "text" }
+      - { label: "Subject", name: "subject", widget: "string", default: "Nursing Diagnosis" }
+      - { label: "Permalink", name: "permalink", widget: "string", hint: "/nursing-diagnosis/slug.html" }
+      - { label: "Canonical", name: "canonical", widget: "string" }
+      - { label: "Category", name: "category", widget: "select", options: ["Nursing Diagnosis"], default: "Nursing Diagnosis" }
+      - { label: "Hide Related", name: "hideRelated", widget: "boolean", default: true }
+      - { label: "Body HTML", name: "body", widget: "code", default_language: "html", allow_language_selection: false }
+
+  - name: "nursing_notes"
+    label: "Nursing Notes"
+    folder: "nursing-notes"
+    create: true
+    slug: "{{slug}}"
+    extension: "md"
+    format: "frontmatter"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Date", name: "date", widget: "datetime" }
+      - { label: "Description", name: "description", widget: "text" }
+      - { label: "Keywords", name: "keywords", widget: "text" }
+      - { label: "Subject", name: "subject", widget: "string", default: "Nursing Notes" }
+      - { label: "Permalink", name: "permalink", widget: "string", hint: "/nursing-notes/slug.html" }
+      - { label: "Canonical", name: "canonical", widget: "string" }
+      - { label: "Category", name: "category", widget: "select", options: ["Nursing Notes"], default: "Nursing Notes" }
+      - { label: "Hide Related", name: "hideRelated", widget: "boolean", default: true }
+      - { label: "Body HTML", name: "body", widget: "code", default_language: "html", allow_language_selection: false }
+
+  - name: "practical_exam_guide"
+    label: "Practical Exam Guide"
+    folder: "practical-exam-guide"
+    create: true
+    slug: "{{slug}}"
+    extension: "md"
+    format: "frontmatter"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Date", name: "date", widget: "datetime" }
+      - { label: "Description", name: "description", widget: "text" }
+      - { label: "Keywords", name: "keywords", widget: "text" }
+      - { label: "Subject", name: "subject", widget: "string", default: "Practical Exam Guide" }
+      - { label: "Permalink", name: "permalink", widget: "string", hint: "/practical-exam-guide/slug.html" }
+      - { label: "Canonical", name: "canonical", widget: "string" }
+      - { label: "Category", name: "category", widget: "select", options: ["Practical Exam Guide"], default: "Practical Exam Guide" }
+      - { label: "Hide Related", name: "hideRelated", widget: "boolean", default: true }
+      - { label: "Body HTML", name: "body", widget: "code", default_language: "html", allow_language_selection: false }
+
+  - name: "question_bank"
+    label: "Question Bank"
+    folder: "question-bank"
+    create: true
+    slug: "{{slug}}"
+    extension: "md"
+    format: "frontmatter"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Date", name: "date", widget: "datetime" }
+      - { label: "Description", name: "description", widget: "text" }
+      - { label: "Keywords", name: "keywords", widget: "text" }
+      - { label: "Subject", name: "subject", widget: "string", default: "Question Bank" }
+      - { label: "Permalink", name: "permalink", widget: "string", hint: "/question-bank/slug.html" }
+      - { label: "Canonical", name: "canonical", widget: "string" }
+      - { label: "Category", name: "category", widget: "select", options: ["Question Bank"], default: "Question Bank" }
+      - { label: "Hide Related", name: "hideRelated", widget: "boolean", default: true }
+      - { label: "Body HTML", name: "body", widget: "code", default_language: "html", allow_language_selection: false }
+
