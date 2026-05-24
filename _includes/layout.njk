@@ -7,6 +7,11 @@
     <title>{% if title %}{{ title }} | Nursing Study Vault{% else %}Nursing Study Vault - Practical Files{% endif %}</title>
     <meta name="description" content="{% if description %}{{ description }}{% else %}Free nursing practical files for ANM, GNM, BSc Nursing students.{% endif %}">
     <link rel="stylesheet" href="/theme.css">
+    {% if canonical %}
+    <link rel="canonical" href="{{ canonical }}">
+    {% elif page.url %}
+    <link rel="canonical" href="https://nursingstudyvault.online{{ page.url }}">
+    {% endif %}
 </head>
 <body>
 
