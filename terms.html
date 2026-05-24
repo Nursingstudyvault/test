@@ -240,6 +240,39 @@
         display: none;
     }
 }
+
+.desktop-nav { display: flex; gap: 15px; }
+
+.sidebar {
+    position: fixed;
+    top: 0;
+    right: -320px;
+    width: 280px;
+    height: 100vh;
+    background: var(--surface);
+    z-index: 1001;
+    padding: 30px 25px;
+    transition: right 0.3s ease;
+    box-shadow: -5px 0 20px rgba(0,0,0,0.15);
+    overflow-y: auto;
+}
+
+.sidebar.active { right: 0; }
+
+.overlay {
+    position: fixed;
+    inset: 0;
+    background: rgba(0,0,0,0.45);
+    z-index: 1000;
+    display: none;
+}
+
+.overlay.active { display: block; }
+
+@media (max-width: 768px) {
+    .desktop-nav { display: none !important; }
+}
+
 </style>
 
 </body>
