@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{% if title %}{{ title }} | Nursing Study Vault{% else %}Nursing Study Vault{% endif %}</title>
+  <meta name="description" content="{% if description %}{{ description }}{% else %}Nursing Study Vault - nursing practical files, care plans, case studies and assignments.{% endif %}">
+  <link rel="stylesheet" href="/assets/style.css">
+</head>
+<body>
+  <header class="site-header">
+    <a href="/" class="site-logo">⚕️ Nursing <span>Study</span> Vault</a>
+    <nav class="site-nav">
+      <a href="/">Home</a>
+      <a href="/nursing-care-plan/">Care Plans</a>
+      <a href="/case-study/">Case Study</a>
+      <a href="/health-talk/">Health Talk</a>
+      <a href="/assignment/">Assignment</a>
+    </nav>
+  </header>
+
+  <main class="site-main">
+    {{ content | safe }}
+  </main>
+
+  <footer class="site-footer">
+    <p>© 2026 Nursing Study Vault. Educational purpose only.</p>
+  </footer>
+</body>
+</html>

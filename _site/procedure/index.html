@@ -1,0 +1,269 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+    <title>Nursing Procedures | Nursing Study Vault</title>
+    <meta name="description" content="Free nursing procedures for ANM, GNM, BSc Nursing students. Download verified practical files, care plans, and study materials.">
+    <link rel="stylesheet" href="/theme.css">
+    <style>
+        /* Category Page Premium Styles */
+        .category-hero {
+            background: linear-gradient(135deg, #0f172a 0%, #1e3a5f 100%);
+            padding: 80px 20px;
+            text-align: center;
+            color: white;
+            margin-bottom: 50px;
+            border-radius: 0 0 40px 40px;
+        }
+        .category-hero h1 {
+            font-size: 3rem;
+            margin-bottom: 20px;
+            animation: fadeInUp 0.6s ease;
+        }
+        .category-hero p {
+            font-size: 1.2rem;
+            max-width: 600px;
+            margin: 0 auto;
+            opacity: 0.9;
+            animation: fadeInUp 0.6s ease 0.1s backwards;
+        }
+        .category-stats {
+            display: flex;
+            justify-content: center;
+            gap: 30px;
+            margin-top: 40px;
+            flex-wrap: wrap;
+            animation: fadeInUp 0.6s ease 0.2s backwards;
+        }
+        .category-stats .stat {
+            background: rgba(255,255,255,0.15);
+            backdrop-filter: blur(10px);
+            padding: 12px 24px;
+            border-radius: 50px;
+            font-weight: 600;
+        }
+        .category-stats .stat span {
+            font-size: 1.5rem;
+            font-weight: 800;
+            margin-right: 5px;
+        }
+        @keyframes fadeInUp {
+            from {
+                opacity: 0;
+                transform: translateY(30px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+        .posts-premium-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
+            gap: 30px;
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        .post-premium-card {
+            background: var(--surface);
+            border-radius: 24px;
+            overflow: hidden;
+            transition: all 0.3s cubic-bezier(0.2, 0.9, 0.4, 1.1);
+            border: 1px solid var(--border);
+            position: relative;
+        }
+        .post-premium-card:hover {
+            transform: translateY(-8px);
+            box-shadow: 0 25px 40px -12px rgba(0,0,0,0.25);
+            border-color: var(--accent);
+        }
+        .card-header {
+            background: linear-gradient(135deg, var(--accent), var(--accent-light));
+            padding: 20px;
+            text-align: center;
+            position: relative;
+        }
+        .card-icon {
+            font-size: 3rem;
+            filter: drop-shadow(0 4px 6px rgba(0,0,0,0.1));
+        }
+        .card-badge {
+            position: absolute;
+            top: 15px;
+            right: 15px;
+            background: rgba(255,255,255,0.95);
+            color: var(--accent);
+            padding: 4px 12px;
+            border-radius: 50px;
+            font-size: 0.7rem;
+            font-weight: 700;
+        }
+        .card-body {
+            padding: 24px;
+        }
+        .post-title {
+            font-size: 1.25rem;
+            margin-bottom: 12px;
+            line-height: 1.4;
+        }
+        .post-title a {
+            color: var(--text-primary);
+            text-decoration: none;
+            transition: color 0.2s;
+        }
+        .post-title a:hover {
+            color: var(--accent);
+        }
+        .post-meta {
+            display: flex;
+            gap: 15px;
+            margin-bottom: 12px;
+            font-size: 0.75rem;
+            color: var(--text-muted);
+        }
+        .post-excerpt {
+            color: var(--text-secondary);
+            line-height: 1.6;
+            margin-bottom: 20px;
+        }
+        .read-more-btn {
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            background: transparent;
+            border: 2px solid var(--accent);
+            color: var(--accent);
+            padding: 8px 20px;
+            border-radius: 50px;
+            font-weight: 600;
+            font-size: 0.85rem;
+            text-decoration: none;
+            transition: all 0.2s;
+        }
+        .read-more-btn:hover {
+            background: var(--accent);
+            color: white;
+            gap: 12px;
+        }
+        .empty-state {
+            text-align: center;
+            padding: 80px 20px;
+        }
+        .empty-state-icon {
+            font-size: 4rem;
+            margin-bottom: 20px;
+        }
+        @media (max-width: 768px) {
+            .category-hero h1 { font-size: 2rem; }
+            .category-hero p { font-size: 1rem; }
+            .posts-premium-grid { grid-template-columns: 1fr; padding: 15px; }
+            .category-stats { gap: 15px; }
+            .category-stats .stat { padding: 8px 16px; font-size: 0.8rem; }
+            .category-stats .stat span { font-size: 1.2rem; }
+        }
+    </style>
+</head>
+<body>
+
+<header class="site-header">
+    <div class="container header-inner">
+        <div class="logo">
+            <h1>Nursing<span style="color: var(--accent);">StudyVault</span></h1>
+            <p>Practical Files for Nursing Students</p>
+        </div>
+        <button id="hamburgerBtn" class="hamburger" style="background: none; border: none; font-size: 1.8rem; cursor: pointer; display: none;">☰</button>
+        <nav class="desktop-nav">
+            <a href="/" class="btn btn-outline">Home</a>
+            <a href="#" class="btn btn-primary">Request Topic</a>
+        </nav>
+    </div>
+</header>
+
+<div id="sidebar" class="sidebar">
+    <button id="closeSidebar" class="close-btn">✕</button>
+    <h3>📚 Categories</h3>
+    <a href="/nursing-care-plan/">Nursing Care Plan</a>
+    <a href="/surgical-care-plan/">Surgical Care Plan</a>
+    <a href="/case-study/">Case Study</a>
+    <a href="/health-talk/">Health Talk</a>
+    <a href="/health-education/">Health Education</a>
+    <a href="/procedure/">Procedure</a>
+    <a href="/assignment/">Assignment</a>
+    <a href="/family-folder/">Family Folder</a>
+</div>
+<div id="overlay" class="overlay"></div>
+
+<main>
+    <div class="category-hero">
+        <h1>🩺 Nursing Procedures</h1>
+        <p>Step-by-step clinical nursing procedures with rationale, equipment list, and post-procedure care.</p>
+        <div class="category-stats">
+            <div class="stat"><span>100%</span> Free</div>
+            <div class="stat"><span>Verified</span> Content</div>
+            <div class="stat"><span>Ready to</span> Use</div>
+        </div>
+    </div>
+
+    <div class="posts-premium-grid" id="postsContainer">
+        
+        <div class="empty-state">
+            <div class="empty-state-icon">📂</div>
+            <h3>No files yet</h3>
+            <p>Check back soon for new practical files.</p>
+            <a href="/" class="btn btn-primary" style="margin-top: 20px;">Browse Categories</a>
+        </div>
+        
+    </div>
+</main>
+
+<footer class="site-footer">
+    <div class="container">
+        <div class="footer-links">
+            <div><h4>📚 Categories</h4><a href="/nursing-care-plan/">Nursing Care Plan</a><a href="/surgical-care-plan/">Surgical Care Plan</a><a href="/case-study/">Case Study</a><a href="/health-talk/">Health Talk</a><a href="/procedure/">Procedure</a></div>
+            <div><h4>📄 Resources</h4><a href="/assignment/">Assignments</a><a href="/family-folder/">Family Folder</a><a href="/nursing-notes/">Nursing Notes</a><a href="/case-presentation/">Case Presentation</a></div>
+            <div><h4>ℹ️ Info</h4><a href="/about.html">About Us</a><a href="/contact.html">Contact</a><a href="/disclaimer.html">Disclaimer</a><a href="/privacy-policy.html">Privacy Policy</a><a href="/terms.html">Terms</a></div>
+            <div><h4>📧 Newsletter</h4><div class="newsletter-form"><input type="email" placeholder="Your email"><button>→</button></div></div>
+        </div>
+        <div class="credit">
+            <p>© 2025 Nursing Study Vault | All Rights Reserved</p>
+            <p>⚕️ Educational Purpose Only</p>
+            <p>❤️ Designed by Nursing Students for Nursing Students</p>
+        </div>
+    </div>
+</footer>
+
+<script>
+    const hamburger = document.getElementById('hamburgerBtn');
+    const sidebar = document.getElementById('sidebar');
+    const overlay = document.getElementById('overlay');
+    const closeBtn = document.getElementById('closeSidebar');
+
+    function openSidebar() { sidebar.classList.add('active'); overlay.classList.add('active'); }
+    function closeSidebar() { sidebar.classList.remove('active'); overlay.classList.remove('active'); }
+
+    if(hamburger) hamburger.addEventListener('click', openSidebar);
+    if(closeBtn) closeBtn.addEventListener('click', closeSidebar);
+    if(overlay) overlay.addEventListener('click', closeSidebar);
+
+    function checkWidth() {
+        if(window.innerWidth <= 768) hamburger.style.display = 'block';
+        else { hamburger.style.display = 'none'; closeSidebar(); }
+    }
+    window.addEventListener('load', checkWidth);
+    window.addEventListener('resize', checkWidth);
+</script>
+
+<style>
+.newsletter-form { display: flex; margin-top: 10px; }
+.newsletter-form input { flex: 1; padding: 8px; border: 1px solid var(--border); border-radius: 4px 0 0 4px; background: var(--bg); }
+.newsletter-form button { padding: 8px 16px; background: var(--accent); color: white; border: none; border-radius: 0 4px 4px 0; cursor: pointer; }
+.footer-links { display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 30px; margin-bottom: 30px; }
+.footer-links a { display: block; margin-bottom: 8px; font-size: 0.85rem; color: var(--text-secondary); text-decoration: none; }
+.footer-links a:hover { color: var(--accent); }
+.credit { text-align: center; padding-top: 20px; border-top: 1px solid var(--border); font-size: 0.8rem; }
+</style>
+
+</body>
+</html>

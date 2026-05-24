@@ -1,0 +1,356 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+    <title>Nursing Study Vault - 100+ Practical Files for Nursing Students</title>
+    <meta name="description" content="100+ free nursing practical files, care plans, case studies, health talks for ANM, GNM, BSc Nursing students. Download ready-to-use verified files.">
+    <meta name="keywords" content="nursing care plans, nursing practical files, ANM practical files, GNM practical files, BSc nursing notes, case studies nursing">
+    <meta name="author" content="Nursing Study Vault">
+    <link rel="stylesheet" href="theme.css">
+    <style>
+        /* Additional homepage styles */
+        .hero {
+            text-align: center;
+            padding: 60px 20px;
+            background: var(--surface);
+            border-bottom: 1px solid var(--border);
+            margin-bottom: 20px;
+        }
+        .hero h1 {
+            font-size: 2.5rem;
+            margin-bottom: 16px;
+        }
+        .hero p {
+            max-width: 600px;
+            margin: 0 auto;
+            color: var(--text-secondary);
+        }
+        .hero-buttons {
+            display: flex;
+            gap: 16px;
+            justify-content: center;
+            margin-top: 30px;
+            flex-wrap: wrap;
+        }
+        .search-section {
+            max-width: 500px;
+            margin: 30px auto;
+            padding: 0 20px;
+        }
+        .search-input {
+            width: 100%;
+            padding: 14px 20px;
+            border: 1px solid var(--border);
+            border-radius: 50px;
+            background: var(--surface);
+            font-size: 1rem;
+        }
+        .categories-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+            gap: 25px;
+            margin: 40px 0;
+        }
+        .category-card {
+            text-align: center;
+            transition: all 0.3s ease;
+            cursor: pointer;
+        }
+        .category-card:hover {
+            transform: translateY(-8px);
+            box-shadow: 0 12px 24px var(--shadow);
+        }
+        .category-icon {
+            font-size: 2.5rem;
+            margin-bottom: 15px;
+        }
+        .badge {
+            display: inline-block;
+            background: var(--accent);
+            color: white;
+            padding: 4px 12px;
+            border-radius: 50px;
+            font-size: 0.7rem;
+            margin-top: 12px;
+        }
+        .why-grid, .faq-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+            gap: 25px;
+            margin: 40px 0;
+        }
+        .why-card, .faq-card {
+            text-align: center;
+            padding: 25px;
+        }
+        .why-icon {
+            font-size: 2rem;
+            margin-bottom: 15px;
+        }
+        .cta-section {
+            text-align: center;
+            padding: 50px 20px;
+            background: var(--surface);
+            border-radius: 16px;
+            margin: 40px 0;
+        }
+        .disclaimer-card {
+            background: var(--surface);
+            border-left: 4px solid var(--accent);
+            padding: 20px;
+            margin: 40px 0;
+            border-radius: 8px;
+        }
+        .footer-links {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+            gap: 30px;
+            margin-bottom: 30px;
+        }
+        .footer-links h4 {
+            margin-bottom: 15px;
+        }
+        .footer-links a {
+            display: block;
+            margin-bottom: 8px;
+            font-size: 0.85rem;
+        }
+        .newsletter-form {
+            display: flex;
+            margin-top: 15px;
+        }
+        .newsletter-form input {
+            flex: 1;
+            padding: 10px;
+            border: 1px solid var(--border);
+            border-radius: 4px 0 0 4px;
+        }
+        .newsletter-form button {
+            padding: 10px 20px;
+            background: var(--accent);
+            color: white;
+            border: none;
+            border-radius: 0 4px 4px 0;
+            cursor: pointer;
+        }
+        .credit {
+            text-align: center;
+            margin-top: 30px;
+            padding-top: 20px;
+            border-top: 1px solid var(--border);
+            font-size: 0.8rem;
+        }
+        @media (max-width: 768px) {
+            .hero h1 { font-size: 1.8rem; }
+            .hero-buttons { flex-direction: column; align-items: center; }
+            .categories-grid { grid-template-columns: 1fr; }
+        }
+    </style>
+</head>
+<body>
+
+<header class="site-header">
+    <div class="container header-inner">
+        <div class="logo">
+            <h1>Nursing<span style="color: var(--accent);">StudyVault</span></h1>
+            <p>Practical Files for Nursing Students</p>
+        </div>
+        <button id="hamburgerBtn" class="hamburger" style="background: none; border: none; font-size: 1.8rem; cursor: pointer; display: none;">☰</button>
+        <nav class="desktop-nav">
+            <a href="#" class="btn btn-outline">All Categories</a>
+            <a href="#" class="btn btn-primary">Request Topic</a>
+        </nav>
+    </div>
+</header>
+
+<!-- Mobile Sidebar -->
+<div id="sidebar" class="sidebar">
+    <button id="closeSidebar" class="close-btn">✕</button>
+    <h3>📚 Categories</h3>
+    <a href="#">Nursing Care Plan</a>
+    <a href="#">Surgical Care Plan</a>
+    <a href="#">Case Study</a>
+    <a href="#">Health Talk</a>
+    <a href="#">Health Education</a>
+    <a href="#">Procedure</a>
+    <a href="#">Assignment</a>
+    <a href="#">Family Folder</a>
+    <a href="#">Nursing Notes</a>
+    <a href="#">Case Presentation</a>
+    <a href="#">Lesson Plan</a>
+    <a href="#">Drug Study</a>
+    <a href="#">Nursing Diagnosis</a>
+    <a href="#">Question Bank</a>
+    <a href="#">Practical Exam Guide</a>
+</div>
+<div id="overlay" class="overlay"></div>
+
+<main>
+    <section class="hero">
+        <div class="container">
+            <h1>Your Complete Nursing <br>Practical Files Hub</h1>
+            <p>Ready-to-use nursing care plans, case studies, health talks, and procedures — verified for ANM, GNM, BSc Nursing students.</p>
+            <div class="hero-buttons">
+                <a href="#" class="btn btn-primary">📚 Browse All Files</a>
+                <a href="#" class="btn btn-outline">📝 Request Topic</a>
+            </div>
+        </div>
+    </section>
+
+    <div class="container">
+        <div class="stat-grid">
+            <div class="stat-item"><span class="stat-number">100+</span><div class="stat-label">Practical Files</div></div>
+            <div class="stat-item"><span class="stat-number">50K+</span><div class="stat-label">Downloads</div></div>
+            <div class="stat-item"><span class="stat-number">4.9/5</span><div class="stat-label">Rating</div></div>
+            <div class="stat-item"><span class="stat-number">100%</span><div class="stat-label">Free</div></div>
+        </div>
+
+        <div class="search-section">
+            <input type="text" id="searchInput" class="search-input" placeholder="🔍 Search nursing practical files...">
+        </div>
+
+        <h2 style="text-align: center; margin-bottom: 10px;">Explore <span style="color: var(--accent);">Categories</span></h2>
+        <p style="text-align: center; color: var(--text-muted); margin-bottom: 30px;">Ready-to-use nursing practical files at your fingertips</p>
+        
+        <div class="categories-grid" id="categoriesGrid">
+            <div class="card category-card" data-name="nursing care plan"><div class="category-icon">📋</div><h3>Nursing Care Plan</h3><p>Complete NANDA care plans with interventions</p><div class="badge">120+ Plans</div></div>
+            <div class="card category-card" data-name="surgical care plan"><div class="category-icon">🏥</div><h3>Surgical Care Plan</h3><p>Pre & post-operative care</p><div class="badge">45+ Plans</div></div>
+            <div class="card category-card" data-name="case study"><div class="category-icon">📖</div><h3>Case Study</h3><p>Detailed case studies with patient history</p><div class="badge">30+ Studies</div></div>
+            <div class="card category-card" data-name="health talk"><div class="category-icon">🗣️</div><h3>Health Talk</h3><p>Community health talk scripts</p><div class="badge">25+ Talks</div></div>
+            <div class="card category-card" data-name="health education"><div class="category-icon">💊</div><h3>Health Education</h3><p>Patient education materials</p><div class="badge">20+ Topics</div></div>
+            <div class="card category-card" data-name="procedure"><div class="category-icon">🩺</div><h3>Procedure</h3><p>Step-by-step nursing procedures</p><div class="badge">15+ Procedures</div></div>
+            <div class="card category-card" data-name="assignment"><div class="category-icon">✍️</div><h3>Assignment</h3><p>Ready-to-submit assignments</p><div class="badge">40+ Files</div></div>
+            <div class="card category-card" data-name="family folder"><div class="category-icon">👨‍👩‍👧‍👦</div><h3>Family Folder</h3><p>CHN family folder formats</p><div class="badge">10+ Formats</div></div>
+            <div class="card category-card" data-name="nursing notes"><div class="category-icon">📒</div><h3>Nursing Notes</h3><p>Study notes & exam preparation</p><div class="badge">50+ Notes</div></div>
+            <div class="card category-card" data-name="case presentation"><div class="category-icon">🎤</div><h3>Case Presentation</h3><p>Clinical presentation format</p><div class="badge">15+ Cases</div></div>
+            <div class="card category-card" data-name="lesson plan"><div class="category-icon">📝</div><h3>Lesson Plan</h3><p>Teaching plan for health education</p><div class="badge">20+ Plans</div></div>
+            <div class="card category-card" data-name="drug study"><div class="category-icon">💊</div><h3>Drug Study</h3><p>Common drugs, dosage, side effects</p><div class="badge">100+ Drugs</div></div>
+            <div class="card category-card" data-name="nursing diagnosis"><div class="category-icon">📋</div><h3>Nursing Diagnosis</h3><p>Complete NANDA list</p><div class="badge">200+ Dx</div></div>
+            <div class="card category-card" data-name="question bank"><div class="category-icon">❓</div><h3>Question Bank</h3><p>Previous papers & practice</p><div class="badge">500+ Qs</div></div>
+            <div class="card category-card" data-name="practical exam guide"><div class="category-icon">🎓</div><h3>Practical Exam Guide</h3><p>Tips, viva, OSCE guide</p><div class="badge">1 Guide</div></div>
+        </div>
+
+        <h2 style="text-align: center;">Why Choose <span style="color: var(--accent);">Us?</span></h2>
+        <div class="why-grid">
+            <div class="card why-card"><div class="why-icon">✅</div><h3>Verified Content</h3><p>All files verified for nursing college practicals</p></div>
+            <div class="card why-card"><div class="why-icon">📋</div><h3>Ready to Use</h3><p>Download and submit directly</p></div>
+            <div class="card why-card"><div class="why-icon">👩‍⚕️</div><h3>Student Friendly</h3><p>Easy to understand format</p></div>
+            <div class="card why-card"><div class="why-icon">⭐</div><h3>Trusted</h3><p>Join 10,000+ successful students</p></div>
+        </div>
+
+        <h2 style="text-align: center;">Frequently Asked <span style="color: var(--accent);">Questions</span></h2>
+        <div class="faq-grid">
+            <div class="card faq-card"><h3>📌 Are these files free?</h3><p>Yes, all practical files are completely free for nursing students.</p></div>
+            <div class="card faq-card"><h3>📌 Can I request a specific care plan?</h3><p>Yes, use our Request Topic page to submit your request.</p></div>
+            <div class="card faq-card"><h3>📌 Are these files verified?</h3><p>Yes, all content is verified for nursing college practicals.</p></div>
+            <div class="card faq-card"><h3>📌 Which courses are covered?</h3><p>ANM, GNM, BSc Nursing, and Post Basic BSc Nursing.</p></div>
+            <div class="card faq-card"><h3>📌 How to download files?</h3><p>Click on any file link to view and download.</p></div>
+            <div class="card faq-card"><h3>📌 How often are files updated?</h3><p>We update files regularly based on latest guidelines.</p></div>
+        </div>
+
+        <div class="cta-section">
+            <h3>📝 Need a Specific Nursing File?</h3>
+            <p>Request a topic and we'll create it for you — free!</p>
+            <a href="#" class="btn btn-primary" style="margin-top: 15px;">Request Topic →</a>
+        </div>
+
+        <div class="disclaimer-card">
+            <strong>⚕️ Medical Disclaimer:</strong> The content on Nursing Study Vault is for educational purposes only. Not a substitute for professional medical advice. 
+            <a href="#" style="color: var(--accent);">Read Full Disclaimer →</a>
+        </div>
+    </div>
+</main>
+
+<footer class="site-footer">
+    <div class="container">
+        <div class="footer-links">
+            <div><h4>📚 Categories</h4><a href="#">Nursing Care Plan</a><a href="#">Surgical Care Plan</a><a href="#">Case Study</a><a href="#">Health Talk</a><a href="#">Procedure</a></div>
+            <div><h4>📄 Resources</h4><a href="#">Assignments</a><a href="#">Family Folder</a><a href="#">Nursing Notes</a><a href="#">Case Presentation</a><a href="#">Question Bank</a></div>
+            <div><h4>ℹ️ Info</h4><a href="#">About Us</a><a href="#">Contact</a><a href="#">Disclaimer</a><a href="#">Privacy Policy</a><a href="#">Terms</a></div>
+            <div><h4>📧 Newsletter</h4><p style="font-size: 0.85rem;">Get notified about new files</p><div class="newsletter-form"><input type="email" placeholder="Your email"><button>→</button></div></div>
+        </div>
+        <div class="credit">
+            <p>© 2025 Nursing Study Vault | All Rights Reserved</p>
+            <p>⚕️ Educational Purpose Only — Not a substitute for medical advice</p>
+            <p style="margin-top: 10px;">❤️ Designed by Nursing Students for Nursing Students</p>
+        </div>
+    </div>
+</footer>
+
+<script>
+    // Search functionality
+    const searchInput = document.getElementById('searchInput');
+    const cards = document.querySelectorAll('.category-card');
+    if(searchInput) {
+        searchInput.addEventListener('keyup', function() {
+            const term = this.value.toLowerCase();
+            cards.forEach(card => {
+                const text = card.textContent.toLowerCase();
+                card.style.display = text.includes(term) ? 'block' : 'none';
+            });
+        });
+    }
+
+    // Hamburger menu
+    const hamburger = document.getElementById('hamburgerBtn');
+    const sidebar = document.getElementById('sidebar');
+    const overlay = document.getElementById('overlay');
+    const closeBtn = document.getElementById('closeSidebar');
+
+    function openSidebar() { sidebar.classList.add('active'); overlay.classList.add('active'); }
+    function closeSidebar() { sidebar.classList.remove('active'); overlay.classList.remove('active'); }
+
+    if(hamburger) hamburger.addEventListener('click', openSidebar);
+    if(closeBtn) closeBtn.addEventListener('click', closeSidebar);
+    if(overlay) overlay.addEventListener('click', closeSidebar);
+
+    function checkWidth() {
+        if(window.innerWidth <= 768) hamburger.style.display = 'block';
+        else { hamburger.style.display = 'none'; closeSidebar(); }
+    }
+    window.addEventListener('load', checkWidth);
+    window.addEventListener('resize', checkWidth);
+</script>
+
+<style>
+.sidebar {
+    position: fixed;
+    top: 0;
+    right: -300px;
+    width: 280px;
+    height: 100%;
+    background: var(--surface);
+    z-index: 1001;
+    padding: 60px 20px;
+    transition: 0.3s;
+    box-shadow: -2px 0 8px var(--shadow);
+}
+.sidebar.active { right: 0; }
+.sidebar a { display: block; padding: 10px 0; color: var(--text-primary); text-decoration: none; }
+.close-btn {
+    position: absolute;
+    top: 15px;
+    right: 15px;
+    background: none;
+    border: none;
+    font-size: 1.5rem;
+    cursor: pointer;
+}
+.overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0,0,0,0.5);
+    z-index: 1000;
+    display: none;
+}
+.overlay.active { display: block; }
+.desktop-nav { display: flex; gap: 15px; }
+@media (max-width: 768px) { .desktop-nav { display: none; } }
+</style>
+
+</body>
+</html>
