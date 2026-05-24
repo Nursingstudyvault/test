@@ -64,6 +64,12 @@
 
 <main>
     {{ content | safe }}
+
+{% if page.url != "/" and page.url != "/admin/" %}
+<div class="download-box">
+  <button onclick="window.print()" class="download-btn">⬇️ Download / Save as PDF</button>
+</div>
+{% endif %}
 </main>
 
 <footer class="site-footer">

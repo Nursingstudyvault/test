@@ -616,3 +616,33 @@ article li {
     max-width: 900px;
   }
 }
+
+/* ===== ARTICLE DOWNLOAD BUTTON ===== */
+.download-box{
+  max-width:900px;
+  margin:25px auto 40px;
+  text-align:center;
+  padding:0 12px;
+}
+.download-btn{
+  background:#1a73e8;
+  color:#fff;
+  border:none;
+  padding:12px 22px;
+  border-radius:999px;
+  font-size:16px;
+  font-weight:700;
+  cursor:pointer;
+  box-shadow:0 6px 18px rgba(26,115,232,.25);
+}
+.download-btn:hover{
+  background:#1557b0;
+}
+@media print{
+  header, footer, .site-header, .site-footer, .sidebar, .overlay, .download-box{
+    display:none!important;
+  }
+  body{
+    background:#fff!important;
+  }
+}
