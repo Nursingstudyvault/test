@@ -146,7 +146,30 @@
             .hero-buttons { flex-direction: column; align-items: center; }
             .categories-grid { grid-template-columns: 1fr; }
         }
-    </style>
+    
+/* FIX HOMEPAGE STATS SECTION */
+.stats-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 20px;
+    max-width: 900px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.stat-card {
+    text-align: center;
+}
+
+@media (max-width: 768px) {
+    .stats-grid {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 22px;
+        padding: 0 20px;
+    }
+}
+
+</style>
 </head>
 <body>
 
@@ -216,10 +239,10 @@
 
     <div class="container">
         <div class="stat-grid">
-            <div class="stat-item"><span class="stat-number">100+</span><div class="stat-label">Practical Files</div></a>
-            <div class="stat-item"><span class="stat-number">50K+</span><div class="stat-label">Downloads</div></a>
-            <div class="stat-item"><span class="stat-number">4.9/5</span><div class="stat-label">Rating</div></a>
-            <div class="stat-item"><span class="stat-number">100%</span><div class="stat-label">Free</div></a>
+            <div class="stat-item"><span class="stat-number">100+</span><div class="stat-label">Practical Files</div></div>
+            <div class="stat-item"><span class="stat-number">50K+</span><div class="stat-label">Downloads</div></div>
+            <div class="stat-item"><span class="stat-number">4.9/5</span><div class="stat-label">Rating</div></div>
+            <div class="stat-item"><span class="stat-number">100%</span><div class="stat-label">Free</div></div>
         </div>
 
         <div class="search-section">
@@ -384,6 +407,29 @@
 .overlay.active { display: block; }
 .desktop-nav { display: flex; gap: 15px; }
 @media (max-width: 768px) { .desktop-nav { display: none; } }
+
+/* FIX HOMEPAGE STATS SECTION */
+.stats-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 20px;
+    max-width: 900px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.stat-card {
+    text-align: center;
+}
+
+@media (max-width: 768px) {
+    .stats-grid {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 22px;
+        padding: 0 20px;
+    }
+}
+
 </style>
 
 </body>
