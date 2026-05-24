@@ -646,3 +646,117 @@ article li {
     background:#fff!important;
   }
 }
+
+/* ===== PDF PRINT FULL CONTENT FIX ===== */
+@media print {
+  @page {
+    size: A4 portrait;
+    margin: 10mm;
+  }
+
+  html, body {
+    width: 100% !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    overflow: visible !important;
+    background: #fff !important;
+  }
+
+  .site-header,
+  .site-footer,
+  .sidebar,
+  .overlay,
+  .desktop-nav,
+  .hamburger,
+  .download-btn,
+  .pdf-download-btn,
+  .print-btn,
+  button,
+  nav {
+    display: none !important;
+  }
+
+  main,
+  .container,
+  .main-content,
+  article {
+    width: 100% !important;
+    max-width: 100% !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    overflow: visible !important;
+    box-shadow: none !important;
+  }
+
+  article * {
+    max-width: 100% !important;
+    box-sizing: border-box !important;
+  }
+
+  article div,
+  article section {
+    overflow: visible !important;
+    max-width: 100% !important;
+  }
+
+  article div[style*="overflow-x:auto"],
+  article div[style*="overflow-x: auto"],
+  article div[style*="-webkit-overflow-scrolling"] {
+    overflow: visible !important;
+    width: 100% !important;
+    max-width: 100% !important;
+    box-shadow: none !important;
+  }
+
+  article table {
+    width: 100% !important;
+    min-width: 0 !important;
+    max-width: 100% !important;
+    table-layout: fixed !important;
+    border-collapse: collapse !important;
+    page-break-inside: auto !important;
+    font-size: 10px !important;
+  }
+
+  article thead {
+    display: table-header-group !important;
+  }
+
+  article tr {
+    page-break-inside: avoid !important;
+    break-inside: avoid !important;
+  }
+
+  article th,
+  article td {
+    white-space: normal !important;
+    word-break: break-word !important;
+    overflow-wrap: anywhere !important;
+    padding: 5px !important;
+    font-size: 10px !important;
+    line-height: 1.35 !important;
+  }
+
+  article h1 {
+    font-size: 22px !important;
+  }
+
+  article h2 {
+    font-size: 18px !important;
+  }
+
+  article h3 {
+    font-size: 15px !important;
+  }
+
+  article p,
+  article li {
+    font-size: 12px !important;
+    line-height: 1.5 !important;
+  }
+
+  article img {
+    max-width: 100% !important;
+    height: auto !important;
+  }
+}
