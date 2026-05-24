@@ -1,5 +1,6 @@
 module.exports = function(eleventyConfig) {
     eleventyConfig.addPassthroughCopy("theme.css");
+    eleventyConfig.addPassthroughCopy("robots.txt");
     eleventyConfig.addPassthroughCopy("admin");
     eleventyConfig.addPassthroughCopy("*.html");
 
