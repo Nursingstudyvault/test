@@ -1,0 +1,161 @@
+backend:
+  name: git-gateway
+  branch: version-2.1
+
+media_folder: "assets/uploads"
+public_folder: "/assets/uploads"
+
+publish_mode: editorial_workflow
+
+collections:
+  - name: "health_education"
+    label: "Health Education"
+    folder: "health-education"
+    create: true
+    slug: "{{slug}}"
+    extension: "md"
+    format: "frontmatter"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Date", name: "date", widget: "datetime" }
+      - { label: "Description", name: "description", widget: "text" }
+      - { label: "Keywords", name: "keywords", widget: "text" }
+      - { label: "Subject", name: "subject", widget: "string", default: "Community Health Nursing Practical" }
+      - { label: "Permalink", name: "permalink", widget: "string", hint: "/health-education/slug.html" }
+      - { label: "Canonical", name: "canonical", widget: "string" }
+      - { label: "Category", name: "category", widget: "select", options: ["Health Education"], default: "Health Education" }
+      - { label: "Hide Related", name: "hideRelated", widget: "boolean", default: true }
+      - { label: "Body HTML", name: "body", widget: "code", default_language: "html", allow_language_selection: false }
+
+  - name: "health_talk"
+    label: "Health Talk"
+    folder: "health-talk"
+    create: true
+    slug: "{{slug}}"
+    extension: "md"
+    format: "frontmatter"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Date", name: "date", widget: "datetime" }
+      - { label: "Description", name: "description", widget: "text" }
+      - { label: "Keywords", name: "keywords", widget: "text" }
+      - { label: "Subject", name: "subject", widget: "string", default: "Community Health Nursing Practical" }
+      - { label: "Permalink", name: "permalink", widget: "string", hint: "/health-talk/slug.html" }
+      - { label: "Canonical", name: "canonical", widget: "string" }
+      - { label: "Category", name: "category", widget: "select", options: ["Health Talk"], default: "Health Talk" }
+      - { label: "Hide Related", name: "hideRelated", widget: "boolean", default: true }
+      - { label: "Body HTML", name: "body", widget: "code", default_language: "html", allow_language_selection: false }
+
+  - name: "assignment"
+    label: "Assignment"
+    folder: "assignment"
+    create: true
+    slug: "{{slug}}"
+    extension: "md"
+    format: "frontmatter"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Date", name: "date", widget: "datetime" }
+      - { label: "Description", name: "description", widget: "text" }
+      - { label: "Keywords", name: "keywords", widget: "text" }
+      - { label: "Subject", name: "subject", widget: "string", default: "Nursing Assignment" }
+      - { label: "Permalink", name: "permalink", widget: "string", hint: "/assignment/slug.html" }
+      - { label: "Canonical", name: "canonical", widget: "string" }
+      - { label: "Category", name: "category", widget: "select", options: ["Assignment"], default: "Assignment" }
+      - { label: "Hide Related", name: "hideRelated", widget: "boolean", default: true }
+      - { label: "Body HTML", name: "body", widget: "code", default_language: "html", allow_language_selection: false }
+
+  - name: "case_study"
+    label: "Case Study"
+    folder: "case-study"
+    create: true
+    slug: "{{slug}}"
+    extension: "md"
+    format: "frontmatter"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Date", name: "date", widget: "datetime" }
+      - { label: "Description", name: "description", widget: "text" }
+      - { label: "Keywords", name: "keywords", widget: "text" }
+      - { label: "Subject", name: "subject", widget: "string", default: "Nursing Case Study" }
+      - { label: "Permalink", name: "permalink", widget: "string", hint: "/case-study/slug.html" }
+      - { label: "Canonical", name: "canonical", widget: "string" }
+      - { label: "Category", name: "category", widget: "select", options: ["Case Study"], default: "Case Study" }
+      - { label: "Hide Related", name: "hideRelated", widget: "boolean", default: true }
+      - { label: "Body HTML", name: "body", widget: "code", default_language: "html", allow_language_selection: false }
+
+  - name: "nursing_care_plan"
+    label: "Nursing Care Plan"
+    folder: "nursing-care-plan"
+    create: true
+    slug: "{{slug}}"
+    extension: "md"
+    format: "frontmatter"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Date", name: "date", widget: "datetime" }
+      - { label: "Description", name: "description", widget: "text" }
+      - { label: "Keywords", name: "keywords", widget: "text" }
+      - { label: "Subject", name: "subject", widget: "string", default: "Nursing Care Plan" }
+      - { label: "Permalink", name: "permalink", widget: "string", hint: "/nursing-care-plan/slug.html" }
+      - { label: "Canonical", name: "canonical", widget: "string" }
+      - { label: "Category", name: "category", widget: "select", options: ["Nursing Care Plan"], default: "Nursing Care Plan" }
+      - { label: "Hide Related", name: "hideRelated", widget: "boolean", default: true }
+      - { label: "Body HTML", name: "body", widget: "code", default_language: "html", allow_language_selection: false }
+
+  - name: "surgical_care_plan"
+    label: "Surgical Care Plan"
+    folder: "surgical-care-plan"
+    create: true
+    slug: "{{slug}}"
+    extension: "md"
+    format: "frontmatter"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Date", name: "date", widget: "datetime" }
+      - { label: "Description", name: "description", widget: "text" }
+      - { label: "Keywords", name: "keywords", widget: "text" }
+      - { label: "Subject", name: "subject", widget: "string", default: "Surgical Nursing Care Plan" }
+      - { label: "Permalink", name: "permalink", widget: "string", hint: "/surgical-care-plan/slug.html" }
+      - { label: "Canonical", name: "canonical", widget: "string" }
+      - { label: "Category", name: "category", widget: "select", options: ["Surgical Care Plan"], default: "Surgical Care Plan" }
+      - { label: "Hide Related", name: "hideRelated", widget: "boolean", default: true }
+      - { label: "Body HTML", name: "body", widget: "code", default_language: "html", allow_language_selection: false }
+
+  - name: "procedure"
+    label: "Procedure"
+    folder: "procedure"
+    create: true
+    slug: "{{slug}}"
+    extension: "md"
+    format: "frontmatter"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Date", name: "date", widget: "datetime" }
+      - { label: "Description", name: "description", widget: "text" }
+      - { label: "Keywords", name: "keywords", widget: "text" }
+      - { label: "Subject", name: "subject", widget: "string", default: "Nursing Procedure" }
+      - { label: "Permalink", name: "permalink", widget: "string", hint: "/procedure/slug.html" }
+      - { label: "Canonical", name: "canonical", widget: "string" }
+      - { label: "Category", name: "category", widget: "select", options: ["Procedure"], default: "Procedure" }
+      - { label: "Hide Related", name: "hideRelated", widget: "boolean", default: true }
+      - { label: "Body HTML", name: "body", widget: "code", default_language: "html", allow_language_selection: false }
+
+  - name: "family_folder"
+    label: "Family Folder"
+    folder: "family-folder"
+    create: true
+    slug: "{{slug}}"
+    extension: "md"
+    format: "frontmatter"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Date", name: "date", widget: "datetime" }
+      - { label: "Description", name: "description", widget: "text" }
+      - { label: "Keywords", name: "keywords", widget: "text" }
+      - { label: "Subject", name: "subject", widget: "string", default: "Community Health Nursing Practical" }
+      - { label: "Permalink", name: "permalink", widget: "string", hint: "/family-folder/slug.html" }
+      - { label: "Canonical", name: "canonical", widget: "string" }
+      - { label: "Category", name: "category", widget: "select", options: ["Family Folder"], default: "Family Folder" }
+      - { label: "Hide Related", name: "hideRelated", widget: "boolean", default: true }
+      - { label: "Body HTML", name: "body", widget: "code", default_language: "html", allow_language_selection: false }

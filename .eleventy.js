@@ -1,5 +1,6 @@
 module.exports = function(eleventyConfig) {
     eleventyConfig.addPassthroughCopy("theme.css");
+    eleventyConfig.addPassthroughCopy("admin");
     eleventyConfig.addPassthroughCopy("*.html");
 
     eleventyConfig.addFilter("readableDate", function(dateObj) {
