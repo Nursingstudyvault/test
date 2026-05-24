@@ -29,3 +29,5 @@ module.exports = function(eleventyConfig) {
 
     return { dir: { input: ".", output: "_site", includes: "_includes" } };
 };
+
+// Request Topic and Thank You pages are already in root as .njk files
